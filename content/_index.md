@@ -26,7 +26,7 @@ menu:
 - [Veranstaltungsort der Kurse, Preise][8]
 - [Personal Training / Einzelstunden][9] jederzeit und örtlich flexibel
 
-[8]: /workshops#veranstaltungsort
+[8]: /workshops#konditionen
 [9]: /workshops#personaltraining
 
 

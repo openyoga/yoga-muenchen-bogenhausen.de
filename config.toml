@@ -14,6 +14,10 @@ metaDataFormat = "yaml"
 [params]
 description = "Yoga in München Bogenhausen"
 
+[permalinks]
+artikel = "/:section/:year/:filename/"
+rezepte = "/:section/:filename/"
+
 [taxonomies]
 stichwort = "stichwörter"
 rezept-typ = "rezept-typen"
