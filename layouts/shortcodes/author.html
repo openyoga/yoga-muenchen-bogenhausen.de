@@ -1,0 +1,3 @@
+{{- $author := index .Params 0 -}}
+{{- $attribute := index .Params 1 -}}
+{{- with (index (index .Site.Data.authors $author) $attribute) }}{{.}}{{ end -}}

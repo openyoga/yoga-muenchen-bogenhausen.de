@@ -1,0 +1,6 @@
+{{ $limit := index .Params 0 | default 5 }}
+<ul class="item-list">
+{{ range first $limit (where .Site.RegularPages "Section" "in" (slice "artikel" "rezepte") ) }}
+{{- block "list-item" . }}{{ partial "list-item.html" . }}{{ end }}
+{{- end -}}
+</ul>

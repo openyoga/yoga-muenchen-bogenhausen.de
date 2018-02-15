@@ -1,0 +1,55 @@
+baseURL = "https://ogobrecht.github.io"
+languageCode = "de"
+title = "Open Yoga MUC"
+
+paginate = 100
+preserveTaxonomyNames = true
+pygmentsCodefences = true
+pygmentsUseClasses = true
+disableKinds = ["RSS"]
+enableRobotsTXT = true
+disableAliases = true
+metaDataFormat = "yaml"
+
+[params]
+description = "Yoga in München Bogenhausen"
+
+[taxonomies]
+stichwort = "stichwörter"
+rezept-typ = "rezept-typen"
+kochstil = "kochstile"
+zutat = "zutaten"
+
+[[menu.main]]
+name = "Artikel"
+weight = 40
+identifier = "artikel"
+url = "/artikel/"
+[[menu.main]]
+name = "Rezepte"
+weight = 50
+identifier = "rezepte"
+url = "/rezepte/"
+
+# add redirects/headers
+[outputs]
+home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
+
+# remove .{ext} from text/netlify
+[mediaTypes."text/netlify"]
+suffix = ""
+delimiter = ""
+
+# add output format for netlify _redirects
+[outputFormats.REDIRECTS]
+mediatype = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
+
+# add output format for netlify _headers
+[outputFormats.HEADERS]
+mediatype = "text/netlify"
+baseName = "_headers"
+isPlainText = true
+notAlternative = true

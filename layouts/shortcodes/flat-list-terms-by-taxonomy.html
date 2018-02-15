@@ -1,0 +1,4 @@
+{{ $taxonomy := index .Params 0 }}
+{{ range $key, $value := (index .Site.Taxonomies $taxonomy).ByCount }}
+<span class="nowrap"><a href="/{{ $taxonomy }}/{{ $value.Name | urlize }}">{{ $value.Name }}</a><sub class="item-meta xs"> {{ $value.Count }}</sub></span>&nbsp;
+{{- end }}

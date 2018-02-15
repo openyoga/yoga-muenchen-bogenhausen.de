@@ -1,0 +1,5 @@
+<ul class="item-list">
+{{ range index (index .Site.Taxonomies (index .Params 0)) (index .Params 1) }}
+{{- block "list-item" .Page }}{{ partial "list-item.html" . }}{{ end }}
+{{- end -}}
+</ul>

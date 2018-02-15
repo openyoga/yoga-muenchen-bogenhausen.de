@@ -1,0 +1,5 @@
+  <li>
+    <span class="item-meta">{{ index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
+    <h2><a class="item-link" href="{{ .URL }}">{{ .Title }}</a></h2>
+    {{ with .Description }}<span class="item-meta">{{ . }}</span>{{ end }}
+  </li>
