@@ -6,23 +6,24 @@ paginate = 100
 preserveTaxonomyNames = true
 pygmentsCodefences = true
 pygmentsUseClasses = true
-disableKinds = ["RSS"]
+# disableKinds = ["RSS"]
 enableRobotsTXT = true
 disableAliases = true
 metaDataFormat = "yaml"
 
 [params]
 description = "Yoga in München Bogenhausen"
+author = ["agobrecht"]
 
 [permalinks]
 artikel = "/:section/:year/:filename/"
 rezepte = "/:section/:filename/"
 
 [taxonomies]
-stichwort = "stichwörter"
-rezept-typ = "rezept-typen"
+schlagwort = "schlagwörter"
+rezeptart = "rezeptarten"
 kochstil = "kochstile"
-zutat = "zutaten"
+hauptzutat = "hauptzutaten"
 
 [[menu.main]]
 name = "Artikel"

@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Title | default .Site.Title | htmlEscape }}</title>
   {{ if .Description }}<meta name="description" content="{{ .Description | htmlEscape | chomp | truncate 160 }}">{{ else }}{{ "<!-- no description available -->" | safeHTML }}{{ end }}
-  <meta name="author" content="{% include author-meta-content author=page.author %}">
+  <meta name="author" content="{{ block "author-meta-content" . }}{{ partial "author-meta-content.html" . }}{{ end }}">
   {{ .Hugo.Generator }}
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relURL }}">
   <link rel="canonical" href="{{ .Permalink }}">

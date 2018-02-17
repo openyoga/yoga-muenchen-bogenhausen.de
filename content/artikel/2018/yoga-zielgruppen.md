@@ -1,11 +1,11 @@
 ---
 title: Für wen ist Yoga geeignet?
 description: Und für wen nicht?
-stichwörter: [Yoga, Hathayoga, Zielgruppen]
+schlagwörter: [Yoga, Hathayoga, Zielgruppen]
 date: 2018-01-01
 ---
 
-![Matte und Meditationskissen](/assets/images/matte-meditationskissen.jpg)
+{{< img src="/assets/images/matte-meditationskissen.jpg" alt="Matte und Meditationskissen" >}}
 
 Die Antwort lautet schlicht: Für jeden, der offen dafür ist. Yoga passt sich Dir und Deinen Bedürfnissen an. Yoga ist  vielseitig - es gibt so viele Yogastile wie es unterschiedliche Menschen gibt. Probiere ruhig verschiedene Angebote und Lehrer aus, um Dein Yoga zu finden. Yoga kann so vieles sein: Fordernde Asanas (Körperübungen), die den ganzen Körper kräftigen und dehnen, meditative und entspannende Positionen, die uns zur Ruhe bringen, Atemübungen, die die Lungenkapazität erweitern, kleine Tricks, die uns das nächste Meeting oder den nächsten Wutausbruch vom Kind gelassener überstehen lassen... Wenn ich stark erkältet bin und mir ganz bestimmt keine körperlichen Anstrengungen zumuten will, gönne ich mir eine Meditation oder eine Tiefenentspannung im Liegen unter einer kuscheligen warmen Wolldecke. Auch das ist Yoga.
 

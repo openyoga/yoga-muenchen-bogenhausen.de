@@ -1,11 +1,12 @@
 ---
 title: Grillpaprika-Salat mit Kichererbsen und Dinkel
 description: Ottmars Lieblingsrezept
-rezept-typen: [Salat]
+rezeptarten: [Salat]
 kochstile: [ayurvedisch]
-zutaten: [Spitzpaprika, Kichererbsen, Dinkel]
+hauptzutaten: [Paprika, Kichererbsen, Dinkel]
 date: 2017-09-16
 ---
+
 Dieses Rezept ist ein tolles Beispiel dafür, dass auch ein Salat ohne Fleisch satt und glücklich machen kann. Man kann ihn gleich essen, dann ist er leicht warm oder auch eine Weile durchziehen lassen.
 
 
@@ -34,3 +35,5 @@ Dieses Rezept ist ein tolles Beispiel dafür, dass auch ein Salat ohne Fleisch s
 Der Pecorino oder Parmesan kann wahlweise direkt an den Salat gegeben und mit untergerührt werden und/oder man dekoriert damit den Salat auf den Tellern.
 
 Das Rezpet reicht für zwei bis drei Personen als Hauptspeise oder für vier bis sechs Personen als Vorspeise. Veganer lassen den Parmesan weg.
+
+Am besten schmeckt der Salat mit roten Spitzparika. Normale gehen natürlich auch - jedes Rezept lädt zum Ausprobieren ein...

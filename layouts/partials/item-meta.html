@@ -1,0 +1,42 @@
+<p class="item-meta">
+{{- $authors := .Page.Params.authors | default $.Site.Params.author }}
+{{- range $authors }}
+  {{- $author := index $.Site.Data.authors . }}
+  {{- if $author.avatar }}
+    <img class="left author circle" src="{{ $author.avatar }}" title="{{ $author.name }}" alt="{{ $author.name }}" />
+  {{- end }}
+{{- end }}
+    Von {{ $len := sub (len $authors) 1 }}
+{{- range $i, $author := $authors }}
+  {{- $author := index $.Site.Data.authors $author }}
+  {{- if $i }}
+    {{- if eq $i $len }} und {{ else }}, {{ end }}
+  {{- end -}}
+  {{- with $author.url }}<a href="{{.}}">{{ end }}{{ $author.name }}{{ if $author.url }}</a>{{ end }}
+{{- end }}<br>
+    Veröffentlicht im <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">{{ index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>, gekennzeichnet mit {{ $.Scratch.Set "i" 0 }}
+{{- $.Scratch.Set "length" 0 }}
+{{- if .Page.Params.schlagwörter }}{{ $.Scratch.Add "length" (len .Page.Params.schlagwörter) }}{{ end }}
+{{- if .Page.Params.rezeptarten }}{{ $.Scratch.Add "length" (len .Page.Params.rezeptarten) }}{{ end }}
+{{- if .Page.Params.kochstile }}{{ $.Scratch.Add "length" (len .Page.Params.kochstile) }}{{ end }}
+{{- if .Page.Params.hauptzutaten }}{{ $.Scratch.Add "length" (len .Page.Params.hauptzutaten) }}{{ end }}
+{{- range .Page.Params.schlagwörter }}
+  {{- $.Scratch.Add "i" 1 }}
+  {{- if ne ($.Scratch.Get "i") 1 }}{{ if ne ($.Scratch.Get "i") ($.Scratch.Get "length") }}, {{ else }} und {{ end }}{{ end }}
+    <a href="/schlagwörter/{{ . | urlize }}">{{ . }}</a>
+{{- end }}
+{{- range .Page.Params.rezeptarten }}
+  {{- $.Scratch.Add "i" 1 }}
+  {{- if ne ($.Scratch.Get "i") 1 }}{{ if ne ($.Scratch.Get "i") ($.Scratch.Get "length") }}, {{ else }} und {{ end }}{{ end }}
+    <a href="/rezeptarten/{{ . | urlize }}">{{ . }}</a>
+{{- end }}
+{{- range .Page.Params.kochstile }}
+  {{- $.Scratch.Add "i" 1 }}
+  {{- if ne ($.Scratch.Get "i") 1 }}{{ if ne ($.Scratch.Get "i") ($.Scratch.Get "length") }}, {{ else }} und {{ end }}{{ end }}
+    <a href="/kochstile/{{ . | urlize }}">{{ . }}</a>
+{{- end }}
+{{- range .Page.Params.hauptzutaten }}
+  {{- $.Scratch.Add "i" 1 }}
+  {{- if ne ($.Scratch.Get "i") 1 }}{{ if ne ($.Scratch.Get "i") ($.Scratch.Get "length") }}, {{ else }} und {{ end }}{{ end }}
+    <a href="/hauptzutaten/{{ . | urlize }}">{{ . }}</a>
+{{- end -}}</p>

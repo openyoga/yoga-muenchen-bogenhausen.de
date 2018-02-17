@@ -1,12 +1,12 @@
 ---
 title: Yoga und Ernährung
 description: Muss ich Vegetarier oder gar Veganer sein, wenn ich Yoga mache?
-stichwörter: [Yoga, Ernährung, Vegetarier, Veganer, Gunas, Gesundheit]
+schlagwörter: [Yoga, Ernährung, Vegetarier, Veganer, Gunas, Gesundheit]
 date: 2017-11-27
 lastmod: 2017-12-10
 ---
 
-![Das DREIECK](/assets/images/dreieck.jpg)
+{{< img src="/assets/images/dreieck.jpg" alt="Das Dreieck" >}}
 
 Nein, natürlich darfst Du essen was Du magst und was Dir gut tut! Denn was wäre das Leben ohne Genuss? Du musst auch nicht so dürr sein wie die Models auf den Titelseiten der Yogamagazine. Sei einfach Du selbst, so wie Du Dich wohlfühlst. Aber es kann schon passieren, dass sich Dein Geschmack und Deine Bedürfnisse verändern, wenn Du viel [Yoga][1] praktizierst. Ich kenne einige Raucher, die damit aufgehört haben, als sie tiefer ins Yoga eingestiegen sind. Nicht nur der Geschmack verändert sich dann, auch die Energie, Dinge anzugehen, die einen schon lange stören und die Disziplin, etwas durchzuhalten. Wahrscheinlich wirst Du auch feinfühliger dafür, was Dir gut tut und was nicht. Aber wenn sich Dein Geschmack nicht verändert, ist es auch okay!
 

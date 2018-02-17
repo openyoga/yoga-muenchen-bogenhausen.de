@@ -33,11 +33,11 @@ Weiterbildungen in Anatomie und Korrekturen, Rückenyoga und Yin Yoga/Faszientra
 
 ## Website Technik
 
-Diese Website hat mein Mann [Ottmar][6] mit [Jekyll][7], einem statischen Site Generator entwickelt. Den Quellcode könnt Ihr [hier bei GitHub anschauen][8].
+Diese Website hat mein Mann [Ottmar][6] mit [Hugo][7], einem statischen Site Generator entwickelt. Den Quellcode könnt Ihr [hier bei GitHub anschauen][8].
 
 [6]: {{< author "ogobrecht" "url" >}}
-[7]: {{< a_external "https://jekyllrb.com" >}}
-[8]: {{< a_external "https://github.com/openyoga/openyoga.github.io" >}}
+[7]: {{< a_external "https://gohugo.io/" >}}
+[8]: {{< a_external "https://github.com/openyoga/yoga-muenchen-bogenhausen.de" >}}
 
 
 ## Kontakt

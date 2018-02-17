@@ -1,12 +1,12 @@
 ---
 title: Was ist Yoga?
 description: Mehr als die Körperübungen
-stichwörter: [Yoga, Hathayoga, Zielgruppen, Wirkung]
+schlagwörter: [Yoga, Hathayoga, Zielgruppen, Wirkung]
 date: 2017-09-17
 lastmod: 2017-12-31
 ---
 
-![Die Taube](/assets/images/taube.jpg)
+{{< img src="/assets/images/taube.jpg" alt="Die Taube" >}}
 
 << Yoga ist das Zur-Ruhe-Bringen der Gedanken im Geist >>,
 erklärt Patanjali im Yoga Sutra, das er ungefähr 600 vor Christus bis 200 nach Christus geschrieben haben muss; genauer lässt sich diese Abhandlung über den menschlichen Geist nicht datieren.

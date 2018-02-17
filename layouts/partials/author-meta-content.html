@@ -1,0 +1,8 @@
+{{- $authors := .Page.Params.authors | default $.Site.Params.author }}
+{{- $len := sub (len $authors) 1 }}
+{{- range $i, $author := $authors }}
+  {{- if (gt $len 0) }}
+    {{- if not $i }}co-authored by {{ else }}{{ if eq $i $len }} und {{ else }}, {{ end }}{{ end }}
+  {{- end }}
+  {{- (index $.Site.Data.authors $author).name | htmlEscape }}
+{{- end }}

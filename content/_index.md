@@ -36,7 +36,7 @@ menu:
 
 {{< list-content-by-section-and-limit "artikel" 3 >}}
 
-Mehr im [Archiv][10], Abo via [RSS][11], entdecken über Stichwörter: {{< flat-list-terms-by-taxonomy "stichwörter" >}}
+Mehr im [Archiv][10], Abo via [RSS][11], entdecken über Schlagwörter: {{< flat-list-terms-by-taxonomy "schlagwörter" >}}
 
 [10]: /artikel/
 [11]: /artikel/feed.xml
@@ -46,7 +46,7 @@ Mehr im [Archiv][10], Abo via [RSS][11], entdecken über Stichwörter: {{< flat-
 
 {{< list-content-by-section-and-limit "rezepte" 1 >}}
 
-Mehr im [Archiv][12], Abo via [RSS][13], entdecken über Rezept-Typen {{< flat-list-terms-by-taxonomy "rezept-typen" >}}, Kochstile {{< flat-list-terms-by-taxonomy "kochstile" >}} oder Zutaten {{< flat-list-terms-by-taxonomy "zutaten" >}}
+Mehr im [Archiv][12], Abo via [RSS][13], entdecken über Rezeptarten {{< flat-list-terms-by-taxonomy "rezeptarten" >}} Kochstile {{< flat-list-terms-by-taxonomy "kochstile" >}} oder Hauptzutaten {{< flat-list-terms-by-taxonomy "hauptzutaten" >}}
 
 [12]: /rezepte/
 [13]: /rezepte/feed.xml

@@ -1,12 +1,19 @@
 {{ define "main" }}
-<section class="index"><header class="item-header"><h1 class="item-title">{{ .Title }}</h1></header><div class="item-content">
+<section class="index">
+  <header class="item-header">
+    <h1 class="item-title">{{ .Title }}</h1>
+  </header>
+  <div class="item-content">
+
+{{ .Content }}
 
 <ul class="item-list">
 {{ range .Paginator.Pages }}
 {{- block "list-item" . }}{{ partial "list-item.html" . }}{{ end }}
-{{- end -}}
+{{- end }}
 </ul>
 {{ template "_internal/pagination.html" . }}
 
-</div></section>
+  </div>
+</section>
 {{ end }}
