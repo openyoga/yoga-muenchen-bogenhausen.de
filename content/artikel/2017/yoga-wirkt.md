@@ -1,7 +1,7 @@
 ---
 title: Yoga wirkt
 description: Ich und Yoga?
-schlagwörter: [Yoga, Hathayoga, Wirkung, Gesundheit]
+schlagwoerter: [Yoga, Hathayoga, Wirkung, Gesundheit]
 publishdate: 2017-12-12
 ---
 

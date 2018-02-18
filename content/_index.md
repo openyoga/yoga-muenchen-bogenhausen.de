@@ -43,7 +43,7 @@ menu:
 
 {{< list-content-by-section-and-limit "artikel" 3 >}}
 
-Mehr im [Archiv][10], Abo via [RSS][11], entdecken über Schlagwörter: {{< flat-list-terms-by-taxonomy "schlagwörter" >}}
+Mehr im [Archiv][10], Abo via [RSS][11], entdecken über Schlagwörter: {{< flat-list-terms-by-taxonomy "schlagwoerter" >}}
 
 [10]: /artikel/
 [11]: /artikel/feed.xml

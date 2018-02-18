@@ -1,7 +1,7 @@
 ---
 title: Was ist Yin Yoga - was sind Faszien?
 description: Nur ein weiterer Trend?
-schlagwörter: [Yoga, Yinyoga, Faszienyoga, Faszientraining, Bindegewebe, Wirkung]
+schlagwoerter: [Yoga, Yinyoga, Faszienyoga, Faszientraining, Bindegewebe, Wirkung]
 publishdate: 2018-02-05
 ---
 

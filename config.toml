@@ -20,7 +20,7 @@ artikel = "/:section/:year/:filename/"
 rezepte = "/:section/:filename/"
 
 [taxonomies]
-schlagwort = "schlagwörter"
+schlagwort = "schlagwoerter"
 rezeptart = "rezeptarten"
 kochstil = "kochstile"
 hauptzutat = "hauptzutaten"

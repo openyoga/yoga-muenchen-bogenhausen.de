@@ -1,7 +1,7 @@
 ---
 title: Für wen ist Yoga geeignet?
 description: Und für wen nicht?
-schlagwörter: [Yoga, Hathayoga, Zielgruppen]
+schlagwoerter: [Yoga, Hathayoga, Zielgruppen]
 publishdate: 2018-01-01
 ---
 
