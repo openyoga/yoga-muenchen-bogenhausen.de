@@ -13,6 +13,6 @@ Die [AGB für die Yogakurse können hier eingesehen werden][2].
 Mehr [über mich und Open Yoga MUC][3]
 
 [0]: {{< a_external "https://www.netlify.com/" >}}
-[1]: /impressum
-[2]: /agb
-[3]: /about
+[1]: /impressum/
+[2]: /agb/
+[3]: /about/

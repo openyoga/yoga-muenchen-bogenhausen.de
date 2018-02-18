@@ -7,10 +7,10 @@ menu:
     weight: 10
 ---
 
-[1]: /kurse#anfaengeryoga
-[2]: /kurse#rueckenyoga
-[3]: /kurse#yinyoga
-[4]: /kurse#sportleryoga
+[1]: /kurse/#anfaengeryoga
+[2]: /kurse/#rueckenyoga
+[3]: /kurse/#yinyoga
+[4]: /kurse/#sportleryoga
 
 
 ## Workshops
@@ -24,17 +24,17 @@ menu:
   - Sonntag, 4. März 19:00 bis 21:00 Uhr
   - Sonntag, 18. März 19:00 bis 21:00 Uhr
 
-[5]: /workshops#anfaengeryogaworkshop
-[6]: /workshops#rueckenyogaworkshop
-[7]: /workshops#yinyogaworkshop
+[5]: /workshops/#anfaengeryogaworkshop
+[6]: /workshops/#rueckenyogaworkshop
+[7]: /workshops/#yinyogaworkshop
 
 
 ## Das Wo und Wie
 - [Veranstaltungsort, Preise][8]
 - [Personal Training / Einzelstunden][9] jederzeit und örtlich flexibel
 
-[8]: /workshops#konditionen
-[9]: /workshops#personaltraining
+[8]: /workshops/#konditionen
+[9]: /workshops/#personaltraining
 
 
 ## Neueste Artikel

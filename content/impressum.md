@@ -23,6 +23,6 @@ Die [Datenschutzerklärung findet sich hier][2].
 Die [AGB für die Yogakurse können hier eingesehen werden][3].  
 Mehr [über mich und Open Yoga MUC][4].
 
-[2]: /datenschutzerklaerung
-[3]: /agb
-[4]: /about
+[2]: /datenschutzerklaerung/
+[3]: /agb/
+[4]: /about/

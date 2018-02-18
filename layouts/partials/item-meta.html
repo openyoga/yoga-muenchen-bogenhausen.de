@@ -24,21 +24,21 @@
 {{- range .Page.Params.schlagwörter }}
   {{- $.Scratch.Add "i" 1 }}
   {{- if ne ($.Scratch.Get "i") 1 }}{{ if ne ($.Scratch.Get "i") ($.Scratch.Get "length") }}, {{ else }} und {{ end }}{{ end }}
-    <a href="/schlagwörter/{{ . | urlize }}">{{ . }}</a>
+    <a href="/schlagwörter/{{ . | urlize }}/">{{ . }}</a>
 {{- end }}
 {{- range .Page.Params.rezeptarten }}
   {{- $.Scratch.Add "i" 1 }}
   {{- if ne ($.Scratch.Get "i") 1 }}{{ if ne ($.Scratch.Get "i") ($.Scratch.Get "length") }}, {{ else }} und {{ end }}{{ end }}
-    <a href="/rezeptarten/{{ . | urlize }}">{{ . }}</a>
+    <a href="/rezeptarten/{{ . | urlize }}/">{{ . }}</a>
 {{- end }}
 {{- range .Page.Params.kochstile }}
   {{- $.Scratch.Add "i" 1 }}
   {{- if ne ($.Scratch.Get "i") 1 }}{{ if ne ($.Scratch.Get "i") ($.Scratch.Get "length") }}, {{ else }} und {{ end }}{{ end }}
-    <a href="/kochstile/{{ . | urlize }}">{{ . }}</a>
+    <a href="/kochstile/{{ . | urlize }}/">{{ . }}</a>
 {{- end }}
 {{- range .Page.Params.hauptzutaten }}
   {{- $.Scratch.Add "i" 1 }}
   {{- if ne ($.Scratch.Get "i") 1 }}{{ if ne ($.Scratch.Get "i") ($.Scratch.Get "length") }}, {{ else }} und {{ end }}{{ end }}
-    <a href="/hauptzutaten/{{ . | urlize }}">{{ . }}</a>
+    <a href="/hauptzutaten/{{ . | urlize }}/">{{ . }}</a>
 {{- end }}
   </p>

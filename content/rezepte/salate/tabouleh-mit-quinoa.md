@@ -6,6 +6,7 @@ kochstile: [arabisch]
 hauptzutaten: [Quinoa, Tomaten]
 publishdate: 2017-09-01
 ---
+
 Wir haben mit dem klassischen Tabouleh herumexperimentiert und ihn mal mit Quinoa statt mit Couscous ausprobiert. Um den Schlemmerfaktor zu erhöhen und aus dem Salat einen Sattmacher zu zaubern, haben wir noch Schafskäse hineingebracht.
 
 ## Zutaten

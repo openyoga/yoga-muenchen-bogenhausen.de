@@ -15,7 +15,7 @@ Zum Glück gab es jemanden, der besser verstand was mit mir los war als ich selb
 ## Kritisch bleiben
 [Hatha Yoga][1] werden ja sehr viele positive Wirkungen zugeschrieben. Ob es gegen Spliss oder eingewachsene Fußnägel hilft wage ich einmal stark zu bezweifeln. Und wer nur möglichst effektiv etwas für Bauch, Beine,  Po tun will, sich mit seinem Innenleben aber nicht näher beschäftigen möchte, dem sei von Yoga dringend abgeraten. Glaubt auch bloß nicht blind alles, was ich hier über die positiven Wirkungen von Yoga aufschreibe. Lasst Euch inspirieren, probiert es aus, beobachtet selbst, ob es Euch irgendwas bringt und wenn ja, was. Und probiert ruhig verschiedene Yogalehrer und Yogastile aus, sie sind so unterschiedlich wie verschiedene Menschen unterschiedliche Bedürnisse haben.
 
-[1]: /artikel/2017/was-ist-yoga#hatha-yoga
+[1]: /artikel/2017/was-ist-yoga/#hatha-yoga
 
 
 ## Positive Wirkungen von Yoga allgemein
