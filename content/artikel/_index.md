@@ -1,5 +1,6 @@
 ---
-title: Artikel-Archiv
+title: Artikel
+description: Archivseite mit einer Liste aller verfügbaren Artikel und deren Schlagwörtern
 ---
 
 {{< img src="/assets/images/rad.jpg" alt="Das Rad" >}}

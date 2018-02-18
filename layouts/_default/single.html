@@ -1,12 +1,16 @@
 {{ define "main" }}
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  <header class="item-header">
-    <h1 class="item-title" itemprop="name headline">{{ .Title }}</h1>
-    {{ with .Page.Description }}<p class="item-subtitle">{{.}}</p>{{ end }}
-    {{ if in (slice "artikel" "rezepte") .Type }}{{ block "item-meta" . }}{{ partial "item-meta.html" . }}{{ end }}{{ end }}
-  </header>
-  <div class="item-content" itemprop="articleBody">
+<header class="item-header">
+  <h1 class="item-title" itemprop="name headline">{{ .Title }}</h1>
+  {{- if in (slice "artikel" "rezepte") .Type }}{{ block "item-meta" . }}{{ partial "item-meta.html" . }}{{ end }}{{ end }}
+</header>
+<div class="item-content" itemprop="articleBody">
 {{ .Content }}
-  </div>
+</div>
+{{- if in (slice "artikel" "rezepte") .Type }}
+<footer class="item-meta">
+  {{ if .Lastmod }}Zuletzt geändert am {{ .Lastmod.Day }}. {{ index $.Site.Data.monate (printf "%d" .Lastmod.Month) }} {{ .Lastmod.Year }} / {{ end }}Du kannst diesen Beitrag via <a href="mailto:{{ $.Site.Data.authors.agobrecht.email }}?subject=Kommentar%20zu%20{{ .URL }}">Email</a> kommentieren
+</footer>
+{{- end }}
 </article>
-{{ end }}
+{{- end }}

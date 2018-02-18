@@ -1,4 +1,5 @@
-<p class="item-meta">
+{{- with .Page.Description }}<p class="item-subtitle">{{.}}</p>{{ end }}
+  <p class="item-meta">
 {{- $authors := .Page.Params.authors | default $.Site.Params.author }}
 {{- range $authors }}
   {{- $author := index $.Site.Data.authors . }}
@@ -14,7 +15,7 @@
   {{- end -}}
   {{- with $author.url }}<a href="{{.}}">{{ end }}{{ $author.name }}{{ if $author.url }}</a>{{ end }}
 {{- end }}<br>
-    Veröffentlicht im <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">{{ index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>, gekennzeichnet mit {{ $.Scratch.Set "i" 0 }}
+    Veröffentlicht am <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">{{ .Date.Day }}. {{ index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>, gekennzeichnet mit {{ $.Scratch.Set "i" 0 }}
 {{- $.Scratch.Set "length" 0 }}
 {{- if .Page.Params.schlagwörter }}{{ $.Scratch.Add "length" (len .Page.Params.schlagwörter) }}{{ end }}
 {{- if .Page.Params.rezeptarten }}{{ $.Scratch.Add "length" (len .Page.Params.rezeptarten) }}{{ end }}
@@ -39,4 +40,5 @@
   {{- $.Scratch.Add "i" 1 }}
   {{- if ne ($.Scratch.Get "i") 1 }}{{ if ne ($.Scratch.Get "i") ($.Scratch.Get "length") }}, {{ else }} und {{ end }}{{ end }}
     <a href="/hauptzutaten/{{ . | urlize }}">{{ . }}</a>
-{{- end -}}</p>
+{{- end }}
+  </p>

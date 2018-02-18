@@ -6,7 +6,7 @@ menu:
     weight: 80
 ---
 
-**openyoga.github.io wird betrieben von:**
+**yoga-münchen-bogenhausen.de wird betrieben von:**
 
 Alexandra Gobrecht  
 Knappertsbuschstraße 19  
@@ -18,7 +18,6 @@ Knappertsbuschstraße 19
 
 Alle Fotos auf dieser Website wurden von Ottmar und Alexandra Gobrecht mit einer herkömmlichen Spiegelreflexkamera aufgenommen. Das Portraitfoto im Abschnitt "Über mich" wurde aufgenommen von:  
 FOTOPARADIES, Freischützstraße 79 in 81927 München.
-
 
 Die [Datenschutzerklärung findet sich hier][2].  
 Die [AGB für die Yogakurse können hier eingesehen werden][3].  

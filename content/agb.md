@@ -1,5 +1,6 @@
 ---
 title: Allgemeine Geschäftsbedingungen Open Yoga MUC
+description: Die AGB, unter deren Bedingungen die Workshops und Kurse stattfinden
 menu:
   legal:
     name: AGB

@@ -1,5 +1,6 @@
 ---
 title: About
+description: Eine Seite mit Hintergrundinformationen zu Open Yoga MUC
 menu:
   main:
     weight: 60

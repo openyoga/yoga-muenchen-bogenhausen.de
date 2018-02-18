@@ -2,13 +2,13 @@
 title: Was ist Yoga?
 description: Mehr als die Körperübungen
 schlagwörter: [Yoga, Hathayoga, Zielgruppen, Wirkung]
-date: 2017-09-17
+publishdate: 2017-09-17
 lastmod: 2017-12-31
 ---
 
 {{< img src="/assets/images/taube.jpg" alt="Die Taube" >}}
 
-<< Yoga ist das Zur-Ruhe-Bringen der Gedanken im Geist >>,
+« Yoga ist das Zur-Ruhe-Bringen der Gedanken im Geist »,
 erklärt Patanjali im Yoga Sutra, das er ungefähr 600 vor Christus bis 200 nach Christus geschrieben haben muss; genauer lässt sich diese Abhandlung über den menschlichen Geist nicht datieren.
 
 Yoga ist eine rund 5000 Jahre alte indische Philosophie und auch ein Übungssystem. Yoga bedeutet Einheit, Harmonie und bezeichnet sowohl den Zustand, in dem Körper, Geist und Seele in Harmonie sind als auch die Praxis, die in diesen Zustand führt.

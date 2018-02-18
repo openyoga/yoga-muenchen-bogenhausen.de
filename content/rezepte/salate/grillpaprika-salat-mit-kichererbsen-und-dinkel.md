@@ -4,7 +4,7 @@ description: Ottmars Lieblingsrezept
 rezeptarten: [Salat]
 kochstile: [ayurvedisch]
 hauptzutaten: [Paprika, Kichererbsen, Dinkel]
-date: 2017-09-16
+publishdate: 2017-09-16
 ---
 
 Dieses Rezept ist ein tolles Beispiel dafür, dass auch ein Salat ohne Fleisch satt und glücklich machen kann. Man kann ihn gleich essen, dann ist er leicht warm oder auch eine Weile durchziehen lassen.

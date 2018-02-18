@@ -1,5 +1,6 @@
 ---
 title: Yoga Kurse in München Bogenhausen
+description: Eine Seite mit den Details zu den verschiedenen Kursangeboten sowie aktuelle Termine
 menu:
   main:
     name: Kurse
@@ -21,7 +22,7 @@ Rückenyoga ist für Anfänger und Yogis mit Vorkenntnissen geeignet. Egal ob Du
 Yin Yoga ist eine wunderbare Art, den ganzen Körper zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Eine sanfte, ruhige Stunde zur Regeneration, für Anfänger und Fortgeschrittene gleichermaßen geeignet.
 
 
-## Yoga für Sportler - mittwochs 20:00-21:30 Uhr {#sportleryoga}
+## Yoga für Sportler - nach Vereinbarung {#sportleryoga}
 Sportler Yoga ist für geübte Yogis und sportliche Yoga-Anfänger geeignet, die sich gerne ein wenig fordern möchten. Nach einer angenehm anstrengenden Stunde gönnen wir uns auch hier, wie in den anderen Kursen, eine Tiefenentspannung zum Ausklang.  
 
 

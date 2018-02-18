@@ -2,7 +2,7 @@
 title: Für wen ist Yoga geeignet?
 description: Und für wen nicht?
 schlagwörter: [Yoga, Hathayoga, Zielgruppen]
-date: 2018-01-01
+publishdate: 2018-01-01
 ---
 
 {{< img src="/assets/images/matte-meditationskissen.jpg" alt="Matte und Meditationskissen" >}}
