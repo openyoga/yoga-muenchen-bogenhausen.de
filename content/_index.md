@@ -13,6 +13,11 @@ menu:
 [4]: /kurse/#sportleryoga
 
 
+```js
+var test = 'a short variable assignemnt';
+```
+
+
 ## Workshops
 - [Rückenyoga][6]
   - Freitag, 2. März 19:30 bis 21:30 Uhr
@@ -30,6 +35,7 @@ menu:
 
 
 ## Das Wo und Wie
+
 - [Veranstaltungsort, Preise][8]
 - [Personal Training / Einzelstunden][9] jederzeit und örtlich flexibel
 
@@ -46,7 +52,7 @@ menu:
 Mehr im [Archiv][10], Abo via [RSS][11], entdecken über Schlagwörter: {{< flat-list-terms-by-taxonomy "schlagwoerter" >}}
 
 [10]: /artikel/
-[11]: /artikel/feed.xml
+[11]: /artikel/index.xml
 
 
 ## Neuestes Rezept
@@ -56,5 +62,5 @@ Mehr im [Archiv][10], Abo via [RSS][11], entdecken über Schlagwörter: {{< flat
 Mehr im [Archiv][12], Abo via [RSS][13], entdecken über Rezeptarten {{< flat-list-terms-by-taxonomy "rezeptarten" >}} Kochstile {{< flat-list-terms-by-taxonomy "kochstile" >}} oder Hauptzutaten {{< flat-list-terms-by-taxonomy "hauptzutaten" >}}
 
 [12]: /rezepte/
-[13]: /rezepte/feed.xml
+[13]: /rezepte/index.xml
 

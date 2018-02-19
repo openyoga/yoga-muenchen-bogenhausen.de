@@ -1,4 +1,4 @@
-baseURL = "https://ogobrecht.github.io"
+baseURL = "https://open-yoga-muc.netlify.com"
 languageCode = "de"
 title = "Open Yoga MUC"
 
@@ -12,8 +12,9 @@ disableAliases = true
 metaDataFormat = "yaml"
 
 [params]
+rssLimit = 100
 description = "Yoga in München Bogenhausen"
-author = ["agobrecht"]
+authors = ["agobrecht"]
 
 [permalinks]
 artikel = "/:section/:year/:filename/"
@@ -25,6 +26,11 @@ rezeptart = "rezeptarten"
 kochstil = "kochstile"
 hauptzutat = "hauptzutaten"
 
+# add netlify redirects/headers
+[outputs]
+home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
+section = ["HTML", "RSS"]
+
 [[menu.main]]
 name = "Artikel"
 weight = 40
@@ -35,10 +41,6 @@ name = "Rezepte"
 weight = 50
 identifier = "rezepte"
 url = "/rezepte/"
-
-# add redirects/headers
-[outputs]
-home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
 
 # remove .{ext} from text/netlify
 [mediaTypes."text/netlify"]

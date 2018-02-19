@@ -5,4 +5,4 @@ description: Archivseite mit einer Liste aller verfügbaren Artikel und deren Sc
 
 {{< img src="/assets/images/rad.jpg" alt="Das Rad" >}}
 
-Schlagwörter: {{< flat-list-terms-by-taxonomy "schlagwörter" >}}
+Schlagwörter: {{< flat-list-terms-by-taxonomy "schlagwoerter" >}}

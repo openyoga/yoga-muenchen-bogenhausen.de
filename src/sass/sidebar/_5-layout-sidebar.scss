@@ -19,7 +19,7 @@
         margin-right: -100px;
         overflow-x: hidden;
         overflow-y: auto;
-        -webkit-overflow-scrolling: touch;
+        -webkit-overflow-scrolling: touch; // sass-lint:disable-line no-vendor-prefixes 
         padding: $spacing-unit ($spacing-unit + 100) $spacing-unit $spacing-unit;
     }
 

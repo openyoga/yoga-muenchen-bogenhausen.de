@@ -9,7 +9,7 @@
 </div>
 {{- if in (slice "artikel" "rezepte") .Type }}
 <footer class="item-meta">
-  {{ if .Lastmod }}Zuletzt geändert am {{ .Lastmod.Day }}. {{ index $.Site.Data.monate (printf "%d" .Lastmod.Month) }} {{ .Lastmod.Year }} / {{ end }}Du kannst diesen Beitrag via <a href="mailto:{{ $.Site.Data.authors.agobrecht.email }}?subject=Kommentar%20zu%20{{ .URL }}">Email</a> kommentieren
+  Zuletzt geändert am {{ .Lastmod.Day }}. {{ index $.Site.Data.monate (printf "%d" .Lastmod.Month) }} {{ .Lastmod.Year }} - Du kannst diesen Beitrag via <a href="mailto:{{ $.Site.Data.authors.agobrecht.email }}?subject=Kommentar%20zu%20{{ .URL }}">Email</a> kommentieren
 </footer>
 {{- end }}
 </article>

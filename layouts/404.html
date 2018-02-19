@@ -5,9 +5,9 @@
   </header>
   <div class="item-content">
 
-<p>Die Seite, nach der Du schaust existiert nicht. Hier die Liste aller Artikel und Rezepte in chronologischer Reihenfolge - für normale Seiten siehe bitte auch die Navigation:</p>
+<p>Die Seite, nach der Du schaust existiert nicht. Hier die Liste der letzten Artikel und Rezepte in chronologischer Reihenfolge - siehe bitte auch die Navigation (<a href="/">zurück zur Startseite</a>):</p>
 
-{{ range (where .Site.RegularPages "Section" "in" (slice "artikel" "rezepte")).GroupByDate "2006" }}
+{{ range first 100 ((where .Site.RegularPages "Section" "in" (slice "artikel" "rezepte")).GroupByDate "2006")}}
 <h2 id="year-{{ .Key }}">{{ .Key }}</h2>
 <ul class="item-list-archive">
   {{- range .Pages }}

@@ -1,0 +1,44 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ .Site.LanguageCode }}">
+<generator uri="https://gohugo.io/" version="{{ .Hugo.Version }}">Hugo</generator>
+<link href="{{ .Permalink }}" rel="self" type="application/atom+xml" />
+<link href="{{ .Permalink | replace ".xml" ".html" }}" rel="alternate" type="text/html" hreflang="{{ .Site.LanguageCode }}" />
+<updated>{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | htmlEscape }}</updated>
+<id>{{ '/' | absURL | htmlEscape }}</id>
+<title type="html">{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} - {{ end }}{{ .Site.Title }}{{ end }}</title>
+<subtitle>{{ .Site.Params.description }}</subtitle>
+{{- $authors := .Site.Params.authors }}
+{{- range $i, $author := $authors }}
+<author>
+  <name>{{ (index $.Site.Data.authors $author).name | htmlEscape }}</name>
+  {{- with (index $.Site.Data.authors $author).email }}<email>{{ . | htmlEscape }}</email>{{ end }}
+  {{- with (index $.Site.Data.authors $author).url }}<uri>{{ . | absURL | htmlEscape }}</uri>{{ end }}
+</author>
+{{- end -}}
+
+{{- range first .Site.Params.rssLimit .Data.Pages }}
+<entry xml:lang="{{ .Params.lang | default .Site.LanguageCode | default "en" }}">
+<title type="html">{{ .Title | htmlEscape }}</title>
+<summary type="html">{{ .Params.description | default .Summary | htmlEscape }}</summary>
+<link href="{{ .Permalink }}" rel="alternate" type="text/html" title="{{ .Title | htmlEscape }}" />
+<published>{{ .PublishDate.Format "Mon, 02 Jan 2006" }}</published>
+<updated>{{ .Lastmod.Format "Mon, 02 Jan 2006" }}</updated>
+<id>{{ .Permalink | htmlEscape }}</id>
+{{- $authors := .Params.authors | default .Site.Params.authors }}
+{{- range $i, $author := $authors }}
+<author>
+  <name>{{ (index $.Site.Data.authors $author).name | htmlEscape }}</name>
+  {{- with (index $.Site.Data.authors $author).email }}<email>{{ . | htmlEscape }}</email>{{ end }}
+  {{- with (index $.Site.Data.authors $author).url }}<uri>{{ . | absURL | htmlEscape }}</uri>{{ end }}
+</author>
+{{- end -}}
+{{- range .Params.schlagwoerter }}
+<category term="{{.}}" label="{{ index $.Site.Data.label . | default . | htmlEscape }}" scheme="{{ "/schlagwoerter/" | absURL | htmlEscape }}" />
+{{- end }}
+<content type="html" xml:base="{{ .Permalink | htmlEscape }}">
+{{ with .Params.description }}{{ printf "<p><em>%s</em></p>" . | htmlEscape }}{{ end }}
+{{ .Content | htmlEscape }}
+</content>
+</entry>
+{{ end }}
+
+</feed>

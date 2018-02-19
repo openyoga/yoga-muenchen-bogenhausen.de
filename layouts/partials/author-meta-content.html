@@ -1,4 +1,4 @@
-{{- $authors := .Page.Params.authors | default $.Site.Params.author }}
+{{- $authors := .Page.Params.authors | default $.Site.Params.authors }}
 {{- $len := sub (len $authors) 1 }}
 {{- range $i, $author := $authors }}
   {{- if (gt $len 0) }}
