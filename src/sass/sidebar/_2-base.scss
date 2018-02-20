@@ -51,8 +51,7 @@ pre,
 ul,
 ol,
 dl,
-figure,
-.figure,
+figure
 table,
 hr,
 %vertical-rhythm {
@@ -86,41 +85,27 @@ img,
 
 // Figures
 
-figure,
-.figure {
+figure {
     border: 0;
 
-    &>img {
+    & > img {
         display: block;
     }
 
     & pre,
-
     & .highlight {
         margin-bottom: 0 !important;
     }
 }
 
 // https://stackoverflow.com/questions/38324326/sass-multiplication-with-units
-figcaption,
-.figcaption,
-.caption {
+figcaption {
     font-style: italic;
     font-size: $small-font-size;
     color: $grey-color;
     line-height: $small-line-height;
     margin-top: 3px;
     margin-bottom: ($large-line-height - $small-line-height) * $base-font-size / 2 + $spacing-unit / 2;
-}
-
-// Workaround because Jekyll currently not delivers figure & figcaption for images and code blocks.
-// We set a negative top margin here to get closer to the previous element.
-// Use it so in a regular paragraph (separated by a blank line):
-// {:.figcaption}
-// *Code example: JavaScript and D3.js loops*
-.figcaption,
-.caption {
-    margin-top: -$spacing-unit / 3;
 }
 
 
@@ -189,7 +174,6 @@ blockquote {
 pre,
 code {
     font-size: $small-font-size;
-    // background-color: $grey-color-light;
     border-radius: $base-border-radius;
 }
 
@@ -202,7 +186,7 @@ pre {
     overflow-x: auto;
     box-shadow: $box-shadow-img-pre;
 
-    >code {
+    > code {
         border: 0;
         padding-right: 0;
         padding-left: 0;

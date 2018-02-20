@@ -13,11 +13,6 @@ menu:
 [4]: /kurse/#sportleryoga
 
 
-```js
-var test = 'a short variable assignemnt';
-```
-
-
 ## Workshops
 - [Rückenyoga][6]
   - Freitag, 2. März 19:30 bis 21:30 Uhr
