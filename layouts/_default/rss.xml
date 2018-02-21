@@ -13,7 +13,7 @@
 <link href="{{ .Permalink }}index.xml" rel="self" type="application/atom+xml" />
 <link href="{{ .Permalink }}" rel="alternate" type="text/html" hreflang="{{ .Site.LanguageCode }}" />
 <generator uri="https://gohugo.io/" version="{{ .Hugo.Version }}">Hugo</generator>
-<updated>{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</updated>
+<updated>{{ .Lastmod.Format "2006-01-02T15:04:05" }}+01:00</updated>
 
 {{ range first .Site.Params.rssLimit (where .Data.Pages "Section" "in" (slice "artikel" "rezepte") ) }}
 <entry xml:lang="{{ .Params.lang | default .Site.LanguageCode | default "en" }}">
@@ -41,8 +41,8 @@
 {{- range .Params.hauptzutaten }}
 <category term="{{.}}" label="{{ index $.Site.Data.label . | default . | htmlEscape }}" scheme="{{ "/hauptzutaten/" | absURL | htmlEscape }}" />
 {{- end }}
-<published>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</published>
-<updated>{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</updated>
+<published>{{ .PublishDate.Format "2006-01-02T15:04:05" }}+01:00</published>
+<updated>{{ .Lastmod.Format "2006-01-02T15:04:05" }}+01:00</updated>
 <content type="html" xml:base="{{ .Permalink }}">
 {{ with .Params.description }}{{ printf "<p><em>%s</em></p>" . | htmlEscape }}{{ end }}
 {{ .Content | htmlEscape }}
