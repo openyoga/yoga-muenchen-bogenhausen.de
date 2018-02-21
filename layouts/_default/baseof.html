@@ -11,7 +11,9 @@
   {{ .Hugo.Generator }}
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relURL }}">
   <link rel="canonical" href="{{ .Permalink }}">
-  <link rel="alternate" type="application/atom+xml" title="{{ .Site.Title | htmlEscape }}" href="{{ .RSSLink }}">
+  <link rel="alternate" type="application/atom+xml" title="{{ .Site.Title | htmlEscape }} - Alle Inhalte" href="{{ .Site.BaseURL }}/index.xml">
+  <link rel="alternate" type="application/atom+xml" title="{{ .Site.Title | htmlEscape }} - Artikel" href="{{ .Site.BaseURL }}/artikel/index.xml">
+  <link rel="alternate" type="application/atom+xml" title="{{ .Site.Title | htmlEscape }} - Rezepte" href="{{ .Site.BaseURL }}/rezepte/index.xml">
   {{ `<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->` | safeHTML }}
 </head>
 

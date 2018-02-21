@@ -1,5 +1,5 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ .Site.LanguageCode }}">
-<title type="html">{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ with .Title }} - {{.}}{{ end }}{{ end }}</title>
+<title type="html">{{ .Site.Title }}{{ if eq .URL "/" }} - Alle Inhalte{{ else }}{{ with .Title }} - {{.}}{{ end }}{{ end }}</title>
 <subtitle>{{ .Site.Params.description }}</subtitle>
 {{- $authors := .Site.Params.authors }}
 {{- range $i, $author := $authors }}
@@ -13,9 +13,9 @@
 <link href="{{ .Permalink }}index.xml" rel="self" type="application/atom+xml" />
 <link href="{{ .Permalink }}" rel="alternate" type="text/html" hreflang="{{ .Site.LanguageCode }}" />
 <generator uri="https://gohugo.io/" version="{{ .Hugo.Version }}">Hugo</generator>
-<updated>{{ .Lastmod.Format "Mon, 02 Jan 2006" | htmlEscape }}</updated>
+<updated>{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</updated>
 
-{{ range first .Site.Params.rssLimit .Data.Pages }}
+{{ range first .Site.Params.rssLimit (where .Data.Pages "Section" "in" (slice "artikel" "rezepte") ) }}
 <entry xml:lang="{{ .Params.lang | default .Site.LanguageCode | default "en" }}">
 <id>{{ .Permalink | htmlEscape }}</id>
 <link href="{{ .Permalink }}" rel="alternate" type="text/html" title="{{ .Title | htmlEscape }}" />
@@ -41,8 +41,8 @@
 {{- range .Params.hauptzutaten }}
 <category term="{{.}}" label="{{ index $.Site.Data.label . | default . | htmlEscape }}" scheme="{{ "/hauptzutaten/" | absURL | htmlEscape }}" />
 {{- end }}
-<published>{{ .PublishDate.Format "Mon, 02 Jan 2006" }}</published>
-<updated>{{ .Lastmod.Format "Mon, 02 Jan 2006" }}</updated>
+<published>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</published>
+<updated>{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</updated>
 <content type="html" xml:base="{{ .Permalink }}">
 {{ with .Params.description }}{{ printf "<p><em>%s</em></p>" . | htmlEscape }}{{ end }}
 {{ .Content | htmlEscape }}

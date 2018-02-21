@@ -3,7 +3,6 @@
 }
 
 // Reset some basic elements
-
 body,
 h1,
 h2,
@@ -13,19 +12,17 @@ h5,
 h6,
 p,
 blockquote,
+figure,
 pre,
-hr,
+ul,
+ol,
 dl,
 dd,
-ol,
-ul,
-figure {
+hr {
     margin: 0;
     padding: 0;
 }
 
-
-// Basic styling
 
 body {
     font: $base-font-weight #{$base-font-size} / #{$base-line-height} $base-font-family;
@@ -37,8 +34,7 @@ body {
 }
 
 
-// Set `margin-bottom` to maintain vertical rhythm
-
+// Maintain vertical rhythm
 h1,
 h2,
 h3,
@@ -47,19 +43,17 @@ h5,
 h6,
 p,
 blockquote,
+figure,
 pre,
 ul,
 ol,
 dl,
-figure
-table,
 hr,
+table,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 }
 
-
-// Headings
 
 h1,
 h2,
@@ -71,10 +65,7 @@ h6 {
 }
 
 
-// Images
-
-img,
-.image {
+img {
     max-width: 100%;
     vertical-align: middle;
     border: 0;
@@ -83,18 +74,15 @@ img,
 }
 
 
-// Figures
-
 figure {
     border: 0;
 
-    & > img {
+    & img {
         display: block;
     }
 
-    & pre,
-    & .highlight {
-        margin-bottom: 0 !important;
+    & pre {
+        margin-bottom: 0;
     }
 }
 
@@ -104,12 +92,8 @@ figcaption {
     font-size: $small-font-size;
     color: $grey-color;
     line-height: $small-line-height;
-    margin-top: 3px;
-    margin-bottom: ($large-line-height - $small-line-height) * $base-font-size / 2 + $spacing-unit / 2;
 }
 
-
-// Lists
 
 ul,
 ol {
@@ -133,8 +117,6 @@ dd {
 }
 
 
-// Links
-
 a {
     color: $brand-color;
     text-decoration: $link-text-decoration;
@@ -154,8 +136,6 @@ a {
 }
 
 
-// Blockquotes
-
 blockquote {
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
@@ -168,8 +148,6 @@ blockquote {
     }
 }
 
-
-// Code formatting
 
 pre,
 code {
@@ -194,7 +172,6 @@ pre {
 }
 
 // Mark text as keyboard key: `SHIFT`{:.keyboard} + `CTRL`{:.keyboard}
-
 .keyboard {
     background-color: #eee;
     border-radius: 3px;
@@ -210,8 +187,6 @@ pre {
 }
 
 
-// Misc
-
 hr {
     display: block;
     border-top: 0;
@@ -220,12 +195,11 @@ hr {
     border-bottom: 4px solid $grey-color-light;
 }
 
+
 p {
     line-height: $large-line-height;
 }
 
-
-// Tables
 
 table {
     width: 100%;
