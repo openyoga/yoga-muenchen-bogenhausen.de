@@ -9,6 +9,8 @@ publishdate: 2018-02-05
 
 Faszien gibt es schon mindestens so lange, wie es den menschlichen Körper gibt, aber warum wird jetzt so ein Hype darum gemacht? Faszien, das ist das Bindegewebe. Anatomen schnitten es früher weg, um an die wirklich interessanten Dinge heranzukommen (so dachten sie damals): Die Muskeln und Knochen. Erst in letzter Zeit entdeckt man, dass das Bindegewebe nicht nur Füllfunktionen hat und erforscht seine Eigenschaften und Aufgaben näher.
 
+<!--more-->
+
 
 ## Was sind Faszien?
 

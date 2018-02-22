@@ -9,6 +9,9 @@ publishdate: 2018-01-01
 
 Die Antwort lautet schlicht: Für jeden, der offen dafür ist. Yoga passt sich Dir und Deinen Bedürfnissen an. Yoga ist  vielseitig - es gibt so viele Yogastile wie es unterschiedliche Menschen gibt. Probiere ruhig verschiedene Angebote und Lehrer aus, um Dein Yoga zu finden. Yoga kann so vieles sein: Fordernde Asanas (Körperübungen), die den ganzen Körper kräftigen und dehnen, meditative und entspannende Positionen, die uns zur Ruhe bringen, Atemübungen, die die Lungenkapazität erweitern, kleine Tricks, die uns das nächste Meeting oder den nächsten Wutausbruch vom Kind gelassener überstehen lassen... Wenn ich stark erkältet bin und mir ganz bestimmt keine körperlichen Anstrengungen zumuten will, gönne ich mir eine Meditation oder eine Tiefenentspannung im Liegen unter einer kuscheligen warmen Wolldecke. Auch das ist Yoga.
 
+<!--more-->
+
+
 > Das ist ja das Großartige am Yoga: Es kann das Leben von jedem Menschen bereichern, eine neue Tiefe geben, eine neue Dimension eröffen.\\
 > [Sukadev Bretz, "Yoga für jedes Alter" im Yoga Vidya Journal im Herbst 2017][1]
 

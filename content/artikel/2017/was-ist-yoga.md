@@ -13,6 +13,8 @@ erklärt Patanjali im Yoga Sutra, das er ungefähr 600 vor Christus bis 200 nach
 
 Yoga ist eine rund 5000 Jahre alte indische Philosophie und auch ein Übungssystem. Yoga bedeutet Einheit, Harmonie und bezeichnet sowohl den Zustand, in dem Körper, Geist und Seele in Harmonie sind als auch die Praxis, die in diesen Zustand führt.
 
+<!--more-->
+
 
 ## Hatha Yoga
 
