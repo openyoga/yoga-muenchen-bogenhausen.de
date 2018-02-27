@@ -30,16 +30,16 @@
 </author>
 {{- end -}}
 {{- range .Params.schlagwoerter }}
-<category term="{{.}}" label="{{ index $.Site.Data.label . | default . | htmlEscape }}" scheme="{{ "/schlagwoerter/" | absURL | htmlEscape }}" />
+<category term="{{.|urlize}}" label="{{ index $.Site.Data.labels . | default . | htmlEscape }}" scheme="{{ "/schlagwoerter/" | absURL | htmlEscape }}" />
 {{- end }}
 {{- range .Params.rezeptarten }}
-<category term="{{.}}" label="{{ index $.Site.Data.label . | default . | htmlEscape }}" scheme="{{ "/rezeptarten/" | absURL | htmlEscape }}" />
+<category term="{{.|urlize}}" label="{{ index $.Site.Data.labels . | default . | htmlEscape }}" scheme="{{ "/rezeptarten/" | absURL | htmlEscape }}" />
 {{- end }}
 {{- range .Params.kochstile }}
-<category term="{{.}}" label="{{ index $.Site.Data.label . | default . | htmlEscape }}" scheme="{{ "/kochstile/" | absURL | htmlEscape }}" />
+<category term="{{.|urlize}}" label="{{ index $.Site.Data.labels . | default . | htmlEscape }}" scheme="{{ "/kochstile/" | absURL | htmlEscape }}" />
 {{- end }}
 {{- range .Params.hauptzutaten }}
-<category term="{{.}}" label="{{ index $.Site.Data.label . | default . | htmlEscape }}" scheme="{{ "/hauptzutaten/" | absURL | htmlEscape }}" />
+<category term="{{.|urlize}}" label="{{ index $.Site.Data.labels . | default . | htmlEscape }}" scheme="{{ "/hauptzutaten/" | absURL | htmlEscape }}" />
 {{- end }}
 <published>{{ .PublishDate.Format "2006-01-02T15:04:05" }}+01:00</published>
 <updated>{{ .Lastmod.Format "2006-01-02T15:04:05" }}+01:00</updated>

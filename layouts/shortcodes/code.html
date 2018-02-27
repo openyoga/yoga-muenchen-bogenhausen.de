@@ -1,5 +1,5 @@
 <figure>
-  {{ highlight (trim .Inner "\n") (.Get "language") (.Get "options") }}
+  {{ highlight (trim .Inner "\n") (.Get 0) (.Get "options") }}
   {{- if or (.Get "caption") (.Get "attr") }}
   <figcaption>
       {{ .Get "caption" }} {{ with .Get "attrlink" }}<a href="{{.}}">{{ end }}{{ .Get "attr" }}{{ if .Get "attrlink" }}</a>{{ end -}}

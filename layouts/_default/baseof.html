@@ -5,11 +5,11 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ .Title | default .Site.Title | htmlEscape }}</title>
+  <title>{{ index $.Site.Data.labels .Title | default .Title | default .Site.Title | htmlEscape }}</title>
   {{ if .Description }}<meta name="description" content="{{ .Description | htmlEscape | chomp | truncate 160 }}">{{ else }}{{ "<!-- no description available -->" | safeHTML }}{{ end }}
   <meta name="author" content="{{ block "author-meta-content" . }}{{ partial "author-meta-content.html" . }}{{ end }}">
   {{ .Hugo.Generator }}
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "/assets/css/main.min.css" | relURL }}">
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="alternate" type="application/atom+xml" title="{{ .Site.Title | htmlEscape }} - Alle Inhalte" href="{{ .Site.BaseURL }}/index.xml">
   <link rel="alternate" type="application/atom+xml" title="{{ .Site.Title | htmlEscape }} - Artikel" href="{{ .Site.BaseURL }}/artikel/index.xml">
@@ -55,8 +55,6 @@
           <li><a{{ if $currentPage.IsMenuCurrent "legal" . }} class="active"{{ end }} href="{{ .URL }}">{{ .Name }}</a></li>
           {{- end }}
         </ul>
-        <span class="meta">Powered by </span><a class="meta" href="https://gohugo.io" target="_blank">Hugo</a>
-        <span class="meta"> & </span><a class="meta" href="https://www.netlify.com" target="_blank">Netlify</a>
       </nav>
     </div>
   </div>

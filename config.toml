@@ -1,4 +1,4 @@
-baseURL = "https://open-yoga-muc.netlify.com"
+baseURL = "https://yoga-muenchen-bogenhausen.de"
 languageCode = "de"
 title = "Open Yoga MUC"
 
@@ -28,7 +28,7 @@ hauptzutat = "hauptzutaten"
 
 # add netlify redirects/headers
 [outputs]
-home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
+home = ["HTML", "RSS"]
 section = ["HTML", "RSS"]
 
 [[menu.main]]
@@ -41,22 +41,3 @@ name = "Rezepte"
 weight = 50
 identifier = "rezepte"
 url = "/rezepte/"
-
-# remove .{ext} from text/netlify
-[mediaTypes."text/netlify"]
-suffix = ""
-delimiter = ""
-
-# add output format for netlify _redirects
-[outputFormats.REDIRECTS]
-mediatype = "text/netlify"
-baseName = "_redirects"
-isPlainText = true
-notAlternative = true
-
-# add output format for netlify _headers
-[outputFormats.HEADERS]
-mediatype = "text/netlify"
-baseName = "_headers"
-isPlainText = true
-notAlternative = true

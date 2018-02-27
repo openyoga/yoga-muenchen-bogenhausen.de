@@ -1,6 +1,6 @@
 {{- $taxonomy := index .Params 0 }}
 {{- if index .Params 1 }}<p>{{ end }}
 {{- range $i, $term := (index .Site.Taxonomies $taxonomy).ByCount }}
-<span class="nowrap"><a href="/{{ $taxonomy }}/{{ $term.Name | urlize }}/">{{ index $.Site.Data.label $term.Name | default $term.Name }}</a><sub class="item-meta xs"> {{ $term.Count }}</sub></span>&nbsp;
+<span class="nowrap"><a href="/{{ $taxonomy }}/{{ $term.Name | urlize }}/">{{ index $.Site.Data.labels $term.Name | default $term.Name }}</a><sub class="item-meta xs"> {{ $term.Count }}</sub></span>&nbsp;
 {{- end }}
 {{ if index .Params 1 }}</p>{{ end }}

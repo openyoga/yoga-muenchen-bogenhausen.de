@@ -12,7 +12,6 @@ menu:
 [3]: /kurse/#yinyoga
 [4]: /kurse/#sportleryoga
 
-
 ## Workshops
 - [Rückenyoga][6]
   - Freitag, 2. März 19:30 bis 21:30 Uhr
@@ -58,4 +57,3 @@ Mehr im [Archiv][12], Abo via [RSS][13], entdecken über Rezeptarten {{< flat-li
 
 [12]: /rezepte/
 [13]: /rezepte/index.xml
-

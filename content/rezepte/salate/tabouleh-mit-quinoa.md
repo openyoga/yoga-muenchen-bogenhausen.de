@@ -33,7 +33,7 @@ Schmeckt besonders gut lauwarm, wenn der Quinoa seine Restwärme vom Garen an di
 
 Reicht für zwei bis drei Personen als Hauptspeise oder für vier bis sechs Personen als Beilagen. Veganer lassen den Schafskäse einfach weg.
 
-Tabouleh bei [WikiPedia][1]
+Tabouleh bei [Wikipedia][1]
 
 [1]: {{< a_external "https://de.wikipedia.org/wiki/Taboul%C3%A9" >}}
 

@@ -1,8 +1,11 @@
+/* file base.scss */
+
 * {
     box-sizing: border-box;
 }
 
-// Reset some basic elements
+/* Reset some basic elements */
+
 body,
 h1,
 h2,
@@ -34,7 +37,8 @@ body {
 }
 
 
-// Maintain vertical rhythm
+/* Maintain vertical rhythm */
+
 h1,
 h2,
 h3,
@@ -171,7 +175,7 @@ pre {
     }
 }
 
-// Mark text as keyboard key: `SHIFT`{:.keyboard} + `CTRL`{:.keyboard}
+/* Mark text as keyboard key: `SHIFT`{:.keyboard} + `CTRL`{:.keyboard} */
 .keyboard {
     background-color: #eee;
     border-radius: 3px;

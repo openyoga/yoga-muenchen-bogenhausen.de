@@ -9,10 +9,10 @@
 </div>
 {{- if in (slice "artikel" "rezepte") .Type }}
 <footer>
-  <p class="item-meta">Zuletzt geändert am {{ .Lastmod.Day }}. {{ index $.Site.Data.monate (printf "%d" .Lastmod.Month) }} {{ .Lastmod.Year }} - Du kannst diesen Beitrag via <a href="mailto:{{ $.Site.Data.authors.agobrecht.email }}?subject=Kommentar%20zu%20{{ .URL }}">Email</a> kommentieren.<br>
-  {{ with .PrevInSection }}&#x2190; <a class="previous" href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+  <p class="item-meta">Zuletzt geändert am {{ .Lastmod.Day }}. {{ index $.Site.Data.months (printf "%d" .Lastmod.Month) }} {{ .Lastmod.Year }} - Du kannst diesen Beitrag via <a href="mailto:{{ $.Site.Data.authors.agobrecht.email }}?subject=Kommentar%20zu%20{{ .URL }}">Email</a> kommentieren.<br>
+  {{ with .PrevInSection }}&#x2190; <a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
   {{- if and .PrevInSection .NextInSection }}&nbsp;&nbsp;|&nbsp;&nbsp;{{ end -}}
-  {{ with .NextInSection }}<a class="next" href="{{ .RelPermalink }}">{{ .Title }}</a> &#x2192;{{ end }}
+  {{ with .NextInSection }}<a href="{{ .RelPermalink }}">{{ .Title }}</a> &#x2192;{{ end }}
   </p>
 </footer>
 </footer>

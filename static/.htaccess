@@ -1,0 +1,6 @@
+AddCharset UTF-8 .html .css .js .xml
+ErrorDocument 404 /404.html
+
+# https://www.strato.de/faq/article/654/So-verbessern-Sie-die-Performance-Ihrer-Webseite-ueber-Einstellungen-in-der-htaccess-Datei.html
+#SetOutputFilter DEFLATE
+#AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript
