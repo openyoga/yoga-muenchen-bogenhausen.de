@@ -1,6 +1,12 @@
 module.exports = function (grunt) {
     "use strict";
     grunt.initConfig({
+        sasslint: {
+            options: {
+                configFile: ".sass-lint.yml",
+            },
+            target: ["src/sass/**/*.scss"]
+        },
         sass: {
             options: {
                 sourceMap: true
@@ -18,20 +24,15 @@ module.exports = function (grunt) {
                 }
             }
         },
-        watch: { // watch task for general work
-            sass: {
-                files: ["src/sass/**/*.scss"],
-                tasks: ["sass"]
-            },
-            styles: {
-                files: ["static/assets/css/main.css"],
-                tasks: ["cssmin"]
-            }
+        watch: {
+            files: ["src/sass/**/*.scss", ".sass-lint.yml"],
+            tasks: ["default"]
         }
     });
     grunt.loadNpmTasks("grunt-contrib-watch");
     grunt.loadNpmTasks("grunt-notify");
+    grunt.loadNpmTasks("grunt-sass-lint");
     grunt.loadNpmTasks("grunt-sass");
     grunt.loadNpmTasks("grunt-contrib-cssmin");
-    grunt.registerTask("default", ["sass", "cssmin"]);
+    grunt.registerTask("default", ["sasslint", "sass", "cssmin"]);
 };
