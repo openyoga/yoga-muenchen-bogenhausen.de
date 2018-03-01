@@ -6,7 +6,6 @@ paginate = 100
 preserveTaxonomyNames = true
 pygmentsCodefences = true
 pygmentsUseClasses = true
-# disableKinds = ["RSS"]
 enableRobotsTXT = true
 disableAliases = true
 metaDataFormat = "yaml"
@@ -26,7 +25,6 @@ rezeptart = "rezeptarten"
 kochstil = "kochstile"
 hauptzutat = "hauptzutaten"
 
-# add netlify redirects/headers
 [outputs]
 home = ["HTML", "RSS"]
 section = ["HTML", "RSS"]

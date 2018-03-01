@@ -5,7 +5,7 @@ menu:
     weight: 80
 ---
 
-**yoga-münchen-bogenhausen.de wird betrieben von:**
+**yoga-muenchen-bogenhausen.de wird betrieben von:**
 
 Alexandra Gobrecht  
 Knappertsbuschstraße 19  
