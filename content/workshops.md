@@ -17,7 +17,6 @@ Ihr könnt nicht regelmäßig an einem Kurs teilnehmen, wollt aber dennoch Yoga 
 
 Du hast noch nie Yoga gemacht oder nur einmal irgendwo ausprobiert? Dann ist dieser Workshop genau richtig für Dich. Nach einer kurzen Einführung in Yoga probieren wir unsere ersten Yogaübungen aus und spüren nach, wie diese integrale Praxis aus Muskelkräftigung, Dehnung und Entspannung wirkt. Nach dem Workshop kannst Du besser einschätzen, ob Yoga etwas für Dich ist.
 
-- **Sonntag, 4. März 16:30 bis 18:30 Uhr**
 - **Sonntag, 18. März 16:30 bis 18:30 Uhr**
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
@@ -26,7 +25,6 @@ Du hast noch nie Yoga gemacht oder nur einmal irgendwo ausprobiert? Dann ist die
 
 In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Er ist für Anfänger und Fortgeschrittene geeignet.  
 
-- **Freitag, 2. März 19:30 bis 21:30 Uhr**
 - **Freitag, 16. März 19:30 bis 21:30 Uhr**
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 

@@ -2,7 +2,6 @@
 title: Grillpaprika-Salat mit Kichererbsen und Dinkel
 description: Ottmars Lieblingsrezept
 rezeptarten: [Salat]
-kochstile: [ayurvedisch]
 hauptzutaten: [Paprika, Kichererbsen, Dinkel]
 publishdate: 2017-09-16
 ---

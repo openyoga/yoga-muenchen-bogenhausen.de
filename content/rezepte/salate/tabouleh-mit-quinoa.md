@@ -2,7 +2,6 @@
 title: Tabouleh mit Quinoa
 description: Tabouleh mal ganz anders
 rezeptarten: [Salat]
-kochstile: [arabisch]
 hauptzutaten: [Quinoa, Tomaten]
 publishdate: 2017-09-01
 ---

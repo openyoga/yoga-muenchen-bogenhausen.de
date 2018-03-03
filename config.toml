@@ -22,7 +22,6 @@ rezepte = "/:section/:filename/"
 [taxonomies]
 schlagwort = "schlagwoerter"
 rezeptart = "rezeptarten"
-kochstil = "kochstile"
 hauptzutat = "hauptzutaten"
 
 [outputs]

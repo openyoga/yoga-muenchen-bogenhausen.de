@@ -14,10 +14,8 @@ menu:
 
 ## Workshops
 - [Rückenyoga][6]
-  - Freitag, 2. März 19:30 bis 21:30 Uhr
   - Freitag, 16. März 19:30 bis 21:30 Uhr
 - [Yoga für Anfänger][5]
-  - Sonntag, 4. März 16:30 bis 18:30 Uhr
   - Sonntag, 18. März 16:30 bis 18:30 Uhr
 - [Yin Yoga / Faszienyoga][7]
   - Sonntag, 4. März 19:00 bis 21:00 Uhr
@@ -53,7 +51,7 @@ Mehr im [Archiv][10], Abo via [RSS][11], entdecken über Schlagwörter: {{< flat
 
 {{< list-content-by-section-and-limit "rezepte" 1 >}}
 
-Mehr im [Archiv][12], Abo via [RSS][13], entdecken über Rezeptarten {{< flat-list-terms-by-taxonomy "rezeptarten" >}} Kochstile {{< flat-list-terms-by-taxonomy "kochstile" >}} oder Hauptzutaten {{< flat-list-terms-by-taxonomy "hauptzutaten" >}}
+Mehr im [Archiv][12], Abo via [RSS][13], entdecken über Rezeptarten {{< flat-list-terms-by-taxonomy "rezeptarten" >}} oder Hauptzutaten {{< flat-list-terms-by-taxonomy "hauptzutaten" >}}
 
 [12]: /rezepte/
 [13]: /rezepte/index.xml
