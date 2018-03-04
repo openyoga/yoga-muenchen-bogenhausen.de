@@ -2,7 +2,7 @@
 title: Brokkolicremesuppe
 description: "Das cremige Geheimnis: eine Avocado"
 rezeptarten: [Suppe]
-hauptzutaten: [Brokkoli, Avocado]
+hauptzutaten: [Brokkoli, Avocado, Lauch]
 publishdate: 2018-03-03
 ---
 
