@@ -19,7 +19,7 @@ Wir haben mit dem klassischen Tabouleh herumexperimentiert und ihn mal mit Quino
 - ½ Bund Petersilie, kleingehackt
 - ½ Bund Minze, kleingehackt
 - 1 Limette, ausgepresst
-- 2 el Olivenöl
+- 2 El Olivenöl
 - Salz
 - Pfeffer
 

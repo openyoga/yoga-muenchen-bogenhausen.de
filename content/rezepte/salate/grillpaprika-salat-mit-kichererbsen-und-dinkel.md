@@ -17,8 +17,8 @@ Dieses Rezept ist ein tolles Beispiel dafür, dass auch ein Salat ohne Fleisch s
 - 20 Oliven, kleingeschnitten
 - 1 Bund glatte Petersilie, geputzt und kleingehackt
 - Pecorino oder Parmesan, frisch gerieben, Menge nach Geschmack
-- 6 el Olivenöl
-- 2 el Balsamico Bianco
+- 6 El Olivenöl
+- 2 El Balsamico Bianco
 - Salz
 - Pfeffer
 

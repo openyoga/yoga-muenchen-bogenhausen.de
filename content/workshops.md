@@ -18,6 +18,7 @@ Ihr könnt nicht regelmäßig an einem Kurs teilnehmen, wollt aber dennoch Yoga 
 Du hast noch nie Yoga gemacht oder nur einmal irgendwo ausprobiert? Dann ist dieser Workshop genau richtig für Dich. Nach einer kurzen Einführung in Yoga probieren wir unsere ersten Yogaübungen aus und spüren nach, wie diese integrale Praxis aus Muskelkräftigung, Dehnung und Entspannung wirkt. Nach dem Workshop kannst Du besser einschätzen, ob Yoga etwas für Dich ist.
 
 - **Sonntag, 18. März 16:30 bis 18:30 Uhr**
+- **Sonntag, 15. April 16:30 bis 18:30 Uhr**
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 
@@ -26,6 +27,8 @@ Du hast noch nie Yoga gemacht oder nur einmal irgendwo ausprobiert? Dann ist die
 In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Er ist für Anfänger und Fortgeschrittene geeignet.  
 
 - **Freitag, 16. März 19:30 bis 21:30 Uhr**
+- **Freitag, 13. April 19:30 bis 21:30 Uhr**
+
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 
@@ -33,8 +36,9 @@ In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, t
 
 Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
 
-- **Sonntag, 4. März 19:00 bis 21:00 Uhr**
 - **Sonntag, 18. März 19:00 bis 21:00 Uhr**
+- **Sonntag, 15. April 19:00 bis 21:00 Uhr**
+
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 

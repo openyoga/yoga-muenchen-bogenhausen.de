@@ -12,11 +12,11 @@ publishdate: 2018-03-03
 - 1 Avocado, in kleine Stücke geschnitten
 - 150 g Lauch, geputzt und in Ringe geschnitten
 - 1 getrocknete Chilli, fein gemörsert
-- ½ tl Cumin
-- ½ tl Rosenpaprika
+- ½ Tl Cumin
+- ½ Tl Rosenpaprika
 - 1 Zitrone, ausgepresst
 - 800 ml Gemüsebrühe
-- 2 el Olivenöl
+- 2 El Olivenöl
 - Salz
 - Optional:
   - Schmand oder frisch geriebener Parmesan
