@@ -20,6 +20,7 @@ menu:
   - Sonntag, 15. April 8:30 bis 10:00 Uhr
   - Sonntag, 6. Mai 8:30 bis 10:00 Uhr
 - [Yin Yoga / Faszienyoga][7]
+  - Sonntag, 8. April 19:00 bis 21:00 Uhr
   - Sonntag, 15. April 19:00 bis 21:00 Uhr
   - Sonntag, 6. Mai 19:00 bis 21:00 Uhr
 

@@ -34,6 +34,7 @@ Starte voller Energie in den Sonntag. Wir wecken unseren Körper mit klassischen
 
 Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
 
+- **Sonntag, 8. April 19:00 bis 21:00 Uhr**
 - **Sonntag, 15. April 19:00 bis 21:00 Uhr**
 - **Sonntag, 6. Mai 19:00 bis 21:00 Uhr**
 
