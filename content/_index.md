@@ -14,6 +14,7 @@ menu:
 
 ## Workshops
 - [Rückenyoga][6]
+  - Freitag, 13. April 19:30 bis 21:30 Uhr
   - Freitag, 27. April 19:30 bis 21:30 Uhr
 - [Hatha Yoga für Frühaufsteher][5]
   - Sonntag, 29. April 8:30 bis 10:00 Uhr
