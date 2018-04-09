@@ -16,7 +16,6 @@ Ihr könnt nicht regelmäßig an einem Kurs teilnehmen, wollt aber dennoch Yoga 
 
 In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Er ist für Anfänger und Fortgeschrittene geeignet.  
 
-- **Freitag, 13. April 19:30 bis 21:30 Uhr**
 - **Freitag, 27. April 19:30 bis 21:30 Uhr**
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
@@ -25,7 +24,6 @@ In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, t
 
 Starte voller Energie in den Sonntag. Wir wecken unseren Körper mit klassischen Hatha Yoga Übungen auf, die sowohl für Anfänger als auch für Yogis mit Vorkenntnissen geeignet sind. Am Ende der Stunde, die den ganzen Körper kräftigt und dehnt, gönnen wir uns noch eine Endentspannung. Und dann kann der schönste Tag der Woche beginnen.
 
-- **Sonntag, 15. April 8:30 bis 10:00 Uhr**
 - **Sonntag, 29. April  8:30 bis 10:00 Uhr**
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
@@ -34,7 +32,6 @@ Starte voller Energie in den Sonntag. Wir wecken unseren Körper mit klassischen
 
 Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
 
-- **Sonntag, 8. April 19:00 bis 21:00 Uhr**
 - **Sonntag, 15. April 19:00 bis 21:00 Uhr**
 - **Sonntag, 29. April 19:00 bis 21:00 Uhr**
 
