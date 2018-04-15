@@ -3,7 +3,7 @@ title: Fenchel-Zucchini-Gemüse
 description:  Ayurveda meets Low Carb
 rezeptarten: [Gemuese]
 hauptzutaten: [Fenchel, Zucchini, Sesam-Mandel-Tofu]
-publishdate: 2018-04-16
+publishdate: 2018-04-15
 ---
 
 Dieses ayurvedische Gericht sättigt und schmeckt sehr gut in der Low Carb Version, vegan oder mit geriebenem Käse oder auch mit Basmatireis dazu. Es ist so variabel und lecker, dass wir es jede Woche einmal essen könnten.
