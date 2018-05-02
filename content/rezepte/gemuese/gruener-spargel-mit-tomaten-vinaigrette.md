@@ -27,10 +27,10 @@ Wir lieben den Mai mit seinem frischen Grün, den vielen Blüten und ersten Schm
 
 1. Zuerst die Vinaigrette zubereiten: Zitronensaft, vier Esslöffel Olivenöl und Salz verrühren, anschließend die Tomatenstücke und die drei Kräuter unterrühren
 2. Einen großen Topf mit Salz-Wasser aufsetzen und den Spargel drei Minuten darin kochen, anschließend abseihen und kurz abtropfen lassen
-3. Zwei Esslöffel Olivenöl in einer beschichteten Pfanne erhitzen, den Spargel hineingeben (Vorsicht, es kann spritzen) und für ungefähr vier Minuten anbraten, bis er die gewünschte Konsistenz hat (zum Schluß pfeffern)
+3. Zwei Esslöffel Olivenöl in einer beschichteten Pfanne erhitzen, den Spargel hineingeben (Vorsicht, es kann spritzen) und für ungefähr vier Minuten anbraten, bis er die gewünschte Konsistenz hat (zum Schluss pfeffern)
 4. Den Spargel auf zwei Tellern anrichten, Tomaten-Vinaigrette darüber geben und den Ziegenkäse darauf verteilen
 5. Bon appetit
 
 Statt Zitronensaft können auch Balsamico Bianco und Balsamico de Modena zum Einsatz kommen - dann hat man eine klassische Vinaigrette. Eventuell noch eine fein geschnittene Schalotte und eine gepresste Knoblauchzehe dazugeben.
 
-Das Rezpet reicht für zwei Personen als Hauptgericht; man kann z.B. Brot mit Frischkäse dazu reichen.
+Das Rezept reicht für zwei Personen als Hauptgericht; man kann z.B. Brot mit Frischkäse dazu reichen.
