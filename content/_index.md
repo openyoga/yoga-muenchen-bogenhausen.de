@@ -14,10 +14,8 @@ menu:
 
 ## Workshops
 - [Rückenyoga][6]
-  - Freitag, 27. April 19:30 bis 21:30 Uhr
   - Freitag, 8. Juni 19:30 bis 21:30 Uhr
 - [Yin Yoga / Faszienyoga][7]
-  - Sonntag, 29. April 19:00 bis 21:00 Uhr
   - Sonntag, 10. Juni 19:00 bis 21:00 Uhr
 
 
