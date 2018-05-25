@@ -7,30 +7,31 @@ menu:
     weight: 10
 ---
 
-[1]: /kurse/#anfaengeryoga
-[2]: /kurse/#rueckenyoga
-[3]: /kurse/#yinyoga
-[4]: /kurse/#sportleryoga
 
 ## Workshops
 - [Rückenyoga][6]
-  - Freitag, 8. Juni 19:30 bis 21:30 Uhr
+  - Samstag, 9. Juni 19:00 bis 21:00 Uhr
+  - Freitag, 22. Juni 19:30 bis 21:30 Uhr
 - [Yin Yoga / Faszienyoga][7]
   - Sonntag, 10. Juni 19:00 bis 21:00 Uhr
+  - Sonntag, 24. Juni 19:00 bis 21:00 Uhr
+- [Familienyoga im Park][8]
+  - Sonntag, 10. Juni 16:30 bis 18:00 Uhr
+  - Sonntag, 24. Juni 16:30 bis 18:00 Uhr
 
 
-[5]: /workshops/#hathayogaworkshop
 [6]: /workshops/#rueckenyogaworkshop
 [7]: /workshops/#yinyogaworkshop
+[8]: /workshops/#familienyogaworkshop
 
 
 ## Das Wo und Wie
 
-- [Veranstaltungsort, Preise][8]
-- [Personal Training / Einzelstunden][9] jederzeit und örtlich flexibel
+- [Veranstaltungsort, Preise][9]
+- [Personal Training / Einzelstunden][1] jederzeit und örtlich flexibel
 
-[8]: /workshops/#konditionen
-[9]: /workshops/#personaltraining
+[9]: /workshops/#konditionen
+[1]: /workshops/#personaltraining
 
 
 ## Neueste Artikel

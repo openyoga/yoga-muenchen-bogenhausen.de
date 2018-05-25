@@ -16,7 +16,8 @@ Ihr könnt nicht regelmäßig an einem Kurs teilnehmen, wollt aber dennoch Yoga 
 
 In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Er ist für Anfänger und Fortgeschrittene geeignet.  
 
-- **Freitag, 8. Juni 19:30 bis 21:30 Uhr**
+- **Samstag, 9. Juni 19:00 bis 21:00 Uhr**
+- **Freitag, 22. Juni 19:30 bis 21:30 Uhr**
 
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
@@ -26,9 +27,21 @@ In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, t
 Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
 
 - **Sonntag, 10. Juni 19:00 bis 21:00 Uhr**
+- **Sonntag, 24. Juni 19:00 bis 21:00 Uhr**
 
 
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
+
+## Familienyoga im Park{#familienyogaworkshop}
+
+Ein Yoga Workshop für alle Kinder und ihre Eltern, bei gutem Wetter im Park. Wir üben klassisches Hatha Yoga - abwechslungsreich, spielerisch, locker, leicht und lassen die Stunde mit einer entspannenden Fantasiereise ausklingen. 
+
+- **Sonntag, 10. Juni 16:30 bis 18:00 Uhr**
+- **Sonntag, 24. Juni 16:30 bis 18:00 Uhr**
+
+
+- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
+
 
 ## Yoga für Anfänger {#anfaengeryogaworkshop}
 
@@ -44,7 +57,7 @@ Die Preise liegen bei 15 € für 90 Minuten, 20 € für 120 Minuten Workshop u
 
 ## Veranstaltungsort {#veranstaltungsort}
 
-Die Workshops finden in den schönen Räumlichkeiten der [Familienpraxis Dr. Gold][2] in der Freischützstraße 9 in 81927 München (Bogenhausen) statt. Anfahrt: S8 bis Englschalking, dann 5 Min. Fußweg. Oder U4 bis Arabellapark und weiter bis Englschalkinger Straße mit den Buslinien 154, 183 oder 184.
+Die Workshops finden in den schönen Räumlichkeiten der [Familienpraxis Dr. Gold][2] in der Freischützstraße 9 in 81927 München (Bogenhausen) statt. Anfahrt: S8 bis Englschalking, dann 5 Min. Fußweg. Oder U4 bis Arabellapark und weiter bis Englschalkinger Straße mit den Buslinien 154, 183 oder 184. Bei gutem Wetter können wir uns auch im angrenzenden Park zum Yoga treffen.
 
 
 ## Personal Training (Einzelstunden) {#personaltraining}
