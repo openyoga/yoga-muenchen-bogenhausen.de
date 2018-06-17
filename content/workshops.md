@@ -12,43 +12,38 @@ menu:
 
 Ihr könnt nicht regelmäßig an einem Kurs teilnehmen, wollt aber dennoch Yoga machen oder einfach mal ausprobieren? Dann ist vielleicht ein Workshop, der einmalig an einem Samstag oder Sonntag stattfindet und zwischen zwei und drei Stunden dauert das Richtige für Euch.
 
-## Rückenyoga {#rueckenyogaworkshop}
+## Yin Yoga / Faszienyoga {#yinyogaworkshop}
+
+Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt zwei oder auch mal drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
+
+- **Sonntag, 24. Juni 19:00 bis 21:00 Uhr**
+- **Sonntag, 8. Juli 19:00 bis 21:00 Uhr**
+- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
+
+## Hatha Yoga / Rückenyoga {#rueckenyogaworkshop}
 
 In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Er ist für Anfänger und Fortgeschrittene geeignet.  
 
-- **Samstag, 9. Juni 19:00 bis 21:00 Uhr**
-- **Freitag, 22. Juni 19:30 bis 21:30 Uhr**
+- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
-- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
+## Vinyasa Flow Yoga {#vinyasayogaworkshop}
 
+Vinyasa Flow Yoga ist eine dynmaische Übergangsform, bei der wir fließend von einer Asana in die nächte übergehen, den ganzen Körper kräftigen und dehnen und auf eine sanfte Art und Weise auch das Herz-Kreislauf-System anregen. Hier bist Du richtig, wenn Du schon Yogaerfahrung hast oder sehr sportlich bist und Dich ein wenig mehr fordern möchtest.
 
-## Yin Yoga / Faszienyoga {#yinyogaworkshop}
-
-Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
-
-- **Sonntag, 10. Juni 19:00 bis 21:00 Uhr**
-- **Sonntag, 24. Juni 19:00 bis 21:00 Uhr**
+- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 
-- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
+## Hatha Yoga für Anfänger {#anfaengeryogaworkshop}
+
+Du hast noch nie Yoga gemacht oder nur einmal irgendwo ausprobiert? Dann ist dieser Workshop genau richtig für Dich. Nach einer kurzen Einführung in Yoga probieren wir unsere ersten Yogaübungen aus und spüren nach, wie diese integrale Praxis aus Muskelkräftigung, Dehnung und Entspannung wirkt. Nach dem Workshop kannst Du besser einschätzen, ob Yoga etwas für Dich ist.
+
+- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Familienyoga im Park{#familienyogaworkshop}
 
 Ein Yoga Workshop für alle Kinder und ihre Eltern, bei gutem Wetter im Park. Wir üben klassisches Hatha Yoga - abwechslungsreich, spielerisch, locker, leicht und lassen die Stunde mit einer entspannenden Fantasiereise ausklingen. 
 
-- **Sonntag, 10. Juni 16:30 bis 18:00 Uhr**
-- **Sonntag, 24. Juni 16:30 bis 18:00 Uhr**
-
-
-- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
-
-
-## Yoga für Anfänger {#anfaengeryogaworkshop}
-
-Du hast noch nie Yoga gemacht oder nur einmal irgendwo ausprobiert? Dann ist dieser Workshop genau richtig für Dich. Nach einer kurzen Einführung in Yoga probieren wir unsere ersten Yogaübungen aus und spüren nach, wie diese integrale Praxis aus Muskelkräftigung, Dehnung und Entspannung wirkt. Nach dem Workshop kannst Du besser einschätzen, ob Yoga etwas für Dich ist.
-
-- Nach Vereinbarung **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
-
+- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Konditionen {#konditionen}
 
@@ -62,7 +57,7 @@ Die Workshops finden in den schönen Räumlichkeiten der [Familienpraxis Dr. Gol
 
 ## Personal Training (Einzelstunden) {#personaltraining}
 
-Du möchtest eine Yogastunde bei Dir zu Hause nach Deinen Bedürfnissen machen, hast spezielle Anliegen oder wünscht Dir eine noch intensivere Betreuung? Dann kontaktiere mich gern für eine Einzelstunde: [{{< author "agobrecht" "email" >}}][1]
+Du möchtest eine Yogastunde bei Dir zu Hause nach Deinen Bedürfnissen machen, hast spezielle Anliegen oder wünscht Dir eine noch intensivere Betreuung? Du möchtest zu Hause zusammen mit Deinen Freunden oder innerhalb Deiner Familie mit Deinen Kindern üben? Dann kontaktiere mich gern für eine Einzelstunde: **[{{< author "agobrecht" "email" >}}][1]**  
 Preise für Personal Training auf Anfrage.
 
 

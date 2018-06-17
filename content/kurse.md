@@ -10,34 +10,33 @@ menu:
 {{< img src="/assets/images/kraehe.jpg" alt="Die Krähe" >}}
 
 
-## Yoga für Anfänger - sonntags 17:00-18:30 Uhr {#anfaengeryoga}
+## Hatha Yoga / Rückenyoga - freitags 19:30-21:30 Uhr {#rueckenyoga}
 
-Lerne Hatha Yoga von Grund auf und probiere aus, wie diese integrale Praxis aus Muskelkräftigung, Dehnung und Entspannung bei Dir wirkt. Wir erlernen nach und nach die wichtigsten Yogaübungen und achten hier besonders auf ihre korrekte Ausführung und Anpassung an Deine Bedürfnisse.  
-
-
-## Rückenyoga - freitags 19:30-21:00 Uhr {#rueckenyoga}
-
-Rückenyoga ist für Anfänger und Yogis mit Vorkenntnissen geeignet. Egal ob Du Rückenbeschwerden hast oder präventiv etwas tun möchtest, in dieser Stunde kräftigen und dehnen wir Rücken- und Bauchmuskeln, tun aber auch etwas für den Schulter-Nacken-Bereich, die Hüften, die Beine und den Po.  
+Rückenyoga ist für Anfänger und Yogis mit Vorkenntnissen geeignet. Egal ob Du Rückenbeschwerden hast oder präventiv etwas tun möchtest, in dieser Stunde kräftigen und dehnen wir mit klassischem Hatha Yoga und einzelnen Übungen aus Pilates bzw. Functional Training Rücken- und Bauchmuskeln, tun aber auch etwas für den Schulter-Nacken-Bereich, die Hüften, die Beine und den Po.  
+Beginn nach den Sommerferien - **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 
-## Yin Yoga / Faszienyoga - sonntags 19:00-20:30 Uhr {#yinyoga}
+## Yin Yoga / Faszienyoga - sonntags 19:00-21:00 Uhr {#yinyoga}
 
-Yin Yoga ist eine wunderbare Art, den ganzen Körper zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Eine sanfte, ruhige Stunde zur Regeneration, für Anfänger und Fortgeschrittene gleichermaßen geeignet.
+Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Eine sanfte, ruhige Stunde zur Regeneration, für Anfänger und Fortgeschrittene gleichermaßen geeignet.
+Beginn nach den Sommerferien - **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 
-## Yoga für Sportler - nach Vereinbarung {#sportleryoga}
+## Vinyasa Flow Yoga - Termin nach Vereinbarung: Mittwochabends oder am Wochenende {#vinyasayoga}
 
-Sportler Yoga ist für geübte Yogis und sportliche Yoga-Anfänger geeignet, die sich gerne ein wenig fordern möchten. Nach einer angenehm anstrengenden Stunde gönnen wir uns auch hier, wie in den anderen Kursen, eine Tiefenentspannung zum Ausklang.  
+Vinyasa Flow Yoga ist für geübte Yogis und sportliche Yoga-Anfänger geeignet, die sich gerne ein wenig fordern möchten. Wir gehen dynamisch von einer Asana in die nächste über, genießen eine fordernde Meditation in Bewegung und kräftigen und dehnen den gesamten Körper. Nach der angenehm anstrengenden Stunde gönnen wir uns auch hier, wie in den anderen Kursen, eine Tiefenentspannung zum Ausklang.  
+Beginn nach den Sommerferien - **Anfragen bzw. Terminvorschläge bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 
 ## Personal Training (Einzelstunden) {#personaltraining}
 
-Du möchtest die Yogastunde ganz nach Deinen Bedürfnissen gestalten, hast spezielle Anliegen oder wünscht Dir eine noch intensivere Betreuung? Dann kontaktiere mich gern für eine Einzelstunde: [{{< author "agobrecht" "email" >}}][1]
+Du möchtest die Yogastunde ganz nach Deinen Bedürfnissen gestalten, hast spezielle Anliegen oder wünscht Dir eine noch intensivere Betreuung? Auch geeignet für Familien mit Kindern oder Freunde, wenn Ihr unter Euch zu Hause üben möchtet.   
+**Kontaktiere mich gern für eine Einzelstunde: [{{< author "agobrecht" "email" >}}][1]**
 
 
 ## Konditionen {#konditionen}
 
-Alle Kurse kosten 150 € für 10 x 90 Minuten und finden in Kleingruppen (bis sieben Teilnehmer) ab fünf angemeldeten Teilnehmern statt. Preise für Einzelstunden auf Anfrage.  **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
+Alle Kurse kosten 190 € für 10 x 120 Minuten und finden in Kleingruppen (bis sieben Teilnehmer) ab fünf angemeldeten Teilnehmern statt. Preise für Einzelstunden auf Anfrage.  **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 
 ## Veranstaltungsort {#veranstaltungsort}
