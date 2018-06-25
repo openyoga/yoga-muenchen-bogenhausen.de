@@ -10,7 +10,6 @@ menu:
 
 ## Workshops
 - [Yin Yoga / Faszienyoga][7]
-  - Sonntag, 24. Juni 19:00 bis 21:00 Uhr
   - Sonntag, 8. Juli 19:00 bis 21:00 Uhr
 
 ## Kurse nach den Sommerferien
@@ -19,7 +18,7 @@ menu:
 - [Yin Yoga / Faszienyoga][2]
       - Sonntags, von 19:00 bis 21:00 Uhr
 - [Vinyasa Flow Yoga][4]
-      - Mittwochabends oder am Wochenende, Termin noch zu vereinbaren
+      - Freitags, samstags oder sonntags, genauer Termin noch zu vereinbaren
 
 
 [2]: /kurse/#yinyoga
