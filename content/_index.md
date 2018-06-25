@@ -9,16 +9,21 @@ menu:
 
 
 ## Workshops
+
 - [Yin Yoga / Faszienyoga][7]
   - Sonntag, 8. Juli 19:00 bis 21:00 Uhr
+  - Sonntag, 29. Juli 19:00 bis 21:00 Uhr
+- [Hatha Yoga / Rückenyoga][6]
+  - Freitag, 27. Juli 19:30 bis 21:30 Uhr
 
 ## Kurse nach den Sommerferien
+
 - [Hatha Yoga / Rückenyoga][3]
-    - Freitags von 19:30 bis 21:30 Uhr
+  - Freitags von 19:30 bis 21:30 Uhr
 - [Yin Yoga / Faszienyoga][2]
-      - Sonntags, von 19:00 bis 21:00 Uhr
+  - Sonntags, von 19:00 bis 21:00 Uhr
 - [Vinyasa Flow Yoga][4]
-      - Freitags, samstags oder sonntags, genauer Termin noch zu vereinbaren
+  - Freitags, samstags oder sonntags, genauer Termin noch zu vereinbaren
 
 
 [2]: /kurse/#yinyoga
