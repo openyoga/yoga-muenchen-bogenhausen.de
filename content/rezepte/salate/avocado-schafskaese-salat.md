@@ -10,8 +10,8 @@ Wir lieben Salate zum Sattessen. Und dieser macht nicht nur satt als Hauptgerich
 
 ## Zutaten
 
-- 1/2 Kopfsalat, z.B. Novita oder 150 g Feldsalat, geputzt und zerkleinert
-- 1/2 kleiner Radiccio oder Treviso, geputzt und zerkleinert
+- ½ Kopfsalat, z.B. Novita oder 150 g Feldsalat, geputzt und zerkleinert
+- ½ kleiner Radiccio oder Treviso, geputzt und zerkleinert
 - 1 reife Avocado, in kleine Würfel geschnitten (nicht zu früh, siehe Zubereitung)
 - 100 g Schafskäse, in kleine Würfel geschnitten
 - 2 Frühlingszwiebeln, in kleine Ringe geschnitten
