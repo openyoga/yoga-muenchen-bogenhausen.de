@@ -1,12 +1,13 @@
 ---
 title: Rucola-Avocadosalat mit Ei
-description: Ein amerikanischer Klassiker in Neuauflage
+description: Nicht nur im Sommer ein toller Sattmacher
 rezeptarten: [Salat]
 hauptzutaten: [Rucola, Avocado, Ei, Sesam-Mandel-Tofu]
 publishdate: 2018-07-18
+lastmod: 2018-07-21
 ---
 
-Noch ein leckerer Salat zum Sattessen mit unserer Lieblingszutat Avocado. Im Original wird dieses amerikanische Rezept mit gegrilltem Hähnchenbrustfilet und knusprigen Croutons serviert. Wir wandeln es mit Sesam-Mandel-Tofu und Kürbiskernen ab. Die Salatsoße machen wir Yogis gern ohne Essig - einfach mal probieren, sie schmeckt mit Zitronensaft sehr erfrischend.
+Noch ein leckerer Salat zum Sattessen mit unseren Lieblingszutaten Avocado und Parmesan. Die Salatsoße machen wir Yogis gern ohne Essig - einfach mal probieren; sie schmeckt mit Zitronensaft oder Limettensaft sehr erfrischend.
 
 
 ## Zutaten
@@ -14,12 +15,12 @@ Noch ein leckerer Salat zum Sattessen mit unserer Lieblingszutat Avocado. Im Ori
 - ½ Kopfsalat, z.B. grüner Eichblattsalat oder 150 g Feldsalat, geputzt und zerkleinert
 - 50 g Rucola, geputzt und zerkleinert
 - 1 reife Avocado, in kleine Würfel geschnitten (nicht zu früh, siehe Zubereitung)
-- 150 g Parmesan, grob gerieben
-- 100 g geräucherter Sesam-Mandel-Tofu, fein gewürfelt
+- 150 g Parmesan, grob gerieben (oder 100 g Parmesan und 50 g Bergkäse)
+- 100 g geräucherter Sesam-Mandel-Tofu, fein gewürfelt (kann man auch weglassen)
 - 2 Frühlingszwiebeln, in kleine Ringe geschnitten
 - 2 Eier, hart gekocht und in Scheiben geschnitten
 - Schnittlauch, kleingeschnitten
-- 1 Zitrone, ausgepresst
+- 1 Zitrone oder Limette, ausgepresst
 - 2 El Kürbiskerne
 - 2 El Olivenöl
 - 1 El Leinöl

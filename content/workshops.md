@@ -1,6 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
+lastmod: 2018-07-21
 menu:
   main:
     name: Workshops
@@ -24,7 +25,6 @@ Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas
 
 In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Er ist für Anfänger und Fortgeschrittene geeignet.  
 
-- **Freitag, 27. Juli 19:30 bis 21:30 Uhr**
 - **Freitag, 7. September 19:30 bis 21:30 Uhr** 
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 

@@ -1,6 +1,7 @@
 ---
 title: Yoga Kurse in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Kursangeboten sowie aktuelle Termine
+lastmod: 2018-07-21
 menu:
   main:
     name: Kurse
