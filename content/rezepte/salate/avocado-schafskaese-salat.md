@@ -4,6 +4,7 @@ description: Avocado in Bestform
 rezeptarten: [Salat]
 hauptzutaten: [Blattsalat, Avocado, Schafskaese]
 publishdate: 2018-06-02
+lastmod: 2018-07-31
 ---
 
 Wir lieben Salate zum Sattessen. Und dieser macht nicht nur satt als Hauptgericht, sondern schmeckt auch besonders lecker mit der Soße, die durch die Avocado so cremig und sämig wird.
@@ -13,7 +14,7 @@ Wir lieben Salate zum Sattessen. Und dieser macht nicht nur satt als Hauptgerich
 - ½ Kopfsalat, z.B. Novita oder 150 g Feldsalat, geputzt und zerkleinert
 - ½ kleiner Radiccio oder Treviso, geputzt und zerkleinert
 - 1 reife Avocado, in kleine Würfel geschnitten (nicht zu früh, siehe Zubereitung)
-- 100 g Schafskäse, in kleine Würfel geschnitten
+- 100 g Schafskäse, in kleine Würfel geschnitten (kann man auch weglassen)
 - 2 Frühlingszwiebeln, in kleine Ringe geschnitten
 - 10 getrocknete Tomaten, klein geschnitten
 - Schnittlauch, kleingeschnitten (oder andere Kräuter, je nach Geschmack)

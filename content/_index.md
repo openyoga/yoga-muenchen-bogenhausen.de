@@ -15,7 +15,6 @@ menu:
 - [Hatha Yoga / Rückenyoga][6]
   - Freitag, 7. September 19:30 bis 21:30 Uhr
 - [Yin Yoga / Faszienyoga][7]
-  - Sonntag, 29. Juli 19:00 bis 21:00 Uhr
   - Sonntag, 9. September 19:00 bis 21:00 Uhr
 
 ## Kurse nach den Sommerferien

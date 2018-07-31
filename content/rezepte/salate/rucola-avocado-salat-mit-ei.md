@@ -2,12 +2,12 @@
 title: Rucola-Avocadosalat mit Ei
 description: Nicht nur im Sommer ein toller Sattmacher
 rezeptarten: [Salat]
-hauptzutaten: [Rucola, Avocado, Ei, Sesam-Mandel-Tofu]
+hauptzutaten: [Rucola, Avocado, Ei, Basilikum-Tofu]
 publishdate: 2018-07-18
-lastmod: 2018-07-21
+lastmod: 2018-07-31
 ---
 
-Noch ein leckerer Salat zum Sattessen mit unseren Lieblingszutaten Avocado und Parmesan. Die Salatsoße machen wir Yogis gern ohne Essig - einfach mal probieren; sie schmeckt mit Zitronensaft oder Limettensaft sehr erfrischend.
+Noch ein leckerer Salat zum Sattessen mit unseren Lieblingszutaten Avocado und Parmesan. Die Salatsoße machen wir Yogis gern ohne Essig - einfach mal probieren; sie schmeckt mit Zitronen- oder Limettensaft sehr erfrischend.
 
 
 ## Zutaten
@@ -16,7 +16,7 @@ Noch ein leckerer Salat zum Sattessen mit unseren Lieblingszutaten Avocado und P
 - 50 g Rucola, geputzt und zerkleinert
 - 1 reife Avocado, in kleine Würfel geschnitten (nicht zu früh, siehe Zubereitung)
 - 150 g Parmesan, grob gerieben (oder 100 g Parmesan und 50 g Bergkäse)
-- 100 g geräucherter Sesam-Mandel-Tofu, fein gewürfelt (kann man auch weglassen)
+- 100 g  Basilikum-Tofu, fein gewürfelt (kann man auch weglassen)
 - 2 Frühlingszwiebeln, in kleine Ringe geschnitten
 - 2 Eier, hart gekocht und in Scheiben geschnitten
 - Schnittlauch, kleingeschnitten
