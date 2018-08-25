@@ -1,7 +1,7 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2018-07-21
+lastmod: 2018-08-25
 
 menu:
   main:
@@ -23,18 +23,13 @@ menu:
   - Freitags von 19:30 bis 21:30 Uhr
 - [Yin Yoga / Faszienyoga][2]
   - Sonntags von 19:00 bis 21:00 Uhr
-- [Vinyasa Flow Yoga][4]
-  - Freitags, samstags oder sonntags, genauer Termin noch zu vereinbaren
-
 
 [2]: /kurse/#yinyoga
 [3]: /kurse/#rueckenyoga
-[4]: /kurse/#vinyasayoga
 
 
 [6]: /workshops/#rueckenyogaworkshop
 [7]: /workshops/#yinyogaworkshop
-[8]: /workshops/#familienyogaworkshop
 
 
 ## Das Wo und Wie

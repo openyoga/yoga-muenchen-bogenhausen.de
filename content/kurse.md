@@ -1,7 +1,7 @@
 ---
 title: Yoga Kurse in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Kursangeboten sowie aktuelle Termine
-lastmod: 2018-07-21
+lastmod: 2018-08-25
 menu:
   main:
     name: Kurse
@@ -21,12 +21,6 @@ Beginn nach den Sommerferien - **Anfragen bitte per Mail an: [{{< author "agobre
 
 Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Eine sanfte, ruhige Stunde zur Regeneration, für Anfänger und Fortgeschrittene gleichermaßen geeignet.
 Beginn nach den Sommerferien - **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
-
-
-## Vinyasa Flow Yoga - Termin nach Vereinbarung: freitags, samstags oder sonntags {#vinyasayoga}
-
-Vinyasa Flow Yoga ist für geübte Yogis und sportliche Yoga-Anfänger geeignet, die sich gerne ein wenig fordern möchten. Wir gehen dynamisch von einer Asana in die nächste über, genießen eine fordernde Meditation in Bewegung und kräftigen und dehnen den gesamten Körper. Nach der angenehm anstrengenden Stunde gönnen wir uns auch hier, wie in den anderen Kursen, eine Tiefenentspannung zum Ausklang.  
-Beginn nach den Sommerferien - **Anfragen bzw. Terminvorschläge bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 
 ## Personal Training (Einzelstunden) {#personaltraining}

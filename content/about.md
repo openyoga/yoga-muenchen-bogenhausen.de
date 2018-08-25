@@ -29,7 +29,7 @@ Nach Jahren der eigenen Praxis wollte ich gerne mehr über Yoga erfahren und beg
 [5]: {{< a_external "https://www.yoga-vidya.de/netzwerk/berufsverbaende/byv/byv-infos/" >}}
 
 
-Weiterbildungen in Anatomie und Korrekturen, Rückenyoga, Yin Yoga/Faszientraining und Vinyasa Flow Yoga folgten. Ich genieße es sehr, Yoga an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Stunde in glückliche und entspannte Gesichter zu blicken.
+Weiterbildungen in Anatomie und Korrekturen, Rückenyoga, und Yin Yoga/Faszientraining folgten. Ich genieße es sehr, Yoga an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Stunde in glückliche und entspannte Gesichter zu blicken.
 
 
 ## Website Technik

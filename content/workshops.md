@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2018-07-21
+lastmod: 2018-08-25
 menu:
   main:
     name: Workshops
@@ -27,22 +27,15 @@ In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, t
 - **Freitag, 7. September 19:30 bis 21:30 Uhr** 
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
-## Vinyasa Flow Yoga {#vinyasayogaworkshop}
-
-Vinyasa Flow Yoga ist eine dynmaische Übergangsform, bei der wir fließend von einer Asana in die nächte übergehen, den ganzen Körper kräftigen und dehnen und auf eine sanfte Art und Weise auch das Herz-Kreislauf-System anregen. Hier bist Du richtig, wenn Du schon Yogaerfahrung hast oder sehr sportlich bist und Dich ein wenig mehr fordern möchtest.
-
-- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
-
-
 ## Hatha Yoga für Anfänger {#anfaengeryogaworkshop}
 
 Du hast noch nie Yoga gemacht oder nur einmal irgendwo ausprobiert? Dann ist dieser Workshop genau richtig für Dich. Nach einer kurzen Einführung in Yoga probieren wir unsere ersten Yogaübungen aus und spüren nach, wie diese integrale Praxis aus Muskelkräftigung, Dehnung und Entspannung wirkt. Nach dem Workshop kannst Du besser einschätzen, ob Yoga etwas für Dich ist.
 
 - Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
-## Familienyoga im Park{#familienyogaworkshop}
+## Familienyoga{#familienyogaworkshop}
 
-Ein Yoga Workshop für alle Kinder und ihre Eltern, bei gutem Wetter im Park. Wir üben klassisches Hatha Yoga - abwechslungsreich, spielerisch, locker, leicht und lassen die Stunde mit einer entspannenden Fantasiereise ausklingen. 
+Ein Yoga Workshop für alle Kinder und ihre Eltern. Wir üben klassisches Hatha Yoga - abwechslungsreich, spielerisch, locker, leicht und lassen die Stunde mit einer entspannenden Fantasiereise ausklingen. 
 
 - Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
