@@ -1,7 +1,7 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2018-08-25
+lastmod: 2018-08-30
 
 menu:
   main:
@@ -13,14 +13,13 @@ menu:
 ## Workshops
 
 - [Hatha Yoga / Rückenyoga][6]
-  - Freitag, 7. September 19:30 bis 21:30 Uhr
   - Freitag, 21. September 19:30 bis 21:30 Uhr
 - [Yin Yoga / Faszienyoga][7]
   - Sonntag, 9. September 19:00 bis 21:00 Uhr
   - Sonntag, 23. September 19:00 bis 21:00 Uhr
 
 
-## Kurse nach den Sommerferien
+## Kurse nach den Weihnachtsferien (ab Januar 2019)
 
 - [Hatha Yoga / Rückenyoga][3]
   - Freitags von 19:30 bis 21:30 Uhr

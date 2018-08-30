@@ -1,7 +1,7 @@
 ---
 title: Yoga Kurse in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Kursangeboten sowie aktuelle Termine
-lastmod: 2018-08-25
+lastmod: 2018-08-30
 menu:
   main:
     name: Kurse
@@ -11,13 +11,13 @@ menu:
 {{< img src="/assets/images/kraehe.jpg" alt="Die Krähe" >}}
 
 
-## Hatha Yoga / Rückenyoga - freitags 19:30-21:30 Uhr {#rueckenyoga}
+## Hatha Yoga / Rückenyoga - freitags 19:30-21:30 Uhr ab Januar 2019 {#rueckenyoga}
 
 Rückenyoga ist für Anfänger und Yogis mit Vorkenntnissen geeignet. Egal ob Du Rückenbeschwerden hast oder präventiv etwas tun möchtest, in dieser Stunde kräftigen und dehnen wir mit klassischem Hatha Yoga und einzelnen Übungen aus Pilates bzw. Functional Training Rücken- und Bauchmuskeln, tun aber auch etwas für den Schulter-Nacken-Bereich, die Hüften, die Beine und den Po.  
 Beginn nach den Sommerferien - **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 
-## Yin Yoga / Faszienyoga - sonntags 19:00-21:00 Uhr {#yinyoga}
+## Yin Yoga / Faszienyoga - sonntags 19:00-21:00 Uhr ab Januar 2019 {#yinyoga}
 
 Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Eine sanfte, ruhige Stunde zur Regeneration, für Anfänger und Fortgeschrittene gleichermaßen geeignet.
 Beginn nach den Sommerferien - **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
