@@ -2,7 +2,7 @@
 title: Fenchel-Zucchini-Gemüse
 description:  Ayurveda meets Low Carb
 rezeptarten: [Gemuese]
-hauptzutaten: [Fenchel, Zucchini, Sesam-Mandel-Tofu]
+hauptzutaten: [Fenchel, Zucchini, Tofu]
 publishdate: 2018-04-15
 ---
 

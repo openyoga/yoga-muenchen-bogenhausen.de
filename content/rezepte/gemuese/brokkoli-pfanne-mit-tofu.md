@@ -2,7 +2,7 @@
 title: Brokkoli-Pfanne mit Sesam-Mandel-Tofu
 description:  Ein ayurvedisches Rezept mit angerösteten Gewürzen
 rezeptarten: [Gemuese]
-hauptzutaten: [Brokkoli, Tomaten, Sesam-Mandel-Tofu]
+hauptzutaten: [Brokkoli, Tomaten, Tofu]
 publishdate: 2018-03-10
 ---
 

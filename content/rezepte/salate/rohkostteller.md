@@ -2,7 +2,7 @@
 title: Rohkostteller mit leckeren Extras
 description: Buttermilch-Minz-Dressing und Pekanüsse harmonieren perfekt dazu
 rezeptarten: [Salat, Rohkost]
-hauptzutaten: [Buttermilch, Minze, Avocado, Pekanüsse]
+hauptzutaten: [Buttermilch, Minze, Avocado, Pekanuesse]
 publishdate: 2018-07-09
 ---
 
