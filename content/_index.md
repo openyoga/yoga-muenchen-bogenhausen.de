@@ -13,10 +13,8 @@ menu:
 ## Workshops
 
 - [Hatha Yoga / Rückenyoga][6]
-  - Freitag, 5. Oktober 19:30 bis 21:30 Uhr
   - Freitag, 26. Oktober 19:30 bis 21:30 Uhr
 - [Yin Yoga / Faszienyoga][7]
-  - Sonntag, 7. Oktober 19:00 bis 21:00 Uhr
   - Sonntag, 28. Oktober 19:00 bis 21:00 Uhr
 
 
