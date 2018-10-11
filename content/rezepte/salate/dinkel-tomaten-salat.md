@@ -30,10 +30,10 @@ Nachdem wir fast jede Woche einmal den [Grillpaprika-Salat mit Kichererbsen und 
 ## Zubereitung
 
 1. Cashew- und Pinienkerne im nicht vorgewärmten Backofen bei 160 Grad Umluft für ca. 15-20 Minuten rösten, anschließend abkühlen lassen
-2. Dinkel gut in einem Sieb abspülen, dann nach Packungsanweisung in Gemüsebrühe kochen, beim Abgießen 50 ml Brühe für das Dressing aufheben, kurz abkühlen lassen
+2. Dinkel gut in einem Sieb abspülen, dann nach Packungsanweisung in Gemüsebrühe kochen, beim Abgießen 50 ml Brühe für das Dressing aufheben
 3. Frische und getrocknete Tomaten, Rucola, weiße Riesenbohnen und Kapern in einer Salatschüssel verrühren
 4. Die 50 ml Gemüsebrühe vom Dinkelkochen mit drei Esslöffeln Olivenöl und dem getrockneten Thymian verrühren, mit Pfeffer abschmecken, über den Salat geben
-5. Den Dinkel abgießen, ganz kurz abkühlen lassen und unterrühren
+5. Den Dinkel abgießen, kurz abkühlen lassen und unterrühren
 6. Die gerösteten Kerne und den geriebenen Käse unter den Salat heben
 
 Das Rezept reicht für zwei bis drei Personen als Hauptgericht oder für vier bis sechs Personen als Beilage. Veganer lassen den Pecorino bzw. Parmesan weg. Man kann den Salat gleich essen, oder ihn, wenn man sich denn beherrschen kann, auch eine Weile durchziehen lassen.
