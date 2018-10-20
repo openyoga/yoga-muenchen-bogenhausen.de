@@ -4,7 +4,7 @@ description: Ottmars zweites Lieblingsrezept
 rezeptarten: [Salat]
 hauptzutaten: [Dinkel, Tomaten, Rucola, Bohnen]
 publishdate: 2018-10-07
-lastmod: 2018-10-11
+lastmod: 2018-10-20
 ---
 
 Nachdem wir fast jede Woche einmal den [Grillpaprika-Salat mit Kichererbsen und Dinkel][1] machen (das ist kein Scherz), musste ein neues Rezept mit Dinkel wie Reis her, welches diesem Klassiker in unserer Küche das Wasser reichen kann. Das Resultat: Nun ja, der Klassiker ist ein wenig beleidigt ;-)
@@ -29,7 +29,7 @@ Nachdem wir fast jede Woche einmal den [Grillpaprika-Salat mit Kichererbsen und 
 
 ## Zubereitung
 
-1. Cashew- und Pinienkerne im nicht vorgewärmten Backofen bei 160 Grad Umluft für ca. 15-20 Minuten rösten, anschließend abkühlen lassen
+1. Cashew- und Pinienkerne im nicht vorgewärmten Backofen bei 160 Grad Umluft für ca. 15 Minuten rösten, anschließend abkühlen lassen
 2. Dinkel gut in einem Sieb abspülen, dann nach Packungsanweisung in Gemüsebrühe kochen, beim Abgießen 50 ml Brühe für das Dressing aufheben
 3. Frische und getrocknete Tomaten, Rucola, weiße Riesenbohnen und Kapern in einer Salatschüssel verrühren
 4. Die 50 ml Gemüsebrühe vom Dinkelkochen mit drei Esslöffeln Olivenöl und dem getrockneten Thymian verrühren, mit Pfeffer abschmecken, über den Salat geben
