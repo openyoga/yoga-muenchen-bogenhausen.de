@@ -12,23 +12,28 @@ menu:
 
 ## Workshops
 
-- [Hatha Yoga / Rückenyoga][6]
-  - Freitag, 26. Oktober 19:30 bis 21:30 Uhr
-  - Freitag, 16. November 19:30 bis 21:30 Uhr
-- [Yin Yoga / Faszienyoga][7]
-  - Sonntag, 28. Oktober 19:00 bis 21:00 Uhr
-  - Sonntag, 11. November 19:00 bis 21:00 Uhr
-  - Sonntag, 18. November 19:00 bis 21:00 Uhr
+[Hatha Yoga / Rückenyoga][6]
 
+- Freitag, 16. November 19:30 bis 21:30 Uhr
+- Freitag, 30. November 19:30 bis 21:30 Uhr
+
+[Yin Yoga / Faszienyoga][7]
+
+- Sonntag, 11. November 19:00 bis 21:00 Uhr
+- Sonntag, 18. November 19:00 bis 21:00 Uhr
+- Sonntag, 02. Dezember 19:00 bis 21:00 Uhr
 
 
 
 ## Kurse nach den Weihnachtsferien (ab Januar 2019)
 
-- [Hatha Yoga / Rückenyoga][3]
-  - Freitags von 19:30 bis 21:30 Uhr
-- [Yin Yoga / Faszienyoga][2]
-  - Sonntags von 19:00 bis 21:00 Uhr
+[Hatha Yoga / Rückenyoga][3]
+
+- Freitags von 19:30 bis 21:30 Uhr
+
+[Yin Yoga / Faszienyoga][2]
+
+- Sonntags von 19:00 bis 21:00 Uhr
 
 [2]: /kurse/#yinyoga
 [3]: /kurse/#rueckenyoga
