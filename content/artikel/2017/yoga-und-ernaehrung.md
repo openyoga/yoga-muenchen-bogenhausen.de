@@ -3,7 +3,7 @@ title: Yoga und Ernährung
 description: Muss ich Vegetarier oder gar Veganer sein, wenn ich Yoga mache?
 schlagwoerter: [Yoga, Ernaehrung, Vegetarier, Veganer, Gunas, Gesundheit]
 publishdate: 2017-11-27
-lastmod: 2017-12-10
+lastmod: 2018-11-01
 ---
 
 {{< img src="/assets/images/dreieck.jpg" alt="Das Dreieck" >}}
@@ -17,7 +17,10 @@ Nein, natürlich darfst Du essen was Du magst und was Dir gut tut! Denn was wär
 
 ## Gewaltlosigkeit
 
-Warum sind viele Yogis dann Vegetarier oder sogar Veganer? Eine Grundregel der Yogaphilosophie ist die Gewaltlosigkeit (Ahimsa). Ich tue mir selbst keine Gewalt an (das heißt ich mache z.B. keine Crash Diäten) und tue auch anderen Lebewesen keine Gewalt an. Deswegen ist Fleisch und Fisch unter Yogis nicht so beliebt. Selbst wenn ich es nicht eigenhändig schlachte, so zwinge ich doch einen anderen Menschen dazu, ein Tier zu töten.
+Warum sind viele Yogis dann Vegetarier oder sogar Veganer? Eine Grundregel der Yogaphilosophie ist die Gewaltlosigkeit, [Ahimsa][2]. Ich tue mir selbst keine Gewalt an (das heißt ich mache z.B. keine Crash Diäten) und tue auch anderen Lebewesen keine Gewalt an. Deswegen ist Fleisch und Fisch unter Yogis nicht so beliebt. Selbst wenn ich es nicht eigenhändig schlachte, so zwinge ich doch einen anderen Menschen dazu, ein Tier zu töten.
+
+[2]: /artikel/2018/yamas/
+
 
 
 ## Ausgeglichenheit
