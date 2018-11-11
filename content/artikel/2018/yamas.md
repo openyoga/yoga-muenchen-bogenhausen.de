@@ -3,6 +3,7 @@ title: Ethik in der Yogaphilosophie I - Yamas
 description: Regeln im Umgang mit anderen
 schlagwoerter: [Yogaphilosophie, Ehtik]
 publishdate: 2018-11-03
+lastmod: 2018-11-11
 ---
 
 {{< img src="/assets/images/buddha-schnecke.jpg" alt="Buddha und Schnecke" >}}
@@ -53,6 +54,8 @@ Als Trainer und Yogalehrer würde ich nichts unterrichten, hinter dem ich nicht 
 
 ## Fazit
 
-Die Yamas sind tolle Regeln, die unser Zusammenleben mit anderen schöner und erfüllter machen. Da mein Verhalten auch immer das Verhalten von anderen beeinflusst, mache ich die Welt dadurch ein Stück besser, dass ich nach den Yamas lebe. Es ist ein Schneeballeffekt. Aber keiner ist perfekt, es ist vollkommen okay, wenn man mal nicht danach gelebt oder gehandelt hat! Gerade das macht uns ja zu Menschen.
+Die Yamas sind tolle Regeln, die unser Zusammenleben mit anderen schöner und erfüllter machen. Da mein Verhalten auch immer das Verhalten von anderen beeinflusst, mache ich die Welt dadurch ein Stück besser, dass ich nach den Yamas lebe. Es ist ein Schneeballeffekt. 
+
+Und was bringen mir selbst die Yamas? Probiert es aus! Nur so viel kann ich Euch schon verraten: Sie bringen Euch hinein in ein Gefühl von innerem Frieden. Und das ist letztlich die Basis für alles andere: Für guten Schlaf, ein Gefühl von Ausgeglichenheit, sich konzentrieren und meditieren können, vielleicht sogar für eine erfülltes Leben. Aber keiner ist perfekt, es ist vollkommen okay, wenn man mal nicht danach gelebt oder gehandelt hat! Gerade das macht uns ja zu Menschen.
 
 Im nächsten Blogbeitrag wird es um die Niyamas, die Regeln im Umgang mit sich selbst gehen.
