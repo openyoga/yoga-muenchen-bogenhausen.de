@@ -19,7 +19,6 @@ menu:
 [Yin Yoga / Faszienyoga][7]
 
 - Sonntag, 02. Dezember 19:00 bis 21:00 Uhr
-- Sonntag, 09. Dezember 19:00 bis 21:00 Uhr
 - Sonntag, 16. Dezember 19:00 bis 21:00 Uhr
 
 
