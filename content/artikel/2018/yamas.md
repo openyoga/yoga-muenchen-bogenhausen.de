@@ -58,4 +58,8 @@ Die Yamas sind tolle Regeln, die unser Zusammenleben mit anderen schöner und er
 
 Und was bringen mir selbst die Yamas? Probiert es aus! Nur so viel kann ich Euch schon verraten: Sie bringen Euch hinein in ein Gefühl von innerem Frieden. Und das ist letztlich die Basis für alles andere: Für guten Schlaf, ein Gefühl von Ausgeglichenheit, sich konzentrieren und meditieren können, vielleicht sogar für eine erfülltes Leben. Aber keiner ist perfekt, es ist vollkommen okay, wenn man mal nicht danach gelebt oder gehandelt hat! Gerade das macht uns ja zu Menschen.
 
-Im nächsten Blogbeitrag wird es um die Niyamas, die Regeln im Umgang mit sich selbst gehen.
+Im [nächsten Blogbeitrag] [1] wird es um die Niyamas, die Regeln im Umgang mit sich selbst gehen.
+
+
+[1]: /artikel/2018/niyamas
+
