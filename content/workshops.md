@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2018-08-30
+lastmod: 2018-12-01
 menu:
   main:
     name: Workshops
@@ -11,14 +11,14 @@ menu:
 {{< img src="/assets/images/sprinter.jpg" alt="Der Sprinter" >}}
 
 
-Ihr könnt nicht regelmäßig an einem Kurs teilnehmen, wollt aber dennoch Yoga machen oder einfach mal ausprobieren? Dann ist vielleicht ein Workshop, der einmalig an einem Samstag oder Sonntag stattfindet und zwischen zwei und drei Stunden dauert das Richtige für Euch.
+Du kannst nicht regelmäßig an einem Kurs teilnehmen, willst aber dennoch Yoga machen oder einfach mal ausprobieren? Dann ist vielleicht ein Workshop, der einmalig an einem Samstag oder Sonntag stattfindet und zwischen zwei und drei Stunden dauert das Richtige für Dich.
 
 ## Yin Yoga / Faszienyoga {#yinyogaworkshop}
 
 Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt zwei oder auch mal drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
 
-- **Sonntag, 02. Dezember 19:00 bis 21:00 Uhr**
 - **Sonntag, 16. Dezember 19:00 bis 21:00 Uhr**
+- **Sonntag, 13. Januar 19:00 bis 21:00 Uhr**
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 
@@ -26,7 +26,7 @@ Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas
 
 In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Er ist für Anfänger und Fortgeschrittene geeignet.  
 
-- **Freitag, 30. November 19:30 bis 21:30 Uhr**
+- **Freitag, 11. Januar 19:30 bis 21:30 Uhr**
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Hatha Yoga für Anfänger {#anfaengeryogaworkshop}
@@ -41,6 +41,17 @@ Ein Yoga Workshop für alle Kinder und ihre Eltern. Wir üben klassisches Hatha 
 
 - Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
+## Power Yoga für Sportler{#poweryogaworkshop}
+
+Du bist sehr sportlich und suchst nach einem Ausgleich zu Deinem Training oder hast schon Yoga-Erfahrung und möchtest Dich etwas mehr fordern? Dann bist Du hier genau richtig. Wir üben dynamische Vinyasa Flow Yoga Sequenzen und beenden die Stunde mit intensiveren, länger gehaltenen Dehnungen und einer regenerierenden Entspannung.
+
+- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
+
+## Personal Training (Einzelstunden) {#personaltraining}
+
+Du möchtest eine Yogastunde bei Dir zu Hause nach Deinen Bedürfnissen machen, hast spezielle Anliegen oder wünscht Dir eine noch intensivere Betreuung? Du möchtest zu Hause zusammen mit Deinen Freunden oder innerhalb Deiner Familie mit Deinen Kindern üben? Dann kontaktiere mich gern für eine Einzelstunde: **[{{< author "agobrecht" "email" >}}][1]**  
+Preise für Personal Training auf Anfrage.
+
 ## Konditionen {#konditionen}
 
 Die Preise liegen bei 15 € für 90 Minuten, 20 € für 120 Minuten Workshop und 30 € für 180 Minuten. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab vier angemeldeten Teilnehmern statt.  **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
@@ -50,11 +61,6 @@ Die Preise liegen bei 15 € für 90 Minuten, 20 € für 120 Minuten Workshop u
 
 Die Workshops finden in den schönen Räumlichkeiten der [Familienpraxis Dr. Gold][2] in der Freischützstraße 9 in 81927 München (Bogenhausen) statt. Anfahrt: S8 bis Englschalking, dann 5 Min. Fußweg. Oder U4 bis Arabellapark und weiter bis Englschalkinger Straße mit den Buslinien 154, 183 oder 184. Bei gutem Wetter können wir uns auch im angrenzenden Park zum Yoga treffen.
 
-
-## Personal Training (Einzelstunden) {#personaltraining}
-
-Du möchtest eine Yogastunde bei Dir zu Hause nach Deinen Bedürfnissen machen, hast spezielle Anliegen oder wünscht Dir eine noch intensivere Betreuung? Du möchtest zu Hause zusammen mit Deinen Freunden oder innerhalb Deiner Familie mit Deinen Kindern üben? Dann kontaktiere mich gern für eine Einzelstunde: **[{{< author "agobrecht" "email" >}}][1]**  
-Preise für Personal Training auf Anfrage.
 
 
 [1]: mailto:{{< author "agobrecht" "email" >}}

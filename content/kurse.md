@@ -1,7 +1,7 @@
 ---
 title: Yoga Kurse in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Kursangeboten sowie aktuelle Termine
-lastmod: 2018-08-30
+lastmod: 2018-12-01
 menu:
   main:
     name: Kurse
@@ -11,16 +11,14 @@ menu:
 {{< img src="/assets/images/kraehe.jpg" alt="Die Krähe" >}}
 
 
-## Hatha Yoga / Rückenyoga - freitags 19:30-21:30 Uhr ab Januar 2019 {#rueckenyoga}
+## Hatha Yoga / Rückenyoga - 10x freitags 19:30-21:15 Uhr <br/>ab 11. Januar 2019 {#rueckenyoga}
 
-Rückenyoga ist für Anfänger und Yogis mit Vorkenntnissen geeignet. Egal ob Du Rückenbeschwerden hast oder präventiv etwas tun möchtest, in dieser Stunde kräftigen und dehnen wir mit klassischem Hatha Yoga und einzelnen Übungen aus Pilates bzw. Functional Training Rücken- und Bauchmuskeln, tun aber auch etwas für den Schulter-Nacken-Bereich, die Hüften, die Beine und den Po.  
-Beginn nach den Sommerferien - **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
+Rückenyoga ist für Anfänger und Yogis mit Vorkenntnissen geeignet. Egal ob Du Rückenbeschwerden hast oder präventiv etwas tun möchtest, in dieser Stunde kräftigen und dehnen wir mit klassischem Hatha Yoga und einzelnen Übungen aus Pilates bzw. Functional Training Rücken- und Bauchmuskeln, tun aber auch etwas für den Schulter-Nacken-Bereich, die Hüften, die Beine und den Po.  - **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 
-## Yin Yoga / Faszienyoga - sonntags 19:00-21:00 Uhr ab Januar 2019 {#yinyoga}
+## Yin Yoga / Faszienyoga - 10x sonntags 19:00-20:45 Uhr <br/>ab 13.Januar 2019 {#yinyoga}
 
-Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Eine sanfte, ruhige Stunde zur Regeneration, für Anfänger und Fortgeschrittene gleichermaßen geeignet.
-Beginn nach den Sommerferien - **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
+Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Mit jeder Kursstunde wirst Du ein klein wenig beweglicher. Eine sanfte, ruhige Stunde zur Regeneration; für Anfänger und Fortgeschrittene gleichermaßen geeignet.- **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 
 ## Personal Training (Einzelstunden) {#personaltraining}
@@ -31,7 +29,7 @@ Du möchtest die Yogastunde ganz nach Deinen Bedürfnissen gestalten, hast spezi
 
 ## Konditionen {#konditionen}
 
-Alle Kurse kosten 190 € für 10 x 120 Minuten und finden in Kleingruppen (bis sieben Teilnehmer) ab fünf angemeldeten Teilnehmern statt. Preise für Einzelstunden auf Anfrage.  **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
+Alle Kurse kosten 180 € für 10 x 105 Minuten und finden in Kleingruppen (bis sieben Teilnehmer) ab fünf angemeldeten Teilnehmern statt. Preise für Einzelstunden auf Anfrage.  **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 
 ## Veranstaltungsort {#veranstaltungsort}
