@@ -2,7 +2,7 @@
 title: Grüner Spargel mit Tomaten-Vinaigrette
 description: Schöner kann man den Mai nicht feiern
 rezeptarten: [Gemuese]
-hauptzutaten: [Spargel, Kirschtomaten, Ziegenkaese, Petersilie, Minze, Dill]
+hauptzutaten: [Spargel, Tomaten, Ziegenkaese, Petersilie, Minze, Dill]
 publishdate: 2018-05-01
 ---
 

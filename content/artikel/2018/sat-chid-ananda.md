@@ -2,8 +2,8 @@
 title: Wer bin ich?
 description: Antworten aus der Yogaphilosopie
 schlagwoerter: [Yogaphilosophie, Vedanta]
-publishdate: 2018-12-09
-lastmod: 2018-12-09
+publishdate: 2018-12-31
+lastmod: 2018-12-31
 ---
 
 {{< img src="/assets/images/buddha-moos.jpg" alt="Buddha im Moos" >}}

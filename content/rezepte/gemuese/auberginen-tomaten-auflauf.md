@@ -2,7 +2,7 @@
 title: Auberginen-Tomaten-Auflauf
 description:  Ein vegetarisches low carb Gericht zum Sattessen
 rezeptarten: [Gemuese]
-hauptzutaten: [Auberginen, Tomaten]
+hauptzutaten: [Aubergine, Tomaten]
 publishdate: 2018-10-06
 ---
 

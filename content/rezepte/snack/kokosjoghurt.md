@@ -1,7 +1,7 @@
 ---
 title: Kokosjoghurt
 description: Lässt sich ganz leicht selbst herstellen
-rezeptarten: [Snacks]
+rezeptarten: [Snack]
 hauptzutaten: [Kokosmilch, Agar-Agar]
 publishdate: 2018-06-04
 ---
