@@ -4,9 +4,10 @@ description: Der Klassiker in unserer Küche
 rezeptarten: [Suppe]
 hauptzutaten: [Kürbis, Milch]
 publishdate: 2018-12-13
+lastmod: 2018-12-15
 ---
 
-Im Herbst kaufen wir Vorräte von unserem Lieblingskürbis ein, der länglich geformten Butternuss - auch Muskatkürbis genannt. Der wird dann in Scheiben geschnitten, geschält und in Würfel zerteilt. Die Würfel frieren wir in Portionen a 350 Gramm ein und so können wir uns dieses cremige Süppchen jederzeit aus dem Vorrat zaubern.
+Im Herbst kaufen wir immer Vorräte von unserem Lieblingskürbis ein, der länglich geformten Butternuss - auch Muskatkürbis genannt. Der wird dann in Scheiben geschnitten, geschält und in Würfel zerteilt. Die Würfel frieren wir in Portionen a 350 Gramm ein und so können wir uns dieses cremige Süppchen jederzeit aus dem Vorrat zaubern.
 
 
 ## Zutaten

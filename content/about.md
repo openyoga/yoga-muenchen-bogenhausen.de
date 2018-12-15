@@ -29,16 +29,16 @@ Nach Jahren der eigenen Praxis wollte ich gerne mehr über Yoga erfahren und beg
 [5]: {{< a_external "https://www.yoga-vidya.de/netzwerk/berufsverbaende/byv/byv-infos/" >}}
 
 
-Weiterbildungen in Anatomie und Korrekturen, Rückenyoga, und Yin Yoga/Faszientraining folgten. Ich genieße es sehr, Yoga an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Stunde in glückliche und entspannte Gesichter zu blicken.
-
+Weiterbildungen in Anatomie und Korrekturen, Rückenyoga und Yin Yoga/Faszientraining folgten. Ich verfüge auch über eine Fitnesstrainer B-Lizenz, die A-Lizenz für Medizinisches Fitnesstraining / Rehasport sowie einen Abschluss als Ernährungsberaterin (alle drei absolviert beim [BTB][6]). Ich genieße es sehr, Yoga an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Stunde in glückliche und entspannte Gesichter zu blicken.
+[6]: {{< a_external "https://www.btb.info/" >}}
 
 ## Website Technik
 
-Diese Website hat mein Mann [Ottmar][6] mit [Hugo][7], einem statischen Site Generator entwickelt. Den Quellcode könnt Ihr [hier bei GitHub anschauen][8].
+Diese Website hat mein Mann [Ottmar][7] mit [Hugo][8], einem statischen Site Generator entwickelt. Den Quellcode könnt Ihr [hier bei GitHub anschauen][9].
 
-[6]: {{< author "ogobrecht" "url" >}}
-[7]: {{< a_external "https://gohugo.io/" >}}
-[8]: {{< a_external "https://github.com/openyoga/yoga-muenchen-bogenhausen.de" >}}
+[7]: {{< author "ogobrecht" "url" >}}
+[8]: {{< a_external "https://gohugo.io/" >}}
+[9]: {{< a_external "https://github.com/openyoga/yoga-muenchen-bogenhausen.de" >}}
 
 
 ## Kontakt
