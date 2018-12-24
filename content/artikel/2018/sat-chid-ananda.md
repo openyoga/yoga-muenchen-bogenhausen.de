@@ -2,14 +2,15 @@
 title: Wer bin ich?
 description: Antworten aus der Yogaphilosopie
 schlagwoerter: [Yogaphilosophie, Vedanta]
-publishdate: 2018-12-31
-lastmod: 2018-12-31
+publishdate: 2019-01-01
+lastmod: 2019-01-01
 ---
 
 {{< img src="/assets/images/buddha-moos.jpg" alt="Buddha im Moos" >}}
 
-Vielleicht hast Du Dir die Frage schon einmal gestellt: Wer bin ich wirklich? Diese Frage ist gar nicht so einfach zu beantworten.  Nähern wir ihr uns doch einmal von der anderen Seite: Wer bin ich nicht? Die Yogaphilosophie sagt ganz klar: Alles, was Du wahrnimmst, bist nicht Du, da Du der Wahrnehmende bist und nicht das Objekt Deiner Wahrnehmung. Du bist der Beobachter, der die Frage stellt: "Wer bin ich?" Du bist auch nichts, was der Veränderung unterworfen ist, denn Du kannst ja die Eigenschaft der Veränderlichkeit an allen möglichen Dingen feststellen. Wenn Du Dir einmal genauer überlegst, was alles veränderlich ist, bleibt nicht mehr viel übrig: Dein Körper ist dem Wandel unterworfen, Deine Gefühle, Deine Gedanken, die Dinge, die Dir wichtig sind ... <br/>
-Was verändert sich denn definitiv nicht? Die Yogis sagen: Dein wahres Selbst ist unveränderlich und nicht der Begrenzung unterworfen. Sie definieren dieses wahre Selbst mit den Aspekten Sat, Chid und Ananada.
+Vielleicht hast Du Dir die Frage schon einmal gestellt: Wer bin ich wirklich? <br/>
+Diese Frage ist gar nicht so einfach zu beantworten.  Nähern wir ihr uns doch einmal von der anderen Seite: Wer bin ich nicht? Die Yogaphilosophie sagt ganz klar: Alles, was Du wahrnimmst, bist nicht Du, da Du der Wahrnehmende bist und nicht das Objekt Deiner Wahrnehmung. Du bist der Beobachter, der die Frage stellt: "Wer bin ich?" Du bist auch nichts, was der Veränderung unterworfen ist, denn Du kannst ja die Eigenschaft der Veränderlichkeit an allen möglichen Dingen feststellen. Wenn Du Dir einmal genauer überlegst, was alles veränderlich ist, bleibt nicht mehr viel übrig: Dein Körper ist dem Wandel unterworfen, Deine Gefühle, Deine Gedanken, die Dinge, die Dir wichtig sind ... <br/>
+Was verändert sich denn definitiv nicht? Die Yogis sagen: Dein wahres Selbst ist unveränderlich und nicht der Begrenzung unterworfen. Sie definieren dieses wahre Selbst mit den Aspekten Sat, Chid und Ananda.
 
 ## Sat
 
@@ -30,7 +31,7 @@ Diese drei Aspekte des eigenschaftslosen Selbst, des höchsten Absoluten stammen
 
 ## Fazit
 
-Das Ziel des Yoga ist nichts Geringeres, als Dein wahres Selbst zu erkennen und diese Glückseligkeit, Ananda, zu erlangen. Die findet sich sicher nicht im 37. Paar Schuhe, einem noch schlankeren und sportlicheren Körper oder einer weiteren Gehaltserhöhung. Laut Yogaphilosophie finde ich das Glück gar nicht in der materiellen Welt (denn die ist veränderlich), gar nicht im Außen, sondern in mir selbst. Wenn ich schon Sat, Chid und Ananda bin, dann muss ich es nur noch erkennen und leben. <br/>
-Das sagt sich so leicht. Und wie setze ich das um? Sich daran anzunähern setzt sicher eine längere Zeit der Yogapraxis mit täglicher Meditation, ein ethisch gelebtes Leben, die Beschäftigung mit Philosophie usw. voraus. Letztlich muss ich jede Anhaftung, jede Identifikation auflösen, z.B. die Identifikation mit meinem Körper oder meinem Ego. Große Yogis und Meditationsmeister haben diesen Zustand erreicht. <br/><br/>
+Das Ziel des Yoga ist nichts Geringeres, als Dein wahres Selbst zu erkennen und diese Glückseligkeit, Ananda, zu erlangen. Die findet sich sicher nicht im 37. Paar Schuhe, einem schlankeren Körper oder einer weiteren Gehaltserhöhung. Laut Yogaphilosophie finde ich das Glück nicht in der materiellen Welt (denn die ist veränderlich), nicht im Außen, sondern in mir selbst. Wenn ich schon Sat, Chid und Ananda bin, dann muss ich es nur noch erkennen und leben. <br/>
+Das sagt sich so leicht. Und wie setze ich das um? Sich daran anzunähern bedeutet aus Sicht der Yogis eine längere Zeit der Yogapraxis mit täglicher Meditation, ein ethisch gelebtes Leben, die Beschäftigung mit Philosophie usw. Letztlich muss ich jede Anhaftung, jede Identifikation auflösen, z.B. die Identifikation mit meinem Körper oder meinem Ego. Große Yogis und Meditationsmeister haben diesen Zustand erreicht. <br/><br/>
 Aber selbst wenn wir es nicht bis zur Erleuchtung schaffen: Allein der Gedanke: "Ich bin nicht mein Körper!" kann mir schon Erleichterung verschaffen, vor allem wenn es ihm mal nicht so gut geht. Und wenn ich weiß, wie schnell sich Gefühle und Gedanken verändern und dass sie nicht mein wahres Wesen ausmachen, dann kann ich mich auch wesentlich gelassener und konstruktiver verhalten, wenn mich jemand verletzt hat. Die kleinen Probleme und Ärgernisse im Alltag verlieren ein wenig an Größe und Macht über mich. Und auch die heftigen Krisen lassen sich besser durchleben, wenn ich mich in einen größeren Rahmen eingebunden fühle. <br/>
 Durch die Yogapraxis, besonders die Meditation, erlange ich ein Stück weit mehr Gelassenheit und inneren Frieden für jeden einzelnen Tag in meinem Leben.

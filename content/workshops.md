@@ -18,7 +18,8 @@ Du kannst nicht regelmäßig an einem Kurs teilnehmen, willst aber dennoch Yoga 
 Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt zwei oder auch mal drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
 
 - **Sonntag, 13. Januar 19:00 bis 21:00 Uhr**
-- **Sonntag, 27. Januar 19:00 bis 21:00 Uhr**
+- **Sonntag, 03. Februar 19:00 bis 21:00 Uhr**
+- **Sonntag, 10. Februar 19:00 bis 21:00 Uhr**
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 
@@ -28,6 +29,7 @@ In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, t
 
 - **Freitag, 11. Januar 19:30 bis 21:30 Uhr**
 - **Freitag, 25. Januar 19:30 bis 21:30 Uhr**
+- **Freitag, 08. Februar 19:30 bis 21:30 Uhr**
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Hatha Yoga für Anfänger {#anfaengeryogaworkshop}

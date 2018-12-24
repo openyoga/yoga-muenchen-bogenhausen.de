@@ -16,14 +16,15 @@ menu:
 
 - Freitag, 11. Januar 19:30 bis 21:30 Uhr
 - Freitag, 25. Januar 19:30 bis 21:30 Uhr
+- Freitag, 08. Februar 19:30 bis 21:30 Uhr
 
 [Yin Yoga / Faszienyoga][7]
 
 - Sonntag, 13. Januar 19:00 bis 21:00 Uhr
-- Sonntag, 27. Januar 19:00 bis 21:00 Uhr
+- Sonntag, 03. Februar 19:00 bis 21:00 Uhr
+- Sonntag, 10. Februar 19:00 bis 21:00 Uhr
 
-
-## Kurse nach den Weihnachtsferien (10x ab Januar 2019)
+## Kurse (10x ab Februar 2019)
 
 [Hatha Yoga / Rückenyoga][3]
 
