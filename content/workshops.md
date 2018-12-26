@@ -57,7 +57,8 @@ Preise für Personal Training auf Anfrage.
 
 ## Konditionen {#konditionen}
 
-Die Preise liegen bei 15 € für 90 Minuten, 20 € für 120 Minuten Workshop und 30 € für 180 Minuten. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab vier angemeldeten Teilnehmern statt.  **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
+Die Preise liegen bei 15 € für 90 Minuten, 20 € für 120 Minuten Workshop und 30 € für 180 Minuten. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab vier angemeldeten Teilnehmern statt. Preise für Personal Training auf Anfrage.    
+**Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 
 ## Veranstaltungsort {#veranstaltungsort}
