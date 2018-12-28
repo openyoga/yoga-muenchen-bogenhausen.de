@@ -9,7 +9,7 @@ lastmod: 2019-01-01
 {{< img src="/assets/images/buddha-moos.jpg" alt="Buddha im Moos" >}}
 
 Vielleicht hast Du Dir die Frage schon einmal gestellt: Wer bin ich wirklich? <br/>
-Diese Frage ist gar nicht so einfach zu beantworten. Nähern wir ihr uns doch einmal von der anderen Seite: Wer bin ich nicht? Die Yogaphilosophie sagt ganz klar: Alles, was Du wahrnimmst, bist nicht Du, da Du der Wahrnehmende bist und nicht das Objekt Deiner Wahrnehmung. Du bist der Beobachter, der die Frage stellt: "Wer bin ich?". Du bist auch nichts, was der Veränderung unterworfen ist, denn Du kannst ja die Eigenschaft der Veränderlichkeit an allen möglichen Dingen feststellen. Wenn Du Dir einmal genauer überlegst, was alles veränderlich ist, bleibt nicht mehr viel übrig: Dein Körper ist dem Wandel unterworfen, Deine Gefühle, Deine Gedanken, die Dinge, die Dir wichtig sind ... <br/>
+Diese Frage ist gar nicht so einfach zu beantworten. Nähern wir ihr uns doch einmal von der anderen Seite: Wer bin ich nicht? Die Yogaphilosophie sagt ganz klar: Alles, was Du wahrnimmst, bist nicht Du, da Du der Wahrnehmende bist und nicht das Objekt Deiner Wahrnehmung. Du bist der Beobachter, der die Frage stellt: "Wer bin ich?" Du bist auch nichts, was der Veränderung unterworfen ist, denn Du kannst ja die Eigenschaft der Veränderlichkeit an allen möglichen Dingen feststellen. Wenn Du Dir einmal genauer überlegst, was alles veränderlich ist, bleibt nicht mehr viel übrig: Dein Körper ist dem Wandel unterworfen, Deine Gefühle, Deine Gedanken, die Dinge, die Dir wichtig sind ... <br/>
 Was verändert sich denn definitiv nicht? Die Yogis sagen: Dein wahres Selbst ist unveränderlich und nicht der Begrenzung unterworfen. Sie definieren dieses wahre Selbst mit den Aspekten Sat, Chid und Ananda.
 
 
