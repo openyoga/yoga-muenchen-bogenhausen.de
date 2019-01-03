@@ -14,7 +14,6 @@ menu:
 
 [Hatha Yoga / Rückenyoga][6]
 
-- Freitag, 11. Januar 19:30 bis 21:30 Uhr
 - Freitag, 25. Januar 19:30 bis 21:30 Uhr
 - Freitag, 08. Februar 19:30 bis 21:30 Uhr
 
