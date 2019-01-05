@@ -12,7 +12,7 @@ Ein klassischer Rohkost-Salat - mit gerösteten Sonnenblumenkernen, aromatischen
 ## Zutaten
 
 - 6 Karotten, geschält und grob geraspelt
-- 1 frische rote Beete, geschält und grob geraspelt
+- 1 frische Rote Beete, geschält und grob geraspelt
 - 1 Apfel, gewaschen und grob geraspelt
 - 3 El Sonnenblumenkerne, geröstet
 - 3 El Zitronensaft, frisch gepresst
@@ -27,6 +27,6 @@ Ein klassischer Rohkost-Salat - mit gerösteten Sonnenblumenkernen, aromatischen
 
 1. Die Sonnenblumenkerne rösten - entweder in einer beschichteten Pfanne ohne Öl oder im Backofen auf einem Blech (ca. 15 Minuten bei ca. 150 Grad), bis sie anfangen zu duften und leicht braun werden, dann abkühlen lassen
 2. Für die Soße drei bis vier Esslöffel Zitronensaft mit den drei Ölen, einem Teelöffel süßem Senf, Salz und Pfeffer verrühren - je nach Geschmack kann man etwas Wasser unterrühren
-3. Geriebene Karotten, rote Beete und Apfel mit dem Dressing vermischen und zu guter Letzt die gerösteten Kerne unterrühren
+3. Geriebene Karotten, Rote Beete und Apfel mit dem Dressing vermischen und zu guter Letzt die gerösteten Kerne unterrühren
 
 Reicht für vier Personen als Beilage oder für zwei als Hauptgericht.
