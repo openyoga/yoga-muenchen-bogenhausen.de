@@ -1,5 +1,3 @@
-  <li>
-      {{- if in (slice "artikel" "rezepte") .Type }}<span class="item-meta">{{ index $.Site.Data.months (printf "%d" .PublishDate.Month) }} {{ .PublishDate.Year }}</span>{{ end }}
-    <h2><a class="item-link" href="{{ .URL }}">{{ index $.Site.Data.labels .Title | default .Title }}</a></h2>
-    {{ with .Description }}<span class="item-meta">{{ . }}</span>{{ end }}
-  </li>
+<li>{{ if in (slice "artikel" "rezepte") .Type }}<span class="item-meta">{{ index $.Site.Data.months (.PublishDate.Format "Jan") }} {{ .PublishDate.Year }}</span>{{ end }}
+<h2><a class="item-link" href="{{ .URL }}">{{ index $.Site.Data.labels .Title | default .Title }}</a></h2>
+{{ with .Description }}<span class="item-meta">{{ . }}</span>{{ end }}</li>

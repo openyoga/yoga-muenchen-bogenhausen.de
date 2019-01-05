@@ -3,7 +3,7 @@ title: Yoga und Ernährung
 description: Muss ich Vegetarier oder gar Veganer sein, wenn ich Yoga mache?
 schlagwoerter: [Yoga, Ernaehrung, Vegetarier, Veganer, Gunas, Gesundheit]
 publishdate: 2017-11-27
-lastmod: 2018-11-01
+lastmod: 2019-01-05
 ---
 
 {{< img src="/assets/images/dreieck.jpg" alt="Das Dreieck" >}}
@@ -12,15 +12,12 @@ Nein, natürlich darfst Du essen was Du magst und was Dir gut tut! Denn was wär
 
 [1]: /artikel/2017/was-ist-yoga/
 
-<!--more-->
-
 
 ## Gewaltlosigkeit
 
 Warum sind viele Yogis dann Vegetarier oder sogar Veganer? Eine Grundregel der Yogaphilosophie ist die Gewaltlosigkeit, [Ahimsa][2]. Ich tue mir selbst keine Gewalt an (das heißt ich mache z.B. keine Crash Diäten) und tue auch anderen Lebewesen keine Gewalt an. Deswegen ist Fleisch und Fisch unter Yogis nicht so beliebt. Selbst wenn ich es nicht eigenhändig schlachte, so zwinge ich doch einen anderen Menschen dazu, ein Tier zu töten.
 
 [2]: /artikel/2018/yamas/
-
 
 
 ## Ausgeglichenheit
@@ -35,16 +32,23 @@ In der Yogaphilosophie gibt es das Konzept der drei Gunas (Eigenschaften): Man g
 
 ## Vegetarisch, vegan, bio oder was?
 
-Sattvige Nahrung: Da wären wir also bei der vegetarischen Ernährungsform. Aber immer mehr Menschen sehen heute, wie sehr Tiere bei uns für die Milchproduktion leiden müssen und steigen auf eine vegane Ernährung um. Ich möchte das nicht kommentieren. Allgemein würde ich mir wünschen, dass Menschen andere Menschen nicht sofort anhand ihrer Ernährungsgewohnheiten oder ihres Aussehens bewerten und verurteilen. Geht offen an das Thema Ernährung und Essen ran!\\
-« Wenn Du kein Fleisch isst, wirst Du nicht satt. »\\
-« Wer als Mann kein Fleisch isst, ist schwul. »\\
-« Frauen essen nur Salat. »\\
+Sattvige Nahrung: Da wären wir also bei der vegetarischen Ernährungsform. Aber immer mehr Menschen sehen heute, wie sehr Tiere bei uns für die Milchproduktion leiden müssen und steigen auf eine vegane Ernährung um. Ich möchte das nicht kommentieren. Allgemein würde ich mir wünschen, dass Menschen andere Menschen nicht sofort anhand ihrer Ernährungsgewohnheiten oder ihres Aussehens bewerten und verurteilen. Geht offen an das Thema Ernährung und Essen ran!
+
+« Wenn Du kein Fleisch isst, wirst Du nicht satt. »
+
+« Wer als Mann kein Fleisch isst, ist schwul. »
+
+« Frauen essen nur Salat. »
+
 Ja klar! Vereinfachen ist bei dem Thema Ernährung jedenfalls nicht zielführend: Nicht jeder Fleischesser lebt ungesund und nicht jeder Veganer lebt gesund. Obwohl vegane Kuchen und Schokoladen echt lecker sind, sind das keine Grundnahrungsmittel ;-) Und am unattraktivsten finde ich Menschen, die total verbissen ihre Konzepte verfolgen, dabei jeglichen Spaß verlieren und anderen dann ihre Konzepte auch noch aufdrängen wollen. Beim Yoga arbeitet man viel mit der inneren Einstellung, vielleicht erforscht Ihr die mal: Wie ist Eure Einstellung zum Thema Essen? Ist es eine positve? Tut Euch diese Einstellung gut? Versucht Ihr mit Essen irgendwas zu kompensieren, was Ihr besser anderweitig lösen solltet (Frustessen, Kontrollzwang, ...)? Seid Ihr entspannt, tolerant, offen wenn es um das Thema Essen geht?
 
 
 ## Vielseitig und ausgeglichen essen
 
 Essen soll Spaß machen und gut tun. Und auch wenn es langweilig klingt: Meistens ist es am besten, nichts zu übertreiben. Weder mengenmäßig noch anderweitig beim Essen und im Leben. Esst im Kreise Eurer Liebsten, macht ein Fest daraus! Esst vernünftige Mengen (wir sind keine alten Römer ;-). Esst vielseitig! Esst mit Ruhe und Genuss! So einfach ist das.
-Letztlich sind das ja alles Luxusprobleme, wenn ich mir überlege, wie viele Menschen jedes Jahr an Hunger sterben oder verschmutztes Trinkwasser zu sich nehmen müssen. Wenn Ihr Lust habt, probiert mal aus, Eure Mahlzeiten mit dem Gefühl von Dankbarkeit zu Euch zu nehmen, sie richtig zu genießen. <br/>
-Wenn man ein wenig Interesse am Thema Ernährung hat und ein bisschen auf die Inhaltsstoffe der Nahrungsmittel schaut, die man so zu sich nimmt, dann bringt einen das meiner Meinung nach viel weiter als starren Konzepten zu folgen. In viele Fertigprodukte wird Zucker gemischt, auch in herzhafte Nahrungsmittel. Wozu? Ja, auch in Bio-Produkte und ja, auch in vegane Bio-Produkte. Billig-Fleisch enthält neben Eiweiß leider auch viel, was wir nicht wirklich zu uns nehmen wollen, z.B. Antibiotika. Wie fühlen sich die Tiere bei der Produktion, wie die Menschen, die an der gesamten Produktionskette mitarbeiten? <br/>
+
+Letztlich sind das ja alles Luxusprobleme, wenn ich mir überlege, wie viele Menschen jedes Jahr an Hunger sterben oder verschmutztes Trinkwasser zu sich nehmen müssen. Wenn Ihr Lust habt, probiert mal aus, Eure Mahlzeiten mit dem Gefühl von Dankbarkeit zu Euch zu nehmen, sie richtig zu genießen.
+
+Wenn man ein wenig Interesse am Thema Ernährung hat und ein bisschen auf die Inhaltsstoffe der Nahrungsmittel schaut, die man so zu sich nimmt, dann bringt einen das meiner Meinung nach viel weiter als starren Konzepten zu folgen. In viele Fertigprodukte wird Zucker gemischt, auch in herzhafte Nahrungsmittel. Wozu? Ja, auch in Bio-Produkte und ja, auch in vegane Bio-Produkte. Billig-Fleisch enthält neben Eiweiß leider auch viel, was wir nicht wirklich zu uns nehmen wollen, z.B. Antibiotika. Wie fühlen sich die Tiere bei der Produktion, wie die Menschen, die an der gesamten Produktionskette mitarbeiten?
+
 Vielleicht habt Ihr Lust darauf, mehr frische Nahrungsmittel zu essen, möglichst unverarbeitete, zumindestens am Wochenende wenn Ihr mehr Zeit habt. Also lieber einen Apfel als die Apfeltasche. Lieber etwas selbst Gekochtes, was Ihr wirklich gerne esst (kleines Sonntagsritual) als etwas aus der Dose. Und ja, ab und zu darf es auch mal ein Burger mit Pommes sein! Die gibt es auch in Bio-Qualität, vegetarisch, vegan oder brotlos, glutenfrei, Low Carb, was auch immer. Immer kalorienreich. ;-) Aber dann bitte definitiv ohne schlechtes Gewissen essen!

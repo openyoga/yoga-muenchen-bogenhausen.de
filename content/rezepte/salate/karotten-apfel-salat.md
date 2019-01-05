@@ -2,8 +2,9 @@
 title: Karotten-Apfel-Salat mit roter Beete
 description: Geröstete Sonnenblumenkerne bringen zusätzliches Aroma
 rezeptarten: [Salat, Rohkost]
-hauptzutaten: [Karotten, Apfel, rote Beete]
+hauptzutaten: [Karotten, Apfel, Rote Beete]
 publishdate: 2019-01-03
+lastmod: 2019-01-05
 ---
 
 Ein klassischer Rohkost-Salat - mit gerösteten Sonnenblumenkernen, aromatischen Salatölen und süßem Senf erhält er den gewissen Schlemmerfaktor.
@@ -25,7 +26,7 @@ Ein klassischer Rohkost-Salat - mit gerösteten Sonnenblumenkernen, aromatischen
 ## Zubereitung
 
 1. Die Sonnenblumenkerne rösten - entweder in einer beschichteten Pfanne ohne Öl oder im Backofen auf einem Blech (ca. 15 Minuten bei ca. 150 Grad), bis sie anfangen zu duften und leicht braun werden, dann abkühlen lassen
-2. Für die Soße drei bis vier Esslöffel Zitronensaft mit den drei Ölen, einem Teelöffel süßem Senf, Salz und Pfeffer verrühren - je nach Geschmack etwas kann man etwas Wasser unterrühren
+2. Für die Soße drei bis vier Esslöffel Zitronensaft mit den drei Ölen, einem Teelöffel süßem Senf, Salz und Pfeffer verrühren - je nach Geschmack kann man etwas Wasser unterrühren
 3. Geriebene Karotten, rote Beete und Apfel mit dem Dressing vermischen und zu guter Letzt die gerösteten Kerne unterrühren
 
 Reicht für vier Personen als Beilage oder für zwei als Hauptgericht.

@@ -3,7 +3,7 @@ title: About
 description: Eine Seite mit Hintergrundinformationen zu Open Yoga MUC
 menu:
   main:
-    weight: 60
+    weight: 70
 ---
 
 {{< img src="/assets/images/shavasana.jpg" alt="Shavasana" >}}

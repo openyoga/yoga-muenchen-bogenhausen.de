@@ -12,7 +12,7 @@
   {{- end -}}
   {{- with $author.url }}<a href="{{.}}">{{ end }}{{ $author.name }}{{ if $author.url }}</a>{{ end }}
 {{- end }},
-    veröffentlicht am <time datetime="{{ .PublishDate.Format "2006-01-02" }}" itemprop="datePublished">{{ .PublishDate.Day }}. {{ index $.Site.Data.months (printf "%d" .PublishDate.Month) }} {{ .PublishDate.Year }}</time>,
+    veröffentlicht am <time datetime="{{ .PublishDate.Format "2006-01-02" }}" itemprop="datePublished">{{ .PublishDate.Day }}. {{ index $.Site.Data.months (.PublishDate.Format "January") }} {{ .PublishDate.Year }}</time>,
     gekennzeichnet mit {{ $.Scratch.Set "i" 0 }}
 {{- $.Scratch.Set "length" 0 }}
 {{- if .Page.Params.schlagwoerter }}{{ $.Scratch.Add "length" (len .Page.Params.schlagwoerter) }}{{ end }}

@@ -3,12 +3,13 @@ title: Ethik in der Yogaphilosophie I - Yamas
 description: Regeln im Umgang mit anderen
 schlagwoerter: [Yogaphilosophie, Ehtik]
 publishdate: 2018-11-03
-lastmod: 2018-11-11
+lastmod: 2019-01-05
 ---
 
 {{< img src="/assets/images/buddha-schnecke.jpg" alt="Buddha und Schnecke" >}}
 
-Die Yamas (Regeln im Umgang mit anderen) und Niyamas (Regeln im Umgang mit sich selbst) stammen aus einer über 2000 Jahre alten Schrift der Yogaphilosphie, dem Yoga Sutra des Patanjali. Und doch haben sie nichts an Aktualität eingebüßt; noch immer werden sie von fortgeschrittenen Yogis beachtet, zitiert und diskutiert.\
+Die Yamas (Regeln im Umgang mit anderen) und Niyamas (Regeln im Umgang mit sich selbst) stammen aus einer über 2000 Jahre alten Schrift der Yogaphilosphie, dem Yoga Sutra des Patanjali. Und doch haben sie nichts an Aktualität eingebüßt; noch immer werden sie von fortgeschrittenen Yogis beachtet, zitiert und diskutiert.
+
 Heute geht es erst einmal um die fünf Yamas, d.h. darum, wie wir in Beziehung zu anderen Menschen treten - und zwar nicht nur zu unseren Freunden und unserer Familie, sondern letztlich zur gesamten Weltgemeinschaft.
 
 

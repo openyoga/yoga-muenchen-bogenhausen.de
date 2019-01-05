@@ -3,13 +3,12 @@ title: Was ist Yin Yoga - was sind Faszien?
 description: Nur ein weiterer Trend?
 schlagwoerter: [Yoga, Yin Yoga, Faszienyoga, Faszientraining, Bindegewebe, Wirkung]
 publishdate: 2018-02-05
+lastmod: 2019-01-05
 ---
 
 {{< img src="/assets/images/schmetterling.jpg" alt="Der Schmetterling" >}}
 
 Faszien gibt es schon mindestens so lange, wie es den menschlichen Körper gibt, aber warum wird jetzt so ein Hype darum gemacht? Faszien, das ist das Bindegewebe. Anatomen schnitten es früher weg, um an die wirklich interessanten Dinge heranzukommen (so dachten sie damals): Die Muskeln und Knochen. Erst in letzter Zeit entdeckt man, dass das Bindegewebe nicht nur Füllfunktionen hat und erforscht seine Eigenschaften und Aufgaben näher.
-
-<!--more-->
 
 
 ## Was sind Faszien?
@@ -35,6 +34,6 @@ Die Yin und Yang Philosophie kommt aus China, lehnt sich an den Taoismus an und 
 
 Yin Yoga ist ein passiver Yogastil in dem die einzelnen Asanas (Übungen) relativ lange gehalten werden (ca. fünf Minuten). Durch das Verweilen in den Yin Stellungen wird die tiefe Schicht des Bindegewebes angesprochen. Muskelkraft wird dabei möglichst so gut wie gar nicht eingesetzt, wir wollen uns hingeben. Wir wärmen uns vor dem Yin Yoga auch nicht auf. Die meisten Positionen sind im Sitzen oder Liegen und wirken besonders auf die Hüften, die Beine, den unteren Rücken, die Wirbelsäule und die inneren Organe. Die beste Zeit, um Yin Yoga zu praktizieren ist frühmorgens oder spätabends, wenn die Muskeln kalt sind, in jedem Fall aber vor einer aktiven Yang Praxis. Und natürlich immer dann, wenn wir einen Ausgleich zu unserem stressigen Yang Leben benötigen.
 
->  Im Yin Yoga kreieren wir uns einen Raum, in dem wir uns selbst näherkomen, und dadurch klärt sich unser Bewusstsein. Die Haltungen wirken sehr tief nach innen - sowohl auf körperlicher als auch auf energetischer Ebene.
+>  Im Yin Yoga kreieren wir uns einen Raum, in dem wir uns selbst näherkommen, und dadurch klärt sich unser Bewusstsein. Die Haltungen wirken sehr tief nach innen - sowohl auf körperlicher als auch auf energetischer Ebene.
 >
 > Christine Ranzinger, Yin Yoga, Irisiana Verlag München, 1. Auflage 2014

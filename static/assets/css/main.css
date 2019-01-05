@@ -355,6 +355,13 @@ h5,
 h6 {
   font-weight: 400; }
 
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 30px; }
+
 img {
   max-width: 100%;
   vertical-align: middle;
@@ -382,6 +389,13 @@ ol {
 li > ul,
 li > ol {
   margin-bottom: 0; }
+
+li > h2,
+li > h3,
+li > h4,
+li > h5,
+li > h6 {
+  margin-top: 0; }
 
 dt {
   font-style: italic;
@@ -953,6 +967,7 @@ table {
     .sidebar header h2 {
       font-size: 25px;
       line-height: 1.2;
+      margin-top: 0;
       margin-bottom: 5px; }
     .sidebar header p {
       font-size: 12px;
