@@ -1,5 +1,5 @@
 ---
-title: Karotten-Apfel-Salat mit roter Beete
+title: Karotten-Apfel-Salat mit Roter Beete
 description: Geröstete Sonnenblumenkerne bringen zusätzliches Aroma
 rezeptarten: [Salat, Rohkost]
 hauptzutaten: [Karotten, Apfel, Rote Beete]
