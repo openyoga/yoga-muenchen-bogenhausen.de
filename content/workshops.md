@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-02-03
+lastmod: 2019-01-03
 menu:
   main:
     name: Workshops
@@ -11,7 +11,7 @@ menu:
 {{< img src="/assets/images/sprinter.jpg" alt="Der Sprinter" >}}
 
 
-Du kannst nicht regelmäßig an einem Kurs teilnehmen, willst aber dennoch Yoga machen oder einfach mal ausprobieren? Dann ist vielleicht ein Workshop, der einmalig an einem Samstag oder Sonntag stattfindet und zwischen zwei und drei Stunden dauert das Richtige für Dich.
+Du kannst nicht regelmäßig an einem Kurs teilnehmen, willst aber dennoch Yoga machen oder einfach mal ausprobieren? Dann ist vielleicht ein Workshop, der einmalig an einem Samstag oder Sonntag stattfindet und zwei Stunden dauert das Richtige für Dich.
 
 ## Yin Yoga / Faszienyoga {#yinyogaworkshop}
 
@@ -49,14 +49,9 @@ Du bist sehr sportlich und suchst nach einem Ausgleich zu Deinem Training oder h
 
 - Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
-## Personal Training (Einzelstunden) {#personaltraining}
-
-Du möchtest eine Yogastunde bei Dir zu Hause nach Deinen Bedürfnissen machen, hast spezielle Anliegen oder wünscht Dir eine noch intensivere Betreuung? Du möchtest zu Hause zusammen mit Deinen Freunden oder innerhalb Deiner Familie mit Deinen Kindern üben? Dann kontaktiere mich gern für eine Einzelstunde: **[{{< author "agobrecht" "email" >}}][1]**  
-Preise für Personal Training auf Anfrage.
-
 ## Konditionen {#konditionen}
 
-Die Preise liegen bei 15 € für 90 Minuten, 20 € für 120 Minuten Workshop und 30 € für 180 Minuten. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab vier angemeldeten Teilnehmern statt. Preise für Personal Training auf Anfrage.    
+Die Preise liegen bei 20 € für 120 Minuten Workshop. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab vier angemeldeten Teilnehmern statt. Preise für Personal Training auf Anfrage.    
 **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 

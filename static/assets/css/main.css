@@ -477,7 +477,8 @@ table {
 
 .right {
   float: right;
-  margin: .3em 0 .3em 1em; }
+  margin: .3em 0 .3em 1em;
+  text-align: right; }
 
 .avatar {
   width: 33%;
@@ -1023,9 +1024,6 @@ table {
   font-size: 24px;
   text-decoration: none; }
 
-.item-header {
-  margin-bottom: 30px; }
-
 .item-title {
   letter-spacing: -1px;
   line-height: 1.1; }
@@ -1058,7 +1056,7 @@ table {
 .nav-button {
   cursor: pointer;
   display: none;
-  padding: 40px 30px;
+  padding: 47px 30px 40px 30px;
   position: relative; }
 
 .nav-icon {
@@ -1128,7 +1126,7 @@ table {
     display: inline-block;
     position: fixed;
     right: 0;
-    top: 30px;
+    top: 0;
     z-index: 2; }
   .sidebar {
     bottom: 0;
@@ -1144,8 +1142,8 @@ table {
   .page-content {
     padding: 15px; }
   .nav-button {
-    padding-right: 15px;
-    top: 15px; } }
+    padding-top: 32px;
+    padding-right: 15px; } }
 
 @media only screen and (max-width: 319px) {
   body {

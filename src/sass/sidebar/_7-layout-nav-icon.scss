@@ -3,7 +3,7 @@
 .nav-button {
     cursor: pointer;
     display: none;
-    padding: $spacing-unit / 3 * 4 $spacing-unit;
+    padding: $spacing-unit + 10 + 7 $spacing-unit $spacing-unit + 10  $spacing-unit;
     position: relative;
 }
 

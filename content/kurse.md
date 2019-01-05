@@ -1,7 +1,7 @@
 ---
 title: Yoga Kurse in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Kursangeboten sowie aktuelle Termine
-lastmod: 2018-12-01
+lastmod: 2018-01-03
 menu:
   main:
     name: Kurse
@@ -19,12 +19,6 @@ Rückenyoga ist für Anfänger und Yogis mit Vorkenntnissen geeignet. Egal ob Du
 ## Yin Yoga / Faszienyoga - 10x sonntags 19:00-20:45 Uhr <br/>ab 17. Februar 2019 {#yinyoga}
 
 Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Mit jeder Kursstunde wirst Du ein klein wenig beweglicher. Eine sanfte, ruhige Stunde zur Regeneration; für Anfänger und Fortgeschrittene gleichermaßen geeignet.- **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
-
-
-## Personal Training (Einzelstunden) {#personaltraining}
-
-Du möchtest die Yogastunde ganz nach Deinen Bedürfnissen gestalten, hast spezielle Anliegen oder wünscht Dir eine noch intensivere Betreuung? Auch geeignet für Familien mit Kindern oder Freunde, wenn Ihr unter Euch zu Hause üben möchtet.   
-**Kontaktiere mich gern für eine Einzelstunde: [{{< author "agobrecht" "email" >}}][1]**
 
 
 ## Konditionen {#konditionen}

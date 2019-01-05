@@ -6,9 +6,12 @@ menu:
     weight: 60
 ---
 
+{{< img src="/assets/images/shavasana.jpg" alt="Shavasana" >}}
+
+
 ## Über Open Yoga MUC
 
-{{< img src="/assets/images/shavasana.jpg" alt="Shavasana" class="left width50" >}} Open Yoga ist klassisches [Hatha Yoga][0] für alle in München. Komm einfach wie Du bist, ob Du ambitionierter Hobby Sportler auf der Suche nach einem Ausgleich, Schreibtischtäter mit Rückenschmerzen oder einfach nur ein bisschen eingerostet bist. Open Yoga ist für Anfänger wie auch geübte Yogis geeignet. Schau mal unter [Workshops][1], ob für Dich etwas dabei ist. Open Yoga ist offen, pragmatisch, ideologiefrei und unesoterisch. Das Schöne an Yoga ist: Wir dehnen und kräftigen unsere Muskeln  gleichermaßen, das ist sehr ausgewogen und effektiv. Unser Motto bei Open Yoga: Es soll Freude machen und nach einer angenehmen Art von Anstrengung ein herrlich tiefes Gefühl von Entspannung bringen.
+Open Yoga ist klassisches [Hatha Yoga][0] für alle in München. Komm einfach wie Du bist, ob Du ambitionierter Hobby Sportler auf der Suche nach einem Ausgleich, Schreibtischtäter mit Rückenschmerzen oder einfach nur ein bisschen eingerostet bist. Open Yoga ist für Anfänger wie auch geübte Yogis geeignet. Schau mal unter [Workshops][1], ob für Dich etwas dabei ist. Open Yoga ist offen, pragmatisch, ideologiefrei und unesoterisch. Das Schöne an Yoga ist: Wir dehnen und kräftigen unsere Muskeln  gleichermaßen, das ist sehr ausgewogen und effektiv. Unser Motto bei Open Yoga: Es soll Freude machen und nach einer angenehmen Art von Anstrengung ein herrlich tiefes Gefühl von Entspannung bringen.
 
 [0]: /artikel/2017/was-ist-yoga
 [1]: /workshops/

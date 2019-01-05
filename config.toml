@@ -30,11 +30,11 @@ section = ["HTML", "RSS"]
 
 [[menu.main]]
 name = "Artikel"
-weight = 40
+weight = 50
 identifier = "artikel"
 url = "/artikel/"
 [[menu.main]]
 name = "Rezepte"
-weight = 50
+weight = 60
 identifier = "rezepte"
 url = "/rezepte/"

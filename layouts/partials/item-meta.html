@@ -3,9 +3,6 @@
 {{- $authors := .Page.Params.authors | default $.Site.Params.authors }}
 {{- range $authors }}
   {{- $author := index $.Site.Data.authors . }}
-  {{- if $author.avatar }}
-    <img class="left author circle" src="{{ $author.avatar }}" title="{{ $author.name }}" alt="{{ $author.name }}" />
-  {{- end }}
 {{- end }}
     Von {{ $len := sub (len $authors) 1 }}
 {{- range $i, $author := $authors }}
@@ -14,8 +11,9 @@
     {{- if eq $i $len }} und {{ else }}, {{ end }}
   {{- end -}}
   {{- with $author.url }}<a href="{{.}}">{{ end }}{{ $author.name }}{{ if $author.url }}</a>{{ end }}
-{{- end }}<br>
-    Veröffentlicht am <time datetime="{{ .PublishDate.Format "2006-01-02" }}" itemprop="datePublished">{{ .PublishDate.Day }}. {{ index $.Site.Data.months (printf "%d" .PublishDate.Month) }} {{ .PublishDate.Year }}</time>, gekennzeichnet mit {{ $.Scratch.Set "i" 0 }}
+{{- end }},
+    veröffentlicht am <time datetime="{{ .PublishDate.Format "2006-01-02" }}" itemprop="datePublished">{{ .PublishDate.Day }}. {{ index $.Site.Data.months (printf "%d" .PublishDate.Month) }} {{ .PublishDate.Year }}</time>,
+    gekennzeichnet mit {{ $.Scratch.Set "i" 0 }}
 {{- $.Scratch.Set "length" 0 }}
 {{- if .Page.Params.schlagwoerter }}{{ $.Scratch.Add "length" (len .Page.Params.schlagwoerter) }}{{ end }}
 {{- if .Page.Params.rezeptarten }}{{ $.Scratch.Add "length" (len .Page.Params.rezeptarten) }}{{ end }}

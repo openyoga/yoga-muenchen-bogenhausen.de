@@ -8,6 +8,7 @@ menu:
     name: Home
     weight: 10
 ---
+{{< img src="/assets/images/taube.jpg" alt="Die Taube" >}}
 
 
 ## Workshops
@@ -47,12 +48,10 @@ menu:
 - [Personal Training / Einzelstunden][1] jederzeit und örtlich flexibel
 
 [9]: /workshops/#konditionen
-[1]: /workshops/#personaltraining
+[1]: /personal-training
 
 
 ## Neueste Artikel
-
-{{< img src="/assets/images/kopfstand.jpg" alt="Der Kopfstand" class="right width40" >}}
 
 {{< list-content-by-section-and-limit "artikel" 3 >}}
 

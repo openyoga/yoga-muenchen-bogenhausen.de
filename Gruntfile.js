@@ -1,5 +1,6 @@
 module.exports = function (grunt) {
     "use strict";
+    const sass = require('node-sass');
     grunt.initConfig({
         sasslint: {
             options: {
@@ -9,6 +10,7 @@ module.exports = function (grunt) {
         },
         sass: {
             options: {
+                implementation: sass,
                 sourceMap: true
             },
             dist: {
