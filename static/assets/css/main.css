@@ -981,7 +981,6 @@ table {
     margin-left: 15px;
     margin-bottom: 30px; }
   .sidebar nav li {
-    display: block;
     list-style: none; }
   .sidebar nav .meta {
     opacity: .75;
