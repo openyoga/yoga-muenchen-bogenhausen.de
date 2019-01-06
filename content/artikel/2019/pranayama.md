@@ -3,7 +3,7 @@ title: Pranayama
 description: Atemübungen im Yoga
 schlagwoerter: [Pranayama, Meditation]
 publishdate: 2019-03-01
-lastmod: 2019-03-01
+lastmod: 2019-03-01 20:00:00
 ---
 
 {{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="Buddha im Moos" >}}
@@ -11,11 +11,11 @@ lastmod: 2019-03-01
 Vielleicht bist Du Yoga Anfänger und hast Dich in einer Deiner ersten Stunden gefragt, was diese merkwürdigen Atemübungen bringen sollen? Dann geht es Dir wie mir, als ich vor elf Jahren meine erste Hatha Yoga Stunde besucht habe. Die Asanas (Körperübungen) tun gut, das spürt man sofort. Aber durch das linke Nasenloch einatmen, den Atem anhalten, durch das rechte Nasenloch ausatmen, anhalten, durch das rechte Nasenloch wieder einatmen, den Atem anhalten und dann durch das linke Nasenloch ausatmen? Was soll das bewirken? 
 
 
-## Pranayama - eine Begrifferklärung
+## Pranayama - eine Begriffserklärung
 
 Der Begriff Pranayama setzt sich zusammen aus Prana = Atem, Lebensenergie und Ayama = kontrollieren, erweitern. Ziel von Pranayama ist nicht nur die Kontrolle des Atems während der Übungen, sondern die Zusammenführung von Körper und Geist. Es gibt eine enge Beziehung zwischen kognitiven und physiologischen Prozessen im menschlichen Körper, z.B. wird Deine Atmung flacher und schneller, wenn Du Stress oder Angst empfindest. An Meditierenden kann man beobachten, dass ihr Atem sehr langsam und ruhig fließt; sie nehmen wesentlich weniger Atemzüge pro Minute als ein Mensch unter Stress. 
 
-Zwischen Deinem Atem und Deinem Geist (Deiner psychische Verfassung) gibt es also einen direkten Zusammenhang. Und der funktioniert auch in die andere Richtung: Wenn ich mit einer Übung meinen Atem beruhige, ihn tiefer und gleichmäßiger werden lasse, dann wird auch mein Geist ruhiger, ich entspanne mich und kann mich wieder besser konzentrieren. Viele Menschen wenden die Wechselatmung (die Übung, die oben in der Einleitung beschrieben wird) erfolgreich bei Prüfungsangst oder Lampenfieber an.
+Zwischen Deinem Atem und Deinem Geist (Deiner psychischen Verfassung) gibt es also einen direkten Zusammenhang. Und der funktioniert auch in die andere Richtung: Wenn ich mit einer Übung meinen Atem beruhige, ihn tiefer und gleichmäßiger werden lasse, dann wird auch mein Geist ruhiger, ich entspanne mich und kann mich wieder besser konzentrieren. Viele Menschen wenden die Wechselatmung (die Übung, die oben in der Einleitung beschrieben wird) erfolgreich bei Prüfungsangst oder Lampenfieber an.
 
 
 ## Ziel von Pranayama

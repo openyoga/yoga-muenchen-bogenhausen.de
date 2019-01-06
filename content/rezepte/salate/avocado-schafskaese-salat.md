@@ -4,10 +4,11 @@ description: Avocado in Bestform
 rezeptarten: [Salat]
 hauptzutaten: [Blattsalat, Avocado, Schafskaese]
 publishdate: 2018-06-02
-lastmod: 2018-07-31
+lastmod: 2018-07-31 20:01:00
 ---
 
 Wir lieben Salate zum Sattessen. Und dieser macht nicht nur satt als Hauptgericht, sondern schmeckt auch besonders lecker mit der Soße, die durch die Avocado so cremig und sämig wird.
+
 
 ## Zutaten
 

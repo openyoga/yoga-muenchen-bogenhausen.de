@@ -1,7 +1,7 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2018-12-01
+lastmod: 2019-01-06 16:30:00
 
 menu:
   main:

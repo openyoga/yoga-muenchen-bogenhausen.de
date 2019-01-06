@@ -4,9 +4,11 @@ description: Vegetarische Proteine
 rezeptarten: [Salat]
 hauptzutaten: [Linsen, Tomaten, Ziegenkaese, Blattspinat]
 publishdate: 2018-09-01
+lastmod: 2018-09-01 20:00:00
 ---
 
 Belugalinsen und Ziegenkäse harmonieren perfekt mit Strauchtomaten und Baby-Blattspinat, finden wir. Ein proteinreicher vegetarischer Salat, der lauwarm oder auch gut durchgezogen sehr lecker schmeckt.
+
 
 ## Zutaten
 
@@ -22,6 +24,7 @@ Belugalinsen und Ziegenkäse harmonieren perfekt mit Strauchtomaten und Baby-Bla
 - 1 El Leinöl 
 - Salz
 - Pfeffer
+
 
 ## Zubereitung
 

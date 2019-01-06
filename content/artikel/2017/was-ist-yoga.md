@@ -3,7 +3,7 @@ title: Was ist Yoga?
 description: Mehr als die Körperübungen
 schlagwoerter: [Yoga, Hatha Yoga, Zielgruppen, Wirkung]
 publishdate: 2017-09-17
-lastmod: 2019-01-05
+lastmod: 2019-01-05 20:09:00
 ---
 
 {{< img src="/assets/images/taube.jpg" alt="Die Taube" >}}

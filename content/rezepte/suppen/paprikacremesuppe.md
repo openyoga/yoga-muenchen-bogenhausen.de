@@ -4,6 +4,7 @@ description: Limette und Koriander verleihen dieser einfachen Suppe das besonder
 rezeptarten: [Suppe]
 hauptzutaten: [Paprika, Koriander]
 publishdate: 2018-04-29
+lastmod: 2018-04-29 20:00:00
 ---
 
 ## Zutaten

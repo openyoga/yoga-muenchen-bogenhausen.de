@@ -3,7 +3,7 @@ title: Ethik in der Yogaphilosophie II - Niyamas
 description: Regeln im Umgang mit sich selbst
 schlagwoerter: [Yogaphilosophie, Ehtik]
 publishdate: 2018-12-05
-lastmod: 2019-01-05
+lastmod: 2019-01-05 20:06:00
 ---
 
 {{< img src="/assets/images/buddha-wasserfall.jpg" alt="Buddha am Wasserfall" >}}

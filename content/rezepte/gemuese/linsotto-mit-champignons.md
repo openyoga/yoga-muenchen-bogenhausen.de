@@ -4,6 +4,7 @@ description:  Soulfood (nicht nur) für den Herbst
 rezeptarten: [Gemuese]
 hauptzutaten: [Linsen, Champignons, Tomaten]
 publishdate: 2018-10-28
+lastmod: 2018-10-28 20:00:00
 ---
 
 Dieses Gericht ist das richtige für kalte Herbsttage; es wärmt von innen und macht uns mit seinem pflanzlichen Eiweiß und seiner cremigen Konsistenz nicht nur satt, sondern rundum glücklich und zufrieden. 
@@ -23,6 +24,7 @@ Dieses Gericht ist das richtige für kalte Herbsttage; es wärmt von innen und m
 - ½ El Waldhonig
 - 1 Tl getrockneter Thymian
 - Pfeffer, frisch gemahlen
+
 
 ## Zubereitung
 

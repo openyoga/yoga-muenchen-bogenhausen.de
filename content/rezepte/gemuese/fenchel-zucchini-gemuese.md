@@ -4,6 +4,7 @@ description:  Ayurveda meets Low Carb
 rezeptarten: [Gemuese]
 hauptzutaten: [Fenchel, Zucchini, Tofu]
 publishdate: 2018-04-15
+lastmod: 2018-04-15 20:00:00
 ---
 
 Dieses ayurvedische Gericht sättigt und schmeckt sehr gut in der Low Carb Version, vegan oder mit geriebenem Käse oder auch mit Basmatireis dazu. Es ist so variabel und lecker, dass wir es jede Woche einmal essen könnten.

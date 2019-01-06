@@ -4,9 +4,11 @@ description: Ein leichtes und erfrischendes Gericht für den Hochsommer
 rezeptarten: [Suppe]
 hauptzutaten: [Salatgurke, Tomaten, Paprika, Kichererbsen]
 publishdate: 2018-08-05
+lastmod: 2018-08-05 20:00:00
 ---
 
 Im Hochsommer lieben wir leichte und erfrischende Gerichte. Diese Gazpacho machen wir - ganz yogisch - ohne Zwiebeln und Knoblauch, dafür mit Cumin, Kichererbsen und glatter Petersilie. Yummy!
+
 
 ## Zutaten
 

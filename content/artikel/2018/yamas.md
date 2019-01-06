@@ -3,7 +3,7 @@ title: Ethik in der Yogaphilosophie I - Yamas
 description: Regeln im Umgang mit anderen
 schlagwoerter: [Yogaphilosophie, Ehtik]
 publishdate: 2018-11-03
-lastmod: 2019-01-05
+lastmod: 2019-01-05 20:04:00
 ---
 
 {{< img src="/assets/images/buddha-schnecke.jpg" alt="Buddha und Schnecke" >}}

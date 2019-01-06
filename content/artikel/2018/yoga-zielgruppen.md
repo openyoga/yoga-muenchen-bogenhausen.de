@@ -3,7 +3,7 @@ title: Für wen ist Yoga geeignet?
 description: Und für wen nicht?
 schlagwoerter: [Yoga, Hatha Yoga, Zielgruppen]
 publishdate: 2018-01-01
-lastmod: 2019-01-05
+lastmod: 2019-01-05 20:03:00
 ---
 
 {{< img src="/assets/images/matte-meditationskissen.jpg" alt="Matte und Meditationskissen" >}}

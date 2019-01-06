@@ -3,7 +3,7 @@ title: Yoga wirkt
 description: Ich und Yoga?
 schlagwoerter: [Yoga, Hatha Yoga, Wirkung, Gesundheit]
 publishdate: 2017-12-12
-lastmod: 2019-01-05
+lastmod: 2019-01-05 20:07:00
 ---
 
 {{< img src="/assets/images/taenzer.jpg" alt="Der Taenzer" >}}

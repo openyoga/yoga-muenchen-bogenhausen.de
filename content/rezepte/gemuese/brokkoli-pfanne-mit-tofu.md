@@ -4,6 +4,7 @@ description:  Ein ayurvedisches Rezept mit angerösteten Gewürzen
 rezeptarten: [Gemuese]
 hauptzutaten: [Brokkoli, Tomaten, Tofu]
 publishdate: 2018-03-10
+lastmod: 2018-03-10 20:00:00
 ---
 
 Dieses Rezept macht nicht nur satt ohne Fleisch, sondern auch glücklich. Die Gewürze werden im heißen Öl angeröstet, so wie das in der ayurvedischen Küche seit Jahrhunderten gemacht wird, und verleihen dem Gericht dadurch eine ganz besondere Würze.

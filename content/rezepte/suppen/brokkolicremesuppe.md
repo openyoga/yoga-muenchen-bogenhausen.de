@@ -4,6 +4,7 @@ description: "Das cremige Geheimnis: eine Avocado"
 rezeptarten: [Suppe]
 hauptzutaten: [Brokkoli, Avocado, Lauch]
 publishdate: 2018-03-03
+lastmod: 2018-03-03 20:02:00
 ---
 
 ## Zutaten

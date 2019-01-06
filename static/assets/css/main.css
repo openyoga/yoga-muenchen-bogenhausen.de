@@ -981,13 +981,14 @@ table {
     margin-left: 15px;
     margin-bottom: 30px; }
   .sidebar nav li {
+    display: block;
     list-style: none; }
   .sidebar nav .meta {
     opacity: .75;
     font-size: 12px;
     line-height: 1.2; }
   .sidebar nav a {
-    display: inline-block;
+    display: block;
     font-size: 15px;
     margin-top: 10px;
     opacity: .75; }

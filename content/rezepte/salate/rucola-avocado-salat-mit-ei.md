@@ -4,7 +4,7 @@ description: Nicht nur im Sommer ein toller Sattmacher
 rezeptarten: [Salat]
 hauptzutaten: [Rucola, Avocado, Ei, Tofu]
 publishdate: 2018-07-18
-lastmod: 2018-07-31
+lastmod: 2018-07-31 20:02:00
 ---
 
 Noch ein leckerer Salat zum Sattessen mit unseren Lieblingszutaten Avocado und Parmesan. Die Salatsoße machen wir Yogis gern ohne Essig - einfach mal probieren; sie schmeckt mit Zitronen- oder Limettensaft sehr erfrischend.

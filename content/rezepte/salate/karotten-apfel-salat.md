@@ -4,10 +4,11 @@ description: Geröstete Sonnenblumenkerne bringen zusätzliches Aroma
 rezeptarten: [Salat, Rohkost]
 hauptzutaten: [Karotten, Apfel, Rote Beete]
 publishdate: 2019-01-03
-lastmod: 2019-01-05
+lastmod: 2019-01-05 20:01:00
 ---
 
 Ein klassischer Rohkost-Salat - mit gerösteten Sonnenblumenkernen, aromatischen Salatölen und süßem Senf erhält er den gewissen Schlemmerfaktor.
+
 
 ## Zutaten
 

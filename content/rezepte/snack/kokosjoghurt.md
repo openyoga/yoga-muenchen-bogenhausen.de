@@ -4,9 +4,11 @@ description: Lässt sich ganz leicht selbst herstellen
 rezeptarten: [Snack]
 hauptzutaten: [Kokosmilch, Agar-Agar]
 publishdate: 2018-06-04
+lastmod: 2018-06-04 20:00:00
 ---
 
 Wenn man versucht, sich ohne Kuhmilchprodukte zu ernähren, stellt man schnell fest, dass die meisten Sojajoghurts scheußlich schmecken, es sei denn, sie wurden mit viel Zucker und künstlichen Aromen versehen. Kokosjoghurt ohne Zucker ist eine sehr leckere und kostspielige Alternative. Aber zum Glück kann man ihn ganz leicht selbst herstellen. Der Joghurt ist herrlich cremig, denn Kokosmilch enthält relativ viel Fett. Das wandert aber zum Glück nicht auf die Hüften, da es größtenteils aus mittelkettigen Fettsäuren, den sogenannten MCT-Fetten (middle/medium chain triglycerides) besteht.
+
 
 ## Zutaten
 

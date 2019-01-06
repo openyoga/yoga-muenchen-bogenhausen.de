@@ -4,6 +4,7 @@ description: Buttermilch-Minz-Dressing und Pekanüsse harmonieren perfekt dazu
 rezeptarten: [Salat, Rohkost]
 hauptzutaten: [Buttermilch, Minze, Avocado, Pekanuesse]
 publishdate: 2018-07-09
+lastmod: 2018-07-09 20:00:00
 ---
 
 Damit Rohkost nicht nur gesund, sondern auch lecker ist, braucht sie ein gutes Dressing, sättigende Zutaten und knusprige Extras - voilà.

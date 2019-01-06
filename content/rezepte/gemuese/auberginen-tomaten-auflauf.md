@@ -4,6 +4,7 @@ description:  Ein vegetarisches low carb Gericht zum Sattessen
 rezeptarten: [Gemuese]
 hauptzutaten: [Aubergine, Tomaten]
 publishdate: 2018-10-06
+lastmod: 2018-10-06 20:00:00
 ---
 
 Dieser Auflauf ist der beste Beweis dafür, dass vegetarisch und low carb auch sehr herzhaft, lecker und sättigend sein können. Und nebenbei wahrscheinlich noch gesund ;-)
@@ -21,6 +22,7 @@ Dieser Auflauf ist der beste Beweis dafür, dass vegetarisch und low carb auch s
 - Olivenöl
 - Salz
 - Pfeffer
+
 
 ## Zubereitung
 

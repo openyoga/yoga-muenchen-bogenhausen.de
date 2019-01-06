@@ -1,7 +1,7 @@
 ---
 title: Personal Training in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Personal Training Optionen 
-lastmod: 2019-02-05
+lastmod: 2019-02-05 20:00:00
 menu:
   main:
     name: Personal Training

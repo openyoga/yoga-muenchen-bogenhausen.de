@@ -3,7 +3,7 @@ title: Vedanta
 description: Eine Einführung in die Yogaphilosophie
 schlagwoerter: [Yogaphilosophie, Vedanta]
 publishdate: 2019-02-01
-lastmod: 2019-02-01
+lastmod: 2019-02-01 20:00:00
 ---
 
 {{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="Buddha im Moos" >}}
@@ -27,7 +27,7 @@ Glück erfahre ich im Unveränderlichen. Aber was ist denn überhaupt unverände
 Laut Vedanta kommt all unser Leiden aus diesem Irrtum, dass ich mich getrennt fühle vom Rest. Sobald ich die Einheit allen Seins erkenne, fühle ich eine tiefe, ruhige und gelassene Glückseligkeit, Freude und Liebe, eine intuitive Weisheit. Früher im alten Indien war das auch das Ziel des Yoga: Sein wahres Wesen zu erkennen. Die Körperübungen machten nur einen kleinen Teil der gesamtem Yogapraxis aus, um diesem Ziel näher zu kommen. Sie sollten den Körper auf die Meditation vorbereiten.
 
 
-## Fazit
+## Fazit <- Passt hier nicht wirklich, was meinst Du? Einfach weglassen?
 
 Es gibt ein schönes Bild aus dem Vedanta, aus einem Sanskritgedicht, in dem ein Yogi zu sich selbst sagt: 
 

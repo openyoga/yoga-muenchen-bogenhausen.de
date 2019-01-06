@@ -4,6 +4,7 @@ description: Schöner kann man den Mai nicht feiern
 rezeptarten: [Gemuese]
 hauptzutaten: [Spargel, Tomaten, Ziegenkaese, Petersilie, Minze, Dill]
 publishdate: 2018-05-01
+lastmod: 2018-05-01 20:00:00
 ---
 
 Wir lieben den Mai mit seinem frischen Grün, den vielen Blüten und ersten Schmetterlingen, Radtouren und Wanderungen und einem leckeren Spargel-Essen, nachdem man sich ordentlich Hunger an der frischen Luft geholt hat.

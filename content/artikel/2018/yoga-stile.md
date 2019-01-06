@@ -3,7 +3,7 @@ title: Yoga Stile
 description: Ein kleines Was ist Was
 schlagwoerter: [Yoga, Yoga Stile]
 publishdate: 2018-03-03
-lastmod: 2018-03-03
+lastmod: 2018-03-03 20:01:00
 ---
 
 {{< img src="/assets/images/schulterstand.jpg" alt="Der Schulterstand" >}}

@@ -4,7 +4,7 @@ description: Ottmars Lieblingsrezept
 rezeptarten: [Salat]
 hauptzutaten: [Paprika, Kichererbsen, Dinkel]
 publishdate: 2017-09-16
-lastmod: 2018-10-07
+lastmod: 2018-10-07 20:00:00
 ---
 
 Dieses Rezept ist ein tolles Beispiel dafür, dass auch ein Salat ohne Fleisch satt und glücklich machen kann. Man kann ihn gleich essen, dann ist er leicht warm oder auch eine Weile durchziehen lassen.
