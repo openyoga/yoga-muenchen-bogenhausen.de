@@ -10,7 +10,7 @@ menu:
 
 ### 1. Allgemein
 
-Mit Anmeldung per E-Mail an Open Yoga MUC gelten die nachfolgenden, allgemeinen Geschäftsbedingungen.
+Mit Anmeldung per E-Mail oder Brief an Open Yoga MUC gelten die nachfolgenden, allgemeinen Geschäftsbedingungen.
 
 
 ### 2. Anmeldung

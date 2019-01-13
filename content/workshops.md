@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-01-03 20:00:00
+lastmod: 2019-01-13 06:01:00
 menu:
   main:
     name: Workshops
@@ -17,7 +17,6 @@ Du kannst nicht regelmäßig an einem Kurs teilnehmen, willst aber dennoch Yoga 
 
 Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt zwei oder auch mal drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
 
-- **Sonntag, 13. Januar 19:00 bis 21:00 Uhr**
 - **Sonntag, 03. Februar 19:00 bis 21:00 Uhr**
 - **Sonntag, 10. Februar 19:00 bis 21:00 Uhr**
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
