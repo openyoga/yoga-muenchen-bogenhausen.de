@@ -2,24 +2,26 @@
 title: Overnight Oats mit Nüssen
 description: Hieß früher Bircher-Müsli und schmeckt immer noch lecker
 rezeptarten: [Snack]
-hauptzutaten: [Haferflocken, Nüsse, Obst]
-publishdate: 2019-02-01
-lastmod: 2019-02-01 20:00:00
+hauptzutaten: [Haferflocken, Nuesse, Obst]
+publishdate: 2019-01-20
+lastmod: 2019-01-20 19:29:00
 ---
 
 Der Schweizer Arzt und Ernährungsreformer Bircher-Brenner entwickelte Anfang des 20. Jahrhunderts das Bircher-Müsli für seine Patienten, indem er Haferflocken über Nacht in Wasser quellen ließ und am nächsten Morgen Kondensmilch, Nüsse und einen geriebenen Apfel hinzufügte. Wir weichen die Haferflocken in einer Joghurt-Milch-Mischung ein und stellen sie über Nacht in den Kühlschrank. Und beim Obst profitieren wir heutzutage zum Glück von einer reichhaltigen Auswahl - hier kann jeder seine Lieblingssorte(n) hinzufügen. Wir nehmen im Winter gerne Kaki und Birne.
 
+
 ## Zutaten
 
-- 80 g Haferflocken
 - 300 g Naturjoghurt (egal aus welcher Milch)
 - 200 ml Milch (Sorte nach Belieben, z.B. Mandelmilch)
-- 1 - 2 Teelöffel Ahornsirup
+- 80 g Haferflocken
+- 1 Kaki (Sharon-Frucht)
+- 1 Birne (z.B. Abate Fetel)
 - 16 ganze Mandeln
 - 12 Walnusshälften
 - Amaranth gepufft
-- 1 Kaki (Sharon-Frucht)
-- 1 Birne (z.B. Abate Fetel)
+- 1-2 Teelöffel Ahornsirup
+
 
 ## Zubereitung
 

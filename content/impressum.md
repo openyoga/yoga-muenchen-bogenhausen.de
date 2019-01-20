@@ -15,7 +15,8 @@ Knappertsbuschstraße 19
 [1]: mailto:{{< author "agobrecht" "email" >}}
 
 
-Alle Fotos auf dieser Website wurden von Ottmar und Alexandra Gobrecht mit einer herkömmlichen Spiegelreflexkamera aufgenommen. Das Portraitfoto im Abschnitt "Über mich" wurde aufgenommen von:  
+Alle Fotos auf dieser Website wurden von Ottmar und Alexandra Gobrecht mit einer herkömmlichen Spiegelreflex bzw. einer Smartphone Kamera aufgenommen. <br/>
+Das Portraitfoto im Abschnitt "Über mich" wurde aufgenommen von:  
 FOTOPARADIES, Freischützstraße 79 in 81927 München.
 
 Die [Datenschutzerklärung findet sich hier][2].  
