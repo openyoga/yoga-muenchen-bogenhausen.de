@@ -13,21 +13,24 @@ menu:
 
 Du kannst nicht regelmäßig an einem Kurs teilnehmen, willst aber dennoch Yoga machen oder einfach mal ausprobieren? Dann ist vielleicht ein Workshop, der einmalig an einem Samstag oder Sonntag stattfindet und zwei Stunden dauert das Richtige für Dich.
 
+## Hatha Yoga / Rückenyoga {#rueckenyogaworkshop}
+
+In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Er ist für Anfänger und Fortgeschrittene geeignet.  
+
+- **Freitag, 08. Februar 19:30 bis 21:30 Uhr**
+- **danach voraussichtlich [Kurs][3]**
+- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
+
 ## Yin Yoga / Faszienyoga {#yinyogaworkshop}
 
 Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt zwei oder auch mal drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
 
 - **Sonntag, 03. Februar 19:00 bis 21:00 Uhr**
 - **Sonntag, 10. Februar 19:00 bis 21:00 Uhr**
-- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
-
-
-## Hatha Yoga / Rückenyoga {#rueckenyogaworkshop}
-
-In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Er ist für Anfänger und Fortgeschrittene geeignet.  
-
-- **Freitag, 25. Januar 19:30 bis 21:30 Uhr**
-- **Freitag, 08. Februar 19:30 bis 21:30 Uhr**
+- **Sonntag, 17. Februar 19:00 bis 21:00 Uhr**
+- **Sonntag, 03. März 19:00 bis 21:00 Uhr**
+- **Sonntag, 17. März 19:00 bis 21:00 Uhr**
+- **Sonntag, 31. März 19:00 bis 21:00 Uhr**
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Hatha Yoga für Anfänger {#anfaengeryogaworkshop}
@@ -62,3 +65,4 @@ Die Workshops finden in den schönen Räumlichkeiten der [Familienpraxis Dr. Gol
 
 [1]: mailto:{{< author "agobrecht" "email" >}}
 [2]: {{< a_external "https://www.google.de/maps/place/Die+Familienpraxis/@48.1576264,11.6394313,17z/data=!3m1!4b1!4m5!3m4!1s0x479e753cb0dd5227:0x42797684780576af!8m2!3d48.1576264!4d11.64162" >}}
+[3]: /kurse/#rueckenyoga
