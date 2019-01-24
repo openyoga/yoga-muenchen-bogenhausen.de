@@ -3,7 +3,7 @@ title: Wer bin ich?
 description: Antworten aus der Yogaphilosopie
 schlagwoerter: [Yogaphilosophie, Vedanta]
 publishdate: 2019-01-01
-lastmod: 2019-01-05 20:02:00
+lastmod: 2019-01-24 18:35:00
 ---
 
 {{< img src="/assets/images/buddha-moos.jpg" alt="Buddha im Moos" >}}
@@ -20,9 +20,9 @@ Was verändert sich denn definitiv nicht? Die Yogis sagen: Dein wahres Selbst is
 Sat bedeutet absolutes Sein, die Existenz jenseits von Zeit, Raum und Bedingtheit, aber auch Wahrheit. Ganz einfach: Du bist.
 
 
-## Chit
+## Chid
 
-Chit ist Bewusstsein, Verstand und auch Wissen, Erkenntnis. Da Du Dir verschiedener Dinge bewusst bist, bist Du Bewusstsein.
+Chid ist Bewusstsein, Verstand und auch Wissen, Erkenntnis. Da Du Dir verschiedener Dinge bewusst bist, bist Du Bewusstsein.
 
 
 ## Ananda
