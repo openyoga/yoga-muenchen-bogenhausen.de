@@ -34,7 +34,7 @@ In dem Moment, wo Du ganz Du selbst bist, wo Du Dich nicht mehr als begrenzt, so
 
 ## Vedanta
 
-Diese drei Aspekte des eigenschaftslosen Selbst, des höchsten Absoluten stammen aus dem Vedanta. Sie sind laut Vedanta das Wesen selbst, nicht bloß dessen Eigenschaften. Vedanta ist ein mehrere tausend Jahre altes Philosophiesystem aus Indien. Es ist im Schlüsselteil der Veden, den Upanishaden, schriftlich festgehalten. Die Grundidee dieser Philosphie ist die Einheit aller Existenz (Nicht-Dualismus). Es werden Antworten auf die wesentlichen Fragen des Seins gegeben: Wer bin ich? Woher komme ich? Wohin gehe ich? Was ist Glück? Mehr dazu gibt es im nächsten Blogartikel.
+Diese drei Aspekte des eigenschaftslosen Selbst, des höchsten Absoluten stammen aus dem Vedanta. Sie sind laut Vedanta das Wesen selbst, nicht bloß dessen Eigenschaften. Vedanta ist ein mehrere tausend Jahre altes Philosophiesystem aus Indien. Es ist im Schlüsselteil der Veden, den Upanishaden, schriftlich festgehalten. Die Grundidee dieser Philosphie ist die Einheit aller Existenz (Nicht-Dualismus). Es werden Antworten auf die wesentlichen Fragen des Seins gegeben: Wer bin ich? Woher komme ich? Wohin gehe ich? Was ist Glück? Mehr dazu gibt es im [nächsten Blogartikel] [1].
 
 
 ## Fazit
@@ -46,3 +46,6 @@ Das sagt sich so leicht. Und wie setze ich das um? Sich daran anzunähern bedeut
 Aber selbst wenn wir es nicht bis zur Erleuchtung schaffen: Allein der Gedanke: "Ich bin nicht mein Körper!" kann mir schon Erleichterung verschaffen, vor allem wenn es ihm mal nicht so gut geht. Und wenn ich weiß, wie schnell sich Gefühle und Gedanken verändern und dass sie nicht mein wahres Wesen ausmachen, dann kann ich mich auch wesentlich gelassener und konstruktiver verhalten, wenn mich jemand verletzt hat. Die kleinen Probleme und Ärgernisse im Alltag verlieren ein wenig an Größe und Macht über mich. Und auch die heftigen Krisen lassen sich besser durchleben, wenn ich mich in einen größeren Rahmen eingebunden fühle. 
 
 Durch die Yogapraxis, besonders die Meditation, erlange ich ein Stück weit mehr Gelassenheit und inneren Frieden für jeden einzelnen Tag in meinem Leben.
+
+[1]: /artikel/2019/vedanta
+
