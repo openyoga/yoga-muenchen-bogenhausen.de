@@ -2,8 +2,8 @@
 title: Vedanta
 description: Eine Einführung in die Yogaphilosophie
 schlagwoerter: [Yogaphilosophie, Vedanta]
-publishdate: 2019-02-01
-lastmod: 2019-02-01 08:02:00
+publishdate: 2019-01-26
+lastmod: 2019-01-26 06:52:00
 ---
 
 {{< img src="/assets/images/buddha-schnee.jpg" alt="Buddha im Schnee" >}}
@@ -20,14 +20,14 @@ Ziel des Advaita Vedanta ist es, sein wahres Selbst zu erkennen, welches eins mi
 
 ## Praktische Bedeutung von Vedanta
 
-Und was bringt mir das? Jeder strebt nach dem einen großartigen, unveränderlichen, unendlichen, ewigen Glückszustand. Wenn ich erstmal wieder in die Jeans reinpasse, die ich mit 21 getragen habe und mir und meiner Familie dieses Traumhaus gebaut habe, dann ist alles gut. Oder nicht? Vedanta sagt: Glückseligkeit kann nur von einem Seinszustand kommen, der unveränderlich ist, der nicht dem Wandel unterworfen ist. Die Jeans wird sich abnutzen, verändert sich also. Das Traumhaus wird im Laufe der Jahrzehnte auch verfallen, dann müssen die Fenster neu gestrichen werden, die Heizung muss ausgetauscht werden usw. Es verändert sich. Und ich selbst? Mein Körper, meine Gefühle, meine Gedanken? Verändern sich ständig! 
+Und was bringt mir das? Jeder strebt nach dem einen großartigen, unveränderlichen, unendlichen, ewigen Glückszustand. Wenn ich erstmal wieder in die Jeans reinpasse, die ich mit 21 getragen habe und mir und meiner Familie dieses Traumhaus gebaut habe, dann ist alles gut. Oder nicht? Vedanta sagt: Glückseligkeit kann nur von einem Seinszustand kommen, der unveränderlich ist, der nicht dem Wandel unterworfen ist. Die Jeans wird sich abnutzen, verändert sich also. Das Traumhaus wird im Laufe der Jahrzehnte auch verfallen, dann müssen die Fenster neu gestrichen werden, die Heizung muss ausgetauscht werden und so weiter. Es verändert sich. Und ich selbst? Mein Körper, meine Gefühle, meine Gedanken? Verändern sich ständig! 
 
 Glück erfahre ich im Unveränderlichen. Aber was ist denn überhaupt unveränderlich? Das herauszufinden, das zu erfahren, darum geht es. Dafür muss man alle Muster, alle Denkgewohnheiten, alle falschen Vorstellungen auflösen, vielleicht sogar alle weltlichen Wünsche aufgeben. 
 
 Laut Vedanta kommt all unser Leiden aus diesem Irrtum, dass ich mich getrennt fühle vom Rest. Sobald ich die Einheit allen Seins erkenne, fühle ich eine tiefe, ruhige und gelassene Glückseligkeit, Freude und Liebe, eine intuitive Weisheit. Früher im alten Indien war das auch das Ziel des Yoga: Sein wahres Wesen zu erkennen. Die Körperübungen machten nur einen kleinen Teil der gesamtem Yogapraxis aus, um diesem Ziel näher zu kommen. Sie sollten den Körper auf die Meditation vorbereiten.
 
 
-## Fazit <- Passt hier nicht wirklich, was meinst Du? Einfach weglassen?
+## Die Wolken vertreiben
 
 Es gibt ein schönes Bild aus dem Vedanta, aus einem Sanskritgedicht, in dem ein Yogi zu sich selbst sagt: 
 
