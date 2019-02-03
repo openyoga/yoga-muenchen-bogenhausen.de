@@ -15,11 +15,10 @@ menu:
 
 [Hatha Yoga / Rückenyoga][6]
 
-- Freitag, 08. Februar 19:30 bis 21:30 Uhr
+- ab Freitag, 15. Februar voraussichtlich [Kurs][3]
 
 [Yin Yoga / Faszienyoga][7]
 
-- Sonntag, 03. Februar 19:00 bis 21:00 Uhr
 - Sonntag, 10. Februar 19:00 bis 21:00 Uhr
 - Sonntag, 17. Februar 19:00 bis 21:00 Uhr
 - Sonntag, 03. März 19:00 bis 21:00 Uhr
