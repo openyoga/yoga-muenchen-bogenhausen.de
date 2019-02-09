@@ -1,7 +1,7 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2019-01-13 06:01:00
+lastmod: 2019-02-05 17:30:00
 
 menu:
   main:
@@ -15,21 +15,15 @@ menu:
 
 [Hatha Yoga / Rückenyoga][6]
 
-- ab Freitag, 15. Februar voraussichtlich [Kurs][3]
+- Freitag, 15. Februar 19:30 bis 21:30 Uhr
+- Freitag, 01. März 19:30 bis 21:30 Uhr
 
 [Yin Yoga / Faszienyoga][7]
 
-- Sonntag, 10. Februar 19:00 bis 21:00 Uhr
-- Sonntag, 17. Februar 19:00 bis 21:00 Uhr
+- Sonntag, 24. Februar 19:00 bis 21:00 Uhr
 - Sonntag, 03. März 19:00 bis 21:00 Uhr
 - Sonntag, 17. März 19:00 bis 21:00 Uhr
 - Sonntag, 31. März 19:00 bis 21:00 Uhr
-
-## Yoga Kurs (10x ab 15. Februar 2019)
-
-[Hatha Yoga / Rückenyoga][3]
-
-- Freitags von 19:30 bis 21:15 Uhr
 
 
 [2]: /kurse/#yinyoga
