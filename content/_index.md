@@ -1,7 +1,7 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2019-02-05 17:30:00
+lastmod: 2019-02-11 06:30:00
 
 menu:
   main:
@@ -17,6 +17,9 @@ menu:
 
 - Freitag, 15. Februar 19:30 bis 21:30 Uhr
 - Freitag, 01. März 19:30 bis 21:30 Uhr
+- Freitag, 15. März 19:30 bis 21:30 Uhr
+- Freitag, 29. März 19:30 bis 21:30 Uhr
+
 
 [Yin Yoga / Faszienyoga][7]
 

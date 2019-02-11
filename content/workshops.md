@@ -19,6 +19,9 @@ In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, t
 
 - **Freitag, 15. Februar 19:30 bis 21:30 Uhr**
 - **Freitag, 01. März 19:30 bis 21:30 Uhr**
+- **Freitag, 15. März 19:30 bis 21:30 Uhr**
+- **Freitag, 29. März 19:30 bis 21:30 Uhr**
+
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Yin Yoga / Faszienyoga {#yinyogaworkshop}
