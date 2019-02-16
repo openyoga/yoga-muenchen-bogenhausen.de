@@ -2,13 +2,13 @@
 title: Pranayama
 description: Atemübungen im Yoga
 schlagwoerter: [Pranayama, Meditation]
-publishdate: 2019-03-01
-lastmod: 2019-03-01 20:00:00
+publishdate: 2019-02-11
+lastmod: 2019-02-11 20:00:00
 ---
 
-{{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="Buddha im Moos" >}}
+{{< img src="/assets/images/buddha-strand.jpg" alt="Buddha am Strand im Winter" >}}
 
-Vielleicht bist Du Yoga Anfänger und hast Dich in einer Deiner ersten Stunden gefragt, was diese merkwürdigen Atemübungen bringen sollen? Dann geht es Dir wie mir, als ich vor elf Jahren meine erste Hatha Yoga Stunde besucht habe. Die Asanas (Körperübungen) tun gut, das spürt man sofort. Aber durch das linke Nasenloch einatmen, den Atem anhalten, durch das rechte Nasenloch ausatmen, anhalten, durch das rechte Nasenloch wieder einatmen, den Atem anhalten und dann durch das linke Nasenloch ausatmen? Was soll das bewirken? 
+Vielleicht bist Du Yoga Anfänger und hast Dich in einer Deiner ersten Stunden gefragt, was diese merkwürdigen Atemübungen bringen sollen? Dann geht es Dir wie mir, als ich vor gut elf Jahren meine erste Hatha Yoga Stunde besucht habe. Die Asanas (Körperübungen) tun gut, das spürt man sofort. Aber durch das linke Nasenloch einatmen, den Atem anhalten, durch das rechte Nasenloch ausatmen, anhalten, durch das rechte Nasenloch wieder einatmen, den Atem anhalten und dann durch das linke Nasenloch ausatmen? Was soll das bewirken? 
 
 
 ## Pranayama - eine Begriffserklärung
@@ -25,7 +25,7 @@ Wir alle atmen in unserem Alltag zu kurz und zu flach, wir schöpfen gar nicht d
 
 ## Wirkungen
 
-Mit der Wechselatmung kannst Du Deinen Geist zur Ruhe bringen, Deine Konzentrationsfähigkeit steigern, emotionelle Ungleichgewichte ausgleichen, Ängste in den Griff bekommen. Du aktivierst damit Deinen Parasympathikus, eine Komponente des vegetativen Nervensystems, die für Ruhe und Erholung zuständig ist. Wenn Du regelmäßig Atemübungen machst, wird Dein Atemvolumen und Deine Lungenkapazität vergrößert, Dein Atem wird länger und feiner, Du kannst Deinen Blutdruck und Deinen Puls senken. Durch das Anhalten des Atems trainierst Du Deine Lunge und Dein Herz-Kreislaufsystem. Es gibt eine Vielzahl verschiedener Atemübungen im Yoga, die hier nicht alle erklärt werden können. Aber die Wechselatmung ist meist eine gute Basis.
+Mit der Wechselatmung kannst Du Deinen Geist zur Ruhe bringen, Deine Konzentrationsfähigkeit steigern, emotionelle Ungleichgewichte ausgleichen, Ängste in den Griff bekommen. Du aktivierst damit Deinen Parasympathikus, eine Komponente des vegetativen Nervensystems, die für Ruhe und Erholung zuständig ist. Wenn Du regelmäßig Atemübungen machst, vergrößern sich Dein Atemvolumen und Deine Lungenkapazität, Dein Atem wird länger und feiner, Du kannst Deinen Blutdruck und Deinen Puls senken. Durch das Anhalten des Atems trainierst Du Deine Lunge und Dein Herz-Kreislaufsystem. Es gibt eine Vielzahl verschiedener Atemübungen im Yoga, die hier nicht alle erklärt werden können. Aber die Wechselatmung ist meist eine gute Basis.
 
 Du kannst die Wechselatmung auch vor dem Schlafengehen üben, wenn Du abends noch unruhig bist und schlecht einschlafen kannst. Nach der Wechselatmung fühlt man sich ruhig und ausgeglichen, konzentriert und entspannt. [Probier es doch einfach mal aus.][1] Vielleicht magst Du sogar noch einige Minuten Meditation anschließen - jetzt ist Dein Geist perfekt darauf vorbereitet. 
 
