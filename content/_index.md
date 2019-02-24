@@ -15,14 +15,12 @@ menu:
 
 [Hatha Yoga / Rückenyoga][6]
 
-- Freitag, 01. März 19:30 bis 21:30 Uhr
 - Freitag, 15. März 19:30 bis 21:30 Uhr
 - Freitag, 29. März 19:30 bis 21:30 Uhr
 
 
 [Yin Yoga / Faszienyoga][7]
 
-- Sonntag, 24. Februar 19:00 bis 21:00 Uhr
 - Sonntag, 03. März 19:00 bis 21:00 Uhr
 - Sonntag, 17. März 19:00 bis 21:00 Uhr
 - Sonntag, 31. März 19:00 bis 21:00 Uhr

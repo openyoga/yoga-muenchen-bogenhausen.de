@@ -17,7 +17,6 @@ Du kannst nicht regelmäßig an einem Kurs teilnehmen, willst aber dennoch Yoga 
 
 In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Er ist für Anfänger und Fortgeschrittene geeignet.  
 
-- **Freitag, 01. März 19:30 bis 21:30 Uhr**
 - **Freitag, 15. März 19:30 bis 21:30 Uhr**
 - **Freitag, 29. März 19:30 bis 21:30 Uhr**
 
@@ -27,7 +26,6 @@ In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, t
 
 Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt zwei oder auch mal drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
 
-- **Sonntag, 24. Februar 19:00 bis 21:00 Uhr**
 - **Sonntag, 03. März 19:00 bis 21:00 Uhr**
 - **Sonntag, 17. März 19:00 bis 21:00 Uhr**
 - **Sonntag, 31. März 19:00 bis 21:00 Uhr**
