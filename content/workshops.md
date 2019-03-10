@@ -32,7 +32,7 @@ Mach Dich fit für den Frühling mit Detox Yoga. Wir üben jede Menge entgiftend
 - **Samstag, 23. März 19:00 bis 21:00 Uhr**   
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
-## Sonnengruß & Yoga@Home Workshop {#workshopspecials}
+## Sonnengruß & Yoga@Home {#workshopspecials}
 
 Hier lernst Du den Sonnengruß mit seinen einzelnen Positionen exakt und korrekt auszuführen, so dass Du ihn auch allein zu Hause praktizieren kannst. Wir probieren auch einige Sonnengruß-Variationen aus. Nach dem dynamischen ersten Teil der Stunde üben wir weitere grundlegende Asanas und Du bekommst jede Menge Tipps für Deine Praxis zu Hause, je nachdem, ob Du zehn Minuten am Tag Zeit für Yoga hast oder eine halbe Stunde oder mehr.
 
