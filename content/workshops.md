@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-02-05 17:31:00
+lastmod: 2019-03-25 06:06:00
 menu:
   main:
     name: Workshops
@@ -17,19 +17,11 @@ Du kannst nicht regelmäßig an einem Kurs teilnehmen, willst aber dennoch Yoga 
 
 Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt zwei oder auch mal drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
 
-- **Sonntag, 17. März 19:00 bis 21:00 Uhr**
 - **Sonntag, 31. März 19:00 bis 21:00 Uhr**
 - **Sonntag, 14. April 19:00 bis 21:00 Uhr**
 - **Sonntag, 28. April 19:00 bis 21:00 Uhr**
 - **Sonntag, 05. Mai 19:00 bis 21:00 Uhr**
 
-- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
-
-## Detox Yoga {#workshopspecials}
-
-Mach Dich fit für den Frühling mit Detox Yoga. Wir üben jede Menge entgiftende, entschlackende und den Stoffwechsel anregende Asanas, bauen Stress ab und putzen, massieren und dehnen unser gesamtes Körpersystem einmal kräftig durch. In diesem Workshop heben wir unser Energie-Level, schalten vom Alltag ab und gönnen uns wie immer eine regenerierende Entspannung am Ende des Workshops.
-
-- **Samstag, 23. März 19:00 bis 21:00 Uhr**   
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Sonnengruß & Yoga@Home {#workshopspecials}
@@ -39,6 +31,11 @@ Hier lernst Du den Sonnengruß mit seinen einzelnen Positionen exakt und korrekt
 - **Samstag, 6. April 19:00 bis 21:00 Uhr**   
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
+## Detox Yoga {#workshopspecials}
+
+Mach Dich fit für den Frühling mit Detox Yoga. Wir üben jede Menge entgiftende, entschlackende und den Stoffwechsel anregende Asanas, bauen Stress ab und putzen, massieren und dehnen unser gesamtes Körpersystem einmal kräftig durch. In diesem Workshop heben wir unser Energie-Level, schalten vom Alltag ab und gönnen uns wie immer eine regenerierende Entspannung am Ende des Workshops.
+
+- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Hatha Yoga / Rückenyoga {#rueckenyogaworkshop}
 
