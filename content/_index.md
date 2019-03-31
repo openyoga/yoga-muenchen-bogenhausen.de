@@ -15,7 +15,6 @@ menu:
 
 [Yin Yoga / Faszienyoga][7]
 
-- Sonntag, 31. März 19:00 bis 21:00 Uhr
 - Sonntag, 14. April 19:00 bis 21:00 Uhr
 - Sonntag, 28. April 19:00 bis 21:00 Uhr
 - Sonntag, 05. Mai 19:00 bis 21:00 Uhr
