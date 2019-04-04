@@ -4,7 +4,7 @@ description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten s
 lastmod: 2019-03-25 06:06:00
 menu:
   main:
-    name: Workshops
+    name: Yoga Workshops
     weight: 20
 ---
 
@@ -62,7 +62,7 @@ Du bist sehr sportlich und suchst nach einem Ausgleich zu Deinem Training oder h
 
 ## Konditionen {#konditionen}
 
-Die Preise liegen bei 20 € für 120 Minuten Workshop. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab vier angemeldeten Teilnehmern statt. Preise für Personal Training auf Anfrage.    
+Die Preise liegen bei 20 € für 120 Minuten Yoga Workshop bzw. 90 Minuten Functional Moves & Yoga Workshop. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab vier angemeldeten Teilnehmern statt. Preise für Personal Training auf Anfrage.    
 **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 

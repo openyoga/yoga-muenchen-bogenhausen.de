@@ -5,7 +5,7 @@ lastmod: 2019-02-05 17:32:00
 menu:
   main:
     name: Kurse
-    weight: 30
+    weight: 90
 ---
 
 {{< img src="/assets/images/kraehe.jpg" alt="Die Krähe" >}}

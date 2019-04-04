@@ -23,6 +23,10 @@ menu:
 
 - Samstag, 6. April 19:00 bis 21:00 Uhr **Sonnengruß & Yoga@Home**
 
+[Ankündigung: Functional Moves & Yoga][14]
+
+- Samstags, 19:00 bis 20:30 Uhr <br/>
+**Functional Training plus Yoga - Beginn nach den Sommerferien**
 
 
 
@@ -33,6 +37,7 @@ menu:
 [6]: /workshops/#rueckenyogaworkshop
 [7]: /workshops/#yinyogaworkshop
 [8]: /workshops/#workshopspecials
+[14]: /functional-training
 
 
 ## Das Wo und Wie
