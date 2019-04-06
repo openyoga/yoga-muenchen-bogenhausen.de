@@ -2,8 +2,8 @@
 title: Meditation
 description: Und ihre Wirkung
 schlagwoerter: [Meditation, Yoga, Wikrung, Gesundheit]
-publishdate: 2019-04-21
-lastmod: 2019-04-21 06:35:00
+publishdate: 2019-05-21
+lastmod: 2019-05-21 06:35:00
 ---
 
 {{< img src="/assets/images/meditation.jpg" alt="Meditation" >}}

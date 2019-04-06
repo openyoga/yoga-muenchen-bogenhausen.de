@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-03-25 06:06:00
+lastmod: 2019-04-07 11:06:00
 menu:
   main:
     name: Yoga Workshops
@@ -22,19 +22,6 @@ Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas
 - **Sonntag, 05. Mai 19:00 bis 21:00 Uhr**
 
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
-
-## Sonnengruß & Yoga@Home {#workshopspecials}
-
-Hier lernst Du den Sonnengruß mit seinen einzelnen Positionen exakt und korrekt auszuführen, so dass Du ihn auch allein zu Hause praktizieren kannst. Wir probieren auch einige Sonnengruß-Variationen aus. Nach dem dynamischen ersten Teil der Stunde üben wir weitere grundlegende Asanas und Du bekommst jede Menge Tipps für Deine Praxis zu Hause, je nachdem, ob Du zehn Minuten am Tag Zeit für Yoga hast oder eine halbe Stunde oder mehr.
-
-- **Samstag, 6. April 19:00 bis 21:00 Uhr**   
-- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
-
-## Detox Yoga {#workshopspecials}
-
-Mach Dich fit für den Frühling mit Detox Yoga. Wir üben jede Menge entgiftende, entschlackende und den Stoffwechsel anregende Asanas, bauen Stress ab und putzen, massieren und dehnen unser gesamtes Körpersystem einmal kräftig durch. In diesem Workshop heben wir unser Energie-Level, schalten vom Alltag ab und gönnen uns wie immer eine regenerierende Entspannung am Ende des Workshops.
-
-- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Hatha Yoga / Rückenyoga {#rueckenyogaworkshop}
 
@@ -59,6 +46,18 @@ Ein Yoga Workshop für alle Kinder und ihre Eltern. Wir üben klassisches Hatha 
 Du bist sehr sportlich und suchst nach einem Ausgleich zu Deinem Training oder hast schon Yoga-Erfahrung und möchtest Dich etwas mehr fordern? Dann bist Du hier genau richtig. Wir üben dynamische Vinyasa Flow Yoga Sequenzen und beenden die Stunde mit intensiveren, länger gehaltenen Dehnungen und einer regenerierenden Entspannung.
 
 - Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
+
+## Detox Yoga {#workshopspecials}
+
+Mach Dich fit für den Frühling mit Detox Yoga. Wir üben jede Menge entgiftende, entschlackende und den Stoffwechsel anregende Asanas, bauen Stress ab und putzen, massieren und dehnen unser gesamtes Körpersystem einmal kräftig durch. In diesem Workshop heben wir unser Energie-Level, schalten vom Alltag ab und gönnen uns wie immer eine regenerierende Entspannung am Ende des Workshops.
+
+- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
+
+## Sonnengruß & Yoga@Home {#workshopspecials}
+
+Hier lernst Du den Sonnengruß mit seinen einzelnen Positionen exakt und korrekt auszuführen, so dass Du ihn auch allein zu Hause praktizieren kannst. Wir probieren auch einige Sonnengruß-Variationen aus. Nach dem dynamischen ersten Teil der Stunde üben wir weitere grundlegende Asanas und Du bekommst jede Menge Tipps für Deine Praxis zu Hause, je nachdem, ob Du zehn Minuten am Tag Zeit für Yoga hast oder eine halbe Stunde oder mehr.
+
+- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Konditionen {#konditionen}
 

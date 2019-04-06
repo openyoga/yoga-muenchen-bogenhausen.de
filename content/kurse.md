@@ -22,9 +22,9 @@ Rückenyoga ist für Anfänger und Yogis mit Vorkenntnissen geeignet. Egal ob Du
 Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Mit jeder Kursstunde wirst Du ein klein wenig beweglicher. Eine sanfte, ruhige Stunde zur Regeneration; für Anfänger und Fortgeschrittene gleichermaßen geeignet.<br/>
 **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
-## Power Yoga für Sportler - 10x freitags 19:30-21:15 Uhr{#poweryoga}
+## Functional Moves & Yoga - 10x freitags 19:30-21:15 Uhr{#poweryoga}
 
-Eine Stunde für Sportler und Yogis mit Vorkenntnissen: Der ideale Ausgleich zu Deinem sportlichen Training oder langen Arbeitstagen im Sitzen. Hier wirst Du angenehm gefordert und darfst Dich auspowern. Wir üben dynamische Vinyasa Flow Yoga Sequenzen und beenden die Stunde mit intensiveren, länger gehaltenen Dehnungen und einer regenerierenden Entspannung.<br/>
+Eine Stunde für Sportler, sportliche Yogis und alle, die fitter werden wollen. Mit einer Kombination aus Functional Training und Yoga kräftigen und trainieren wir unseren gesamten Körper zunächst mit Übungen aus dem funktionellen Training / Athletiktraining / Animal Athletics und lassen die Stunde anschließend mit regenerierenden Yoga Dehnübungen  und einer wohligen Endentspannung ausklingen.<br/>
 **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 

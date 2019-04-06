@@ -1,7 +1,7 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2019-03-25 06:05:00
+lastmod: 2019-04-07 11:05:00
 
 menu:
   main:
@@ -19,11 +19,7 @@ menu:
 - Sonntag, 28. April 19:00 bis 21:00 Uhr
 - Sonntag, 05. Mai 19:00 bis 21:00 Uhr
 
-[Workshop Specials][8]
-
-- Samstag, 6. April 19:00 bis 21:00 Uhr **Sonnengruß & Yoga@Home**
-
-[Ankündigung: Functional Moves & Yoga][14]
+[Ankündigung: Functional Moves & Yoga][8]
 
 - Samstags, 19:00 bis 20:30 Uhr <br/>
 **Functional Training plus Yoga - Beginn nach den Sommerferien**
@@ -36,8 +32,7 @@ menu:
 
 [6]: /workshops/#rueckenyogaworkshop
 [7]: /workshops/#yinyogaworkshop
-[8]: /workshops/#workshopspecials
-[14]: /functional-training
+[8]: /functional-training
 
 
 ## Das Wo und Wie

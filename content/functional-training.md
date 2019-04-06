@@ -1,7 +1,7 @@
 ---
 title: Functional Training in  München Bogenhausen
 description: Eine Seite mit den Details zum Functional Training, funktionellen Training, Athletiktraining und Animal Moves
-lastmod: 2019-04-04 14:00:00
+lastmod: 2019-04-07 11:00:00
 menu:
   main:
     name: Functional Training
@@ -19,7 +19,7 @@ Für körperliche und mentale Fitness, Kraft, Beweglichkeit und ein wunderbares 
 
 ## Konditionen {#konditionen}
 
-Alle Functional Moves & Yoga Workshops kosten 20 € für 90 Minuten, sind einzeln pro Abend buchbar und finden in Kleingruppen (bis sieben Teilnehmer) ab fünf angemeldeten Teilnehmern statt. 
+Alle Functional Moves & Yoga Workshops kosten 20 € für 90 Minuten, sind einzeln pro Abend buchbar und finden in Kleingruppen (bis sieben Teilnehmer) ab vier angemeldeten Teilnehmern statt. 
 
 
 ## Veranstaltungsort {#veranstaltungsort}
