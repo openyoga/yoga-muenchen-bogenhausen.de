@@ -1,7 +1,7 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2019-04-07 11:05:00
+lastmod: 2019-04-14 05:25:00
 
 menu:
   main:
@@ -15,7 +15,6 @@ menu:
 
 [Yin Yoga / Faszienyoga][7]
 
-- Sonntag, 14. April 19:00 bis 21:00 Uhr
 - Sonntag, 28. April 19:00 bis 21:00 Uhr
 - Sonntag, 05. Mai 19:00 bis 21:00 Uhr
 
@@ -24,10 +23,6 @@ menu:
 - Samstags, 19:00 bis 20:30 Uhr <br/>
 **Functional Training plus Yoga - Beginn nach den Sommerferien**
 
-
-
-[2]: /kurse/#yinyoga
-[3]: /kurse/#rueckenyoga
 
 
 [6]: /workshops/#rueckenyogaworkshop

@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-04-07 11:06:00
+lastmod: 2019-04-14 05:26:00
 menu:
   main:
     name: Yoga Workshops
@@ -11,13 +11,12 @@ menu:
 {{< img src="/assets/images/sprinter.jpg" alt="Der Sprinter" >}}
 
 
-Du kannst nicht regelmäßig an einem Kurs teilnehmen, willst aber dennoch Yoga machen oder einfach mal ausprobieren? Dann ist vielleicht ein Workshop, der einmalig an einem Samstag oder Sonntag stattfindet und zwei Stunden dauert das Richtige für Dich.
+Du kannst nicht regelmäßig an einem Kurs teilnehmen, möchtest spontan von Woche zu Woche entscheiden und Yoga nach Deinem eigenen Terminplan machen? Dann ist vielleicht ein Workshop, den Du einzeln pro Abend buchen kannst und der zwei Stunden dauert das Richtige für Dich.
 
 ## Yin Yoga / Faszienyoga {#yinyogaworkshop}
 
-Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt zwei oder auch mal drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
+Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Mit jedem Workshop wirst Du ein klein wenig beweglicher, Verspannungen lösen sich nach und nach. Eine sanfte, ruhige Stunde zur Regeneration; für Anfänger und Fortgeschrittene gleichermaßen geeignet.<br/>
 
-- **Sonntag, 14. April 19:00 bis 21:00 Uhr**
 - **Sonntag, 28. April 19:00 bis 21:00 Uhr**
 - **Sonntag, 05. Mai 19:00 bis 21:00 Uhr**
 
