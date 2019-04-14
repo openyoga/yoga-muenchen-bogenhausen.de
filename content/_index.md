@@ -1,7 +1,7 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2019-04-14 05:25:00
+lastmod: 2019-04-14 10:13:00
 
 menu:
   main:
@@ -16,6 +16,9 @@ menu:
 [Yin Yoga / Faszienyoga][7]
 
 - Sonntag, 28. April 19:00 bis 21:00 Uhr
+
+[Detox Yoga][6]
+
 - Sonntag, 05. Mai 19:00 bis 21:00 Uhr
 
 [Ankündigung: Functional Moves & Yoga][8]
@@ -25,7 +28,7 @@ menu:
 
 
 
-[6]: /workshops/#rueckenyogaworkshop
+[6]: /workshops/#detoxyogaworkshop
 [7]: /workshops/#yinyogaworkshop
 [8]: /functional-training
 
