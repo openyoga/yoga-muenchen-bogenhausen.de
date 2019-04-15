@@ -3,7 +3,7 @@ title: Blumenkohl vom Blech
 description:  Altbekanntes Gemüse auf neue Art zubereitet
 rezeptarten: [Gemuese]
 hauptzutaten: [Blumenkohl, Tomaten]
-publishdate: 2019-04-15
+publishdate: 2019-04-16
 lastmod: 2019-04-15 11:00:00
 ---
 

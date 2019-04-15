@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-04-14 10:14:00
+lastmod: 2019-04-15 05:19:00
 menu:
   main:
     name: Yoga Workshops
@@ -18,6 +18,9 @@ Du kannst nicht regelmäßig an einem Kurs teilnehmen, möchtest spontan von Woc
 Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Mit jedem Workshop wirst Du ein klein wenig beweglicher, Verspannungen lösen sich nach und nach. Eine sanfte, ruhige Stunde zur Regeneration; für Anfänger und Fortgeschrittene gleichermaßen geeignet.<br/>
 
 - **Sonntag, 28. April 19:00 bis 21:00 Uhr**
+- **Sonntag, 26. Mai 19:00 bis 21:00 Uhr**
+- **Sonntag, 30. Juni 19:00 bis 21:00 Uhr**
+
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Hatha Yoga / Rückenyoga {#rueckenyogaworkshop}
@@ -48,14 +51,7 @@ Du bist sehr sportlich und suchst nach einem Ausgleich zu Deinem Training oder h
 
 Mach Dich fit für den Frühling mit Detox Yoga. Wir üben jede Menge entgiftende, entschlackende und den Stoffwechsel anregende Asanas, bauen Stress ab und putzen, massieren und dehnen unser gesamtes Körpersystem einmal kräftig durch. In diesem Workshop heben wir unser Energie-Level, schalten vom Alltag ab und gönnen uns wie immer eine regenerierende Entspannung am Ende des Workshops.
 
-- **Sonntag, 05. Mai 19:00 bis 21:00 Uhr**
-- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
-
-## Sonnengruß & Yoga@Home {#workshopspecials}
-
-Hier lernst Du den Sonnengruß mit seinen einzelnen Positionen exakt und korrekt auszuführen, so dass Du ihn auch allein zu Hause praktizieren kannst. Wir probieren auch einige Sonnengruß-Variationen aus. Nach dem dynamischen ersten Teil der Stunde üben wir weitere grundlegende Asanas und Du bekommst jede Menge Tipps für Deine Praxis zu Hause, je nachdem, ob Du zehn Minuten am Tag Zeit für Yoga hast oder eine halbe Stunde oder mehr.
-
-- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
+- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Konditionen {#konditionen}
 
