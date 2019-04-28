@@ -4,7 +4,7 @@ description:  Altbekanntes Gemüse auf neue Art zubereitet
 rezeptarten: [Gemuese]
 hauptzutaten: [Blumenkohl, Tomaten]
 publishdate: 2019-04-19
-lastmod: 2019-04-19 18:14:00
+lastmod: 2019-04-21 07:27:00
 ---
 
 Wir garen unseren Blumenkohl mit Kurkuma gewürzt im Backofen und geben hinterher noch Tomaten und ein wenig Zitronensaft dazu. Ein Geschmackserlebnis fernab vom klassisch gekochten Blumenkohl mit Butter-Mehl-Soße.
@@ -18,14 +18,14 @@ Wir garen unseren Blumenkohl mit Kurkuma gewürzt im Backofen und geben hinterhe
 - 1 El Zitronensaft, frisch gepresst
 - 1 Tl Kurkuma
 - 1 Tl Kümmel
-- Meersalz
 - Pfeffer
+- Meersalz (optional)
 
 
 ## Zubereitung
 
 1. Den Backofen auf 200 Grad Umluft vorheizen
-2. Blumenkohl in einer Schüssel mit Olivenöl, Kurkuma und Kümmel verrühren und auf ein Backblech legen
+2. Blumenkohl in einer Schüssel mit Olivenöl, Kurkuma und Kümmel, Pfeffer und eventuell Meersalz verrühren und auf ein Backblech legen
 3. Für 15 Minuten bei 200 Grad im Backofen garen, herausnehmen, einmal durchrühren und weitere 15 Minuten bei 190 Grad garen
 4. In die leere Schüssel kommen die Tomaten und der Zitronensaft
 5. Nach Ende der Garzeit den Blumenkohl zurück in die Schüssel zu den Tomaten geben und alles verrühren
