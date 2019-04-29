@@ -1,7 +1,7 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2019-04-28 06:18:00
+lastmod: 2019-04-29 06:36:00
 
 menu:
   main:
@@ -18,14 +18,17 @@ menu:
 - Sonntag, 02. Juni 19:00 bis 21:00 Uhr
 - Sonntag, 30. Juni 19:00 bis 21:00 Uhr
 
+[Hatha Yoga im Park][6]
+
+- ab sofort nach Vereinbarung bei gutem Wetter
+
 [Ankündigung: Functional Moves & Yoga][8]
 
-- Samstags, 19:00 bis 20:30 Uhr <br/>
-**Functional Training plus Yoga - Beginn nach den Sommerferien**
+- Functional Training plus Yoga - Beginn nach den Sommerferien
 
 
 
-[6]: /workshops/#detoxyogaworkshop
+[6]: /workshops/#hathayogaworkshop
 [7]: /workshops/#yinyogaworkshop
 [8]: /functional-training
 

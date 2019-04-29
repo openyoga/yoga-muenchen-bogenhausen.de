@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-04-28 06:19:00
+lastmod: 2019-04-29 06:38:00
 menu:
   main:
     name: Yoga Workshops
@@ -22,9 +22,16 @@ Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auc
 
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
+## Hatha Yoga im Park {#hathayogaworkshop}
+
+In diesem Workshop kommen sowohl Yoga Anfänger als auch Fortgeschrittene auf ihre Kosten. Wir üben auf der grünen Wiese im Park. Hier wird der ganze Körper gekräftigt und gedehnt, kleine Verspannungen lösen sich und der Kopf kann endlich einmal abschalten. Wir beginnen mit dynamischen Sonnengrüßen, gehen dann über zu länger gehaltenen klassischen Asanas aus dem Hatha Yoga und schließen mit einer wohltuenden Endentspannung ab.<br/>
+
+- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
+
+
 ## Hatha Yoga / Rückenyoga {#rueckenyogaworkshop}
 
-In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Er ist für Anfänger und Fortgeschrittene geeignet.  
+In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden.
 
 - Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
@@ -54,16 +61,17 @@ Mach Dich fit für den Frühling mit Detox Yoga. Wir üben jede Menge entgiftend
 
 ## Konditionen {#konditionen}
 
-Die Preise liegen bei 20 € für 120 Minuten Yoga Workshop bzw. 90 Minuten Functional Moves & Yoga Workshop. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab vier angemeldeten Teilnehmern statt. Preise für Personal Training auf Anfrage.    
+Die Preise liegen bei 20 € für 120 Minuten Yoga Workshop bzw. 90 Minuten Functional Moves & Yoga und Hatha Yoga im Park Workshop. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab vier angemeldeten Teilnehmern statt. Preise für Personal Training auf Anfrage.    
 **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 
 ## Veranstaltungsort {#veranstaltungsort}
 
-Die Workshops finden in den schönen Räumlichkeiten der [Familienpraxis Dr. Gold][2] in der Freischützstraße 9 in 81927 München (Bogenhausen) statt. Anfahrt: S8 bis Englschalking, dann 5 Min. Fußweg. Oder U4 bis Arabellapark und weiter bis Englschalkinger Straße mit den Buslinien 154, 183 oder 184. Bei gutem Wetter können wir uns auch im angrenzenden Park zum Yoga treffen.
+Die Workshops finden in den schönen Räumlichkeiten der [Familienpraxis Dr. Gold][2] in der Freischützstraße 9 in 81927 München (Bogenhausen) statt. Anfahrt: S8 bis Englschalking, dann 5 Min. Fußweg. Oder U4 bis Arabellapark und weiter bis Englschalkinger Straße mit den Buslinien 154, 183 oder 184. Bei gutem Wetter können wir uns auch im angrenzenden Park zum Yoga treffen (Adresse: [Rienziplatz][4]).
 
 
 
 [1]: mailto:{{< author "agobrecht" "email" >}}
 [2]: {{< a_external "https://www.google.de/maps/place/Die+Familienpraxis/@48.1576264,11.6394313,17z/data=!3m1!4b1!4m5!3m4!1s0x479e753cb0dd5227:0x42797684780576af!8m2!3d48.1576264!4d11.64162" >}}
 [3]: /kurse/#rueckenyoga
+[4]: {{< a_external "https://goo.gl/maps/mgJ2ek1wU4MzKHz89" >}}
