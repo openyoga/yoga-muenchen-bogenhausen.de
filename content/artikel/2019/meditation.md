@@ -2,8 +2,8 @@
 title: Meditation tut gut
 description: Wie regelmäßiges Meditieren wirkt
 schlagwoerter: [Meditation, Yoga, Wikrung, Gesundheit]
-publishdate: 2019-05-21
-lastmod: 2019-05-21 06:35:00
+publishdate: 2019-05-01
+lastmod: 2019-05-01 05:45:00
 ---
 
 {{< img src="/assets/images/meditation.jpg" alt="Meditation" >}}
@@ -47,7 +47,7 @@ Meine persönliche Erfahrung mit der täglichen Meditation ist, dass nach und na
 
 ## Fazit
 
-In spirituelle Traditionen, in denen schon seit Jahrtausenden meditiert wird, wusste man seit jeher um die positiven Effekte dieser Praxis. Nach und nach findet die Wissenschaft Beweise für dieses uralte intuitive Wissen.  Probier es einfach selbst aus. Wenn Du eine Zeit lang täglich meditiert hast, wirst Du die positiven Auswirkungen auf Dich und Dein Leben spüren und weitermachen wollen. Im nächsten Blogbeitrag erfährst Du mehr über einzelne Meditationstechniken. Da ist garantiert auch eine für Dich dabei.
+In spirituellen Traditionen, in denen schon seit Jahrtausenden meditiert wird, weiß man seit jeher um die positiven Effekte der Meditationspraxis. Nach und nach findet die Wissenschaft Beweise für dieses uralte intuitive Wissen.  Probier es einfach selbst aus. Wenn Du eine Zeit lang täglich meditiert hast, wirst Du die positiven Auswirkungen auf Dich und Dein Leben spüren und weitermachen wollen. Im nächsten Blogbeitrag erfährst Du mehr über einzelne Meditationstechniken. Da ist garantiert auch eine für Dich dabei.
 
 [1]: {{< a_external "https://wiki.yoga-vidya.de/Wissenschaftliche_Studien_Meditation" >}}
 [2]: {{< a_external "https://www.sueddeutsche.de/wissen/neuro-experiment-moenche-in-der-magnetroehre-1.912829" >}}
