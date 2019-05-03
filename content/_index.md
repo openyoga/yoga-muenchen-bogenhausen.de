@@ -15,8 +15,9 @@ menu:
 
 [Yin Yoga / Faszienyoga][7]
 
-- Sonntag, 02. Juni 19:00 bis 21:00 Uhr
+- Sonntag, 26. Mai 19:00 bis 21:00 Uhr
 - Sonntag, 30. Juni 19:00 bis 21:00 Uhr
+- Sonntag, 21. Juli 19:00 bis 21:00 Uhr
 
 [Hatha Yoga im Park][6]
 
