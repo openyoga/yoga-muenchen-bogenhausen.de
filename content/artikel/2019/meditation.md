@@ -1,7 +1,7 @@
 ---
 title: Meditation tut gut
 description: Wie regelmäßiges Meditieren wirkt
-schlagwoerter: [Meditation, Yoga, Wikrung, Gesundheit]
+schlagwoerter: [Meditation, Yoga, Wirkung, Gesundheit]
 publishdate: 2019-05-01
 lastmod: 2019-05-01 05:45:00
 ---

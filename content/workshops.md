@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-04-29 06:38:00
+lastmod: 2019-05-26 09:28:02
 menu:
   main:
     name: Yoga Workshops
@@ -17,7 +17,7 @@ Du kannst nicht regelmäßig an einem Kurs teilnehmen, möchtest spontan von Woc
 
 Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Mit jedem Workshop wirst Du ein klein wenig beweglicher, Verspannungen lösen sich nach und nach. Eine sanfte, ruhige Stunde zur Regeneration; für Anfänger und Fortgeschrittene gleichermaßen geeignet.<br/>
 
-- **Sonntag, 26. Mai 19:00 bis 21:00 Uhr**
+- **Sonntag, 09. Juni 19:00 bis 21:00 Uhr**
 - **Sonntag, 30. Juni 19:00 bis 21:00 Uhr**
 - **Sonntag, 21. Juli 19:00 bis 21:00 Uhr**
 

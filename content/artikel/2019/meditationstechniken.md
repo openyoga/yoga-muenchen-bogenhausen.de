@@ -41,30 +41,31 @@ Wärend einer Meditationssitzung wiederholst Du zunächst mehrfach eine positive
 
 ## Mantra-Meditation
 
-Nun befinden wir uns am Übergang zwischen kontemplativen Meditationstechniken, bei denen man äußerlich passiv bleibt und aktiven Meditationstechniken. Bei der Mantrameditation wiederholt man ein Mantra (ein heiliges Wort, eine heilige Silbe wie "OM" oder einen ganzen Vers) oder auch ein einfaches Wort wie "Liebe", "Frieden" oder "Stille" im Geist. Dabei synchronisiert man diese Mantrawiederholung mit seinem Atem, z.B "Stille" mit jeder Einatmung und "Stille" mit jeder Ausatmung. Du kannst es auch laut wiederholen oder Singen, und dann wird aus der Mantra-Meditation eine aktive Meditation. Wer kennt sie nicht, die Hare-Krishna-Sänger? Sie wiederholen das Hare-Krishna-Mantra aktiv, um Gott in seinen Eigenschaften als Vishnu, Krishna und Rama anzurufen. Das Mantra steht für Lebensfreude, Leichtigkeit und Liebe. Mantras zu singen fällt vielen Menschen leichter, als in Stille zu meditieren.
+Nun befinden wir uns am Übergang zwischen kontemplativen Meditationstechniken, bei denen man äußerlich passiv bleibt und aktiven Meditationstechniken. Bei der Mantrameditation wiederholt man ein Mantra (ein heiliges Wort, eine heilige Silbe wie "OM" oder einen ganzen Vers) oder auch ein einfaches Wort wie "Liebe", "Frieden" oder "Stille" im Geist. Dabei synchronisiert man diese Mantrawiederholung mit seinem Atem, z.B "Stille" mit jeder Einatmung und "Stille" mit jeder Ausatmung. Du kannst es auch laut wiederholen oder Singen, und dann wird aus der Mantra-Meditation eine aktive Meditation. Wer kennt sie nicht, die Hare-Krishna-Sänger? Sie singen das Hare-Krishna-Mantra, um Gott in seinen Eigenschaften als Vishnu, Krishna und Rama anzurufen. Das Mantra steht für Lebensfreude, Leichtigkeit und Liebe. Aktive Meditationen fallen vielen Menschen leichter, als in Stille zu meditieren.
 Weitere aktive Meditationstechniken sind:
 
 ## Gehmeditation
 
-bla
+Bei der Gehmeditation konzentriert man sich vollkommen auf die Bewegungen seines Körpers - man geht sehr langsam und achtsam und verbindet jeden Schritt mit seinem Atem. Die Gehmeditation wird in christilichen und fernöstlichen Traditionen praktiziert; auch der sehr bekannte buddhistische Mönch Thich Nhat Hanh, der in Frankreich lebt, wendet sie an.
 
-## Aktive Meditationstechniken im Buddhismus
+## Aktive Meditationstechniken im Zen-Buddhismus
 
-bla
+Im Zen-Buddhismus werden verschiedene aktive Meditationen praktiziert, zum Beispiel die Tee-Zeremonie (der Tee-Weg), Ikebana (der Weg des Blumenarrangements), Zengarten (die Kunst der Gartengestaltung), Shodo (die Schreibkunst), Kyudo (Bogenschießen) und Budo (der Weg des Kriegers).
 
 ## Tanz der Derwische im Sufismus
 
-bla
+Die Sufis, islamische Mystiker, führen den Tanz der Derwische aus, um sich auf die meditative Versenkung vorzubereiten. Der Tanz führt zu einem Bewusstseinszustand der Freiheit von Gedanken und der körperlichen Zentriertheit. Neben diesem Tanz gibt es noch weitere Meditationstechniken im Sufismus.
 
 ## Dynamische Meditation von Osho
 
-bla
+Als der indische Philosoph Osho (1931-1989) beobachtete, wie schwer es dem modernen Menschen fällt, still zu sitzen und dabei konzentriert zu bleiben, entwickelte er eine dynamische Meditation. Diese körperlich sehr aktive Meditationstechnik gliedert sich in mehrere Phasen: Meist atmet man zunächst zehn Minuten sehr intensiv, tobt sich dann zehn Minuten körperlich aus, hüpft noch einmal für zehn Minuten intensiv und verharrt anschließend fünfzehn Minuten lang wie eingefroren auf der Stelle. Danach darf man fünfzehn Minuten lang ausgelassen sein und ganz nach Lust und Laune zur Musik tanzen.
 
 
 ## Fazit
 
-bla
-Im nächsten Blogbeitrag gibt es einfache Tipps für Deine tägliche Meditation: Wo meditiere ich am besten, zu welcher Uhrzeit, wie schaffe ich es, regelmäßig dran zu bleiben etc.
+Es gibt wesentlich mehr Meditationstechniken, als sich in einem Blogartikel beschreiben lassen. Manche muten auf den ersten Blick vielleicht etwas merkwürdig an, aber man muss ja nicht alles immerzu bewerten. Sei wachsam gegenüber Angeboten, die Dich binden oder abhängig machen wollen. Meditation führt in die Freiheit und ein guter Lehrer akzeptiert auch, wenn seine Methode nichts für Dich ist und Du Dich anderweitig umschauen möchtest. Suche Dir eine Meditationsform aus, die Dir sympathisch erscheint und besuche einen Kurs oder stöbere in der Bücher- und Audiowelt dazu. Jack Kornfield hat zum Beispiel tolle kurze und unesoterische Meditationen für Anfänger publiziert, auch MBSR-Kurse gibt es in vielen Städten. 
+
+Im nächsten Blogbeitrag bekommst Du einfache Tipps für Deine tägliche Meditation: Wo meditiere ich am besten, zu welcher Uhrzeit, wie schaffe ich es, regelmäßig dran zu bleiben und so weiter.
 
 
 [1]: /artikel/2019/meditation
