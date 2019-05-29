@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-05-26 09:28:02
+lastmod: 2019-05-29 21:40:02
 menu:
   main:
     name: Yoga Workshops
@@ -63,7 +63,7 @@ Mach Dich fit für den Frühling mit Detox Yoga. Wir üben jede Menge entgiftend
 
 ## Konditionen {#konditionen}
 
-Die Preise liegen bei 20 € für 120 Minuten Yoga Workshop bzw. 90 Minuten Functional Moves & Yoga und Hatha Yoga im Park Workshop. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab vier angemeldeten Teilnehmern statt. Preise für Personal Training auf Anfrage.    
+Die Preise liegen bei 20 € für 120 Minuten Yoga Workshop bzw. 90 Minuten Functional Moves & Yoga und Hatha Yoga im Park Workshop. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab fünf angemeldeten Teilnehmern statt. Preise für Personal Training auf Anfrage.    
 **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 
