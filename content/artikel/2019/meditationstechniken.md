@@ -2,11 +2,11 @@
 title: Wie meditiert man?
 description: Meditationstechniken kurz vorgestellt
 schlagwoerter: [Meditation, Yoga, Wikrung, Gesundheit]
-publishdate: 2019-06-01
-lastmod: 2019-06-01 05:45:00
+publishdate: 2019-06-02
+lastmod: 2019-06-02 05:45:00
 ---
 
-{{< img src="/assets/images/meditation.jpg" alt="Meditation" >}}
+{{< img src="/assets/images/meditation-sitzend.jpg" alt="Meditation" >}}
 
 Im [letzen Blogbeitrag][1] ging es um die positiven Wirkungen der Meditation. Vielleicht hast Du gedacht, dass Du gerne einmal eine Meditation ausprobieren möchtest. Aber welche Techniken gibt es überhaupt? Man unterscheidet zwischen kontemplativen Meditationstechniken, bei denen der Körper passiv bleibt, d.h. ruhig dasitzt oder liegt, und körperlich aktiven Meditationen wie der Gehmeditation. Schauen wir uns zunächst einmal die kontemplativen Meditationstechniken an:
 
@@ -16,7 +16,7 @@ Es gibt sehr viele Meditationstechniken, die auf Achtsamkeit basieren. Ziel der 
 
 ## MBSR (Mindfulness Based Stress Reduction)
 
-Jon Kabat-Zinn entwickelte 1979 an der Medical School der University of Massachusetts die Methode der Achtsamkeitsbasierten Stressreduktion. In einem meist achtwöchigen Kurs lernt man, Empfindungen, Gedanken und Emotionen anzunehmen und nicht zu werten, seine Aufmerksamkeit gezielt zu lenken und besser mit Stress umzugehen. Eine Beispiel für eine Achtsamkeitsmediation aus dem MBSR-Programm ist der Body Scan: Im Liegen wandert man von den Zehenspitzen nacheinander durch den ganzen Körper und beobachtet alle körperlichen Eindrücke, aber auch Gefühle und Gedanken und versucht dabei, neutral zu bleiben. Danach fühlt man sich meist angenehm entspannt und ausgeglichen. Wir setzen den Bodyscan gerne für die Endentspannung nach dem Yoga ein.
+Jon Kabat-Zinn entwickelte 1979 an der Medical School der University of Massachusetts die Methode der Achtsamkeitsbasierten Stressreduktion. In einem meist achtwöchigen Kurs lernt man, Empfindungen, Gedanken und Emotionen anzunehmen und nicht zu werten, seine Aufmerksamkeit gezielt zu lenken und besser mit Stress umzugehen. Eine Beispiel für eine Achtsamkeitsmediation aus dem MBSR-Programm ist der Body Scan: Im Liegen wandert man von den Zehenspitzen nacheinander durch den ganzen Körper und beobachtet alle körperlichen Eindrücke, aber auch Gefühle und Gedanken und versucht dabei, neutral zu bleiben. Danach fühlt man sich meist angenehm entspannt und ausgeglichen. Wir setzen den Bodyscan gerne für die Endentspannung am Ende der Yogastunde ein.
 
 ## Vipassana-Meditation
 
@@ -24,24 +24,24 @@ Bei den nun folgenden drei Meditationsformen handelt es sich um Techniken, die u
 
 ## Metta-Meditation für liebende Güte
 
-Metta heißt Liebe, Freundlichkeit, Freundschaft. Bei dieser buddhistischen Meditationstechnik schickt man zunächst liebende Güte an sich selbst, dann an Menschen, die einem nahe stehen, danach an alle Menschen und ganz zum Schluss auch an seine Feinde. Schon die erste Übung, sich selbst anzunehmen und zu lieben, fällt den meisten Menschen im Westen schwer. Regelmäßig praktiziert stärkt diese Methode die Selbstakzeptanz, das Einfühlungsvermögen und das Gefühl von Sinnhaftigkeit des Lebens. Die Metta-Meditation ist eine der ältesten buddhistischen Meditationstechniken.
+Metta heißt Liebe, Freundlichkeit, Freundschaft. Bei dieser buddhistischen Meditationstechnik schickt man zunächst liebende Güte an sich selbst, dann an Menschen, die einem nahe stehen, danach an alle Menschen und ganz zum Schluss auch an seine Feinde. Schon die erste Übung - sich selbst anzunehmen und zu lieben - fällt den meisten Menschen im Westen schwer. Regelmäßig praktiziert stärkt diese Methode die Selbstakzeptanz, das Einfühlungsvermögen und das Gefühl von Sinnhaftigkeit des Lebens. Die Metta-Meditation ist eine der ältesten buddhistischen Meditationstechniken.
 
 ## Zazen
 
-Zazen ist eine besondere Form der Achtsamkeitsmeditation aus dem Zen-Buddhismus - Zazan bedeutet sitzendes Zen, sitzende Meditation. Dabei sitzt man sehr aufrecht und geradae und beobachtet mit Achtsamkeit sowohl seinen Körper als auch seinen Geist. Auch hier lernt man, alles, was auftaucht, wahrzunehmen, aber nicht darauf zu reagieren. Während des Zazen bewegt man sich, wie bei vielen anderen Sitzmeditationen, nicht. Das fällt einem anfangs vielleicht noch sehr schwer, z.B. wenn die Nase anfängt zu laufen, hilft einem aber dabei, wirklich zur Ruhe zu kommen und das Nicht-Reagieren zu üben.
+Zazen ist eine besondere Form der Achtsamkeitsmeditation aus dem Zen-Buddhismus - Zazan bedeutet sitzendes Zen, sitzende Meditation. Dabei sitzt man sehr aufrecht und gerade und beobachtet mit Achtsamkeit sowohl seinen Körper als auch seinen Geist. Auch hier lernt man, alles was auftaucht, wahrzunehmen, aber nicht darauf zu reagieren. Während des Zazen bewegt man sich, wie bei vielen anderen Sitzmeditationen, nicht. Das fällt einem anfangs vielleicht noch sehr schwer, z.B. wenn die Nase anfängt zu laufen, hilft einem aber dabei, wirklich zur Ruhe zu kommen und das Nicht-Reagieren zu üben.
 
 ## Fantasiereise
 
-Die Fantasiereise wird meist (wie der Body Scan) im Liegen ausgeführt. Im Yoga kann sie Teil der Endentspannung sein, oft macht man sie auch mit Kindern. Es handelt sich um eine geführte Meditation, bei der man auf eine innere Reise geht, zum Beispiel auf eine Bootsfahrt. Zwischen den einzelnen Schritten der Reise gibt es Ruhepausen, während denen jeder Teilnehmer seine eigene Fantasie aktivieren kann. Alle machen dieselbe Fantasiereise mit, aber jeder erlebt sie anders und zieht andere Erkenntnisse daraus. Danach fühlt man sich meist sehr entspannt, auch Einschlafen während der Reise ist in Ordnung.
+Die Fantasiereise wird meist (wie der Body Scan) im Liegen ausgeführt. Im Yoga kann sie Teil der Endentspannung sein, oft macht man sie auch mit Kindern. Es handelt sich um eine geführte Meditation, bei der man auf eine innere Reise geht, zum Beispiel auf eine Bootsfahrt. Zwischen den einzelnen Schritten der Reise gibt es Ruhepausen, während denen jeder Teilnehmer seine eigene Fantasie aktivieren kann. Alle machen dieselbe Fantasiereise mit, aber jeder erlebt sie anders und zieht andere Erkenntnisse daraus. Danach fühlt man sich meist sehr entspannt; auch Einschlafen während der Reise ist in Ordnung.
 
 ## Eigenschaftsmeditation
 
-Es gibt noch viele kontemplative Meditationsmethoden, die wir hier nicht alle beschreiben können. Erwähnen wollen wir noch die Eigenschaftsmeditation, mit der man eine positive Eigenschaft an sich entwickeln kann, wenn man sie regelmäßig anwendet. Welche Eigenschaft Du damit entwickeln möchtest, bleibt Dir selbst überlassen; Beispiele sind Geduld, Mut, Toleranz oder Disziplin.     
-Wärend einer Meditationssitzung wiederholst Du zunächst mehrfach eine positive Affirmation zu Deiner gewählten Eigenschaft, z.B. "Ich bin geduldig". Danach schreibst Du innerlich einen Aufsatz über Deine Eigenschaft: Wie definierst Du Geduld? Was sind ihre Vorteile, eventuell auch ihre Grenzen usw. Dann visualisierst Du eine Person, die Du kennst und die die Eigenschaft schon hat. Wie verkörpert sie die Eigenschaft? Anschließend spürst Du in die Eigenschaft und das Gefühl hinein - wie fühlt sich Geduld an, wie fühlt es sich an, ein geduldiger Mensch zu sein? Anschließend visualisierst Du Dich selbst in verschiedenen Situationen, in denen Du in Zukunft entsprechend Deiner Eigenschaft handelst. Wie verhälst Du Dich in den Situationen als geduldiger Mensch? Zum Abschluss der Meditaiton wiederholst Du noch einige Male Deine Affirmation, z.B. "Ich bin geduldig".
+Es gibt viele kontemplative Meditationsmethoden, die wir hier nicht alle beschreiben können. Erwähnen wollen wir noch die Eigenschaftsmeditation, mit der man eine positive Eigenschaft an sich entwickeln kann, wenn man sie regelmäßig anwendet. Welche Eigenschaft Du damit stärken möchtest, bleibt Dir selbst überlassen; Beispiele sind Geduld, Mut, Toleranz oder Disziplin. Und so geht's:    
+Wärend einer Meditationssitzung wiederholst Du zunächst mehrfach eine positive Affirmation zu Deiner gewählten Eigenschaft, z.B. "Ich bin geduldig". Danach schreibst Du innerlich einen Aufsatz über Deine Eigenschaft: Wie definierst Du Geduld? Was sind ihre Vorteile, eventuell auch ihre Grenzen usw. Dann visualisierst Du eine Person, die Du kennst und die die Eigenschaft schon hat. Wie verkörpert sie die Eigenschaft? Anschließend spürst Du in die Eigenschaft und das Gefühl hinein - wie fühlt sich Geduld an, wie fühlt es sich an, ein geduldiger Mensch zu sein? Danach visualisierst Du Dich selbst in verschiedenen Situationen, in denen Du in Zukunft entsprechend Deiner Eigenschaft handelst. Wie verhälst Du Dich in den Situationen als geduldiger Mensch? Zum Abschluss der Meditaiton wiederholst Du noch einige Male Deine Affirmation, z.B. "Ich bin geduldig".
 
 ## Mantra-Meditation
 
-Nun befinden wir uns am Übergang zwischen kontemplativen Meditationstechniken, bei denen man äußerlich passiv bleibt und aktiven Meditationstechniken. Bei der Mantrameditation wiederholt man ein Mantra (ein heiliges Wort, eine heilige Silbe wie "OM" oder einen ganzen Vers) oder auch ein einfaches Wort wie "Liebe", "Frieden" oder "Stille" im Geist. Dabei synchronisiert man diese Mantrawiederholung mit seinem Atem, z.B "Stille" mit jeder Einatmung und "Stille" mit jeder Ausatmung. Du kannst es auch laut wiederholen oder Singen, und dann wird aus der Mantra-Meditation eine aktive Meditation. Wer kennt sie nicht, die Hare-Krishna-Sänger? Sie singen das Hare-Krishna-Mantra, um Gott in seinen Eigenschaften als Vishnu, Krishna und Rama anzurufen. Das Mantra steht für Lebensfreude, Leichtigkeit und Liebe. Aktive Meditationen fallen vielen Menschen leichter, als in Stille zu meditieren.
+Nun befinden wir uns am Übergang zwischen kontemplativen Meditationstechniken, bei denen man äußerlich passiv bleibt und aktiven Meditationstechniken. Bei der Mantrameditation wiederholt man ein Mantra (ein heiliges Wort, eine heilige Silbe wie "OM" oder einen ganzen Vers) oder auch ein einfaches Wort wie "Liebe", "Frieden" oder "Stille" im Geist. Dabei synchronisiert man die Mantrawiederholung mit seinem Atem, z.B "Stille" mit jeder Einatmung und "Stille" mit jeder Ausatmung. Du kannst es auch laut wiederholen oder singen - dann wird aus der Mantra-Meditation eine aktive Meditation. Wer kennt sie nicht, die Hare-Krishna-Sänger? Sie singen das Hare-Krishna-Mantra, um Gott in seinen Eigenschaften als Vishnu, Krishna und Rama anzurufen. Das Mantra steht für Lebensfreude, Leichtigkeit und Liebe. Aktive Meditationen fallen vielen Menschen leichter, als in Stille zu meditieren.
 Weitere aktive Meditationstechniken sind:
 
 ## Gehmeditation
