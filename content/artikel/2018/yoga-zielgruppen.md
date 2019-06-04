@@ -13,7 +13,7 @@ Die Antwort lautet schlicht: Für jeden, der offen dafür ist. Yoga passt sich D
 
 > Das ist ja das Großartige am Yoga: Es kann das Leben von jedem Menschen bereichern, eine neue Tiefe geben, eine neue Dimension eröffen.
 >
-> [Sukadev Bretz, "Yoga für jedes Alter" im Yoga Vidya Journal im Herbst 2017][1]
+> [Sukadev Bretz, &bdquo;Yoga für jedes Alter&ldquo; im Yoga Vidya Journal im Herbst 2017][1]
 
 [1]: {{< a_external "https://www.yoga-vidya.de/fileadmin/download/pdf/Yoga-Vidya-Journal_Nr35.pdf" >}}
 
