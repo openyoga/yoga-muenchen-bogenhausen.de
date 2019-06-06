@@ -3,8 +3,8 @@ title: Ratatouille
 description:  Gemüsegenuss wie in Frankreich
 rezeptarten: [Gemuese]
 hauptzutaten: [Paprika, Zucchini, Aubergine, Tomate]
-publishdate: 2019-06-09
-lastmod: 2019-06-09 20:00:00
+publishdate: 2019-06-06
+lastmod: 2019-06-06 04:31:02
 ---
 
 Dieser geschmorte Gemüseeintopf schmeckt herrlich nach Sommerurlaub in Frankreich. Er lässt sich ganz unkompliziert in einem Topf zubereiten und eignet sich auch für die Camping- oder Ferienhausküche. Wir haben ihn yogisch/ayurvedisch gewürzt und essen Oliven dazu.

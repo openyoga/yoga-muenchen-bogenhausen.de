@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-06-04 21:20:02
+lastmod: 2019-06-06 04:29:02
 menu:
   main:
     name: Yoga Workshops
