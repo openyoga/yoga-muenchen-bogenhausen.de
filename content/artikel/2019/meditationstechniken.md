@@ -3,7 +3,7 @@ title: Wie meditiert man?
 description: Meditationstechniken kurz vorgestellt
 schlagwoerter: [Meditation, Yoga, Wikrung, Gesundheit]
 publishdate: 2019-06-02
-lastmod: 2019-06-02 20:35:00
+lastmod: 2019-07-01 20:35:00
 ---
 
 {{< img src="/assets/images/meditation-sitzend.jpg" alt="Meditation" class="left width50" >}}
@@ -78,9 +78,11 @@ Als der indische Philosoph Osho (1931-1989) beobachtete, wie schwer es dem moder
 
 Es gibt wesentlich mehr Meditationstechniken, als sich in einem Blogartikel beschreiben lassen. Manche muten auf den ersten Blick vielleicht etwas merkwürdig an, aber man muss ja nicht alles immerzu bewerten. Sei wachsam gegenüber Angeboten, die Dich binden oder abhängig machen wollen. Meditation führt in die Freiheit und ein guter Lehrer akzeptiert auch, wenn seine Methode nichts für Dich ist und Du Dich anderweitig umschauen möchtest. Suche Dir eine Meditationsform aus, die Dir sympathisch erscheint und besuche einen Kurs oder stöbere in der Bücher- und Audiowelt dazu. Jack Kornfield hat zum Beispiel tolle kurze und unesoterische Meditationen für Anfänger publiziert, auch MBSR-Kurse gibt es in vielen Städten. 
 
-Im nächsten Blogbeitrag bekommst Du einfache Tipps für Deine tägliche Meditation: Wo meditiere ich am besten, zu welcher Uhrzeit, wie schaffe ich es, regelmäßig dran zu bleiben und so weiter.
+Im [nächsten Blogbeitrag] [2] bekommst Du einfache Tipps für Deine tägliche Meditation: Wo meditiere ich am besten, zu welcher Uhrzeit, wie schaffe ich es, regelmäßig dran zu bleiben und so weiter.
 
 
 [1]: /artikel/2019/meditation
+[2]: /artikel/2019/meditation-tipps
+
 
 
