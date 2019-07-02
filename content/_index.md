@@ -1,7 +1,7 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2019-07-01 06:01:00
+lastmod: 2019-07-02 19:51:00
 
 menu:
   main:
@@ -17,7 +17,8 @@ menu:
 
 - Sonntag, 21. Juli 19:00 bis 21:00 Uhr
 - Sonntag, 01. September 19:00 bis 21:00 Uhr
-- Sonntag, 22. September 19:00 bis 21:00 Uhr
+- Sonntag, 15. September 19:00 bis 21:00 Uhr
+- Sonntag, 29. September 19:00 bis 21:00 Uhr
 
 
 [Hatha Yoga im Park][6]

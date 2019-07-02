@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-07-01 06:09:02
+lastmod: 2019-07-02 19:49:02
 menu:
   main:
     name: Yoga Workshops
@@ -19,7 +19,9 @@ Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auc
 
 - **Sonntag, 21. Juli 19:00 bis 21:00 Uhr**
 - **Sonntag, 01. September 19:00 bis 21:00 Uhr**
-- **Sonntag, 22. September 19:00 bis 21:00 Uhr**
+- **Sonntag, 15. September 19:00 bis 21:00 Uhr**
+- **Sonntag, 29. September 19:00 bis 21:00 Uhr**
+
 
 
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
