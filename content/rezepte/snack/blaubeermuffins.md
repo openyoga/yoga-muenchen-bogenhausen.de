@@ -3,8 +3,8 @@ title: Blaubeermuffins
 description: Ohne Mehl und ohne Zucker
 rezeptarten: [Snack]
 hauptzutaten: [Blaubeeren, Mandelmehl, Mandelmilch]
-publishdate: 2019-09-01
-lastmod: 2019-09-01 19:29:00
+publishdate: 2019-07-02
+lastmod: 2019-07-02 17:25:00
 ---
 
 Diese glutenfreien Low Carb Muffins sind ein Genuss für Körper, Geist und Seele. Man darf sie völlig ohne schlechtes Gewissen vernaschen. Und wer doch sündigen möchte oder es gerne süßer mag, darf beim Topping kreativ werden. Ein Dank geht an unsere Yoga-Schülerin und Ernährungsberaterin Anastasia für dieses tolle Rezept!
