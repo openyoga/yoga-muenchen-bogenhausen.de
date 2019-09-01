@@ -8,9 +8,9 @@ menu:
     weight: 30
 ---
 
-{{< img src="/assets/images/krieger_I.jpg" alt="Der Krieger I" class="right width30" >}}
+{{< img src="/assets/images/side-plank.jpg" alt="Seitliche Planke">}}
 
-Sonntags von 17:00 bis 18:30 Uhr - Beginn 12. Januar 2020
+Sonntags von 17:00 bis 18:30 Uhr - Beginn am 12. Januar 2020
 
 ## Functional Moves & Yoga
 
