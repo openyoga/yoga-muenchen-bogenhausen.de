@@ -1,7 +1,7 @@
 ---
 title: Buchweizen-Kirsch-Kuchen
 description: Glutenfrei und ein Hochgenuss
-rezeptarten: [Snack]
+rezeptarten: [Kuchen]
 hauptzutaten: [Buchweizen, Kirschen, Mandeln, Backkakao]
 publishdate: 2019-09-06
 lastmod: 2019-09-06 07:25:00
@@ -11,12 +11,12 @@ Dieser glutenfreie Kuchen schmeckt nach sonnigen Urlauben in Südtirol und Kaffe
 
 ## Zutaten
 
-- 2 Gläser Schattenmorellen (2x370g Abtropfgewicht), abtropfen lassen
-- 200g weiche Butter
-- 150g Rohrzucker
-- 6 Eier, trennen
+- 2 Gläser Schattenmorellen (2x370g Abtropfgewicht) oder frische entsteinte Kirschen, abtropfen lassen
 - 200g Buchweizenmehl
 - 200g gemahlene Mandeln
+- 200g weiche Butter
+- 150g Rohrzucker
+- 6 Eier, Eigelb und Eiweiß getrennt
 - 2 Esslöffel Backkakao
 - 1 Päckchen Bourbon-Vanillezucker
 - 1 Päckchen Backpulver
@@ -25,9 +25,9 @@ Dieser glutenfreie Kuchen schmeckt nach sonnigen Urlauben in Südtirol und Kaffe
 
 ## Zubereitung
 
-1. Butter mit Zucker und den Eigelben schaumig rühren
-2. Buchweizen, Mandeln,  Backkakao, Bourbon-Vanillezucker und Backpulver unterrühren
-3. Schattenmorellen im Teig verrühren
+1. Butter mit Zucker und dem Eigelb der sechs Eier schaumig rühren
+2. Buchweizen, Mandeln, Backkakao, Bourbon-Vanillezucker und Backpulver unterrühren
+3. Schattenmorellen unter den Teig rühren
 4. Eiweiße mit einer Prise Salz steif schlagen, unter den Teig heben 
 5. Springform mit Butter einfetten
 6. Teig in die Springform füllen, in den kalten Backofen stellen und bei 160 Grad Umluft eine Stunde lang backen lassen, Nadelprobe

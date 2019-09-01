@@ -1,7 +1,7 @@
 ---
 title: Blaubeermuffins
 description: Ohne Mehl und ohne Zucker
-rezeptarten: [Snack]
+rezeptarten: [Muffins, Kuchen]
 hauptzutaten: [Blaubeeren, Mandelmehl, Mandelmilch]
 publishdate: 2019-07-02
 lastmod: 2019-07-02 17:25:00
