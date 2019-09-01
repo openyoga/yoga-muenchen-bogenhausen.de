@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-07-20 05:40:02
+lastmod: 2019-08-28 19:36:02
 menu:
   main:
     name: Yoga Workshops
@@ -11,30 +11,32 @@ menu:
 {{< img src="/assets/images/sprinter.jpg" alt="Der Sprinter" >}}
 
 
-Du kannst nicht regelmäßig an einem Kurs teilnehmen, möchtest spontan von Woche zu Woche entscheiden und Yoga nach Deinem eigenen Terminplan machen? Dann ist vielleicht ein Workshop, den Du einzeln pro Abend buchen kannst und der zwei Stunden dauert das Richtige für Dich.
+Du kannst nicht regelmäßig an einem Kurs teilnehmen, möchtest spontan von Woche zu Woche entscheiden und Yoga nach Deinem eigenen Terminplan machen? Dann ist vielleicht ein Workshop, den Du einzeln pro Abend buchen kannst das Richtige für Dich.
 
 ## Yin Yoga / Faszienyoga {#yinyogaworkshop}
 
 Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Mit jedem Workshop wirst Du ein klein wenig beweglicher, Verspannungen lösen sich nach und nach. Eine sanfte, ruhige Stunde zur Regeneration; für Anfänger und Fortgeschrittene gleichermaßen geeignet.<br/>
 
-- **Sonntag, 01. September 19:00 bis 21:00 Uhr**
-- **Sonntag, 15. September 19:00 bis 21:00 Uhr**
 - **Sonntag, 29. September 19:00 bis 21:00 Uhr**
-
-
+- **Sonntag, 13. Oktober 19:00 bis 21:00 Uhr**
+- **Sonntag, 27. Oktober 19:00 bis 21:00 Uhr**
+- **Sonntag, 17. November 19:00 bis 21:00 Uhr**
+- **Sonntag, 01. Dezember 19:00 bis 21:00 Uhr**
 
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
-
-## Hatha Yoga im Park {#hathayogaworkshop}
-
-In diesem Workshop kommen sowohl Yoga Anfänger als auch Fortgeschrittene auf ihre Kosten. Wir üben auf der grünen Wiese im Park. Hier wird der ganze Körper gekräftigt und gedehnt, kleine Verspannungen lösen sich und der Kopf kann endlich einmal abschalten. Wir beginnen mit dynamischen Sonnengrüßen, gehen dann über zu länger gehaltenen klassischen Asanas aus dem Hatha Yoga und schließen mit einer wohltuenden Endentspannung ab.<br/>
-
-- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 
 ## Hatha Yoga / Rückenyoga {#rueckenyogaworkshop}
 
-In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden.
+In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Sowohl Yoga Anfänger als auch Fortgeschrittene fühlen sich hier gut aufgehoben.
+
+- **Freitags 19:30 bis 21:00 Uhr nach Vereinbarung** 
+- **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
+
+
+## Power Yoga für Sportler{#poweryogaworkshop}
+
+Du bist sehr sportlich und suchst nach einem Ausgleich zu Deinem Training oder hast schon Yoga-Erfahrung und möchtest Dich etwas mehr fordern? Dann bist Du hier genau richtig. Wir üben dynamische Vinyasa Flow Yoga Sequenzen und beenden die Stunde mit intensiveren, länger gehaltenen Dehnungen und einer regenerierenden Entspannung.
 
 - Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
@@ -44,15 +46,16 @@ Du hast noch nie Yoga gemacht oder nur einmal irgendwo ausprobiert? Dann ist die
 
 - Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
+
 ## Familienyoga{#familienyogaworkshop}
 
 Ein Yoga Workshop für alle Kinder und ihre Eltern. Wir üben klassisches Hatha Yoga - abwechslungsreich, spielerisch, locker, leicht und lassen die Stunde mit einer entspannenden Fantasiereise ausklingen. 
 
 - Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
-## Power Yoga für Sportler{#poweryogaworkshop}
+## Hatha Yoga im Park {#hathayogaworkshop}
 
-Du bist sehr sportlich und suchst nach einem Ausgleich zu Deinem Training oder hast schon Yoga-Erfahrung und möchtest Dich etwas mehr fordern? Dann bist Du hier genau richtig. Wir üben dynamische Vinyasa Flow Yoga Sequenzen und beenden die Stunde mit intensiveren, länger gehaltenen Dehnungen und einer regenerierenden Entspannung.
+In diesem Workshop kommen sowohl Yoga Anfänger als auch Fortgeschrittene auf ihre Kosten. Wir üben auf der grünen Wiese im Park. Hier wird der ganze Körper gekräftigt und gedehnt, kleine Verspannungen lösen sich und der Kopf kann endlich einmal abschalten. Wir beginnen mit dynamischen Sonnengrüßen, gehen dann über zu länger gehaltenen klassischen Asanas aus dem Hatha Yoga und schließen mit einer wohltuenden Endentspannung ab.<br/>
 
 - Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
@@ -64,7 +67,7 @@ Mach Dich fit für den Frühling mit Detox Yoga. Wir üben jede Menge entgiftend
 
 ## Konditionen {#konditionen}
 
-Die Preise liegen bei 20 € für 120 Minuten Yoga Workshop bzw. 90 Minuten Functional Moves & Yoga und Hatha Yoga im Park Workshop. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab fünf angemeldeten Teilnehmern statt. Preise für Personal Training auf Anfrage.    
+Die Preise liegen bei 20 € pro Yoga Workshop. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab fünf angemeldeten Teilnehmern statt. Preise für Personal Training auf Anfrage.    
 **Anfragen bitte per Mail an: [{{< author "agobrecht" "email" >}}][1]**
 
 

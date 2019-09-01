@@ -2,7 +2,7 @@
 title: Ratatouille
 description:  Gemüsegenuss wie in Frankreich
 rezeptarten: [Gemuese]
-hauptzutaten: [Paprika, Zucchini, Aubergine, Tomate]
+hauptzutaten: [Paprika, Zucchini, Aubergine, Tomaten]
 publishdate: 2019-06-06
 lastmod: 2019-06-06 04:31:02
 ---

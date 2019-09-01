@@ -3,7 +3,7 @@ title: Fenchel aus dem Ofen
 description:  Mit einer leicht süßen Geschmacksnote
 rezeptarten: [Gemuese]
 hauptzutaten: [Fenchel, Zitrone]
-publishdate: 2019-07-22
+publishdate: 2019-07-20
 lastmod: 2019-07-20 05:27:00
 ---
 

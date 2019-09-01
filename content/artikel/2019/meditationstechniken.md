@@ -1,7 +1,7 @@
 ---
 title: Wie meditiert man?
 description: Meditationstechniken kurz vorgestellt
-schlagwoerter: [Meditation, Yoga, Wikrung, Gesundheit]
+schlagwoerter: [Meditation, Yoga, Wirkung, Gesundheit]
 publishdate: 2019-06-02
 lastmod: 2019-07-01 20:35:00
 ---
