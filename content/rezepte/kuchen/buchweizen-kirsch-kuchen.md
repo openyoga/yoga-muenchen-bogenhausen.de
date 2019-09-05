@@ -3,15 +3,15 @@ title: Buchweizen-Kirsch-Kuchen
 description: Glutenfrei und ein Hochgenuss
 rezeptarten: [Kuchen]
 hauptzutaten: [Buchweizen, Kirschen, Mandeln, Backkakao]
-publishdate: 2019-09-06
-lastmod: 2019-09-06 07:25:00
+publishdate: 2019-09-05
+lastmod: 2019-09-06 06:05:00
 ---
 
 Dieser glutenfreie Kuchen schmeckt nach sonnigen Urlauben in Südtirol und Kaffeepause auf einer gemütlichen Alm. Die Südtiroler nennen ihn Schwarzplententorte und füllen ihn mit Preiselbeermarmelade statt Kirschen (siehe Variante ganz unten). Wir haben ihn, passend zu den Schattenmorellen und dem nussigen Buchweizen, etwas schokoladiger gemacht.
 
 ## Zutaten
 
-- 2 Gläser Schattenmorellen (2x370g Abtropfgewicht) oder frische entsteinte Kirschen, abtropfen lassen
+- 2 Gläser Schattenmorellen (2x370g Abtropfgewicht), abgetropft oder frische entsteinte Kirschen
 - 200g Buchweizenmehl
 - 200g gemahlene Mandeln
 - 200g weiche Butter
@@ -35,5 +35,5 @@ Dieser glutenfreie Kuchen schmeckt nach sonnigen Urlauben in Südtirol und Kaffe
 
 Der Kuchen schmeckt durchgezogen am zweiten und dritten Tag noch besser.        
 
-Variante: Backkakao weglassen, Schattenmorellen durch 2 bis 3 geschälte und grob geriebene Äpfel ersetzen.        
+Variante: Backkakao weglassen, Schattenmorellen durch drei bis vier geschälte und grob geriebene Äpfel ersetzen.        
 Original-Rezept aus Südtirol: Kuchen (ohne Backkkakao und Schattenmorellen) nach dem Abkühlen mit Zwirn quer durchschneiden, mit Preiselbeermarmelade füllen und mit Puderzucker bestäuben.
