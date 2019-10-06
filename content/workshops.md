@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-10-2019 06:00:02
+lastmod: 2019-10-06 06:00:02
 menu:
   main:
     name: Yoga Workshops
@@ -25,6 +25,13 @@ Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auc
 
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
+## Detox Yoga {#detoxyogaworkshop}
+
+Mach Dich fit für den Herbst mit Detox Yoga. Wir üben jede Menge entgiftende, entschlackende und den Stoffwechsel anregende Asanas, bauen Stress ab und putzen, massieren und dehnen unser gesamtes Körpersystem einmal kräftig durch. In diesem Workshop heben wir unser Energie-Level, schalten vom Alltag ab und gönnen uns wie immer eine regenerierende Entspannung am Ende des Workshops.
+
+- **Sonntag, 03. November 19:00 bis 21:00 Uhr**
+
+- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Hatha Yoga / Rückenyoga {#rueckenyogaworkshop}
 
@@ -59,11 +66,6 @@ In diesem Workshop kommen sowohl Yoga Anfänger als auch Fortgeschrittene auf ih
 
 - Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
-## Detox Yoga {#detoxyogaworkshop}
-
-Mach Dich fit für den Frühling mit Detox Yoga. Wir üben jede Menge entgiftende, entschlackende und den Stoffwechsel anregende Asanas, bauen Stress ab und putzen, massieren und dehnen unser gesamtes Körpersystem einmal kräftig durch. In diesem Workshop heben wir unser Energie-Level, schalten vom Alltag ab und gönnen uns wie immer eine regenerierende Entspannung am Ende des Workshops.
-
-- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Konditionen {#konditionen}
 

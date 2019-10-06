@@ -3,8 +3,8 @@ title: Pasta mit Linsenragout
 description: Vegetarische Bolognese
 rezeptarten: [Pasta]
 hauptzutaten: [Linsen, Tomaten, Karotten, Lauch, Stangensellerie]
-publishdate: 2019-10-15
-lastmod: 2019-10-15 20:02:00
+publishdate: 2019-10-14
+lastmod: 2019-10-14 06:02:00
 ---
 
 Diese vegane Pasta mit Pardinalinsen und Gemüse toppt jede andere Bolognese. Wer möchte, kann die Soße mit etwas Rotwein abschmecken.

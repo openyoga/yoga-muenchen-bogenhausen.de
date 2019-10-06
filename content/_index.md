@@ -1,7 +1,7 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2019-10-2019 06:01:02
+lastmod: 2019-10-06 06:01:02
 
 menu:
   main:
@@ -12,6 +12,11 @@ menu:
 
 
 ## Workshops
+
+[Detox Yoga Workshop][6]
+
+- Sonntag, 03. November 19:00 bis 21:00 Uhr
+
 
 [Yin Yoga / Faszienyoga][7]
 
@@ -28,6 +33,7 @@ menu:
 Beginn am 12. Januar 2020
 
 
+[6]: /workshops/#detoxyogaworkshop
 [7]: /workshops/#yinyogaworkshop
 [8]: /functional-training
 

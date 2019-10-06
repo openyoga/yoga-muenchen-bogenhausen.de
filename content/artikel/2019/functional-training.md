@@ -2,8 +2,8 @@
 title: Functional Training
 description: Wann sind Übungen funktionell?
 schlagwoerter: [Functional Training, funktionelles Training]
-publishdate: 2019-10-01
-lastmod: 2019-10-01 06:00:00
+publishdate: 2019-10-02
+lastmod: 2019-10-02 05:25:00
 ---
 
 {{< img src="/assets/images/squat.jpg" alt="Deep Squat">}}
@@ -48,7 +48,7 @@ Nach so viel Theorie folgen nun einige Beispiele für klassische funktionelle Ü
 ## Vorteile
 
 Funktionelles Training ist effizient, zeit- und platzsparend und benötigt keine teuren Geräte. Du kannst es überall ausüben, auch zu Hause oder draußen auf der grünen Wiese. Du kannst mit unzähligen Hilfsmitteln wie Kettlebells oder TRX (Schlingen) trainieren oder auch nur mit Deinem eigenen Körpergewicht. Es gibt unendlich viele Übungen sowie Möglichkeiten, die Übungen abzuwandeln und an verschiedene Leistungsstufen anzupassen: Regressionen machen eine Übung leichter und zugänglicher, Progressionen steigern ihre Intensität und Schwierigkeit. Es wird garantiert nicht langweilig.       
-Functional Training ist eine wunderbare Ergänzung zu Deiner spezifischen Sportart. Es ist aber auch gut geeignet als einiziges effizientes Sportprogramm in einem ohnehin schon vollgepackten Alltag. Zwei Trainingseinheiten pro Woche sind völlig ausreichend. Spür- und messbare Effekte erzielt man schon nach wenigen Trainingstagen. Und wenn sich erstmal dieses wunderbare Körpergefühl nach dem Functional Training  einstellt, fällt es einem auch nicht mehr schwer, sich für die nächste Session zu motivieren.
+Functional Training ist eine wunderbare Ergänzung zu Deiner spezifischen Sportart. Es ist aber auch gut geeignet als einiziges effizientes Sportprogramm in einem ohnehin schon vollgepackten Alltag. Zwei Trainingseinheiten pro Woche sind völlig ausreichend. Spür- und messbare Effekte erzielt man schon nach wenigen Trainingstagen. Und wenn sich erst einmal dieses wunderbare Körpergefühl nach dem Functional Training  einstellt, fällt es einem auch nicht mehr schwer, sich für die nächste Session zu motivieren.
 
 
 ## Fazit
