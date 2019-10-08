@@ -3,10 +3,10 @@ title: Detoxing
 description: Frühjahrsputz für Körper, Geist und Seele
 schlagwoerter: [Detox, Yoga, Asanas, Ayurveda, Ernaehrung]
 publishdate: 2019-03-21
-lastmod: 2019-03-21 06:35:00
+lastmod: 2019-10-08 19:47:00
 ---
 
-{{< img src="/assets/images/gedrehtes-dreieck.jpg" alt="gedrehtes Dreieck" >}}
+{{< img src="/assets/images/drehsitz.jpg" alt="Drehsitz" >}}
 
 Einige Schulmediziner bezweifeln die Existenz von Schlacken im Körper - unsere Entgiftungsorgane Leber, Lungen, Darm, Nieren, Lymphsystem, Blut und Haut würden alle Giftstoffe ausreichend abbauen. Viele Naturheilkundler und auch uralte Heiltraditionen wie Ayurveda betonen dagegen die Notwendigkeit, den Körper von Zeit zu Zeit bei der Entgiftung zu unterstützen. Und auch Fastenkuren gibt es schon seit Jahrtausenden. So beschrieb schon der griechische Arzt Hippokrates von Kos (ca 460 - 375 v. Chr.) die heilsame Wirkung des Fastens: 
 
@@ -21,7 +21,7 @@ Vielleicht ist es das Beste, wenn Du Dir Deine eigene Meinung bildest und durch 
 
 ## Detox Yoga
 
-Beim Entschlacken helfen alle Drehhaltungen, zum Beispiel der Drehsitz oder das gedrehte Dreieck im Bild oben, da sie die Bauchorgane anregen. Auch Asanas, die den Bauch massieren tun jetzt gut, z.B. der Bogen oder die Kindhaltung. Mit Übungen wie dem Sonnengruß und auch dem Schulterstand regen wir unseren Stoffwechsel, die Durchblutung und den Lymphfluss an. [Atemübungen][3] wie Kapalabhati oder die Wechselatmung werden von Yogis gern genutzt - schließlich entgiften wir auch über unsere Lungen und unseren Atem. Detoxing bedeutet für mich persönlich nicht nur körperlich zu entgiften, sondern auch zu entstressen, zu entspannen. Shavasana, d.h. eine gemütliche Endentspannung, z.B. mit einer Phantasiereise, tut hier richtig gut. <br/>
+Beim Entschlacken helfen alle Drehhaltungen, zum Beispiel der Drehsitz im Bild oben oder das gedrehte Dreieck, da sie die Bauchorgane anregen. Auch Asanas, die den Bauch massieren tun jetzt gut, z.B. der Bogen oder die Kindhaltung. Mit Übungen wie dem Sonnengruß und auch dem Schulterstand regen wir unseren Stoffwechsel, die Durchblutung und den Lymphfluss an. [Atemübungen][3] wie Kapalabhati oder die Wechselatmung werden von Yogis gern genutzt - schließlich entgiften wir auch über unsere Lungen und unseren Atem. Detoxing bedeutet für mich persönlich nicht nur körperlich zu entgiften, sondern auch zu entstressen, zu entspannen. Shavasana, d.h. eine gemütliche Endentspannung, z.B. mit einer Phantasiereise, tut hier richtig gut. <br/>
 Nicht nur mit Yoga, auch mit Bewegung an der frischen Luft kannst Du Deinem Körper etwas Gutes tun - probier doch einmal einen längeren flotten Spaziergang aus, eine Radtour, Bergwanderung oder Nordic Walking Runde.
 
 ## Basische Ernährung
