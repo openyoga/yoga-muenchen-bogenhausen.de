@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-10-14 06:00:02
+lastmod: 2019-11-03 16:43:02
 menu:
   main:
     name: Yoga Workshops
@@ -17,18 +17,9 @@ Du kannst nicht regelmäßig an einem Kurs teilnehmen, möchtest spontan von Woc
 
 Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Mit jedem Workshop wirst Du ein klein wenig beweglicher, Verspannungen lösen sich nach und nach. Eine sanfte, ruhige Stunde zur Regeneration; für Anfänger und Fortgeschrittene gleichermaßen geeignet.<br/>
 
-- **Sonntag, 27. Oktober 19:00 bis 21:00 Uhr (ausgebucht)**
 - **Sonntag, 17. November 19:00 bis 21:00 Uhr**
 - **Sonntag, 01. Dezember 19:00 bis 21:00 Uhr**
 - **Sonntag, 15. Dezember 19:00 bis 21:00 Uhr**
-
-- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
-
-## Detox Yoga {#detoxyogaworkshop}
-
-Mach Dich fit für den Herbst und Winter mit Detox Yoga. Wir üben jede Menge entgiftende, entschlackende und den Stoffwechsel anregende Asanas, bauen Stress ab und putzen, massieren und dehnen unser gesamtes Körpersystem einmal kräftig durch. In diesem Workshop heben wir unser Energie-Level, schalten vom Alltag ab und gönnen uns wie immer eine regenerierende Entspannung am Ende des Workshops.
-
-- **Sonntag, 03. November 19:00 bis 21:00 Uhr**
 
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
@@ -39,6 +30,11 @@ In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, t
 - **Freitags 19:30 bis 21:00 Uhr nach Vereinbarung** 
 - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
+## Detox Yoga {#detoxyogaworkshop}
+
+Mach Dich fit für den Herbst und Winter mit Detox Yoga. Wir üben jede Menge entgiftende, entschlackende und den Stoffwechsel anregende Asanas, bauen Stress ab und putzen, massieren und dehnen unser gesamtes Körpersystem einmal kräftig durch. In diesem Workshop heben wir unser Energie-Level, schalten vom Alltag ab und gönnen uns wie immer eine regenerierende Entspannung am Ende des Workshops.
+
+- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Power Yoga für Sportler{#poweryogaworkshop}
 

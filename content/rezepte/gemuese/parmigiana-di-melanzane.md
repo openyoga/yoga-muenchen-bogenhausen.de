@@ -4,7 +4,7 @@ description:  Low Carb Auberginenauflauf mit Käse
 rezeptarten: [Gemuese]
 hauptzutaten: [Aubergine, Tomaten, Parmesan, Pecorino, Mozarella]
 publishdate: 2019-11-01
-lastmod: 2019-11-01 04:31:02
+lastmod: 2019-11-01 04:55:02
 ---
 
 Dein letzter Italienurlaub ist schon eine Weile her und draußen ist es alles andere als sommerlich - dann ist dieser vegetarische Low Carb Auberginenauflauf ideal, um Sommergefühle zurück zu holen und den Bauch von innen zu wärmen. Er stammt ursprünglich aus der neapolitanischen und sizilianischen Küche.
