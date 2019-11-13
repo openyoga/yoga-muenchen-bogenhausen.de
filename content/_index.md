@@ -15,9 +15,11 @@ menu:
 
 [Yin Yoga / Faszienyoga][7]
 
-- Sonntag, 17. November 19:00 bis 21:00 Uhr
+- Sonntag, 17. November 19:00 bis 21:00 Uhr (ausgebucht)
 - Sonntag, 01. Dezember 19:00 bis 21:00 Uhr
 - Sonntag, 15. Dezember 19:00 bis 21:00 Uhr
+- Sonntag, 12. Januar 19:00 bis 21:00 Uhr
+- Sonntag, 26. Januar 19:00 bis 21:00 Uhr
 
 
 [Ankündigung: Functional Yoga][8]
