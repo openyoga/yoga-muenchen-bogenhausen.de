@@ -2,8 +2,8 @@
 title: Aerial Yoga
 description: Functional Yoga im Schwebezustand
 schlagwoerter: [Aerial Yoga, Functional Training, funktionelles Training]
-publishdate: 2019-12-02
-lastmod: 2019-12-02 05:25:00
+publishdate: 2020-01-02
+lastmod: 2020-01-02 05:25:00
 ---
 
 {{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="Aerial Yoga">}}
@@ -22,7 +22,7 @@ Durch die Ausgewogenheit in Sachen Muskel- und Beweglichkeitstraining können be
 
 ## Umkehrhaltungen leicht gemacht
 
-Sehr beliebt sind die Umkehrhaltungen im Aerial Yoga (bei denen der Kopf der niedrigste Punkt ist, d.h. der gesamte Körper umgedreht wird), da sie die Wirbelsäule entlasten und das Loslassen leichter machen als im Hatha Yoga. So wird zum Beispiel beim klassichen Kopfstand im Hatha Yoga die Halswirbelsäule gestaucht, insbesondere dann, wenn die Schulter-Arm-Muskulatur noch nicht stark genug ist, um den Großteil des gesamten Körpergewichts auf dem Kopf stehend zu halten. Bei der Hip Wrap Inversion im Aerial Yoga hängt der Körper dagegen frei an den Hüften im Tuch nach unten; Kopf, Hals, Nacken und Schultern können vollständig entspannen und loslassen. Auch der Handstand wird durch die Unterstützung des Tuchs zu einer für viele wieder machbaren Übung - Handgelenke, Arme und Schultern werden entlastet, das um die Hüften gewickelte Tuch gibt Sicherheit und man kann die neu gewonnene Perspektive frei auf den Händen im Raum stehend genießen.
+Sehr beliebt sind die [Umkehrhaltungen][1] im Aerial Yoga (bei denen der Kopf der niedrigste Punkt ist, d.h. der gesamte Körper umgedreht wird), da sie die Wirbelsäule entlasten und das Loslassen leichter machen als im Hatha Yoga. So wird zum Beispiel beim klassichen Kopfstand im Hatha Yoga die Halswirbelsäule gestaucht, insbesondere dann, wenn die Schulter-Arm-Muskulatur noch nicht stark genug ist, um den Großteil des gesamten Körpergewichts auf dem Kopf stehend zu halten. Bei der Hip Wrap Inversion im Aerial Yoga hängt der Körper dagegen frei an den Hüften im Tuch nach unten; Kopf, Hals, Nacken und Schultern können vollständig entspannen und loslassen. Auch der Handstand wird durch die Unterstützung des Tuchs zu einer für viele wieder machbaren Übung - Handgelenke, Arme und Schultern werden entlastet, das um die Hüften gewickelte Tuch gibt Sicherheit und man kann die neu gewonnene Perspektive frei auf den Händen im Raum stehend genießen.
 
 
 ## Kontraindikationen
@@ -34,8 +34,9 @@ Die << fliegende Gesundheitsgymnastik >> ist nicht für Dich geeignet, wenn Du s
 
 ## Fazit
 
- Aerial Yoga ist funktionell, d.h. bei entsprechender Übungsauswahl machen wir damit [Functional Training][1]: Wir trainieren komplexe Bewegungen, d.h. funktionelle Bewegungsketten über mehrere Gelenke und Muskelgruppen hinweg. Probier es einmal aus - Aerial Yoga macht glücklich: Wir geben unser Körpergewicht an das Tuch ab, fühlen uns geborgen wie ein Baby im Mutterbauch in diesem weichen Tuch, lernen das Loslassen, das Schweben. Aerial Yoga kann einfach nur entspanned sein, spielerisch oder anspruchsvoll und fordernd. Wenn wir uns einmal wie ein Artist fühlen möchten, ist auch das kein Problem mit dem Tuch: Sich trauen, vertrauen, Grenzen überschreiten, das Selbstvertrauen stärken und sich selbst ein zufriedenes Lächeln ins Gesicht zaubern.
+ Aerial Yoga ist funktionell, d.h. bei entsprechender Übungsauswahl machen wir damit [Functional Training][2]: Wir trainieren komplexe Bewegungen, d.h. funktionelle Bewegungsketten über mehrere Gelenke und Muskelgruppen hinweg. Probier es einmal aus - Aerial Yoga macht glücklich: Wir geben unser Körpergewicht an das Tuch ab, fühlen uns geborgen wie ein Baby im Mutterbauch in diesem weichen Tuch, lernen das Loslassen, das Schweben. Aerial Yoga kann einfach nur entspanned sein, spielerisch oder anspruchsvoll und fordernd. Wenn wir uns einmal wie ein Artist fühlen möchten, ist auch das kein Problem mit dem Tuch: Sich trauen, vertrauen, Grenzen überschreiten, das Selbstvertrauen stärken und sich selbst ein zufriedenes Lächeln ins Gesicht zaubern.
 
 
-[1]: /artikel/2019/functional-training
+[1]: /artikel/2019/umkehrhaltungen
+[2]: /artikel/2019/functional-training
 
