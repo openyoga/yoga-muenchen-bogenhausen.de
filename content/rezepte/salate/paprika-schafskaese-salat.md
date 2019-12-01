@@ -31,9 +31,9 @@ Mit diesem Salat startest Du leicht und lecker ins neue Jahr, mit vielen Vitamin
 1. Limettensaft mit einem Esslöffel vom Olivenöl, Kürbiskernöl und Balsamico mischen, mit Gomasio abschmecken
 2. Die Soße mit den Blattsalaten, den Tomatenwürfeln, dem Schafskäse, den Oliven und Pistazienkernen vermengen
 3. Das restliche Olivenöl in einer beschichteten Pfanne erhitzen und die geschälten Paprikawürfel darin anbraten, mit Oregano und Pfeffer abschmecken
-4. Die fertigen Paprika aus der Pfanne nehmen, ganz kurz abkühlen lassen und unter die Salate heben
+4. Die fertigen Paprika aus der Pfanne nehmen, ganz kurz abkühlen lassen und unter den Salat heben
 5. Noch lauwarm genießen
 
-Reicht für zwei Personen als Hauptspeise oder für vier Personen als Beilagen. Veganer lassen den Schafskäse weg oder ersetzen ihn durch Kürbiskerne.
+Reicht für zwei Personen als Hauptspeise oder für vier Personen als Beilage.
 
 

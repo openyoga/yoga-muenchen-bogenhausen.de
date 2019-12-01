@@ -17,7 +17,7 @@ Du kannst nicht regelmäßig an einem Kurs teilnehmen, möchtest spontan von Woc
 
 Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Mit jedem Workshop wirst Du ein klein wenig beweglicher, Verspannungen lösen sich nach und nach. Eine sanfte, ruhige Stunde zur Regeneration; für Anfänger und Fortgeschrittene gleichermaßen geeignet.<br/>
 
-- **Sonntag, 01. Dezember 19:00 bis 21:00 Uhr**
+- **Sonntag, 01. Dezember 19:00 bis 21:00 Uhr (ausgebucht)**
 - **Sonntag, 15. Dezember 19:00 bis 21:00 Uhr**
 - **Sonntag, 12. Januar 19:00 bis 21:00 Uhr**
 - **Sonntag, 26. Januar 19:00 bis 21:00 Uhr**
