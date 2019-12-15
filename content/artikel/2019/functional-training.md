@@ -3,7 +3,7 @@ title: Functional Training
 description: Wann sind Übungen funktionell?
 schlagwoerter: [Functional Training, funktionelles Training]
 publishdate: 2019-10-02
-lastmod: 2019-10-02 05:25:00
+lastmod: 2019-12-15 06:07:00
 ---
 
 {{< img src="/assets/images/squat.jpg" alt="Deep Squat">}}

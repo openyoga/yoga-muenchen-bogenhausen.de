@@ -4,7 +4,7 @@ description: Ein Nudelgericht mit weißen Bohnen und Gemüse
 rezeptarten: [Pasta]
 hauptzutaten: [Bohnen, Tomaten, Karotten, Erbsen]
 publishdate: 2019-12-15
-lastmod: 2019-12-15 12:32:00
+lastmod: 2019-12-15 06:09:00
 ---
 
 Das Original aus der ländlichen italienischen Küche verwendet durchwachsenen geräucherten Speck (Pancetta) - wir nehmen stattdessen getrocknete Tomaten und zaubern so ein herrlich bodenständiges veganes bzw. vegetarisches Pastagericht. Pasta e fagioli wird in ganz Italien serviert, mal eher als Pasta wie in unserem Rezept, mal eher als Suppe. In jedem Fall harmonieren die Zutaten ausgesprochen gut miteinander.

@@ -1,7 +1,7 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2019-11-03 16:42:02
+lastmod: 2019-12-01 16:42:02
 
 menu:
   main:
@@ -15,10 +15,11 @@ menu:
 
 [Yin Yoga / Faszienyoga][7]
 
-- Sonntag, 01. Dezember 19:00 bis 21:00 Uhr (ausgebucht)
-- Sonntag, 15. Dezember 19:00 bis 21:00 Uhr
 - Sonntag, 12. Januar 19:00 bis 21:00 Uhr
 - Sonntag, 26. Januar 19:00 bis 21:00 Uhr
+- Sonntag, 09. Februar 19:00 bis 21:00 Uhr
+- Sonntag, 23. Februar 19:00 bis 21:00 Uhr
+
 
 
 [Ankündigung: Functional Yoga][8]

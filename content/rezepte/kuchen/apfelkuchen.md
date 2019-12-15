@@ -13,9 +13,9 @@ Dieser Kuchen ist nicht nur gesund, sondern auch sehr lecker - man darf ihn ohne
 
 - 4 Äpfel, geschält und in kleine Stücke geschnitten
 - 200 g gemahlene Mandeln
-- 100 g gehobelte Mandeln (optional)
+- 70 g gehobelte Mandeln
 - 70 g Dinkelmehl (Type 630)
-- 30g Butter, geschmolzen
+- 30g Butter, geschmolzen plus Butter zum Fetten der Backform
 - 4 Eier, schaumig geschlagen
 - 1 Teelöffel Zimt
 - 0,5 Teelöffel Backpulver
@@ -26,10 +26,10 @@ Dieser Kuchen ist nicht nur gesund, sondern auch sehr lecker - man darf ihn ohne
 ## Zubereitung
 
 1. Backofen auf 150 Grad Umluft vorheizen
-2. Gemahlene Mandeln mit Dinkelmehl, Zimt, Backpulver, Stevia und Salz vermischen
+2. Gemahlene Mandeln mit Dinkelmehl, geschmolzener Butter, Zimt, Backpulver, Stevia und Salz vermischen
 3. Apfelstücke dazugeben, zum Schluss die schaumig gerührten Eier unterheben
 4. Springform mit Butter einfetten
-5. Teig in die Springform füllen, optional gehobelte Mandeln darüberstreuen
+5. Teig in die Springform füllen, gehobelte Mandeln darüberstreuen und festdrücken
 6. Bei 150 Grad Umluft 50 Minuten lang backen
 7. Kuchen abkühlen lassen
 

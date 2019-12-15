@@ -1,7 +1,7 @@
 ---
 title: About
 description: Eine Seite mit Hintergrundinformationen zu Open Yoga MUC
-lastmod: 2019-08-10 15:02:00
+lastmod: 2019-11-11 15:52:00
 menu:
   main:
     weight: 70
@@ -35,7 +35,7 @@ Nach Jahren der eigenen Praxis wollte ich gerne mehr über Yoga erfahren und beg
 [5]: {{< a_external "https://www.yoga-vidya.de/netzwerk/berufsverbaende/byv/byv-infos/" >}}
 
 
-Ich verfüge über eine Fitnesstrainer B-Lizenz, die A-Lizenz für Medizinisches Fitnesstraining/Rehasport sowie einen Abschluss als Ernährungsberaterin (alle drei absolviert beim [BTB][6]). Noch dazu bin ich Certified Functional Trainer I ([Perform Better Performance Institute][10]). Ich genieße es sehr, Yoga an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Stunde in glückliche und entspannte Gesichter zu blicken.
+Ich verfüge über eine Fitnesstrainer B-Lizenz, die A-Lizenz für Medizinisches Fitnesstraining/Rehasport sowie einen Abschluss als Ernährungsberaterin (alle drei absolviert beim [BTB][6]). Noch dazu bin ich Certified Functional Trainer  Level 1 & 2 ([Perform Better Performance Institute][10]). Ich genieße es sehr, Yoga an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Stunde in glückliche und entspannte Gesichter zu blicken.
 [6]: {{< a_external "https://www.btb.info/" >}}
 [10]: {{< a_external "https://www.performance-institute.de" >}}
 
