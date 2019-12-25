@@ -9,13 +9,14 @@ lastmod: 2020-04-02 20:01:00
 
 Dem aufmerksamen Leser mag auffallen, dass wir ein [ähnliches Rezept][1] schon einmal im Juni 2018 gepostet haben - dieser Salat ist unser Brunchgericht am Wochenende und hier sieht man schön, wie sich Lieblingsrezepte weiterentwickeln, wenn man sie regelmäßig zubereitet. Um es mit Heraklit zu sagen: Panta rhei (alles fließt). 
 
+
 ## Zutaten
 
 - ½ Kopfsalat, z.B. Novita oder 150 g Feldsalat, geputzt und zerkleinert
 - ½ kleiner Radiccio oder Treviso, geputzt und zerkleinert
 - 50 g Rucola, gewaschen und klein geschnitten
 - 1 reife Avocado, in kleine Würfel geschnitten (nicht zu früh, siehe Zubereitung)
-- 10 getrocknete Tomaten, klein geschnitten
+- 8 getrocknete Tomaten, sehr klein geschnitten (die gibt es auch so, nicht in Öl eigelegt)
 - Zitronenmelisse, kleingeschnitten (oder andere Kräuter, je nach Geschmack)
 - 1 Limette, ausgepresst
 - 2 El Kürbiskerne

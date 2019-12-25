@@ -3,10 +3,10 @@ title: Was ist Yin Yoga - was sind Faszien?
 description: Nur ein weiterer Trend?
 schlagwoerter: [Yoga, Yin Yoga, Faszienyoga, Faszientraining, Bindegewebe, Wirkung]
 publishdate: 2018-02-05
-lastmod: 2019-01-05 20:05:00
+lastmod: 2019-12-25 17:05:00
 ---
 
-{{< img src="/assets/images/schmetterling.jpg" alt="Der Schmetterling" >}}
+{{< img src="/assets/images/bananasana.jpg" alt="Bananasana" >}}
 
 Faszien gibt es schon mindestens so lange, wie es den menschlichen Körper gibt, aber warum wird jetzt so ein Hype darum gemacht? Faszien, das ist das Bindegewebe. Anatomen schnitten es früher weg, um an die wirklich interessanten Dinge heranzukommen (so dachten sie damals): Die Muskeln und Knochen. Erst in letzter Zeit entdeckt man, dass das Bindegewebe nicht nur Füllfunktionen hat und erforscht seine Eigenschaften und Aufgaben näher.
 

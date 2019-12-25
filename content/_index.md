@@ -1,13 +1,13 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2019-12-01 16:42:02
-
+lastmod: 2019-12-26 16:42:02
 menu:
   main:
     name: Home
     weight: 10
 ---
+
 {{< img src="/assets/images/taube.jpg" alt="Die Taube" >}}
 
 
@@ -22,10 +22,13 @@ menu:
 
 
 
-[Ankündigung: Functional Yoga][8]
+[Functional Yoga (Functional Training & Yoga)][8]
 
-- Functional Training plus Yoga - Sonntags 17:00 bis 18:30 Uhr - <br/>
-Beginn am 12. Januar 2020
+- Sonntag, 12. Januar 17:00 bis 18:30 Uhr
+- Sonntag, 26. Januar 17:00 bis 18:30 Uhr
+- Sonntag, 09. Februar 17:00 bis 18:30 Uhr
+- Sonntag, 23. Februar 17:00 bis 18:30 Uhr
+
 
 
 [6]: /workshops/#detoxyogaworkshop
