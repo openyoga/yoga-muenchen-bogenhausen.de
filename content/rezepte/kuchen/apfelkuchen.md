@@ -4,7 +4,7 @@ description: Ohne Zucker und Weißmehl
 rezeptarten: [Kuchen]
 hauptzutaten: [Apfel, Mandeln, Zimt ]
 publishdate: 2019-12-25
-lastmod: 2019-12-25 06:05:00
+lastmod: 2019-12-27 18:25:00
 ---
 
 Dieser Kuchen ist nicht nur gesund, sondern auch sehr lecker - man darf ihn ohne schlechtes Gewissen schon zum Frühstück essen oder ganz klassisch am  Nachmittag. Wir schlürfen gerne Milchkaffee oder Kakao ohne Zucker dazu.
@@ -33,4 +33,4 @@ Dieser Kuchen ist nicht nur gesund, sondern auch sehr lecker - man darf ihn ohne
 6. Bei 150 Grad Umluft 50 Minuten lang backen
 7. Kuchen abkühlen lassen
 
-Glutenfreie Variante: Dinkelmehl durch die gleiche Menge Erythrit ersetzen und die Stevia Flüssigsüße weglassen. Wem der Kuchen zu gesund schmeckt, der kann ihn in der Mitte aufschneiden, die Hälften mit Schoko-Nuss-Creme bestreichen und wieder zusammensetzen. Aber Achtung: Dann ist er garantiert nicht mehr Low Carb und zuckerfrei.
+Glutenfreie Variante: Dinkelmehl durch die gleiche Menge Erythrit ersetzen und die Stevia Flüssigsüße weglassen. Wem der Kuchen zu gesund schmeckt, der kann ihn in der Mitte aufschneiden, die Hälften mit Schoko-Nuss-Creme bestreichen und wieder zusammensetzen. Aber Achtung: Dann ist er garantiert nicht mehr low carb und zuckerfrei.
