@@ -13,7 +13,7 @@ Bei Drehhaltungen (engl. Twists) bleibt ein Teil des Körpers gerade ausgerichte
 
 ## Asanas
 
-Neben verschiedenen Drehsitzvariationen gibt es Drehhaltungen im Liegen wie das Krokodil oder die Katze und Drehhaltungen im Stehen wie das gedrehte Dreieck, die gedrehte seitliche Winkelhaltung, den gedrehten Halbmond und die gedrehte Stuhlhaltung. Im Grunde sind hier der Phantasie keine Grenzen gesetzt - viele klassische Asanas können in eine Drehhaltung variiert werden.
+Neben verschiedenen Drehsitzvariationen gibt es Drehhaltungen im Liegen wie das Krokodil oder die Katze im Yoga (Bretzel Stretch) und Drehhaltungen im Stehen wie das gedrehte Dreieck, die gedrehte seitliche Winkelhaltung, den gedrehten Halbmond und die gedrehte Stuhlhaltung. Im Grunde sind hier der Phantasie keine Grenzen gesetzt - viele klassische Asanas können in eine Drehhaltung variiert werden.
 
 
 ## Körperliche Wirkungen

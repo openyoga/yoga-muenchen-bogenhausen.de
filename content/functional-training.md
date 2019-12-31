@@ -1,7 +1,7 @@
 ---
 title: Functional Training in  München Bogenhausen
 description: Eine Seite mit den Details zum Functional Training, funktionellen Training, Athletiktraining und Yoga
-lastmod: 2019-12-27 13:44:00
+lastmod: 2019-12-31 13:44:00
 menu:
   main:
     name: Functional Training
@@ -12,7 +12,7 @@ menu:
 
 ## Functional Yoga
 
-Für körperliche und mentale Fitness, Kraft, Ausdauer, Beweglichkeit und ein wunderbares Körpergefühl ist die Kombination aus Functional Training und Yoga ideal. In diesen Workshops kräftigen und trainieren wir unseren gesamten Körper zunächst mit Übungen aus dem funktionellen Training und lassen die Stunde dann mit regenerierenden Dehnübungen aus dem Yoga und einer wohligen Endentspannung ausklingen. Für alle Yogis, Sportler und Anfänger, die gerne sportlicher werden wollen.
+Für körperliche und mentale Fitness, Kraft, Ausdauer, Beweglichkeit und ein wunderbares Körpergefühl ist die Kombination aus [Functional Training][3] und [Yoga ][4] ideal. In diesen Workshops kräftigen und trainieren wir unseren gesamten Körper zunächst mit Übungen aus dem funktionellen Training und lassen die Stunde dann mit regenerierenden Dehnübungen aus dem Yoga und einer wohligen Endentspannung ausklingen. Für alle Yogis, Sportler und Anfänger, die gerne sportlicher werden wollen.
 
 - **Sonntag, 02. Februar 17:15 bis 18:45 Uhr**
 - **Sonntag, 09. Februar 17:15 bis 18:45 Uhr**
@@ -35,4 +35,6 @@ Wir nutzen die schönen Räumlichkeiten der [Familienpraxis Dr. Gold][2] in der 
 
 [1]: mailto:{{< author "agobrecht" "email" >}}
 [2]: {{< a_external "https://www.google.de/maps/place/Die+Familienpraxis/@48.1576264,11.6394313,17z/data=!3m1!4b1!4m5!3m4!1s0x479e753cb0dd5227:0x42797684780576af!8m2!3d48.1576264!4d11.64162" >}}
+[3]: /artikel/2019/functional-training/
+[4]: /artikel/2017/was-ist-yoga/
 

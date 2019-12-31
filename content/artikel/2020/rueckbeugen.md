@@ -1,6 +1,6 @@
 ---
 title: Rückbeugen
-description: Was bringen Back Bends?
+description: Warum wir regelmäßig Back Bends üben sollten
 schlagwoerter: [Hatha Yoga, Asana-Gruppen]
 publishdate: 2020-03-01
 lastmod: 2020-03-01 05:25:00
@@ -8,7 +8,7 @@ lastmod: 2020-03-01 05:25:00
 
 {{< img src="/assets/images/rad-sommer.jpg" alt="Das Rad">}}
 
-Mit Rückbeugen dehnen wir die Brustwirbelsäule nach hinten. Der Brustkorb, der Herz- und der Lungenberich werden geöffnet und wir können wieder tiefer durchatmen.
+Mit Rückbeugen dehnen wir die Brustwirbelsäule nach hinten. Der Brustkorb, der Herz- und der Lungenberich werden geöffnet und wir können wieder tief durchatmen.
 
 ## Asanas
 
@@ -16,11 +16,11 @@ Neben dem Rad im Bild oben, was vielleicht nicht jeder ausführen kann und will 
 
 ## Körperliche Wirkungen
 
-Mit Rückbeugen dehnen wir die Körpervorderseite, insbesondere die Brust-, Bauch- und Zwischenrippenmuskulatur, teilweise auch die Leisten und die vorderen Oberschenkel. Dadurch wird die Brustwirbelsäule beweglicher, der Brustkorb weitet sich, der Lungen- und Herzbereich und die Atemhilfsmuskulatur werden gedehnt und das Atmen fällt uns leichter. Die Atmung kann sich vertiefen, der Körper wird wieder besser mit Sauerstoff versorgt. Mit Rückbeugen kannst Du Verspannungen im Schulter-Nackenbereich lösen; regelmäßig praktiziert verbessern sie die Körperhaltung. Rückbeugen wirken gegen das Upper Cross Syndrom (Rundrücken): Durch Arbeit am PC, Handynutzung etc. beugen wir den Kopf zu häufig nach vorn und ziehen die Schultern nach oben; die Brustmuskulatur, der Schulterblattheber und der obere Trapezmuskel verkürzen sich, die Halsmuskulatur, die Rhomboiden (die die Schulterblätter nach unten ziehen) und der untere Trapezmuskel sowie der untere Serratus sind zu schwach. Mit Rückbeugen wird der Brustkorb wieder aufgedehnt.
+Mit Rückbeugen dehnen wir die Körpervorderseite, insbesondere die Brust-, Bauch- und Zwischenrippenmuskulatur, teilweise auch die Leisten und die vorderen Oberschenkel. Die Brustwirbelsäule wird dadurch beweglicher, der Brustkorb weitet sich, der Lungen- und Herzbereich und die Atemhilfsmuskulatur werden gedehnt und das Atmen fällt uns leichter. Die Atmung kann sich vertiefen, der Körper wird wieder besser mit Sauerstoff versorgt. Mit Rückbeugen kannst Du Verspannungen im Schulter-Nackenbereich lösen; regelmäßig praktiziert verbessern sie die Körperhaltung. 
 
 ## Mentale Wirkungen
 
-Rückbeugen öffnen das Herz und schenken Dir mehr Mut zur Offenheit. Durch die Vertiefung Deiner Atmung kannst Du loslassen und Dich für positive Gefühle wie Mitgefühl, Offenheit und Liebe öffnen. Du kannst mehr Mut und Vertrauen entwickeln. Rückbeugen wirken anregend auf Körper und Geist - sie stimulieren das sympathische Nervensystemn
+Rückbeugen öffnen das Herz und schenken Dir Mut zur Offenheit. Durch die Vertiefung der Atmung kannst Du loslassen und Dich für positive Gefühle wie Mitgefühl, Offenheit und Liebe öffnen. Du kannst mehr Mut und Vertrauen entwickeln. Rückbeugen wirken anregend auf Körper und Geist - sie stimulieren das sympathische Nervensystemn
 
 ## Kontraindikationen
 
@@ -28,4 +28,4 @@ Bei akuten Rückenproblemen wie Bandscheibenvorfällen solltest Du keine Rückbe
 
 ## Fazit
 
-bla
+Rückbeugen wirken gegen das Upper Cross Syndrom (Rundrücken): Durch Arbeit am PC, Handynutzung etc. beugen wir den Kopf zu häufig nach vorn und ziehen die Schultern dabei nach oben; die Brustmuskulatur sowie Teile der Nacken- und Schultermuskulatur verkürzen sich; andere Teile der Hals- und Schultermuskulatur, besonders die Muskeln, die die Schulterblätter nach unten ziehen, werden immer schwächer. Mit Rückbeugen wird der Brustkorb wieder aufgedehnt und Spannung im Hals-Nacken-Bereich beseitigt. Probier es selbst einmal aus: Das tut richtig gut und Du atmest endlich wieder entspannt auf.
