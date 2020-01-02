@@ -11,7 +11,7 @@ Diesen Salat lieben wir im Winter - Rotkohl einmal nicht weich gekocht, sondern 
 
 ## Zutaten
 
-- 1/3 Rotkohl, gewaschen und grob geraspelt
+- 650 g Rotkohl, geputzt und gehobelt
 - 1 Apfel (z.B. Pink Lady), geputzt und grob geraspelt
 - 50 g Walnüsse, mit der Hand zerkleinert
 - 1 Limette, ausgepresst

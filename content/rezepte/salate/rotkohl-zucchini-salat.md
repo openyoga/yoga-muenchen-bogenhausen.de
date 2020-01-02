@@ -11,8 +11,8 @@ Auch mit diesem Rohkost-Salat gibt es ordentlich was zu beißen: Es kommen wiede
 
 ## Zutaten
 
-- 1/3 Rotkohl, gewaschen und grob geraspelt
-- 3 kleine Zucchini, geputzt und grob gerieben
+- 650 g Rotkohl, geputzt und gehobelt
+- 3 kleine Zucchini, geputzt und gehobelt
 - 50 g Walnüsse, mit der Hand zerkleinert
 - 1 Limette, ausgepresst
 - 1 El Kürbiskernöl

@@ -12,7 +12,7 @@ Mit Vorbeugen (engl. Forward Bends) bringen wir Rumpf und Beine näher zueinande
 
 ## Asanas
 
-Vorwärtsbeugen können im Sitzen und im Stehen praktiziert werden, mit geschlossenen oder geöffneten Beinen oder über ein Bein. Auch die Kindhaltung ist eine Vorwärtsbeuge, ebenso die Schildkröte im Yin Yoga (siehe Bild).
+Vorwärtsbeugen können im Sitzen und im Stehen praktiziert werden, mit geschlossenen oder geöffneten Beinen oder über ein Bein. Auch die Kindhaltung ist eine Vorwärtsbeuge, ebenso die Schildkröte im Yin Yoga (siehe Titelbild).
 
 ## Körperliche Wirkungen
 
@@ -24,7 +24,7 @@ Wenn Du schon einmal eine Vorbeuge praktiziert hast, hast Du wahrscheinlich auch
 
 ## Kontraindikationen
 
-Bei akuten Rückenproblemen solltest Du keine Vorbeugen praktizieren bzw. den Rücken gerade halten und für mehr Dehnung die Zehen zu Dir heranziehen. Besonders die gedrehten Vorwärtsbeugen gilt es bei Bandscheibenvorfällen zu vermeiden. Auch stark erhöhter Blutdruck ist eine Kontraindikation für Forward Bends - bei sehr niedrigem Blutdruck solltest Du sie nur vorsichtig praktizieren. Wenn Du unter heftigen Kopfschmerzen leidest, solltest Du Dich auch nicht unbedingt nach vorn beugen. Im Zweifelsfall frag einfach Deinen Arzt.
+Bei akuten Rückenproblemen solltest Du keine Vorbeugen praktizieren bzw. den Rücken gerade halten und für mehr Dehnung die Zehen zu Dir heranziehen. Besonders die gedrehten Vorwärtsbeugen gilt es bei Bandscheibenvorfällen zu vermeiden. Auch stark erhöhter Blutdruck ist eine Kontraindikation für Vorbeugen - bei sehr niedrigem Blutdruck solltest Du sie nur vorsichtig praktizieren. Wenn Du unter heftigen Kopfschmerzen leidest, solltest Du Dich auch nicht unbedingt nach vorn beugen. Im Zweifelsfall frag einfach Deinen Arzt.
 
 ## Fazit
 

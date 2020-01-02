@@ -17,21 +17,21 @@ Wenn Du gerades, aufrechtes Stehen unter Anspannung aller dafür wichtigen Muske
 
 ## Körperliche Wirkungen
 
-Stehhaltungen sind sehr kraftvolle und energetisierende Asanas. Viele Muskeln, auch die tief liegenden, werden dabei gestärkt und gleichzeitig gedehnt. Mit Standing Poses kräftigst Du Deine Bein-, Po- und Rückenmuskulatur, verbesserst Deine Körperhaltung und streckst und mobilisierst Deine Wirbelsäule. Die Durchblutung Deiner Beine und Füße verbessert sich. Mit einem guten Yogalehrer lernst Du in Stehhaltungen, die Basis für eine gesunde Ausrichtung der Füße, Fußgelenke, Kniegelenke und Beine zu schaffen. Auch Deine Körperwahrnehmung verbessert sich, wenn Du regelmäßig Standing Poses praktizierst. 
+Stehhaltungen sind sehr kraftvolle und energetisierende Asanas. Viele Muskeln, auch die tief liegenden, werden dabei gestärkt und gleichzeitig gedehnt. Mit Stehhaltungen kräftigst Du Deine Bein-, Po- und Rückenmuskulatur, verbesserst Deine Körperhaltung und streckst und mobilisierst Deine Wirbelsäule. Die Durchblutung Deiner Beine und Füße verbessert sich. Mit einem guten Yogalehrer lernst Du in Stehhaltungen, die Basis für eine gesunde Ausrichtung der Füße, Fußgelenke, Kniegelenke und Beine zu schaffen. Auch Deine Körperwahrnehmung verbessert sich, wenn Du regelmäßig Stehhaltungen praktizierst. 
 
 
 ## Mentale Wirkungen
 
- Standhaltungen schaffen Stärke und Selbstvertrauen; sie fördern Mut, Kraft, Ausdauer und Willenskraft. Mit Stehhaltungen schaffst Du die Basis für Wachstumsmöglichkeiten; sie erden Dich; Du gewinnst Stabilität, Klarheit und Präsens im jetzigen Augenblick. 
+ Stehhaltungen schaffen Stärke und Selbstvertrauen; sie fördern Mut, Kraft, Ausdauer und Willenskraft. Mit Stehhaltungen schaffst Du die Basis für Wachstumsmöglichkeiten; sie erden Dich; Du gewinnst Stabilität, Klarheit und Präsens im jetzigen Augenblick. 
 
 
 ## Kontraindikationen
 
-Wenn Du Dich sehr erschöpft fühlst, solltest Du das ernst nehmen und Dir eine Pause oder eine leichtere Asana gönnen - Stehhaltungen erfordern viel Kraft und Flexibilität. In der Schwangerschaft sind Standhaltungen in den ersten drei Monaten okay, danach solltest Du sie nur noch praktizieren, wenn Du Dich wirklich gut dabei fühlst. Sprich am besten immer mit Deinem Arzt, bevor Du mit einer Yogapraxis beginnst.
+Wenn Du Dich sehr erschöpft fühlst, solltest Du das ernst nehmen und Dir eine Pause oder eine leichtere Asana gönnen - Stehhaltungen erfordern viel Kraft und Flexibilität. In der Schwangerschaft sind Stehhaltungen in den ersten drei Monaten okay, danach solltest Du sie nur noch praktizieren, wenn Du Dich wirklich gut dabei fühlst. Sprich am besten immer mit Deinem Arzt, bevor Du mit einer Yogapraxis beginnst.
 
 
 ## Fazit
 
-Die Wirkung von Standhaltungen erschließt sich sofort - als Yoga-Anfänger mochte ich sie von allen [Asana-Gruppen][1] am liebsten: Muskelkater in den Beinen und im Po, ein aufrechter Rücken sowie mehr Kraft und Energie für den Tag haben mich darin bestätigt, dass Yoga mir gut tut. Aber auch Fortgeschrittene bauen gerne Stehhaltungen in ihre Asana-Praxis ein und im Sonnengruß sind sie ebenfalls ein fester Bestandteil. 
+Die Wirkung von Stehhaltungen erschließt sich sofort - als Yoga-Anfänger mochte ich sie von allen [Asana-Gruppen][1] am liebsten: Muskelkater in den Beinen und im Po, ein aufrechter Rücken sowie mehr Kraft und Energie für den Tag haben mich darin bestätigt, dass Yoga mir gut tut. Aber auch Fortgeschrittene bauen gerne Stehhaltungen in ihre Asana-Praxis ein und im Sonnengruß sind sie ebenfalls ein fester Bestandteil. 
 
 [1]: /schlagwoerter/asana-gruppen/

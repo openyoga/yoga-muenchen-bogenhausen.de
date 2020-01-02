@@ -21,6 +21,7 @@ menu:
 - Sonntag, 23. Februar 19:00 bis 21:00 Uhr
 - Sonntag, 08. März 19:00 bis 21:00 Uhr
 
+
 [Detox Yoga][6]
 
 - Sonntag, 02. Februar 19:00 bis 21:00 Uhr
@@ -29,10 +30,8 @@ menu:
 
 [Functional Yoga (Functional Training & Yoga)][8]
 
-- Sonntag, 02. Februar 17:15 bis 18:45 Uhr
 - Sonntag, 09. Februar 17:15 bis 18:45 Uhr
 - Sonntag, 23. Februar 17:15 bis 18:45 Uhr
-- Sonntag, 01. März 17:15 bis 18:45 Uhr
 - Sonntag, 08. März 17:15 bis 18:45 Uhr
 
 
