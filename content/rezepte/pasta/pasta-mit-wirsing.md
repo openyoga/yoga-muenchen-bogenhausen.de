@@ -2,7 +2,7 @@
 title: Pasta mit Wirsing und Walnüssen
 description: So schmeckt der Winter richtig gut
 rezeptarten: [Pasta]
-hauptzutaten: [Wirsing, Walnüsse]
+hauptzutaten: [Wirsing, Nuesse]
 publishdate: 2019-12-01
 lastmod: 2019-12-01 12:32:00
 ---

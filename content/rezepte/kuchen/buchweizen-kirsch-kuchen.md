@@ -2,7 +2,7 @@
 title: Buchweizen-Kirsch-Kuchen
 description: Glutenfrei und ein Hochgenuss
 rezeptarten: [Kuchen]
-hauptzutaten: [Buchweizen, Kirschen, Mandeln, Backkakao]
+hauptzutaten: [Buchweizen, Kirschen, Nuesse, Backkakao]
 publishdate: 2019-09-05
 lastmod: 2019-09-06 06:05:00
 ---

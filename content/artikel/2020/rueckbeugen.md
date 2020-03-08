@@ -18,7 +18,7 @@ Neben dem Rad im Bild oben, was vielleicht nicht jeder ausführen kann und will 
 
 ## Körperliche Wirkungen
 
-Mit Rückbeugen dehnen wir die Körpervorderseite, insbesondere die Brust-, Bauch- und Zwischenrippenmuskulatur, teilweise auch die Leisten und die vorderen Oberschenkel. Die Brustwirbelsäule wird dadurch beweglicher, der Brustkorb weitet sich, der Lungen- und Herzbereich und die Atemhilfsmuskulatur werden gedehnt und das Atmen fällt uns leichter. Die Atmung kann sich vertiefen, der Körper wird wieder besser mit Sauerstoff versorgt. Mit Rückbeugen kannst Du Verspannungen im Schulter-Nackenbereich lösen; regelmäßig praktiziert verbessern sie die Körperhaltung. 
+Rückbeugen dehnen die gesamte Körpervorderseite, insbesondere die Brust-, Bauch- und Zwischenrippenmuskulatur, teilweise auch die Leisten und die vorderen Oberschenkel. Die Brustwirbelsäule wird dadurch beweglicher, der Brustkorb weitet sich, der Lungen- und Herzbereich und die Atemhilfsmuskulatur werden gedehnt und das Atmen fällt uns leichter. Die Atmung kann sich vertiefen, der Körper wird wieder besser mit Sauerstoff versorgt. Mit Rückbeugen kannst Du Verspannungen im Schulter-Nackenbereich lösen; regelmäßig praktiziert verbessern sie die Körperhaltung. 
 
 
 ## Mentale Wirkungen

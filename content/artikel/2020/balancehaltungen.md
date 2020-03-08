@@ -12,7 +12,7 @@ Balancehaltungen (engl. Balancing Poses) fordern Deinen Gleichgewichtssinn herau
 
 ## Asanas
 
-Der Baum ist eine der einfachsten Balancehaltungen und gleichzeitig eine sehr wirkungsvolle Asana. Auch der Adler, der Krieger III (Standwaage), der Tänzer und der Halbmond trainieren Deine Balance im Stehen. Auf den Händen balancierst Du im Kranich bzw. in der Krähe, im Pfau und im Handstand. Kopfstand und Skorpion sind eher Asanas für fortgeschrittene Yogis; aber auch die seitliche Planke und die tiefe Hocke fordern Deinen Gleichgewichtssinn heraus. 
+Der Baum ist eine der einfachsten Balancehaltungen und gleichzeitig eine sehr wirkungsvolle Asana. Auch der Adler, der Krieger III (Standwaage), der Tänzer und der Halbmond trainieren Dein Gleichgewicht im Stehen. Auf den Händen balancierst Du im Kranich bzw. in der Krähe, im Pfau und im Handstand. Kopfstand und Skorpion sind eher Asanas für fortgeschrittene Yogis; aber auch die seitliche Planke und die tiefe Hocke fordern Deinen Gleichgewichtssinn heraus. 
 
 
 ## Körperliche Wirkungen
@@ -22,7 +22,7 @@ Balancehaltungen trainieren Dein Gleichgewichtsgefühl - und das solltest Du reg
 
 ## Mentale Wirkungen
 
-Balancehaltungen schulen die Geduld und die Konzentrationsfähigkeit, der Geist kommt nach und nach zur Ruhe, Du fühlst Dich ausgeglichener. Bei einigen Asanas wird auch Dein Mut herausgefordert. Mit diesen Übungen stärkst Du Dein inneres Gleichgewicht und Deine Standfestigkeit. Balancehaltungen fördern auch das Gedächtnis, die Intuition und die Kreativität. Sie sind ehrlich zu Dir - sie spiegeln Deine innere Ausgeglichenheit in dem Moment wieder, in dem Du sie übst - und dieser Zustand kann von Tag zu Tag stark variieren. Sie regen Dich dazu an, geduldig und beharrlich an Dir selbst zu arbeiten.
+Balancehaltungen schulen die Geduld und die Konzentrationsfähigkeit, der Geist kommt nach und nach zur Ruhe, Du fühlst Dich ausgeglichener. Bei einigen Asanas wird auch Dein Mut herausgefordert. Mit diesen Übungen stärkst Du Dein inneres Gleichgewicht und Deine Standfestigkeit. Balancehaltungen fördern das Gedächtnis, die Intuition und die Kreativität. Sie sind ehrlich zu Dir: Sie spiegeln Deine innere Ausgeglichenheit in dem Moment wieder, in dem Du sie übst - und dieser Zustand kann von Tag zu Tag stark variieren. So regen sie Dich dazu an, geduldig und beharrlich an Dir selbst zu arbeiten.
 
 
 ## Kontraindikationen

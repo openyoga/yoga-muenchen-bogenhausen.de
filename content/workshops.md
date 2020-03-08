@@ -1,7 +1,7 @@
 ---
 title: Yoga Workshops in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Workshopangeboten sowie aktuelle Termine
-lastmod: 2019-12-27 13:43:02
+lastmod: 2020-02-27 15:48:02
 menu:
   main:
     name: Yoga Workshops
@@ -17,19 +17,9 @@ Du kannst nicht regelmäßig an einem Kurs teilnehmen, möchtest spontan von Woc
 
 Yin Yoga ist eine wunderbare Art, den ganzen Körper, d.h. neben den Muskeln auch die Faszien zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Mit jedem Workshop wirst Du ein klein wenig beweglicher, Verspannungen lösen sich nach und nach. Eine sanfte, ruhige Stunde zur Regeneration; für Anfänger und Fortgeschrittene gleichermaßen geeignet.<br/>
 
-- **Sonntag, 12. Januar 19:00 bis 21:00 Uhr**
-- **Sonntag, 26. Januar 19:00 bis 21:00 Uhr**
-- **Sonntag, 09. Februar 19:00 bis 21:00 Uhr**
-- **Sonntag, 23. Februar 19:00 bis 21:00 Uhr**
-- **Sonntag, 08. März 19:00 bis 21:00 Uhr**
-- **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
-
-## Detox Yoga {#detoxyogaworkshop}
-
-Mach Dich fit für den Frühling mit Detox Yoga. Wir üben jede Menge entgiftende, entschlackende und den Stoffwechsel anregende Asanas, bauen Stress ab und putzen, massieren und dehnen unser gesamtes Körpersystem einmal kräftig durch. In diesem Workshop heben wir unser Energie-Level, schalten vom Alltag ab und gönnen uns wie immer eine regenerierende Entspannung am Ende des Workshops.
-
-- **Sonntag, 02. Februar 19:00 bis 21:00 Uhr**
-- **Sonntag, 01. März 19:00 bis 21:00 Uhr**
+- **Sonntag, 08. März 19:00 bis 21:00 Uhr (ausgebucht)**
+- **Sonntag, 22. März 19:00 bis 21:00 Uhr**
+- **Sonntag, 26. April 19:00 bis 21:00 Uhr**
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Hatha Yoga / Rückenyoga {#rueckenyogaworkshop}
@@ -38,6 +28,13 @@ In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, t
 
 - **Freitags 19:30 bis 21:00 Uhr nach Vereinbarung** 
 - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
+
+## Detox Yoga {#detoxyogaworkshop}
+
+Mach Dich fit für den Frühling mit Detox Yoga. Wir üben jede Menge entgiftende, entschlackende und den Stoffwechsel anregende Asanas, bauen Stress ab und putzen, massieren und dehnen unser gesamtes Körpersystem einmal kräftig durch. In diesem Workshop heben wir unser Energie-Level, schalten vom Alltag ab und gönnen uns wie immer eine regenerierende Entspannung am Ende des Workshops.
+
+- Nach Vereinbarung - **Anfragen per Mail: [{{< author "agobrecht" "email" >}}][1]**
+
 
 ## Power Yoga für Sportler{#poweryogaworkshop}
 

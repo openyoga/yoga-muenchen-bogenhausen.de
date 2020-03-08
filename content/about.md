@@ -1,7 +1,7 @@
 ---
 title: About
 description: Eine Seite mit Hintergrundinformationen zu Open Yoga MUC
-lastmod: 2019-12-25 09:22:00
+lastmod: 2020-02-27 15:49:00
 menu:
   main:
     weight: 70
@@ -21,16 +21,16 @@ Open Yoga ist klassisches [Hatha Yoga][hatha] für alle in München. Komm einfac
 
 Ich selbst arbeite im IT-Bereich (Suchtechnologie und Datenmanagement) und liebe Open Source Software (z.B. [Elasticsearch][elasticsearch]). Zum Glück ist Yoga ja mittlerweile auch Open Source, d.h für jeden zugänglich, der Interesse daran hat (im alten Indien  war Yoga tatsächlich eine Geheimlehre, die nur vom Guru an geeignete Schüler weitergegeben wurde). Auf dieser Website findest Du neben unserem Kursangebot auch Infos rund um Yoga, leckere Rezepte und vieles mehr. Open Source Texte eben.
 
-2008 begann ich in einer beruflich stressigen Situation mit Hatha Yoga - es war Liebe auf den ersten Blick. Schon nach meiner ersten Stunde kaufte ich mir ein Yoga-Buch und begann auch zu Hause Asanas (Yogastellungen) und Sonnengrüße zu üben. Seitdem praktiziere ich fast täglich - Yoga tut mir einfach wahnsinnig gut. Natürlich mag ich auch andere Bewegungsformen - besonders Functional Training, Schwimmen, Radfahren, Nordic Walking und Bergwandern. Aber für eine kleine (oder größere ;-) Yoga-Session nehme ich mir immer Zeit.
+2008 begann ich in einer beruflich stressigen Situation mit Hatha Yoga - es war Liebe auf den ersten Blick. Schon nach meiner ersten Stunde kaufte ich mir ein Yoga-Buch und begann auch zu Hause Asanas (Yogastellungen) und Sonnengrüße zu üben. Seitdem praktiziere ich fast täglich - Yoga tut mir einfach wahnsinnig gut. Natürlich mag ich auch andere Bewegungsformen - besonders Functional Training, Animal Athletics, Radfahren, Schwimmen, Nordic Walking und Bergwandern. Aber für eine kleine (oder größere ;-) Yoga-Session nehme ich mir immer Zeit.
 
 Nach Jahren der eigenen Praxis wollte ich gerne mehr über Yoga erfahren und begann die zweijährige Yogalehrer Ausbildung bei Yoga Vidya (BYV) mit 723 Unterrichtseinheiten. Ich bin auch Mitglied im [Berufsverband der Yoga Vidya Lehrer (BYV)][byv], dem Rückenyoga Berufsverband (BYV) und dem Yin Yoga Berufsverband (BYV). Weiterbildungen in Anatomie und Korrekturen, Sportmedizin, Rückenyoga und Yin Yoga/Faszientraining folgten. 
 
-Ich verfüge über eine Fitnesstrainer B-Lizenz, die A-Lizenz für Medizinisches Fitnesstraining/Rehasport sowie einen Abschluss als Ernährungsberaterin (alle drei absolviert beim [BTB][btb]). Noch dazu bin ich Certified Functional Trainer  Level 1 & 2 ([Perform Better Performance Institute][perfin]). Ich genieße es sehr, Yoga und Functional Training an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Trainingseinheit in glückliche und entspannte Gesichter zu blicken.
+Ich verfüge über eine Fitnesstrainer B-Lizenz, die A-Lizenz für Medizinisches Fitnesstraining/Rehasport sowie einen Abschluss als Ernährungsberaterin (alle drei absolviert beim [BTB][btb]). Noch dazu bin ich Certified Functional Trainer  Level 1 & 2 und Certified Animal Athletics Trainer ([Perform Better Performance Institute][perfin]). Ich genieße es sehr, Yoga und Functional Training an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Trainingseinheit in glückliche und entspannte Gesichter zu blicken.
 
 
 ## Website Technik
 
-Diese Website hat mein Mann [Ottmar][og] mit [Hugo][hugo], einem statischen Site Generator entwickelt. Den Quellcode könnt Ihr [hier bei GitHub anschauen][github].
+Diese Website hat mein Mann [Ottmar][og] mit [Hugo][hugo] entwickelt. Den Quellcode könnt Ihr [hier bei GitHub anschauen][github].
 
 
 ## Kontakt

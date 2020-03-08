@@ -1,7 +1,7 @@
 ---
 title: Personal Training in München Bogenhausen
 description: Eine Seite mit den Details zu den verschiedenen Personal Training Optionen 
-lastmod: 2019-10-24 05:40:00
+lastmod: 2019-01-26 05:20:00
 menu:
   main:
     name: Personal Training
@@ -13,7 +13,6 @@ Für Personal Training bieten wir Dir folgende Optionen:
 {{< img src="/assets/images/kopfstand.jpg" alt="Kopfstand" class="right width30" >}}
 
 * Yoga
-* Aerial Yoga
 * Übungen aus der Yogatherapie
 * Atemübungen (Pranayama)
 * Meditation, Achtsamkeitstraining

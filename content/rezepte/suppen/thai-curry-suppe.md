@@ -3,8 +3,8 @@ title: Rote Thai-Curry Suppe
 description: Macht einen warmen und glücklichen Bauch
 rezeptarten: [Suppe]
 hauptzutaten: [Brokkoli, Karotten, Kartoffeln]
-publishdate: 2020-02-01
-lastmod: 2020-02-01 20:02:00
+publishdate: 2020-02-09
+lastmod: 2020-02-09 05:12:00
 ---
 
 Diese vegane Thai-Curry Suppe ist ideal, wenn man sich nach Wärme und einem scharfen, cremigen, aber leichten und leckeren Essen sehnt. Wer viel Hunger hat, fügt noch ein paar Kichererbsen in die Suppe hinzu.

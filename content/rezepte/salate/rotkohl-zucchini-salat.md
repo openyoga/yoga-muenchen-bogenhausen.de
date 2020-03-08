@@ -2,9 +2,9 @@
 title: Rotkohl-Zucchini-Salat mit Walnüssen
 description: Eine weitere Rohkost-Variante mit Rotkohl
 rezeptarten: [Salat, Rohkost]
-hauptzutaten: [Rotkohl, Zucchini, Walnuesse]
+hauptzutaten: [Rotkohl, Zucchini, Nuesse]
 publishdate: 2020-01-26
-lastmod: 2020-01-26 20:00:00
+lastmod: 2020-01-26 05:22:00
 ---
 
 Auch mit diesem Rohkost-Salat gibt es ordentlich was zu beißen: Es kommen wieder Walnüsse an unseren Rohtkohl und dieses Mal auch Zucchini. Der Gruyère-Käse gibt zusätzlich ein würziges Aroma. 

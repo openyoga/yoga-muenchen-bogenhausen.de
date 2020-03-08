@@ -2,9 +2,9 @@
 title: Rotkohl-Apfel-Salat mit Walnüssen
 description: Ein leckerer Rohkost-Salat im Winter
 rezeptarten: [Salat, Rohkost]
-hauptzutaten: [Rotkohl, Apfel, Walnuesse, Zimt]
-publishdate: 2020-01-12
-lastmod: 2020-01-12 20:00:00
+hauptzutaten: [Rotkohl, Apfel, Nuesse, Zimt]
+publishdate: 2020-01-10
+lastmod: 2020-01-10 13:50:00
 ---
 
 Diesen Salat lieben wir im Winter - Rotkohl einmal nicht weich gekocht, sondern richtig knusprig und lecker mit Apfel, Zimt und Walnüssen abgeschmeckt. 

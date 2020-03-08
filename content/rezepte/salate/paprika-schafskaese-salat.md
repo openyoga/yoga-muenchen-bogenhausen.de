@@ -3,11 +3,11 @@ title: Paprikasalat mit Pistazien und Schafskäse
 description: Leicht und lecker
 rezeptarten: [Salat]
 hauptzutaten: [Blattsalat, Paprika, Schafskaese, Pistazien]
-publishdate: 2020-03-12
-lastmod: 2020-03-12 20:01:00
+publishdate: 2020-03-08
+lastmod: 2020-03-08 06:01:00
 ---
 
-Mit diesem Salat startest Du leicht und lecker ins neue Jahr, mit vielen Vitaminen und Protein aus dem Schafskäse.
+Mit diesem Salat startest Du leicht und lecker in den Frühling, mit vielen Vitaminen und Protein aus dem Schafskäse.
 
 
 ## Zutaten

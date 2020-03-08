@@ -1,7 +1,7 @@
 ---
 title: Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2019-12-27 13:42:12
+lastmod: 2020-02-27 15:42:02
 menu:
   main:
     name: Home
@@ -15,24 +15,15 @@ menu:
 
 [Yin Yoga / Faszienyoga][7]
 
-- Sonntag, 12. Januar 19:00 bis 21:00 Uhr
-- Sonntag, 26. Januar 19:00 bis 21:00 Uhr
-- Sonntag, 09. Februar 19:00 bis 21:00 Uhr
-- Sonntag, 23. Februar 19:00 bis 21:00 Uhr
-- Sonntag, 08. März 19:00 bis 21:00 Uhr
-
-
-[Detox Yoga][6]
-
-- Sonntag, 02. Februar 19:00 bis 21:00 Uhr
-- Sonntag, 01. März 19:00 bis 21:00 Uhr
+- Sonntag, 08. März 19:00 bis 21:00 Uhr (ausgebucht)
+- Sonntag, 22. März 19:00 bis 21:00 Uhr
+- Sonntag, 26. April 19:00 bis 21:00 Uhr
 
 
 [Functional Yoga (Functional Training & Yoga)][8]
 
-- Sonntag, 09. Februar 17:15 bis 18:45 Uhr
-- Sonntag, 23. Februar 17:15 bis 18:45 Uhr
-- Sonntag, 08. März 17:15 bis 18:45 Uhr
+- Sonntag, 22. März 17:15 bis 18:45 Uhr
+- Sonntag, 26. April 17:15 bis 18:45 Uhr
 
 
 
@@ -64,7 +55,7 @@ Mehr im [Archiv][10], Abo via [RSS][11], entdecken über Schlagwörter: {{< flat
 
 {{< list-content-by-section-and-limit "rezepte" 1 >}}
 
-Mehr im [Archiv][12], Abo via [RSS][13], entdecken über Rezeptarten {{< flat-list-terms-by-taxonomy "rezeptarten" >}} oder Hauptzutaten {{< flat-list-terms-by-taxonomy "hauptzutaten" >}}
+Mehr im [Archiv][12], Abo via [RSS][13], entdecken über Rezeptarten: {{< flat-list-terms-by-taxonomy "rezeptarten" >}}
 
 [12]: /rezepte/
 [13]: /rezepte/index.xml

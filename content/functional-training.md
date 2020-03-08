@@ -1,7 +1,7 @@
 ---
 title: Functional Training in  München Bogenhausen
 description: Eine Seite mit den Details zum Functional Training, funktionellen Training, Athletiktraining und Yoga
-lastmod: 2019-12-31 13:44:00
+lastmod: 2020-02-27 15:44:00
 menu:
   main:
     name: Functional Training
@@ -14,10 +14,8 @@ menu:
 
 Für körperliche und mentale Fitness, Kraft, Ausdauer, Beweglichkeit und ein wunderbares Körpergefühl ist die Kombination aus [Functional Training][3] und [Yoga ][4] ideal. In diesen Workshops kräftigen und trainieren wir unseren gesamten Körper zunächst mit Übungen aus dem funktionellen Training und lassen die Stunde dann mit regenerierenden Dehnübungen aus dem Yoga und einer wohligen Endentspannung ausklingen. Für alle Yogis, Sportler und Anfänger, die gerne sportlicher werden wollen.
 
-- **Sonntag, 09. Februar 17:15 bis 18:45 Uhr**
-- **Sonntag, 23. Februar 17:15 bis 18:45 Uhr**
-- **Sonntag, 08. März 17:15 bis 18:45 Uhr**
-
+- **Sonntag, 22. März 17:15 bis 18:45 Uhr**
+- **Sonntag, 26. April 17:15 bis 18:45 Uhr**
 - **Anmeldung per Mail: [{{< author "agobrecht" "email" >}}][1]**
 
 ## Konditionen {#konditionen}

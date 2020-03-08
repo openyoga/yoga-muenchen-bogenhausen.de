@@ -3,7 +3,7 @@ title: Vorbeugen
 description: Warum praktizieren wir Forward Bends?
 schlagwoerter: [Hatha Yoga, Asana-Gruppen]
 publishdate: 2020-02-01
-lastmod: 2020-02-01 05:25:00
+lastmod: 2020-02-01 06:15:00
 ---
 
 {{< img src="/assets/images/schildkroete.jpg" alt="Schildkröte">}}
