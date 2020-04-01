@@ -3,8 +3,8 @@ title: Blumenkohl-Quinoa-Risotto mit Champignons
 description:  Geraspelter Blumenkohl ersetzt den Risotto-Reis
 rezeptarten: [Gemuese]
 hauptzutaten: [Blumenkohl, Champignons, Quinoa, Rucola, Nuesse]
-publishdate: 2020-03-22
-lastmod: 2020-03-22 20:00:00
+publishdate: 2020-03-20
+lastmod: 2020-03-20 18:50:00
 ---
 
 Geraspelter Blumenkohl ist ja schon länger ein Trend in der Low Carb Küche. Mit Quinoa, Champignons, Nüssen und einer ganz schlichten und leckeren Soße wird daraus ein richtig gesundes Risotto-Gericht.

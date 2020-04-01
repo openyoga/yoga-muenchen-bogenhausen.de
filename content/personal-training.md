@@ -5,7 +5,7 @@ lastmod: 2019-01-26 05:20:00
 menu:
   main:
     name: Personal Training
-    weight: 40
+    weight: 20
 ---
 
 Für Personal Training bieten wir Dir folgende Optionen:

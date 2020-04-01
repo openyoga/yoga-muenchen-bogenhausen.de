@@ -5,7 +5,7 @@ lastmod: 2020-03-08 22:18:02
 menu:
   main:
     name: Yoga Workshops
-    weight: 20
+    weight: 40
 ---
 
 {{< img src="/assets/images/sprinter.jpg" alt="Der Sprinter" >}}

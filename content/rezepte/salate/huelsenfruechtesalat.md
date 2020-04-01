@@ -12,8 +12,8 @@ Hülsenfrüchte sind nicht nur lecker und sättigend, sondern ein wahres Superfo
 
 ## Zutaten
 
-- 150 g Hülsenfrüchtemischung, über Nacht eingeweicht und gekocht
-- 50 g Dinkel wie Reis, abgespült und in Gemüsebrühe gekocht
+- 150 g Hülsenfrüchtemischung, über Nacht eingeweicht
+- 50 g Dinkel wie Reis, abgespült
 - 2 - 3 Paprika, geputzt und gewürfelt
 - 1 Fenchel, geputzt und klein geschnitten
 - 1 Zucchini, gewaschen und klein gewürfelt
@@ -25,17 +25,15 @@ Hülsenfrüchte sind nicht nur lecker und sättigend, sondern ein wahres Superfo
 - Gemüsebrühe vom Dinkelkochen (aufgehoben)
 - Pfeffer
 - Salz
-Optional:
-- Parmesan oder Pecorino, frisch gerieben, Menge nach Geschmack
-
+- Optional: Parmesan oder Pecorino, frisch gerieben, Menge nach Geschmack
 
 
 ## Zubereitung
 
 1. Die Hülsenfrüchtemischung nach dem Einweichen nach Packungsanweisung in Wasser garen, abgießen und erst danach salzen
-2. Den Dinkel wie Reis gut in einem Sieb abspülen und in Gemüsebrühe kochen, die Gemüsebrühe nach Ende der Kochzeit für die Soße aufheben
+2. Den Dinkel wie Reis gut in einem Sieb abspülen, in Gemüsebrühe garen, beim Abgießen die Brühe für die Soße aufheben
 3. Das Gemüse in einem Esslöffel Olivenöl andünsten (ca. 10 Minuten) und mit Pfeffer würzen
-4. Für die Soße einen Esslöffel Olivenöl mit zwei Esslöffeln Balsamico Bianco und soviel Gemüsebrühe wie gewünscht verrühren
+4. Für die Soße einen Esslöffel Olivenöl mit zwei Esslöffeln Balsamico Bianco und soviel Gemüsebrühe wie gewünscht verrühren (wir nehmen meist ca. 100 - 200 ml)
 5. Gemüse mit Hülsenfrüchten, Dinkel wie Reis, Frühlingszwiebeln und der Soße verrühren
 6. Den Salat am besten noch ein bis zwei Stunden durchziehen lassen
 7. Optional geriebenen Parmesan oder Pecorino unterrühren

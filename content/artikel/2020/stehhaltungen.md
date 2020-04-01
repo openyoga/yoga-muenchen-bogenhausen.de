@@ -3,7 +3,7 @@ title: Stehhaltungen
 description: Was bringen Standing Poses?
 schlagwoerter: [Hatha Yoga, Asana-Gruppen]
 publishdate: 2020-04-01
-lastmod: 2020-04-01 05:25:00
+lastmod: 2020-04-01 19:40:00
 ---
 
 {{< img src="/assets/images/krieger_I_sommer.jpg" alt="Krieger I">}}
