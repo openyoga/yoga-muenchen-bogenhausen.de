@@ -2,9 +2,9 @@
 title: Blaubeermuffins
 description: Ohne Mehl und ohne Zucker
 rezeptarten: [Muffins, Kuchen]
-hauptzutaten: [Blaubeeren, Mandelmehl, Mandelmilch]
+hauptzutaten: [Blaubeeren, Mandelmehl, gemahlene Mandeln, Mandelmilch]
 publishdate: 2019-07-02
-lastmod: 2019-11-23 17:25:00
+lastmod: 2020-05-09 12:55:00
 ---
 
 Diese glutenfreien Low Carb Muffins sind ein Genuss für Körper, Geist und Seele. Man darf sie völlig ohne schlechtes Gewissen vernaschen. Und wer doch sündigen möchte oder es gerne süßer mag, darf beim Topping kreativ werden. Ein Dank geht an unsere Yoga-Schülerin und Ernährungsberaterin Anastasia für dieses tolle Rezept!
@@ -14,7 +14,7 @@ Das verwendete Mandelmehl ist kein Mehl im eigentlichen Sinne und es handelt sic
 
 ## Zutaten
 
-- 250 g Mandelmehl
+- 250 g Mandelmehl (für eine luftigere Konsistenz bis zu 1/3 davon durch gemahlene Mandeln ersetzen)
 - 150-175 ml Mandelmilch (je nach Konsistenz)
 - 200 g TK-Blaubeeren, aufgetaut und abgetropft oder frische Blaubeeren
 - 50 g Butter, in einem kleinen Topf geschmolzen
@@ -27,9 +27,9 @@ Das verwendete Mandelmehl ist kein Mehl im eigentlichen Sinne und es handelt sic
 
 1. Backofen auf 190 Grad Umluft vorheizen
 2. Die Blaubeeren mit dem Zauberstab pürieren
-3. Geschmolzene Butter mit Blaubeerpüree, Mandelmehl, Mandelmilch, Eiern, Backpuler und Stevia in einer Schüssel verrühren
+3. Geschmolzene Butter mit Blaubeerpüree, Mandelmehl (und eventuell gemahlenen Mandeln), Mandelmilch, Eiern, Backpuler und Stevia in einer Schüssel verrühren
 4. Die Masse in 12 Muffinförmchen verteilen und für 25 Minuten bei 190 Grad Umluft backen
 5. Die Muffins aus dem Ofen nehmen und abkühlen lassen
 6. Entweder pur, mit frischen Früchten oder Topping genießen (siehe unten)
 
-Das Rezept ergibt zwölf Muffins. Als gesundes Topping kann man 200 g Quark mit zwei Esslöffeln Agavendicksaft und dem Mark einer Vanilleschote pürieren, in eine Spritztüte geben und auf den ausgekühlten Muffins verteilen. Oder einfach selbst kreativ werden ...
+Das Rezept ergibt zwölf Muffins. Als gesundes Topping kann man 200 g Quark mit zwei Esslöffeln Agavendicksaft und dem Mark einer Vanilleschote pürieren, in eine Spritztüte geben und auf den ausgekühlten Muffins verteilen. Alternativ schmecken sie auch sehr gut mit  einer Marmelade mit extra hohem Fruchtanteil. Oder einfach selbst kreativ werden ...

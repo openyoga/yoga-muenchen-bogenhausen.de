@@ -3,8 +3,8 @@ title: Veganer Avocadosalat
 description: Unser Lieblingssalat
 rezeptarten: [Salat]
 hauptzutaten: [Blattsalat, Avocado, Kürbiskerne, Pinienkerne]
-publishdate: 2020-04-18
-lastmod: 2020-04-18 20:01:00
+publishdate: 2020-04-19
+lastmod: 2020-04-19 12:31:00
 ---
 
 Dem aufmerksamen Leser mag auffallen, dass wir ein [ähnliches Rezept][1] schon einmal im Juni 2018 gepostet haben - dieser Salat ist unser Brunchgericht am Wochenende und hier sieht man schön, wie sich Lieblingsrezepte weiterentwickeln, wenn man sie regelmäßig zubereitet. Um es mit Heraklit zu sagen: Panta rhei (alles fließt). 

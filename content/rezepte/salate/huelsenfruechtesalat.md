@@ -3,8 +3,8 @@ title: Hülsenfrüchte-Salat
 description: Ein proteinreiches Superfood
 rezeptarten: [Salat]
 hauptzutaten: [Linsen, Bohnen, Dinkel]
-publishdate: 2020-05-01
-lastmod: 2020-05-01  20:00:00
+publishdate: 2020-05-18
+lastmod: 2020-05-18  20:00:00
 ---
 
 Hülsenfrüchte sind nicht nur lecker und sättigend, sondern ein wahres Superfood: Sie enthalten mehr Protein als jedes andere pflanzliche Lebensmittel, sind reich an Ballaststoffen und sekundären Pflanzenstoffen, B-Vitaminen und Mineralstoffen wie Kalium, Magnesium und Eisen. In der Kombination mit gedünstetem Gemüse, Dinkel wie Reis und optional geriebenem Parmesan oder Pecorino wird daraus ein richtig leckerer Salat, der sich auch gut über Nacht aufheben und am nächsten Tag weiter verspeisen lässt.

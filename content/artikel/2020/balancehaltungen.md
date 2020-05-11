@@ -3,7 +3,7 @@ title: Balancehaltungen
 description: Warum wir regelmäßig Gleichgewichtsübungen praktizieren sollten
 schlagwoerter: [Hatha Yoga, Asana-Gruppen]
 publishdate: 2020-05-01
-lastmod: 2020-05-01 05:25:00
+lastmod: 2020-05-01 06:45:00
 ---
 
 {{< img src="/assets/images/kopfstand-variation.jpg" alt="Kopfstand-Variation">}}
