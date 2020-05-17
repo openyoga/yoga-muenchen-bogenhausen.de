@@ -3,7 +3,7 @@ title: Drehhaltungen
 description: Was sind Twists und wie wirken sie?
 schlagwoerter: [Hatha Yoga, Asana-Gruppen]
 publishdate: 2020-01-01
-lastmod: 2020-01-01 05:25:00
+lastmod: 2020-05-17 13:45:00
 ---
 
 {{< img src="/assets/images/drehsitz.jpg" alt="Drehsitz">}}
@@ -18,12 +18,12 @@ Neben verschiedenen Drehsitzvariationen gibt es Drehhaltungen im Liegen wie das 
 
 ## Körperliche Wirkungen
 
-Drehhaltungen stärken die Bauch- und Rückenmuskulatur, dehnen die schrägen Bauch- und die Pomuskeln, massieren die Bauchorgane und regen den Stoffwechsel und die Verdauung an. Sie lösen Verspannungen der Rücken- und Schultermuskulatur; der Bereich der Brustwirbelsäule wird gelockert. Im Brustraum entsteht Weite und Beweglichkeit, was die Atmung erleichtert. Während eines Twists wird die Wirbelsäule nicht nur gedreht, sondern auch gestreckt und entstaucht, der Stoffwechsel der Bandscheiben und des Rückenmarks wird angeregt, asymmetrischen Fehlhaltungen wie Skoliose kann entgegengewirkt werden. 
+Drehhaltungen stärken die stabilisierende Bauch- und Rückenmuskulatur, dehnen die schrägen Bauch- und die Pomuskeln, massieren die Bauchorgane und regen den Stoffwechsel und die Verdauung an. Sie können entgiftend wirken. Drehhaltungen lösen Verspannungen der Rücken-, Hals- und Schultermuskulatur; der Bereich der Brustwirbelsäule wird gelockert. Im Brustraum entsteht Weite und Beweglichkeit, was die Atmung erleichtert. Während eines Twists wird die Wirbelsäule nicht nur gedreht, sondern auch gestreckt und entstaucht, der Stoffwechsel der Bandscheiben und des Rückenmarks wird angeregt, asymmetrischen Fehlhaltungen wie Skoliose kann entgegengewirkt werden. 
 
 
 ## Mentale Wirkungen
 
-Twists wirken nach Vor- und Rückbeugen neutralisierend und ausgleichend. Sie sorgen für Stabilität, Ruhe und Klarheit. Emotionale Anspannung kann losgelassen werden, innere Blockaden können sich lösen. Durch Drehhaltungen lernen wir, in unserer Mitte zu bleiben, wenn äußere Umstände sich ändern und unseren Idealen treu zu bleiben, auch wenn wir auf andere Menschen eingehen. 
+Twists wirken nach Vor- und Rückbeugen neutralisierend und ausgleichend. Sie sorgen für Stabilität, Ruhe und Klarheit. Emotionale Anspannung kann losgelassen werden, der Stresspegel kann gesenkt werden, innere Blockaden können sich lösen. Durch Drehhaltungen lernen wir, in unserer Mitte zu bleiben, wenn äußere Umstände sich ändern und unseren Idealen treu zu bleiben, auch wenn wir auf andere Menschen eingehen.  Sie können den Mut zur eigenen Meinung und auch die Fähigkeit, diese zu kommunizieren fördern.
 
 
 ## Kontraindikationen

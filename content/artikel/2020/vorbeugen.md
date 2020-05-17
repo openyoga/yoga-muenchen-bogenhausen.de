@@ -3,7 +3,7 @@ title: Vorbeugen
 description: Warum praktizieren wir Forward Bends?
 schlagwoerter: [Hatha Yoga, Asana-Gruppen]
 publishdate: 2020-02-01
-lastmod: 2020-02-01 06:15:00
+lastmod: 2020-05-17 13:54:00
 ---
 
 {{< img src="/assets/images/schildkroete.jpg" alt="Schildkröte">}}
@@ -16,11 +16,11 @@ Vorwärtsbeugen können im Sitzen und im Stehen praktiziert werden, mit geschlos
 
 ## Körperliche Wirkungen
 
-Mit Forward Bends wird die gesamte Körperrückseite gedehnt, d.h. der Rücken, die Gesäßmuskeln und bei gestreckten Beinen die gesamten Beinrückseiten. Zieht man die Schultern nach hinten unten, kann    die Schulter- und Nackenmuskulatur wunderbar entspannen. Vorbeugen erhöhen den Druck auf die inneren Organe und stimulieren die Bauchorgane; so wird z.B. die Verdauung angeregt und Magenprobleme können gelindert werden; sogar das Immunsystem kann durch langes Halten gestärkt werden. Vorbeugen wirken kühlend und beruhigend auf das sympathische Nervensystem.
+Mit Forward Bends wird die gesamte Körperrückseite gedehnt, d.h. der Rücken, die Gesäßmuskeln und bei gestreckten Beinen die gesamten Beinrückseiten. Der untere Rücken wird entlastet; zieht man die Schultern nach hinten unten, kann die Schulter- und Nackenmuskulatur wunderbar entspannen. Vorbeugen erhöhen den Druck auf die inneren Organe und stimulieren und entspannen die Bauchorgane; so wird z.B. die Verdauung angeregt und Magenprobleme können gelindert werden; sogar das Immunsystem kann durch langes Halten gestärkt werden. Vorbeugen wirken kühlend und beruhigend auf das sympathische Nervensystem. Sie können sogar bei Schlafstörungen helfen und teilweise für eine bessere Durchblutung des Gehirns sorgen.
 
 ## Mentale Wirkungen
 
-Wenn Du schon einmal eine Vorbeuge praktiziert hast, hast Du wahrscheinlich auch das angenehme Gefühl von Rückzug und Introversion genossen. Die Sinne könnnen nach innen gehen, der Geist kann zur Ruhe kommen, Du spürst ein angenehmes Loslassen. Unruhe, Anspannung oder mögliche Ängste werden gelindert; Du fühlst Dich nach einer länger gehaltenen Vorbeuge zentrierter, konzentrierter. Und nicht zuletzt lehren uns Vorbeugen auch Hingabe und Demut.
+Wenn Du schon einmal eine Vorbeuge praktiziert hast, hast Du wahrscheinlich auch das angenehme Gefühl von Rückzug und Introversion genossen. Die Sinne könnnen nach innen gehen, der Geist kann zur Ruhe kommen, Du spürst ein angenehmes Loslassen. Unruhe, Anspannung oder mögliche Ängste werden gelindert; Du fühlst Dich nach einer länger gehaltenen Vorbeuge zentrierter, konzentrierter. Vorbeugen können die Phantasie und die Intuition fördern und dazu anregen, die Dinge aus einem neuen Blickwinkel zu betrachten. Und nicht zuletzt lehren sie uns auch Hingabe und Demut.
 
 ## Kontraindikationen
 

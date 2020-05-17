@@ -3,7 +3,7 @@ title: Balancehaltungen
 description: Warum wir regelmäßig Gleichgewichtsübungen praktizieren sollten
 schlagwoerter: [Hatha Yoga, Asana-Gruppen]
 publishdate: 2020-05-01
-lastmod: 2020-05-01 06:45:00
+lastmod: 2020-05-17 13:25:00
 ---
 
 {{< img src="/assets/images/kopfstand-variation.jpg" alt="Kopfstand-Variation">}}
@@ -17,12 +17,12 @@ Der Baum ist eine der einfachsten Balancehaltungen und gleichzeitig eine sehr wi
 
 ## Körperliche Wirkungen
 
-Balancehaltungen trainieren Dein Gleichgewichtsgefühl - und das solltest Du regelmäßig tun. So sorgst Du rechtzeitig für eine gute Sturzprophylaxe und trainierst Deine Koordinationsfähigkeiten. Deine Tiefenmuskulatur wird gekräftigt, Deine Körperhaltung verbessert sich. Balancehaltungen sind auch sehr gut für Dein Nervensystem - sowohl für das zentrale Nervensystem, d.h. Dein Gehirn und Rückenmark, als auch für das periphere Nervensystem.
+Balancehaltungen trainieren Dein Gleichgewichtsgefühl - und das solltest Du regelmäßig tun. So sorgst Du rechtzeitig für eine gute Sturzprophylaxe und trainierst Deine Koordinationsfähigkeiten. Deine Tiefenmuskulatur und die Muskeln entlang der Wirbelsäule werden gekräftigt, Deine Körperhaltung verbessert sich. Balancehaltungen sind auch sehr gut für Dein Nervensystem - sowohl für das zentrale Nervensystem, d.h. Dein Gehirn und Rückenmark, als auch für das periphere Nervensystem.
 
 
 ## Mentale Wirkungen
 
-Balancehaltungen schulen die Geduld und die Konzentrationsfähigkeit, der Geist kommt nach und nach zur Ruhe, Du fühlst Dich ausgeglichener. Bei einigen Asanas wird auch Dein Mut herausgefordert. Mit diesen Übungen stärkst Du Dein inneres Gleichgewicht und Deine Standfestigkeit. Balancehaltungen fördern das Gedächtnis, die Intuition und die Kreativität. Sie sind ehrlich zu Dir: Sie spiegeln Deine innere Ausgeglichenheit in dem Moment wieder, in dem Du sie übst - und dieser Zustand kann von Tag zu Tag stark variieren. So regen sie Dich dazu an, geduldig und beharrlich an Dir selbst zu arbeiten.
+Balancehaltungen schulen die Geduld und die Konzentrationsfähigkeit, der Geist kommt nach und nach zur Ruhe, Du fühlst Dich ausgeglichener und kannst Stressgefühle reduzieren. Bei einigen Asanas wird auch Dein Mut herausgefordert. Mit diesen Übungen stärkst Du Dein inneres Gleichgewicht und Deine Standfestigkeit. Sie fördern auch Dein Selbstvertrauen und Dein Durchsetzungsvermögen sowie Dein Urvertrauen. Balancehaltungen fördern das Gedächtnis, die Intuition und die Kreativität. Sie sind ehrlich zu Dir: Sie spiegeln Deine innere Ausgeglichenheit in dem Moment wieder, in dem Du sie übst - und dieser Zustand kann von Tag zu Tag stark variieren. So regen sie Dich dazu an, geduldig und beharrlich an Dir selbst zu arbeiten.
 
 
 ## Kontraindikationen

@@ -1,13 +1,13 @@
 ---
 title: Hülsenfrüchte-Salat
-description: Ein proteinreiches Superfood
+description: Proteinreiches Slowfood
 rezeptarten: [Salat]
 hauptzutaten: [Linsen, Bohnen, Dinkel]
-publishdate: 2020-05-18
-lastmod: 2020-05-18  20:00:00
+publishdate: 2020-05-11
+lastmod: 2020-05-11  13:00:00
 ---
 
-Hülsenfrüchte sind nicht nur lecker und sättigend, sondern ein wahres Superfood: Sie enthalten mehr Protein als jedes andere pflanzliche Lebensmittel, sind reich an Ballaststoffen und sekundären Pflanzenstoffen, B-Vitaminen und Mineralstoffen wie Kalium, Magnesium und Eisen. In der Kombination mit gedünstetem Gemüse, Dinkel wie Reis und optional geriebenem Parmesan oder Pecorino wird daraus ein richtig leckerer Salat, der sich auch gut über Nacht aufheben und am nächsten Tag weiter verspeisen lässt.
+Hülsenfrüchte sind nicht nur lecker und sättigend, sondern ein wahres Superfood: Sie enthalten mehr Protein als jedes andere pflanzliche Lebensmittel, sind reich an Ballaststoffen und sekundären Pflanzenstoffen, B-Vitaminen und Mineralstoffen wie Kalium, Magnesium und Eisen. In der Kombination mit gedünstetem Gemüse, Dinkel wie Reis und optional geriebenem Parmesan oder Pecorino wird daraus ein richtig leckerer Picknick-Salat, der sich auch gut über Nacht aufheben und am nächsten Tag weiter verspeisen lässt. Den Salat mindestens ein bis zwei Stunden durchziehen lassen!
 
 
 ## Zutaten
@@ -38,4 +38,4 @@ Hülsenfrüchte sind nicht nur lecker und sättigend, sondern ein wahres Superfo
 6. Den Salat am besten noch ein bis zwei Stunden durchziehen lassen
 7. Optional geriebenen Parmesan oder Pecorino unterrühren
 
-Das Rezpet reicht für drei Personen als Hauptgericht oder für sechs Personen als Beilage.
+Das Rezept reicht für drei bis vier Personen als Hauptgericht oder für sechs Personen als Beilage.

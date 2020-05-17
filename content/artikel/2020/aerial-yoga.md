@@ -6,7 +6,7 @@ publishdate: 2020-06-01
 lastmod: 2020-06-01 05:25:00
 ---
 
-{{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="Aerial Yoga">}}
+{{< img src="/assets/images/aerial-yoga.jpg" alt="Aerial Yoga Taube">}}
 
 Aerial Yoga ist mehr als nur ein weiterer neuer Trend aus den USA. Es trainiert den ganzen Körper und macht glücklich. Wir lassen los und fühlen dabei die Leichtigkeit des Seins. Die Yogaübungen werden mit einem Nylonfasertuch ausgeführt, das wie ein Trapez von der Decke hinunter Richtung Boden hängt. Mal benutzt man das Tuch als Hilfsmittel während man sich am Boden befindet, mal schaukelt man damit wie in Kindheitstagen, schwebt im Tuch geborgen wie in einem Kokon oder lässt sich kopfüber daran herabhängen.
 

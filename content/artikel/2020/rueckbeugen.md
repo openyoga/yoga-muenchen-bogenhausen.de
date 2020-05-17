@@ -3,7 +3,7 @@ title: Rückbeugen
 description: Warum wir regelmäßig Back Bends üben sollten
 schlagwoerter: [Hatha Yoga, Asana-Gruppen]
 publishdate: 2020-03-01
-lastmod: 2020-03-01 05:25:00
+lastmod: 2020-05-17 13:30:00
 ---
 
 {{< img src="/assets/images/rad-sommer.jpg" alt="Das Rad">}}
@@ -18,17 +18,17 @@ Neben dem Rad im Bild oben, was vielleicht nicht jeder ausführen kann und will 
 
 ## Körperliche Wirkungen
 
-Rückbeugen dehnen die gesamte Körpervorderseite, insbesondere die Brust-, Bauch- und Zwischenrippenmuskulatur, teilweise auch die Leisten und die vorderen Oberschenkel. Die Brustwirbelsäule wird dadurch beweglicher, der Brustkorb weitet sich, der Lungen- und Herzbereich und die Atemhilfsmuskulatur werden gedehnt und das Atmen fällt uns leichter. Die Atmung kann sich vertiefen, der Körper wird wieder besser mit Sauerstoff versorgt. Mit Rückbeugen kannst Du Verspannungen im Schulter-Nackenbereich lösen; regelmäßig praktiziert verbessern sie die Körperhaltung. 
+Rückbeugen dehnen die gesamte Körpervorderseite, insbesondere die Brust-, Bauch- und Zwischenrippenmuskulatur, teilweise auch die Leisten und die vorderen Oberschenkel. Die Brustwirbelsäule wird dadurch beweglicher, der Brustkorb weitet sich, der Lungen- und Herzbereich und die Atemhilfsmuskulatur werden gedehnt und das Atmen fällt uns leichter. Die Atmung kann sich vertiefen, der Körper wird wieder besser mit Sauerstoff versorgt. Mit Rückbeugen kannst Du Verspannungen im Schulter-Nackenbereich lösen; regelmäßig praktiziert verbessern sie die Körperhaltung und den Gang. Sie können im Einzelfall sogar bei Bandscheibenproblemen in der Hals- und Lendenwirbelsäule helfen - das solltest Du aber vorher mit Deinem Arzt oder Physiotherapeuten besprechen.  
 
 
 ## Mentale Wirkungen
 
-Rückbeugen öffnen das Herz und schenken Dir Mut zur Offenheit. Durch die Vertiefung der Atmung kannst Du loslassen und Dich für positive Gefühle wie Mitgefühl, Offenheit und Liebe öffnen. Du kannst mehr Mut und Vertrauen entwickeln. Rückbeugen wirken anregend auf Körper und Geist - sie stimulieren das sympathische Nervensystem.
+Rückbeugen öffnen das Herz und schenken Dir Mut zur Offenheit. Durch die Vertiefung der Atmung kannst Du loslassen und Dich für positive Emotionen wie Mitgefühl, Offenheit und Liebe öffnen. Du kannst eventuell emotionale Blockaden damit lösen, mehr Mut und Vertrauen entwickeln. Sie können auch dein Selbstvertrauen stärken. Rückbeugen wirken anregend auf Körper und Geist - sie stimulieren das sympathische Nervensystem.
 
 
 ## Kontraindikationen
 
-Bei akuten Rückenproblemen wie Bandscheibenvorfällen solltest Du keine Rückbeugen praktizieren. Achte immer darauf, Dich nur aus der Brustwirbelsäule, nicht aber aus der Hals- oder Lendenwirbelsäule zurückzubeugen. Dafür aktivierst Du zunächst Deinen Beckenboden und Po, bevor Du Dich nach hinten beugst. Du spürst dann, wie Kreuzbein und Steißbein förmlich eine Gegenbewegung zur Rückbeuge machen und Dein unterer Rücken geschützt ist.
+Bei akuten Rückenproblemen wie Bandscheibenvorfällen solltest Du keine Rückbeugen ohne Rücksprache mit Deinem Arzt oder Physiotherapeuten praktizieren. Achte immer darauf, Dich nur aus der Brustwirbelsäule, nicht aber aus der Hals- oder Lendenwirbelsäule zurückzubeugen. Dafür aktivierst Du zunächst Deinen Beckenboden und Po, bevor Du Dich nach hinten beugst. Du spürst dann, wie Kreuzbein und Steißbein förmlich eine Gegenbewegung zur Rückbeuge machen und Dein unterer Rücken geschützt ist.
 
 
 ## Fazit
