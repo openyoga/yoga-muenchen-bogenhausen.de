@@ -4,7 +4,7 @@ description:  Mediterraner Gemüsegenuss
 rezeptarten: [Gemuese]
 hauptzutaten: [Paprika, Aubergine, Zucchini, Karotten]
 publishdate: 2019-08-10
-lastmod: 2019-08-10 15:11:00
+lastmod: 2020-06-01 06:11:00
 ---
 
 Dieses Gemüsegericht schmeckt nach langen Sommerabenden und Urlauben in mediterranen Ländern. Es ist eine leckere und aromatische Alternative zu Salaten oder gedünstetem Gemüse.
@@ -34,4 +34,4 @@ Dieses Gemüsegericht schmeckt nach langen Sommerabenden und Urlauben in mediter
 
 Buon appetito.
 
-Das Rezept reicht für vier Personen. Zu dem Gemüse passt auch Tofu Rosso, den wir zehn Minuten vor Ende der Garzeit einfach auf dem Backblech verteilen und mit im Ofen warm werden lassen. Auch lecker dazu: Vollkornnudeln mit grünem Pesto oder Rosmarinkartoffeln.
+Das Rezept reicht für vier Personen. Zu dem Gemüse passen auch Tofu Rosso oder alternativ Kichererbsen (eine Dose, abgespült und abgetropft), die wir zehn Minuten vor Ende der Garzeit einfach auf dem Backblech verteilen und mit im Ofen warm werden lassen. Auch lecker dazu: Vollkornnudeln mit grünem Pesto oder Rosmarinkartoffeln.

@@ -1,14 +1,14 @@
 ---
-title: Aerial Yoga
-description: Functional Yoga im Schwebezustand
-schlagwoerter: [Aerial Yoga, Functional Training, funktionelles Training]
-publishdate: 2020-07-01
-lastmod: 2020-07-01 05:25:00
+title: Functional Strength
+description: Warum Krafttraining so gut tut
+schlagwoerter: [Functional Training, funktionelles Training, Krafttraining]
+publishdate: 2020-08-01
+lastmod: 2020-08-01 05:25:00
 ---
 
-{{< img src="/assets/images/aerial-yoga.jpg" alt="Aerial Yoga Taube" class="right width40">}}
+{{< img src="/assets/images/liegestuetz-tief.jpg" alt="Tiefer Liegestütz">}}
 
-Aerial Yoga ist mehr als nur ein weiterer neuer Trend aus den USA. Es trainiert den ganzen Körper und macht glücklich. Wir lassen los und fühlen dabei die Leichtigkeit des Seins. Die Yogaübungen werden mit einem Nylonfasertuch ausgeführt, das wie ein Trapez von der Decke hinunter Richtung Boden hängt. Mal benutzt man das Tuch als Hilfsmittel während man sich am Boden befindet, mal schaukelt man damit wie in Kindheitstagen, schwebt im Tuch geborgen wie in einem Kokon oder lässt sich kopfüber daran herabhängen.
+TO DO!!!
 
 ## Ursprung und Anwendungsgebiete
 
@@ -27,7 +27,7 @@ Sehr beliebt sind die [Umkehrhaltungen][1] im Aerial Yoga (bei denen der Kopf de
 
 ## Kontraindikationen
 
-Die << fliegende Gesundheitsgymnastik >>, wie Wolfgang Mießner und Peter Schlösser Aerial Yoga nennen, ist nicht für Dich geeignet, wenn Du schwanger bist oder gerade entbunden hast (bis drei Monate nach der Geburt), unter Bluthochdruck, erhöhtem Augeninnendruck oder Herzkrankheiten leidest oder gerade erst eine Operation hinter Dich gebracht hast. Bei Übergewicht, Bandscheibenproblemen, Skoliose oder Gelenkschmerzen kann es aber eine wunderbare Möglichkeit sein, mehr Bewegung und Entspannung in Dein Leben zu bringen. Frage am besten vorher Deinen Arzt, ob Aerial Yoga für Dich geeignet sein könnte.
+Die << fliegende Gesundheitsgymnastik >> ist nicht für Dich geeignet, wenn Du schwanger bist oder gerade entbunden hast (bis drei Monate nach der Geburt), unter Bluthochdruck, erhöhtem Augeninnendruck oder Herzkrankheiten leidest oder gerade erst eine Operation hinter Dich gebracht hast. Bei Übergewicht, Bandscheibenproblemen, Skoliose oder Gelenkschmerzen kann es aber eine wunderbare Möglichkeit sein, mehr Bewegung und Entspannung in Dein Leben zu bringen. Frage am besten vorher Deinen Arzt, ob Aerial Yoga für Dich geeignet sein könnte.
 
 > Wolfgang Mießner und Peter Schlösser, Aerial Yoga, Schwerelos glücklich, Trinity Verlag München, 2. Auflage 2018
 
