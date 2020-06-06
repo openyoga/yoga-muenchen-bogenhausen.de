@@ -2,8 +2,8 @@
 title: Hüftöffner
 description: Was es mit den Hip Openern im Yoga auf sich hat
 schlagwoerter: [Hatha Yoga, Asana-Gruppen]
-publishdate: 2020-06-08
-lastmod: 2020-06-08 05:25:00
+publishdate: 2020-06-06
+lastmod: 2020-06-06 07:25:00
 ---
 
 {{< img src="/assets/images/dreibeiniger-hund.jpg" alt="Dreibeiniger Hund">}}
@@ -21,11 +21,11 @@ Offene Hüften und ein gut ausgerichtetes Becken können den unteren Rücken ent
 
 ## Mentale Wirkungen
 
-Durch die Dehnung der Hüften entsteht mehr Raum in der Körpermitte. Da der Hüftbeuger (Musculus Iliopsoas) bei jeglicher Form von Anspannung kontrahiert - er ist mit dem Nervensystem verbunden und so eng an unsere Emotionen gekoppelt - werden die Hüften mit Stress, Anspannung und jeglicher Art von Gefühlen assoziiert. Durch Dehnung der die Hüfte umgebenden Muskeln können negative Emotionen losgelassen werden, ein Gefühl von Freiheit und Leichtigkeit kann sich einstellen. Die Lebensfreude, die Kreativität und die Sinnlichkeit werden gesteigert, ebenso die Fähigkeit loszulassen und Dinge so anzunehmen, wie sie sind. 
+Indem wir die Hüften dehnen, entsteht mehr Raum in der Körpermitte. Da der Hüftbeuger (Musculus Iliopsoas) bei jeglicher Form von Anspannung kontrahiert - er ist mit dem Nervensystem verbunden und so eng an unsere Emotionen gekoppelt - werden die Hüften mit Stress, Anspannung und jeglicher Art von Gefühlen assoziiert. Durch Dehnung der die Hüfte umgebenden Muskulatur können negative Emotionen losgelassen werden, ein Gefühl von Freiheit und Leichtigkeit kann sich einstellen. Die Lebensfreude, die Kreativität und die Sinnlichkeit werden gesteigert, ebenso die Fähigkeit loszulassen und Dinge so anzunehmen, wie sie sind. 
 
 ## Vorsicht
 
-Für Hüftöffner gilt ganz besonders, was eigentlich bei allen Asanas beachtet werden sollte: Praktiziere sanft und vorsichtig, sowohl wenn Du hypermobil bist als auch wenn Du in Deiner Beweglichkeit eingeschränkt bist. Yoga ist kein Wettbewerb und es sollten keine Schmerzen dabei entstehen! Ist die Hüfte noch nicht so mobil, werden häufig die weniger stark gesicherten Gelenke um die Hüfte herum, d.h. das Knie, das Iliosakralgelenk oder die Lendenwirbelsäule überlastet. Der Körper versucht dann regelrecht, die in der Hüfte fehlende Mobilität aus einem dieser Gelenke herauszuholen. So kann bei der Taube schnell das Kniegelenk im vorderen Bein überlastet werden, wenn die Hüfte zu eng ist oder Du zu tief in die Asana hinein gehst. 
+Für Hüftöffner gilt ganz besonders, was bei allen Asanas beachtet werden sollte: Praktiziere sanft und vorsichtig, sowohl wenn Du hypermobil bist als auch wenn Du in Deiner Beweglichkeit eingeschränkt bist. Yoga ist kein Wettbewerb und es sollten keine Schmerzen dabei entstehen! Ist die Hüfte noch nicht so mobil, werden häufig die weniger stark gesicherten Gelenke um die Hüfte herum, d.h. das Knie, das Iliosakralgelenk oder die Lendenwirbelsäule überlastet. Der Körper versucht dann regelrecht, die in der Hüfte fehlende Mobilität aus einem dieser Gelenke herauszuholen. So kann bei der Taube schnell das Kniegelenk im vorderen Bein überlastet werden, wenn die Hüfte zu eng ist oder Du zu tief in die Asana hinein gehst. 
 
 ## Fazit
 
