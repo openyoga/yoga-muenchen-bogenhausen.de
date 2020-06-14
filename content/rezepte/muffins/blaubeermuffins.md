@@ -4,11 +4,10 @@ description: Ohne Mehl und ohne Zucker
 rezeptarten: [Muffins, Kuchen]
 hauptzutaten: [Blaubeeren, Mandelmehl, gemahlene Mandeln, Mandelmilch]
 publishdate: 2019-07-02
-lastmod: 2020-05-09 12:55:00
+lastmod: 2020-06-08 18:55:00
 ---
 
-Diese glutenfreien Low Carb Muffins sind ein Genuss für Körper, Geist und Seele. Man darf sie völlig ohne schlechtes Gewissen vernaschen. Und wer doch sündigen möchte oder es gerne süßer mag, darf beim Topping kreativ werden. Ein Dank geht an unsere Yoga-Schülerin und Ernährungsberaterin Anastasia für dieses tolle Rezept!
-
+Diese glutenfreien Low Carb Muffins sind ein Genuss für Körper, Geist und Seele. Man darf sie völlig ohne schlechtes Gewissen vernaschen. Und wer doch sündigen möchte oder es gerne süßer mag, darf beim Topping kreativ werden.
 Das verwendete Mandelmehl ist kein Mehl im eigentlichen Sinne und es handelt sich auch nicht um gemahlene Mandeln, sondern um den Presskuchen, der bei der Mandelölgewinnung entsteht.
 
 
@@ -17,7 +16,7 @@ Das verwendete Mandelmehl ist kein Mehl im eigentlichen Sinne und es handelt sic
 - 250 g Mandelmehl (für eine luftigere Konsistenz bis zu 1/3 davon durch gemahlene Mandeln ersetzen)
 - 150-175 ml Mandelmilch (je nach Konsistenz)
 - 200 g TK-Blaubeeren, aufgetaut und abgetropft oder frische Blaubeeren
-- 50 g Butter, in einem kleinen Topf geschmolzen
+- 50 g Butter, bei Zimmertemperatur warm und weich geworden
 - 2 Eier
 - 2 Teelöffel Backpulver
 - 2 Spritzer Stevia Flüssigsüße
@@ -32,4 +31,4 @@ Das verwendete Mandelmehl ist kein Mehl im eigentlichen Sinne und es handelt sic
 5. Die Muffins aus dem Ofen nehmen und abkühlen lassen
 6. Entweder pur, mit frischen Früchten oder Topping genießen (siehe unten)
 
-Das Rezept ergibt zwölf Muffins. Als gesundes Topping kann man 200 g Quark mit zwei Esslöffeln Agavendicksaft und dem Mark einer Vanilleschote pürieren, in eine Spritztüte geben und auf den ausgekühlten Muffins verteilen. Alternativ schmecken sie auch sehr gut mit  einer Marmelade mit extra hohem Fruchtanteil. Oder einfach selbst kreativ werden ...
+Das Rezept ergibt zwölf Muffins. Als gesundes Topping kann man 200 g Quark mit zwei Esslöffeln Agavendicksaft und dem Mark einer Vanilleschote pürieren, in eine Spritztüte geben und auf den ausgekühlten Muffins verteilen. Alternativ schmecken sie auch sehr gut zu Naturjoghurt mit frischen Früchten. Oder einfach selbst kreativ werden ...
