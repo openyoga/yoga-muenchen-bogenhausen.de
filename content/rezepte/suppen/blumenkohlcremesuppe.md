@@ -3,8 +3,8 @@ title: Blumenkohlcremesuppe
 description: Zu jeder Jahreszeit ein schneller und leichter Genuss
 rezeptarten: [Suppe]
 hauptzutaten: [Blumenkohl]
-publishdate: 2020-06-23
-lastmod: 2020-06-23 17:32:00
+publishdate: 2020-06-21
+lastmod: 2020-06-21 13:22:00
 ---
 
 Dieses Süppchen ist auch nach einem langen Arbeitstag noch schnell mit Zutaten aus dem Vorrat gekocht. Im Winter wärmt es den Bauch, im Sommer ist es eine leckere Alternative zu all den kalten Salaten und Gemüsegerichten. Wir frieren oft Blumenkohlreste roh ein und zaubern dann diese Suppe aus dem Tiefkühlervorrat. 

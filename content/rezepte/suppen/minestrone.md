@@ -3,8 +3,8 @@ title: Minestrone
 description: Italienische Gemüsesuppe, die nach Sommerurlaub schmeckt
 rezeptarten: [Suppe]
 hauptzutaten: [Gemuese]
-publishdate: 2020-07-13
-lastmod: 2020-07-13 17:32:00
+publishdate: 2020-07-12
+lastmod: 2020-07-12 06:48:00
 ---
 
 Eine einfache Gemüseminestrone, die sommerlich leicht schmeckt und nach Lust und Laune noch durch Knoblauch ergänzt werden kann.

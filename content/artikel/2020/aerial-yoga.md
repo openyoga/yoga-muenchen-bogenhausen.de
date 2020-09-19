@@ -2,8 +2,8 @@
 title: Aerial Yoga
 description: Functional Yoga im Schwebezustand
 schlagwoerter: [Aerial Yoga, Functional Training, funktionelles Training]
-publishdate: 2020-07-01
-lastmod: 2020-07-01 05:25:00
+publishdate: 2020-08-01
+lastmod: 2020-08-01 04:45:00
 ---
 
 {{< img src="/assets/images/aerial-yoga.jpg" alt="Aerial Yoga Taube" class="right width40">}}

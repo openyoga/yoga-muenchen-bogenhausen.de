@@ -2,8 +2,8 @@
 title: Functional Strength
 description: Warum Krafttraining so gut tut
 schlagwoerter: [Functional Training, funktionelles Training, Krafttraining]
-publishdate: 2020-08-01
-lastmod: 2020-08-01 05:25:00
+publishdate: 2020-10-01
+lastmod: 2020-10-01 05:25:00
 ---
 
 {{< img src="/assets/images/liegestuetz-tief.jpg" alt="Tiefer Liegestütz">}}

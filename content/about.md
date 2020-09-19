@@ -1,7 +1,7 @@
 ---
 title: About
 description: Eine Seite mit Hintergrundinformationen zu Open Yoga MUC
-lastmod: 2020-02-27 15:49:00
+lastmod: 2020-07-24 17:07:00
 menu:
   main:
     weight: 70
@@ -19,7 +19,7 @@ Open Yoga ist klassisches [Hatha Yoga][hatha] für alle in München. Komm einfac
 
 {{< img src="/assets/images/avatar-portrait.jpg" alt="Portraitfoto Ajita Alexandra Gobrecht" title="Ajita Alexandra Gobrecht" class="left avatar" >}}
 
-Ich selbst arbeite im IT-Bereich (Suchtechnologie und Datenmanagement) und liebe Open Source Software (z.B. [Elasticsearch][elasticsearch]). Zum Glück ist Yoga ja mittlerweile auch Open Source, d.h für jeden zugänglich, der Interesse daran hat (im alten Indien  war Yoga tatsächlich eine Geheimlehre, die nur vom Guru an geeignete Schüler weitergegeben wurde). Auf dieser Website findest Du neben unserem Kursangebot auch Infos rund um Yoga, leckere Rezepte und vieles mehr. Open Source Texte eben.
+Ich selbst bin Computerlinguistin (MA), arbeite im IT-Bereich (Suchtechnologie, Natural Language Processing und Machine Learning) und liebe Open Source Software (z.B. [Elasticsearch][elasticsearch]). Zum Glück ist Yoga ja mittlerweile auch Open Source, d.h für jeden zugänglich, der Interesse daran hat (im alten Indien  war Yoga tatsächlich eine Geheimlehre, die nur vom Guru an geeignete Schüler weitergegeben wurde). Auf dieser Website findest Du neben unserem Kursangebot auch Infos rund um Yoga, leckere Rezepte und vieles mehr. Open Source Texte eben.
 
 2008 begann ich in einer beruflich stressigen Situation mit Hatha Yoga - es war Liebe auf den ersten Blick. Schon nach meiner ersten Stunde kaufte ich mir ein Yoga-Buch und begann auch zu Hause Asanas (Yogastellungen) und Sonnengrüße zu üben. Seitdem praktiziere ich fast täglich - Yoga tut mir einfach wahnsinnig gut. Natürlich mag ich auch andere Bewegungsformen - besonders Functional Training, Animal Athletics, Radfahren, Schwimmen, Nordic Walking und Bergwandern. Aber für eine kleine (oder größere ;-) Yoga-Session nehme ich mir immer Zeit.
 
