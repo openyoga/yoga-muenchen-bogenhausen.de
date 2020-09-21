@@ -3,8 +3,8 @@ title: Rote Linsensuppe
 description: Falsche Kartoffelsuppe
 rezeptarten: [Suppe]
 hauptzutaten: [rote Linsen, Tomaten, Ingwer]
-publishdate: 2020-09-13
-lastmod: 2020-09-13 17:32:00
+publishdate: 2020-09-19
+lastmod: 2020-09-19 04:52:00
 ---
 
 Dieser Klasssiker der indischen Küche ist schnell mit Zutaten aus dem Vorrat gezaubert und schmeckt wunderbar warm, weich und sämig (fast so, als wären Kartoffeln darin). 
