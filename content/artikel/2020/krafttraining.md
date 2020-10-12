@@ -13,7 +13,8 @@ Was bringt mir Krafttraining, wenn ich nicht unter die Bodybuilder gehen möchte
 
 ## Ziel
 
-Das Ziel von funktionellem Krafttraining ist es, eine leistungsfähige Muskulatur aufzubauen bzw. zu erhalten. Sei es, dass Du Dich in Deiner Lieblinssportart verbessern möchtest oder dass Du fit im Alltag bleiben willst, z.B. bis ins hohe Alter Deine Getränkekisten die Treppen hoch in Deine Wohnung tragen möchtest. Ein ausgleichendes Krafttraining kann auch sinnvoll sein, um die weniger im Alltag bzw. in Deiner Sportart beanspruchte Muskulatur zu trainieren. Es hält gesund und fit in jeder Lebenslage.<br/>  
+Das Ziel von funktionellem Krafttraining ist es, eine leistungsfähige Muskulatur aufzubauen bzw. zu erhalten. Sei es, dass Du Dich in Deiner Lieblinssportart verbessern möchtest oder dass Du fit im Alltag bleiben willst, z.B. bis ins hohe Alter Deine Getränkekisten die Treppen hoch in Deine Wohnung tragen möchtest. Ein ausgleichendes Krafttraining kann auch sinnvoll sein, um die weniger im Alltag bzw. in Deiner Sportart beanspruchte Muskulatur zu trainieren. Es hält gesund und fit in jeder Lebenslage.
+
 Muskelberge werden dabei nicht angehäuft, eher werden lange, schlanke und bewegliche Muskeln geformt. Allgemein formuliert ist das Ziel von funktionellem Krafttraining, Deine sportlichen Fähigkeiten durch Kraft zu unterstützen, muskuläre Ungleichgewichte auszugleichen und die Belastungsverträglichkeit zu verbessern.
 
 
