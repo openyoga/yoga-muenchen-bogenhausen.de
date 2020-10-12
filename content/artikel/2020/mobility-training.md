@@ -8,7 +8,10 @@ lastmod: 2020-12-06 07:05:00
 
 {{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="fix me">}}
 
-Schauen wir uns zunächst einmal die Begriffe an, um die es beim Thema Beweglichkeitstraining geht: Beweglichkeit ist die Fähigkeit, endgradige Gelenkstellungen einzunehmen und Bewegungen mit großer Schwingungsweite ausführen zu können. Dehnfähigkeit ist die Bewegungsweite von Muskeln, Sehnen, Bändern und Kapseln. Dagegen bezeichnet Gelenkigkeit den durch die knöcherne Gelenkstruktur, den Knorpel, die Bandscheiben und Menisken begrenzten Bewegungsbereich.
+Schauen wir uns zunächst einmal die Begriffe an, um die es beim Thema Beweglichkeitstraining geht: 
+1. Beweglichkeit ist die Fähigkeit, endgradige Gelenkstellungen einnehmen und Bewegungen mit großer Schwingungsweite ausführen zu können
+2. Dehnfähigkeit ist die Bewegungsweite von Muskeln, Sehnen, Bändern und Kapseln
+3. Dagegen bezeichnet Gelenkigkeit den durch die knöcherne Gelenkstruktur, den Knorpel, die Bandscheiben und Menisken begrenzten Bewegungsbereich
 
 ## Beweglichkeitstraining
 
@@ -21,7 +24,7 @@ Um beweglicher zu werden, kann man den Körper mit verschiedenen Techniken dehne
 
 ## Körperliche Wirkungen
 
-Dehnen fördert die Beweglichkeit des Körpers: Die Gelenke können dann optimal funktionieren, die Elastizität von Muskeln, Sehnen und Bändern verbessert sich, Stoffwechsel und Durchblutung der Muskulatur werden angeregt, sie wird besser mit Nährstoffen versorgt. Wiederholtes Dehnen erhöht nicht nur das Bewegungsausmaß unseres Körpers, sondern reduziert auch die Dehnungsspannung. Durch regelmäßiges Dehnen können Verspannungen, Verhärtungen und Verklebungen im Gewebe gelöst werden, der Muskeltonus (die Grundspannung des Muskels) wird gesenkt. So können Fehlhaltungen, die durch einen zu hohen Muskeltonus ausgelöst wurden, ausgeglichen werden. Muskuläre Dysbalancen (Ungleichgewichte) können ebenfalls durch verkürzte Muskeln entstehen. Ihnen kann man durch regelmäßiges stretchen der zur Verkürzung neigenden Muskulatur entgegen wirken. Dehnen soll dazu beitragen, dass sich die Faszien rund um die Muskulatur wieder entspannen. Auch Rückenschmerzen können mit Dehnübungen reduziert werden.
+Dehnen fördert die Beweglichkeit des Körpers: Die Gelenke können dann optimal funktionieren, die Elastizität von Muskeln, Sehnen und Bändern verbessert sich, Stoffwechsel und Durchblutung der Muskulatur werden angeregt und sie wird besser mit Nährstoffen versorgt. Wiederholtes Dehnen erhöht nicht nur das Bewegungsausmaß des Körpers, sondern reduziert auch die Dehnungsspannung. Durch regelmäßiges Dehnen können Verspannungen, Verhärtungen und Verklebungen im Gewebe gelöst werden, der Muskeltonus (die Grundspannung des Muskels) wird gesenkt. So können Fehlhaltungen, die durch einen zu hohen Muskeltonus ausgelöst wurden, ausgeglichen werden. Muskuläre Dysbalancen (Ungleichgewichte) können ebenfalls durch verkürzte Muskeln entstehen. Ihnen kann man durch regelmäßiges stretchen der zur Verkürzung neigenden Muskulatur entgegen wirken. Dehnen soll auch dazu beitragen, dass sich die Faszien rund um die Muskulatur wieder entspannen. Nicht zuletzt kann man Rückenschmerzen  mit Dehnübungen entgegen wirken.
 
 ## Leistungssteigerung
 
