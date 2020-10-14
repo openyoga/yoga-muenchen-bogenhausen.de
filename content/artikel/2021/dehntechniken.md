@@ -19,7 +19,7 @@ Unterschieden wird bei den statischen Methoden zwischen aktivem Stretching, bei 
 
 ## Dynamisches Stretching
 
-Beim dynamischen Dehnen wird der Muskel aus einer federnden Position heraus abwechselnd in die Länge gezogen und wieder gelockert. Mit kleinen, rhythmisch federnden Bewegungen wird immer wieder für kurze Zeit eine stärkere Dehnung erreicht und wieder gelöst. Hierbei sollte man langsam und kontrolliert, niemals ruckartig vorgehen. In der Dehnposition wird ca. 10 bis 30 Mal nachgefedert.  
+Beim dynamischen Dehnen wird der Muskel aus einer wippenden Position heraus abwechselnd in die Länge gezogen und wieder gelockert. Mit kleinen, rhythmisch federnden Bewegungen wird immer wieder für kurze Zeit eine stärkere Dehnung erreicht und wieder gelöst. Hierbei sollte man langsam und kontrolliert, niemals ruckartig vorgehen. In der Dehnposition wird ca. zehn bis 30 Mal nachgefedert.  
 
 
 ## PNF Dehntechniken
@@ -34,14 +34,14 @@ Beim Faszientraining nach Dr. Robert Schleip wird gedehnt, gefedert, nachgespür
 
 ## Yoga und Mobility Training
 
-Auch mit Yoga verbesserst Du Deine Beweglichkeit. Eine extreme Form des statischen Dehnens ist Yin Yoga, bei dem man die einzelnen Dehnpositionen bis zu fünf Minuten oder länger hält. Auch Hatha Yoga beinhaltet statisches Stretching, allerdings dehnt man mit Hatha Yoga seine Muskeln nicht nur, sondern kräftigt sie gleichzeitig auch. Mit einer Hatha Yoga Stunde bekommst Du eine sehr effiziente und ausgewogene Trainingseinheit. Beim Vinyasa Flow Yoga verbesserst Du Deine Beweglichkeit durch dynamische, fließende Bewegungen. Auch hier arbeitest Du gleichzeitig an Deiner Beweglichkeit und an Deiner Kraft. Eine 
+Auch mit Yoga verbesserst Du Deine Beweglichkeit. Eine extreme Form des statischen Dehnens ist Yin Yoga, wo man die einzelnen Asanas (Übungen) bis zu fünf Minuten oder länger hält. Auch Hatha Yoga beinhaltet statisches Stretching, allerdings dehnt man mit Hatha Yoga seine Muskeln nicht nur, sondern kräftigt sie gleichzeitig auch. Mit einer Hatha Yoga Stunde bekommst Du eine sehr effiziente und ausgewogene Trainingseinheit. Beim Vinyasa Flow Yoga verbesserst Du Deine Beweglichkeit durch dynamische, fließende Bewegungen. Auch hier arbeitest Du gleichzeitig an Deiner Beweglichkeit und an Deiner Kraft. Eine 
 ausführliche Beschreibung der wichtigsten unterschiedlichen Yogastile findest Du [hier][3]. 
 
-Auch im [Fuctional Training][4] gibt es viele Übungen, die Deine Beweglichkeit verbessern. Hier wird nicht nur gedehnt, sondern Mobility Training beinhaltet auch das Mobilisieren des gesamten Bewegungsapparates. Mobility Training umfasst diverse Techniken wie passives und aktives Dehnen, verschiedene Massagetechniken und fließende Bewegungsabläufe. Ziel ist es, alle Gelenke, Bändern und Sehnen, die Faszien und die Muskulatur zu mobilisieren und dadurch Deine Beweglichkeit zu verbessern.
+Im [Fuctional Training][4] / Mobility Training gibt es ebenfalls viele Übungen, die Deine Beweglichkeit verbessern. Hier wird nicht nur gedehnt, sondern der gesamte Bewegungsapparat mobilisiert. Mobility Training umfasst diverse Techniken wie passives und aktives Dehnen, verschiedene Faszienübungen und -massagen und fließende Bewegungsabläufe. Ziel ist es, alle Gelenke, Bändern und Sehnen, die Faszien und die Muskulatur zu mobilisieren und dadurch die Beweglichkeit zu verbessern.
 
 ## Anwendung der Dehntechniken
 
-Wann wendet man welche Dehnmethode bevorzugt an? Eine allgemeine Faustregel lautet, dass dynamisches Dehnen eher vor dem Sport betrieben werden sollte, statisches Dehnen nur am Ende einer Sporteinheit oder als separates Training (z.B. am Pausentag oder in einer Yogastunde). Statisches Dehnen vor einer sportlichen Betätigung kann das Verletzungsrisiko erhöhen und zu Leistungseinbußen führen. Vor dem Sport muss auch nicht unbedingt dynamisch gestretcht werden, meist ist hier ein Aufwärmprogramm wesentlich sinnvoller. Grundsätzlich ist es besser, sich vor dem Beweglichkeitstraining gut aufzuwärmen. Im Gesundheitssport und im Seniorentraining eignen sich am besten die statischen Dehnungen sowie das Anspannungs-Entspannungs-Dehnen (PNF). 
+Wann wendet man welche Dehnmethode bevorzugt an? Eine allgemeine Faustregel lautet, dass dynamisches Dehnen eher vor dem Sport betrieben werden sollte, statisches Dehnen nur am Ende einer Sporteinheit oder als separates Training (z.B. am Pausentag oder in einer Yogastunde). Statisches Dehnen vor einer sportlichen Betätigung kann das Verletzungsrisiko erhöhen und zu Leistungseinbußen führen. Vor dem Sport muss auch nicht unbedingt dynamisch gestretcht werden, meist ist hier ein Aufwärmprogramm wesentlich sinnvoller. Grundsätzlich ist es besser, sich vor dem Beweglichkeitstraining gut aufzuwärmen. Im Gesundheitssport und im Seniorentraining eignen sich am besten die statischen Dehnübungen sowie das Anspannungs-Entspannungs-Dehnen (PNF). 
 
 ## Keine muskuläre Längenzunahme
 
