@@ -6,7 +6,7 @@ publishdate: 2020-12-06
 lastmod: 2020-12-06 07:05:00
 ---
 
-{{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="fix me">}}
+{{< img src="/assets/images/kuhgesicht.jpg" alt="fix me">}}
 
 Schauen wir uns zunächst einmal die Begriffe an, um die es beim Thema Beweglichkeitstraining geht: 
 1. *Beweglichkeit* ist die Fähigkeit, endgradige Gelenkstellungen einnehmen und Bewegungen mit großer Schwingungsweite ausführen zu können

@@ -6,7 +6,7 @@ publishdate: 2021-01-01
 lastmod: 2021-01-01 07:05:00
 ---
 
-{{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="fix me">}}
+{{< img src="/assets/images/katze.jpg" alt="fix me">}}
 
 Im [vorigen Artikel][1] haben wir uns mit dem Dehnen im Allgemeinen, seinen Wirkungen und Kontraindikationen beschäftigt. In diesem Blogbeitrag schauen wir uns verschiedene Techniken des Beweglichkeitstrainings und ihre Eignung genauer an.
 
@@ -24,7 +24,7 @@ Beim dynamischen Dehnen wird der Muskel aus einer wippenden Position heraus abwe
 
 ## PNF Dehntechniken
 
-PNF steht für Propriozeptive Neuromuskuläre Fazilitation; die Methode wird auch als Anspannungs-Entspannungs-Dehnen oder Contract-Hold-Relax-Stretch bezeichnet. Es gibt zwei Varianten: Man spannt entweder den zu dehnenden Muskel unmittelbar bevor man in die Dehnung geht kurz an oder man spannt während der Dehnung seinen Gegenspieler an. Diese Technik kommt ursprünglich aus dem Reha-Bereich und wird mittlerweile auch erfolgreich unter gesunden Sportlern eingesetzt.
+PNF steht für Propriozeptive Neuromuskuläre Fazilitation; die Methode wird auch als Anspannungs-Entspannungs-Dehnen oder Contract-Hold-Relax-Stretch bezeichnet. Es gibt zwei Varianten: Man spannt entweder den zu dehnenden Muskel unmittelbar bevor man in die Dehnung geht kurz an oder man spannt während der Dehnung seinen Gegenspieler an. Diese Techniken kommen ursprünglich aus dem Reha-Bereich und werden mittlerweile auch erfolgreich unter gesunden Sportlern eingesetzt.
 
 
 ## Faszientraining

@@ -13,21 +13,21 @@ Dieses Rezept ist so unkompliziert und schnell zubereitet, dass es sowohl im Cam
 
 - 250 g frische Tortellini, z.B. mit Spinat-Ricotta-Füllung
 - 250 g Strauchtomaten oder Kirschtomaten, gewaschen und klein geschnitten
-- xx g Pinienkerne
-- xx g Pesto Genovese
-- XX Teelöffel Kürbiskernöl
-- 1 Teelöffel gemahlener Rosmarin
+- 90 g Pesto Genovese
+- 4 Tl Pinienkerne
+- 2 Tl Kürbiskernöl
+- 1 Tl gemahlener Rosmarin
 - frischer Basilikum oder Rucola, gewaschen und klein geschnitten
 - Parmesan, frisch gerieben
 
 
 ## Zubereitung
 
-1. Tomatenstückchen auf Tellern im Backofen bei XX Grad XX Minuten lang vorwärmen
-2. Wasser in einem großen Topf erwärmen, Salz dazugeben, Tortellini garen, bis sie oben schwimmen
-3. Für die Soße Pesto, Kürbiskernöl und gemahlenen Rosmarin verrühren
-4. Tortellini mit Tomaten, Pesto, Pinienkernen und Basilikum bzw. Rucola auf den warmen Tellern vermischen
-5. Frisch geriebenenen Parmesan darübergeben
-
+1. Tomatenstückchen auf zwei Tellern in den kalten Backofen geben und bei 60-70 Grad so lange vorwärmen, bis der Rest des Essens zubereitet ist
+2. Für die Soße Pesto, Kürbiskernöl und gemahlenen Rosmarin verrühren und zum vorwärmen in einem geeigneten Gefäß zu den Tomaten in den Backofen stellen
+3. Wasser in einem großen Topf erwärmen, Salz dazugeben, Tortellini nach Packungsanweisung garen(bzw. bis sie oben schwimmen)
+4. Teller mit Tomaten und die Soße aus dem Ofen nehmen und vor dem abschütten der Tortellini ca. 80-100 ml heißes Wasser abschöpfen und mit der Soße verrühren
+5. Tortellini in einen Seiher geben und abtropfen lassen, auf die zwei Teller mit den Tomaten verteilen und jeweils die Hälfte der Soße darübergeben
+6. Pinienkerne, Basilikum bzw. Rucola und den Parmesan auf die zwei Teller verteilen
 
 Diese Pasta macht zwei Personen satt und zufrieden.
