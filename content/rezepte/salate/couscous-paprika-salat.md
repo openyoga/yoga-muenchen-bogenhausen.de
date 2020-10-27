@@ -17,6 +17,7 @@ Im Camping-Urlaub ist dieser leckere und schnell zubereitete Couscous-Salat ents
 - 40 g getrocknete Tomaten, sehr klein geschnitten
 - 12 Oliven, kleingeschnitten
 - 1-2 Tl Kräuter der Provence, getrocknet
+- 1 Tl Rosmarin gemahlen
 - 1 El Olivenöl
 - Gemüsebrühe
 - Optional:
@@ -27,7 +28,7 @@ Im Camping-Urlaub ist dieser leckere und schnell zubereitete Couscous-Salat ents
 
 ## Zubereitung
 
-1. Couscous mit heißer Gemüsebrühe, Olivenöl und den Kräutern der Provence nach Packungsanweisung aufgießen, getrocknete Tomatenstücke unterrühren, 10 Min. quellen lassen
+1. Couscous mit heißer Gemüsebrühe, Olivenöl, Rosmarin und den Kräutern der Provence nach Packungsanweisung aufgießen, getrocknete Tomatenstücke unterrühren, 10 Min. quellen lassen
 2. Paprika mit Kicherersen und Oliven in einer großen Schüssel vermengen
 3. Couscous unter das Gemüse rühren
 4. Optional noch geriebenen Pecorino unterheben, dazu passen z.B. auch Pellkartoffeln mit Schmand, frische Kräuter - einfach je nach belieben abwandeln
