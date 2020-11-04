@@ -4,7 +4,7 @@ description: Ein leckerer Rohkost-Salat im Winter
 rezeptarten: [Salat, Rohkost]
 hauptzutaten: [Rotkohl, Apfel, Nuesse, Zimt]
 publishdate: 2020-01-10
-lastmod: 2020-01-10 13:50:00
+lastmod: 2020-11-04 20:00:00
 ---
 
 Diesen Salat lieben wir im Winter - Rotkohl einmal nicht weich gekocht, sondern richtig knusprig und lecker mit Apfel, Zimt und Walnüssen abgeschmeckt. 
@@ -16,7 +16,7 @@ Diesen Salat lieben wir im Winter - Rotkohl einmal nicht weich gekocht, sondern 
 - 50 g Walnüsse, mit der Hand zerkleinert
 - 1 Limette, ausgepresst
 - 1 El Kürbiskernöl
-- 1 El Sesamöl
+- 1 El Walnussöl
 - 1 Tl Ahornsirup
 - 1/2 Tl Zimt
 - Gomasio

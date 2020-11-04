@@ -4,7 +4,7 @@ description: Unser Lieblingsrezept aus dem Camping-Urlaub
 rezeptarten: [Salat]
 hauptzutaten: [Couscous, Paprika, Kichererbsen]
 publishdate: 2020-10-31
-lastmod: 2020-10-31 09:00:00
+lastmod: 2020-10-31 05:00:00
 ---
 
 Im letzten Camping-Urlaub ist dieser leckere und schnell zubereitete Couscous-Salat entstanden. Wir lieben die Kombination aus Getreide, Hülsenfrüchten und Gemüse, abgeschmeckt mit Oliven, getrockneten Tomaten und Kräutern. Man kann sie immer wieder neu variieren.
@@ -17,7 +17,7 @@ Im letzten Camping-Urlaub ist dieser leckere und schnell zubereitete Couscous-Sa
 - 40 g getrocknete Tomaten, sehr klein geschnitten
 - 12 Oliven, klein geschnitten
 - 1-2 Tl Kräuter der Provence, getrocknet
-- 1 Tl Rosmarin gemahlen
+- 1 Tl gemahlener Rosmarin
 - 1 El Olivenöl
 - Gemüsebrühe
 - Optional:

@@ -4,7 +4,7 @@ description: Eine weitere Rohkost-Variante mit Rotkohl
 rezeptarten: [Salat, Rohkost]
 hauptzutaten: [Rotkohl, Zucchini, Nuesse]
 publishdate: 2020-01-26
-lastmod: 2020-01-26 05:22:00
+lastmod: 2020-11-04 20:02:00
 ---
 
 Auch mit diesem Rohkost-Salat gibt es ordentlich was zu beißen: Es kommen wieder Walnüsse an unseren Rohtkohl und dieses Mal auch Zucchini. Der Gruyère-Käse gibt zusätzlich ein würziges Aroma. 
@@ -16,7 +16,7 @@ Auch mit diesem Rohkost-Salat gibt es ordentlich was zu beißen: Es kommen wiede
 - 50 g Walnüsse, mit der Hand zerkleinert
 - 1 Limette, ausgepresst
 - 1 El Kürbiskernöl
-- 1 El Olivenöl
+- 1 El Walnussöl
 - 1 Tl süßer Senf
 - Gomasio
 - Optional: Gruyère-Käse, grob gerieben
