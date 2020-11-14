@@ -3,8 +3,8 @@ title: Tortellini mit Pesto und Tomaten
 description: Ein schnelles und leckeres Essen
 rezeptarten: [Pasta]
 hauptzutaten: [Tortellini, Pesto, Tomaten]
-publishdate: 2020-11-22
-lastmod: 2020-11-22 17:02:00
+publishdate: 2020-11-14
+lastmod: 2020-11-14 05:02:00
 ---
 
 Dieses Rezept von Ottmar ist so unkompliziert und schnell zubereitet, dass es auch nach einem langen Arbeitstag oder einer anstrengenden Wanderung glücklich macht. Mit frischen Tortellini schlägt es (fast) jeden Besuch beim Italiener.
