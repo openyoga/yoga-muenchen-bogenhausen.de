@@ -1,7 +1,7 @@
 ---
-title: Yoga in München Bogenhausen
+title: Open Yoga in München Bogenhausen
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2020-03-08 22:16:02
+lastmod: 2020-11-22 07:16:02
 menu:
   main:
     name: Home
@@ -10,6 +10,11 @@ menu:
 
 {{< img src="/assets/images/taube.jpg" alt="Die Taube" >}}
 
+Neben [Yoga][1], Yogatherapie und [Functional Training][2] bieten wir [Personal Training, Gesundheitsberatung und Ernährungsberatung][3] für Einzelpersonen und Kleingruppen an. Dazu gibt es auf dieser Seite viele interessante Blogartikel zu unseren Herzensthemen sowie jede Menge leckere und gesunde Rezepte.
+
+[1]: /artikel/2017/was-ist-yoga/
+[2]: /artikel/2019/functional-training/
+[3]: /personal-training/
 
 ## Neueste Artikel
 

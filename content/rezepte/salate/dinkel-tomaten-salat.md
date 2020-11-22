@@ -1,10 +1,10 @@
 ---
 title: Dinkel-Tomaten-Salat mit Rucola und weißen Riesenbohnen
 description: Ottmars zweites Lieblingsrezept
-rezeptarten: [Salat]
+rezeptarten: [Salat, Gemuese]
 hauptzutaten: [Dinkel, Tomaten, Rucola, Bohnen]
 publishdate: 2018-10-07
-lastmod: 2018-10-20 20:00:00
+lastmod: 2020-11-21 20:00:00
 ---
 
 Nachdem wir fast jede Woche einmal den [Grillpaprika-Salat mit Kichererbsen und Dinkel][1] machen (das ist kein Scherz), musste ein neues Rezept mit Dinkel wie Reis her, welches diesem Klassiker in unserer Küche das Wasser reichen kann. Das Resultat: Nun ja, der Klassiker ist ein wenig beleidigt ;-)

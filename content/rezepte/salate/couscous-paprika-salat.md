@@ -1,10 +1,10 @@
 ---
 title: Couscous-Paprika-Salat mit Kichererbsen
 description: Unser Lieblingsrezept aus dem Camping-Urlaub
-rezeptarten: [Salat]
+rezeptarten: [Salat, Gemuese]
 hauptzutaten: [Couscous, Paprika, Kichererbsen]
 publishdate: 2020-10-31
-lastmod: 2020-10-31 05:00:00
+lastmod: 2020-11-21 08:00:00
 ---
 
 Im letzten Camping-Urlaub ist dieser leckere und schnell zubereitete Couscous-Salat entstanden. Wir lieben die Kombination aus Getreide, Hülsenfrüchten und Gemüse, abgeschmeckt mit Oliven, getrockneten Tomaten und Kräutern. Man kann sie immer wieder neu variieren.
