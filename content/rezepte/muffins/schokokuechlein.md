@@ -2,7 +2,7 @@
 title: Schokoküchlein
 description: Low Carb Mini-Guglhupfe
 rezeptarten: [Muffins, Kuchen]
-hauptzutaten: [Kakao, gemahlene Mandeln, Mandelmehl]
+hauptzutaten: [Kakao, Mandeln, Mandelmehl]
 publishdate: 2020-08-16
 lastmod: 2020-08-16 06:45:00
 ---

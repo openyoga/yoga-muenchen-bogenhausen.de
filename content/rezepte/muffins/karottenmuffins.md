@@ -2,7 +2,7 @@
 title: Karottenmuffins
 description: Ohne Zucker und herrlich saftig
 rezeptarten: [Muffins, Kuchen]
-hauptzutaten: [Karotten, Dinkelmehl, Mandeln, Walnüsse, Zimt]
+hauptzutaten: [Karotten, Dinkelmehl, Mandeln, Walnuesse, Zimt]
 publishdate: 2020-05-31
 lastmod: 2020-07-30 16:25:00
 ---

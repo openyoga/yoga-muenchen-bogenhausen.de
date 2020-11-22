@@ -2,7 +2,7 @@
 title: Bunte Gemüsepfanne mit Kidneybohnen
 description: Cajun-Küche vegetarisch oder vegan
 rezeptarten: [Gemuese]
-hauptzutaten: [Blumenkohl, Paprika, Aubergine, Tomate, Stangensellerie, Hülsenfrüchte, Schafskäse]
+hauptzutaten: [Blumenkohl, Paprika, Aubergine, Tomaten, Stangensellerie, Huelsenfruechte, Schafskaese]
 publishdate: 2020-12-15
 lastmod: 2020-12-15 20:00:00
 ---
@@ -13,13 +13,13 @@ Diese Gemüsepfanne wärmt angenehm und verbreitet Südstaaten Flair. Sie wurde 
 ## Zutaten
 
 - 700 g Blumenkohl, geputzt und fein geraspelt
-- 300 g Aubergine gewaschen und  gewürfelt
+- 300 g Aubergine gewaschen und gewürfelt
 - 300 g rote Paprika, geputzt und geschnitten
 - 125 g Stangensellerie, gewaschen und sehr klein geschnitten
-- 10 getrocknete Tomaten (ohne Öl), sehr fein gewürfelt
+- 10 getrocknete Tomatenhälften (ohne Öl), sehr fein gewürfelt
 - 20 grüne Oliven, ganz klein geschnitten
-- 1 Dose gehackte Tomaten
-- 1 Dose Kidneybohnen (abgetropft)
+- 1 Dose gehackte Tomaten (425 ml)
+- 1 Dose Kidneybohnen (425 ml, abgetropft ca. 250 g)
 - 2 El Olivenöl
 - 1 Tl Oregano, getrocket
 - 1 Tl Cumin
@@ -38,8 +38,5 @@ Diese Gemüsepfanne wärmt angenehm und verbreitet Südstaaten Flair. Sie wurde 
 3. Auberginen, Paprika und Stangensellerie zu den Gewürzen dazugeben und 8-10 Minuten dünsten
 4. Gemüse zu der Blumenkohl-Tomaten-Mischung dazugeben, Oliven und Kidneybohnen unterrühren und kurz erwärmen; optional mit Cayenne-Pfeffer abschmecken
 5. Auf vier Tellern verteilen und wahlweise noch Schafskäsewürfel darübergeben
-
- 
-
 
 Das Rezept reicht für vier Personen als Hauptgericht. Als Beilage eignen sich Süßkartoffeln oder normale Pellkartoffeln.
