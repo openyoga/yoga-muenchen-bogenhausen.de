@@ -3,7 +3,7 @@ title: Beweglichkeitstraining
 description: Warum Dehnen so gut tut
 schlagwoerter: [Mobility Training, Yoga, Functional Training, funktionelles Training]
 publishdate: 2020-12-06
-lastmod: 2020-12-06 07:05:00
+lastmod: 2020-12-06 05:55:00
 ---
 
 {{< img src="/assets/images/kuhgesicht.jpg" alt="fix me">}}

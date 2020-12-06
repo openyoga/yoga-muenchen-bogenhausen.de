@@ -3,8 +3,8 @@ title: Bunte Gemüsepfanne mit Kidneybohnen
 description: Cajun-Küche vegetarisch oder vegan
 rezeptarten: [Gemuese]
 hauptzutaten: [Blumenkohl, Paprika, Aubergine, Tomaten, Stangensellerie, Huelsenfruechte, Schafskaese]
-publishdate: 2020-12-15
-lastmod: 2020-12-15 20:00:00
+publishdate: 2021-01-01
+lastmod: 2021-01-01 20:00:00
 ---
 
 Diese Gemüsepfanne wärmt angenehm und verbreitet Südstaaten Flair. Sie wurde inspiriert von der Cajun-Küche, die die Nachfahren der französischen Siedler in Lousiana entwickelten, die Cajuns. Bei ihnen besteht die Holy Trinity aus Gemüsepaprika, Stangensellerie und Zwiebeln. Letztere lassen wir weg - wir mögen sie einfach nicht. Dafür ergänzen wir weitere leckere Gewürze und Zutaten.

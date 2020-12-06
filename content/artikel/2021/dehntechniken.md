@@ -2,8 +2,8 @@
 title: Dehntechniken und Mobility Training
 description: Wie man seine Beweglichkeit dauerhaft verbessern kann
 schlagwoerter: [Mobility Training, Yoga, Functional Training, funktionelles Training]
-publishdate: 2021-01-01
-lastmod: 2021-01-01 07:05:00
+publishdate: 2021-02-01
+lastmod: 2021-02-01 07:05:00
 ---
 
 {{< img src="/assets/images/katze.jpg" alt="fix me">}}
