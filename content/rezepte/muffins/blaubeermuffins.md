@@ -4,7 +4,7 @@ description: Ohne Mehl und ohne Zucker
 rezeptarten: [Muffins, Kuchen]
 hauptzutaten: [Blaubeeren, Mandelmehl, Mandeln, Mandelmilch]
 publishdate: 2019-07-02
-lastmod: 2020-06-08 18:55:00
+lastmod: 2020-12-12 11:35:00
 ---
 
 Diese glutenfreien Low Carb Muffins sind ein Genuss für Körper, Geist und Seele. Man darf sie völlig ohne schlechtes Gewissen vernaschen. Und wer doch sündigen möchte oder es gerne süßer mag, darf beim Topping kreativ werden.
@@ -24,10 +24,10 @@ Das verwendete Mandelmehl ist kein Mehl im eigentlichen Sinne und es handelt sic
 
 ## Zubereitung
 
-1. Backofen auf 190 Grad Umluft vorheizen
+1. Backofen auf 160 Grad Umluft vorheizen
 2. Die Blaubeeren mit dem Zauberstab pürieren
 3. Geschmolzene Butter mit Blaubeerpüree, Mandelmehl (und eventuell gemahlenen Mandeln), Mandelmilch, Eiern, Backpuler und Stevia in einer Schüssel verrühren
-4. Die Masse in 12 Muffinförmchen verteilen und für 25 Minuten bei 190 Grad Umluft backen
+4. Die Masse in 12 Muffinförmchen verteilen und für 30 Minuten bei 160 Grad Umluft backen (Nadelprobe machen!)
 5. Die Muffins aus dem Ofen nehmen und abkühlen lassen
 6. Entweder pur, mit frischen Früchten oder Topping genießen (siehe unten)
 
