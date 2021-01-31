@@ -3,8 +3,8 @@ title: Mandel-Grießkuchen
 description: Ohne Zucker und Weißmehl, dafür mit umso mehr Geschmack
 rezeptarten: [Kuchen]
 hauptzutaten: [Mandeln, Grieß, Beeren]
-publishdate: 2021-04-05
-lastmod: 2021-04-05 05:25:00
+publishdate: 2021-01-31
+lastmod: 2021-01-31 16:00:00
 ---
 
 Dieser gesunde Kuchen schmeckt herrlich saftig, besonders wenn man ihn ein bis zwei Tage durchziehen lässt. Man kann die Obstsorten immer wieder neu variieren - während der Beerensaison verwenden wir auch mal frische Heidelbeeren statt TK-Ware. Und im Herbst kommen saftige Äpfel in den Kuchen.
@@ -28,7 +28,7 @@ Dieser gesunde Kuchen schmeckt herrlich saftig, besonders wenn man ihn ein bis z
 ## Zubereitung
 
 1. Backofen auf 160 Grad Umluft vorheizen, eine kleine Springform (Durchmesser 19 cm) mit Butter einfetten
-2. Beeren, Milch und Eier in einer Schüssel verrühren, all anderen, trockenen Zutaten in einer zweiten Schüssel vermengen
+2. Beeren, Milch und Eier in einer Schüssel verrühren, alle anderen, trockenen Zutaten in einer zweiten Schüssel vermengen
 3. Die trockenen Zutaten in die feuchten geben, nur kurz unterheben und in die Backform füllen
 4. Bei 160 Grad Umluft ca. 50 Minuten lang backen (Nadelprobe!)
 
