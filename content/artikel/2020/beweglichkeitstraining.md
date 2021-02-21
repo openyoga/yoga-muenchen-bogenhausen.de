@@ -55,6 +55,8 @@ Wenn Du hypermobil (überbeweglich) bist oder sehr instabile Bänder, Gelenke un
 
 ## Methoden
 
-Vielleicht fragst Du Dich, wie man am besten dehnt oder welche Techniken es gibt. Dieser Frage widmet sich der nächste Blogartikel. Es gibt jedenfalls so viele verschiedene Ansätze und Übungen, dass auch für Dich etwas dabei sein sollte, was Dir guttut und dieses wohlige, entspannte Körpergefühl beschert, das Du nicht mehr missen möchte.
+Vielleicht fragst Du Dich, wie man am besten dehnt oder welche Techniken es gibt. Dieser Frage widmet sich der [nächste Blogartikel][2]. Es gibt jedenfalls so viele verschiedene Ansätze und Übungen, dass auch für Dich etwas dabei sein sollte, was Dir guttut und dieses wohlige, entspannte Körpergefühl beschert, das Du nicht mehr missen möchte.
 
 [1]: /artikel/2020/krafttraining
+[2]: /artikel/2021/dehntechniken
+

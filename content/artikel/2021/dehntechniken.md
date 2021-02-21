@@ -56,7 +56,7 @@ Es ist bisher nicht wissenschaftlich geklärt, welche Maßnahmen und Faktoren ü
 Die Auswahl der geeigneten Dehntechnik sollte individuell und gezielt getroffen werden. Maximale Beweglichkeit zu erreichen ist nicht das Ziel. Eher wollen wir einen optimalen und gesunden Mix aus [Kraft][5] und Beweglichkeit erzielen, der für jeden von uns unterschiedlich aussehen kann. Such Dir ein Beweglichkeitstraining, das Dir gut tut, Spaß macht und Dein Wohlbefinden dauerhaft verbessert. So bleibst Du langfristig motiviert, am Ball zu bleiben und Deine Übungen regelmäßig zu machen.
 
 
-[1]: /artikel/2020/mobility-training
+[1]: /artikel/2020/beweglichkeitstraining
 [2]: /artikel/2018/was-ist-yin-faszien-yoga/
 [3]: /artikel/2018/yoga-stile/
 [4]: /artikel/2019/functional-training/
