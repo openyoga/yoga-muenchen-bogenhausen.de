@@ -3,10 +3,10 @@ title: Dehntechniken und Mobility Training
 description: Wie man seine Beweglichkeit dauerhaft verbessern kann
 schlagwoerter: [Mobility Training, Yoga, Functional Training, funktionelles Training]
 publishdate: 2021-02-01
-lastmod: 2021-02-01 07:05:00
+lastmod: 2021-02-01 06:15:00
 ---
 
-{{< img src="/assets/images/katze.jpg" alt="fix me">}}
+{{< img src="/assets/images/katze.jpg" alt="Katze">}}
 
 Im [vorigen Artikel][1] haben wir uns mit dem Dehnen im Allgemeinen, seinen Wirkungen und Kontraindikationen beschäftigt. In diesem Blogbeitrag schauen wir uns verschiedene Techniken des Beweglichkeitstrainings und ihre Eignung genauer an.
 
