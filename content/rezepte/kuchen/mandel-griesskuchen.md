@@ -4,14 +4,14 @@ description: Ohne Zucker und Weißmehl, dafür mit umso mehr Geschmack
 rezeptarten: [Kuchen]
 hauptzutaten: [Mandeln, Grieß, Beeren]
 publishdate: 2021-01-31
-lastmod: 2021-01-31 16:00:00
+lastmod: 2021-03-07 17:59:00
 ---
 
 Dieser gesunde Kuchen schmeckt herrlich saftig, besonders wenn man ihn ein bis zwei Tage durchziehen lässt. Man kann die Obstsorten immer wieder neu variieren - während der Beerensaison verwenden wir auch mal frische Heidelbeeren statt TK-Ware. Und im Herbst kommen saftige Äpfel in den Kuchen.
 
 ## Zutaten
 
-- 350 g TK-Blaubeeren oder TK-Himbeeren (aufgetaut)
+- 350 g TK-Blaubeeren oder TK-Beerenmischung (aufgetaut)
 - 180 ml Mandel- oder Hafer-Milch
 - 100 g Mandeln, fein gemahlene
 - 100 g Erythrit

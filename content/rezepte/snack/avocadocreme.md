@@ -3,8 +3,8 @@ title: Avocadocreme
 description: Unser Lieblings-Brotaufstrich
 rezeptarten: [Snack]
 hauptzutaten: [Avocado, Schmand]
-publishdate: 2021-03-04
-lastmod: 2021-03-04 20:00:00
+publishdate: 2021-03-07
+lastmod: 2021-03-07 17:55:00
 ---
 
 Eine schöne, erfrischende Creme. Hervorragend als Brotaufstrich oder Dip geeignet. Ist sehr schnell zubereitet.

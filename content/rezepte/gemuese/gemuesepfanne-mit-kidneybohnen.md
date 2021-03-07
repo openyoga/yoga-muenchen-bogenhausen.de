@@ -4,7 +4,7 @@ description: Cajun-Küche vegetarisch oder vegan
 rezeptarten: [Gemuese]
 hauptzutaten: [Blumenkohl, Paprika, Aubergine, Tomaten, Stangensellerie, Huelsenfruechte, Schafskaese]
 publishdate: 2021-01-01
-lastmod: 2021-01-01 09:15:00
+lastmod: 2021-02-22 07:15:00
 ---
 
 Diese Gemüsepfanne wärmt angenehm und verbreitet Südstaaten-Flair. Sie wurde inspiriert von der Cajun-Küche, die die Nachfahren der französischen Siedler in Lousiana entwickelten, die Cajuns. Bei ihnen besteht die Holy Trinity aus Gemüsepaprika, Stangensellerie und Zwiebeln. Letztere lassen wir weg - wir mögen sie einfach nicht. Dafür ergänzen wir weitere leckere Gewürze und Zutaten.
@@ -14,7 +14,7 @@ Diese Gemüsepfanne wärmt angenehm und verbreitet Südstaaten-Flair. Sie wurde 
 
 - 700 g Blumenkohl, geputzt und fein geraspelt
 - 300 g Aubergine, gewaschen und gewürfelt
-- 300 g rote Paprika, geputzt und geschnitten
+- 300 g rote und grüne Paprika, geputzt und geschnitten
 - 125 g Stangensellerie, gewaschen und sehr klein geschnitten
 - 10 getrocknete Tomatenhälften (ohne Öl), sehr fein gewürfelt
 - 20 grüne Oliven, ganz klein geschnitten
@@ -39,4 +39,4 @@ Diese Gemüsepfanne wärmt angenehm und verbreitet Südstaaten-Flair. Sie wurde 
 4. Gemüse zu der Blumenkohl-Tomaten-Mischung dazugeben, Oliven und Kidneybohnen unterrühren und kurz durchwärmen; optional mit Cayenne-Pfeffer abschmecken
 5. Auf Tellern verteilen und wahlweise noch Schafskäsewürfel darübergeben
 
-Das Rezept reicht für vier Personen als Hauptgericht. Als Beilage eignen sich Süßkartoffeln oder normale Pellkartoffeln.
+Das Rezept reicht für vier Personen als Hauptgericht. Als Beilage eignen sich Süßkartoffeln oder normale Pellkartoffeln. Durchgezogen schmeckt es auch sehr lecker - man kann es prima als Meal Prep Rezept verwenden.
