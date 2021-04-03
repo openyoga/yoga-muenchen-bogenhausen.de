@@ -3,8 +3,8 @@ title: Mohnkuchen
 description: Ein saftiger und gesunder Genuss
 rezeptarten: [Kuchen]
 hauptzutaten: [Mohn, Grieß, Kirschen]
-publishdate: 2021-04-03
-lastmod: 2021-04-03 17:59:00
+publishdate: 2021-04-04
+lastmod: 2021-04-04 07:59:00
 ---
 
 Dieser Kuchen kommt komplett ohne Weißmehl und Zucker aus und enthält ein heimisches Superfood: Mohn. Man kann ihn mit verschiedenen Obstsorten variieren. Wir nehmen am liebsten Schattenmorellen oder Pflaumen aus dem Glas, die gibt es auch ungezuckert. Im Herbst machen wir saftige frische Birnen oder Zwetschgen in den Kuchen. 

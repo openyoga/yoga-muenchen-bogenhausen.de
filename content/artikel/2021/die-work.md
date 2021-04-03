@@ -1,6 +1,6 @@
 ---
-title: Stressige Gedanken entkräften
-description: Mit der Work mental detoxen
+title: Mental Detox
+description: Stressige Gedanke mit der Work entkräften
 schlagwoerter: [The Work, Meditation, Achtsamkeit]
 publishdate: 2021-05-02
 lastmod: 2021-05-02 07:05:00
@@ -8,7 +8,9 @@ lastmod: 2021-05-02 07:05:00
 
 {{< img src="/assets/images/gummistiefel.jpg" alt="gelber Gummistiefel im Schnee auf dem Kopf" class="right width50">}}
 
-Vielleicht kennst Du das: Du bist schlecht drauf, gestresst, ängstlich, wütend o.ä. Forsche einmal nach, was dieses Gefühl in Dir auslöst. Oft ist es ein stressiger Gedanke, den Du für wahr hälst, für unumrückbar. Du bist müde und k.o. und Dein Nachbar auf der anderen Seite der Wand macht Lärm. Das sollte er nicht. Um diese Uhrzeit! Er ist total rücksichtslos! Vielleicht will er Dich ärgern. Und schon bist Du drin in Deiner Geschichte, wie die Welt sein sollte, wie sie gemeinerweise stattdessen ist und Du leidest. Höllenqualen. 
+Vielleicht kennst Du das: Du bist schlecht drauf, gestresst, ängstlich, wütend o.ä. Forsche einmal nach, was der Auslöser für dieses Gefühl ist. Oft ist es nicht ein äußerer Umstand, sondern ein stressiger Gedanke, den Du für wahr hälst, für unumrückbar. 
+
+Ein Beispiel: Du bist müde und k.o. und Dein Nachbar auf der anderen Seite der Wand macht Lärm. Das sollte er nicht. Um diese Uhrzeit! Er ist total rücksichtslos! Vielleicht will er Dich ärgern. Und schon bist Du drin in Deiner Geschichte, wie die Welt sein sollte, wie sie gemeinerweise stattdessen ist und Du leidest. Höllenqualen. 
 
 
 ## Annehmen, was ist
@@ -19,11 +21,11 @@ Wenn ich eine Situation nicht ändern kann, könnte es mir definitiv helfen, sie
 
 ## The Work von Byron Katie
 
-Mit der Work kannst Du Dir Deine stressigen Gedanken bewusst machen, hinterfragen und entkräften. Byron Katie war Mitte Dreißig und litt unter schweren Depressionen, als sie entdeckte, dass sie vor allem dann stark litt, wenn sie ihre eigenen Gedanken glaubte. Die Ursache für ihr Leiden war in erster Linie nicht die Welt um sie herum, sondern ihre Einstellung dazu, ihre Erwartungen, ihre Urteile, ihr Denken. Statt weiterhin darauf zu hoffen, dass sich die Welt um sie herum veränderte, begann sie, ihre Einstellung zur Welt zu verändern. Sie konnte aus der Klinik zurück zu ihrer Familie kehren und in der folgenden Zeit kamen Menschen von überall her zu ihr, um mit ihr zu sprechen und sich von ihr beraten zu lassen. Aus diesen Gesprächen entwickelte sie die Work. 
+Mit der Work kannst Du Dir Deine stressigen Gedanken bewusst machen, hinterfragen und entkräften. Byron Katie war Mitte Dreißig und litt unter schweren Depressionen, als sie entdeckte, dass sie vor allem dann stark litt, wenn sie ihre eigenen Gedanken glaubte. Die Ursache für ihr Leiden war in erster Linie nicht die Welt um sie herum, sondern ihre Einstellung dazu, ihre Erwartungen, ihre Urteile, ihr Denken. Statt weiterhin darauf zu hoffen, dass sich die Welt um sie herum veränderte, begann sie, ihre Einstellung zur Welt zu verändern. In der folgenden Zeit kamen Menschen von überall her zu ihr, um mit ihr zu sprechen und sich von ihr beraten zu lassen. Aus diesen Gesprächen entwickelte sie die Work. 
 
 Um es mit den Worten von Byron Katie zu sagen:
 
-> Leiden ist eine freiwillige Entscheidung. Nicht die Welt verursacht unsere Probleme, sondern das, was wir über sie denken. Wenn Sie das verstehen, ist es, als ob sie aus einem Traum erwachen. Sie erkennen, das letztlich niemand Sie verletzen kann - nur Sie selbst. Sie erkennen, dass Sie zu hundert Prozent selbst für Ihr Glück verantwortlich sind. 
+> Leiden ist eine freiwillige Entscheidung. Nicht die Welt verursacht unsere Probleme, sondern das, was wir über sie denken. Wenn Sie das verstehen, ist es, als ob Sie aus einem Traum erwachen. Sie erkennen, das letztlich niemand Sie verletzen kann - nur Sie selbst. Sie erkennen, dass Sie zu hundert Prozent selbst für Ihr Glück verantwortlich sind. 
 >
 > Byron Katie im Vorwort von Ich will ja loslassen ... siehe dritter Buchtipp weiter unten
 
@@ -40,7 +42,7 @@ Mit der Work baust Du eine neue Beziehung zu Deinem Denken auf und zu Dingen, di
 
 Bevor wir die Work an einem Beispiel durchgehen, habe ich hier noch einige Buchtipps für Dich:
 
-> Lieben was ist. Wie vier Fragen Ihr Leben verändern können von Byron Katie, Stephen Mitchell, et al, Arkana Verlag, 4. Juli 2002
+> Lieben was ist. Wie vier Fragen Ihr Leben verändern können von Byron Katie, Stephen Mitchell et al, Arkana Verlag, 4. Juli 2002
 
 Falls Du die englische Originalausgabe lesen möchtest: 
 > Loving What Is: Four Questions That Can Change Your Life by Byron Katie with Stephen Mitchell, Harmony Verlag, Reprint Edition, 23. Dezember 2003
