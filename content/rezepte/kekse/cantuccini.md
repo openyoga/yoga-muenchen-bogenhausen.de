@@ -18,8 +18,8 @@ Diese Cantuccini gibt es bei uns zum Hafermilchkaffee oder Kakao. Sie sind ungla
 - 2 Eier
 - 25 g Butter
 - 2 Päckchen Vanillezucker
-- 1/2 Fläschchen Bittermandelaroma
-- 1/2 Päckchen Backpulver
+- ½ Fläschchen Bittermandelaroma
+- ½ Päckchen Backpulver
 - 1 Prise Salz
  
 
@@ -30,8 +30,8 @@ Diese Cantuccini gibt es bei uns zum Hafermilchkaffee oder Kakao. Sie sind ungla
 3. In der Mitte eine Mulde machen, Eier und Butter hineingeben, zu einem Teig kneten, dann Mandeln hineinarbeiten
 4. Den Teig mit etwas Mehl zu einer Kugel formen und mindestens 30 Minuten kalt stellen (im Kühlschrank)
 5. Die Teigkugel in sechs gleich große Teile schneiden, aus jedem Teil eine ca 25 cm lange Rolle formen
-6. Die Rollen mit acht cm Abstand auf ein Backblech mit Backpapier legen und für zehn bis 15 Minuten bei 200 Grad Umluft backen
-7. Die Rollen fünf Minuten abkühlen lassen, dann in ca. ein cm dicke Scheiben schneiden und mit der Schnittfläche auf ein Backblech mit Backpapier legen
-8. Die Kekse nochmal für acht bis zehn Minunten bei 200 Grad Umluft im Ofen backen bis sie goldbraun sind
+6. Die Rollen mit acht cm Abstand auf ein Backblech mit Backpapier legen und für 12 bis 15 Minuten bei 200 Grad Umluft backen
+7. Aus dem Ofen nehemn und fünf Minuten abkühlen lassen, dann schräg in ca. zwei cm dicke Scheiben schneiden und mit der Schnittfläche auf ein Backblech mit Backpapier legen
+8. Die Kekse nochmal für acht bis zehn Minunten bei 200 Grad Umluft im Ofen rösten bis sie goldbraun sind
 9. Abkühlen lassen und in eine schöne Keksdose füllen
 10. Buon Appetito

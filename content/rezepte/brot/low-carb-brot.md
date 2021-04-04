@@ -31,7 +31,7 @@ Dieses Brot strotzt nur so vor Eiweiß, gesunden Samen, Kernen und Nüssen. Es i
 1. Backofen auf 180 Grad Umluft vorheizen
 2. Alle trockenen Zutaten in einer Schüssel vermengen, dann das Wasser unterrühren
 3. Den Teig 15 Minunten quellen lassen
-4. Kastenform (vom Kuchenbacken) mit Backpapier auslegen
+4. Kastenform mit Backpapier auslegen
 5. Teig in die Form füllen
 6. Bei 180 Grad Umluft 50 Minuten lang backen
 7. Brot abkühlen lassen
