@@ -10,7 +10,7 @@ lastmod: 2021-05-02 07:05:00
 
 Vielleicht kennst Du das: Du bist schlecht drauf, gestresst, ängstlich, wütend o.ä. Forsche einmal nach, was der Auslöser für dieses Gefühl ist. Oft ist es nicht ein äußerer Umstand, sondern ein stressiger Gedanke, den Du für wahr hälst, für unumrückbar. 
 
-Ein Beispiel: Du bist müde und k.o. und Dein Nachbar auf der anderen Seite der Wand macht Lärm. Das sollte er nicht. Um diese Uhrzeit! Er ist total rücksichtslos! Vielleicht will er Dich ärgern. Und schon bist Du drin in Deiner Geschichte, wie die Welt sein sollte, wie sie gemeinerweise stattdessen ist und Du leidest. Höllenqualen. 
+Ein Beispiel: Du bist müde und k.o. und Dein Nachbar auf der anderen Seite der Wand macht Lärm. Das sollte er nicht. Um diese Uhrzeit! Er ist total rücksichtslos! Vielleicht will er Dich ärgern. Und schon bist Du drin in Deiner Geschichte, wie die Welt sein sollte und wie sie gemeinerweise stattdessen ist. Du leidest. Höllenqualen. 
 
 
 ## Annehmen, was ist

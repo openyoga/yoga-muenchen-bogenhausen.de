@@ -1,7 +1,7 @@
 ---
 title: Cantuccini
 description: Kekse mit Sommerurlaubsaroma
-rezeptarten: [Muffins]
+rezeptarten: [Kekse]
 hauptzutaten: [Mandeln, Dinkelmehl]
 publishdate: 2021-05-16
 lastmod: 2021-05-16 06:45:00
