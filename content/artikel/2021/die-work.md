@@ -32,7 +32,7 @@ Um es mit den Worten von Byron Katie zu sagen:
 
 ## Vorgehen
 
-Die Grundidee der Work lautet: Das Schlimmste, was Dir passieren kann, sind Deine eigenen Gedanken. Du brauchst nur ein Blatt Papier und einen Stift. Schreib alle stressigen Gedanken, alle Urteile auf das Blatt Papier. Am einfachsten ist es, mit Urteilen über andere zu beginnen, die Dich wirklich nerven. Sei absolut ehrlich und ungeschmickt beim Aufschreiben. Du schreibst es ja nur für Dich selbst auf. 
+Die Grundidee der Work lautet: Das Schlimmste, was Dir passieren kann, sind Deine eigenen Gedanken. Du brauchst nur ein Blatt Papier und einen Stift. Schreib alle stressigen Gedanken, alle Urteile auf das Blatt Papier. Am einfachsten ist es, mit Urteilen über andere zu beginnen, die Dich wirklich nerven. Sei absolut ehrlich und ungeschmickt beim Sschreiben. Du schreibst es ja nur für Dich selbst auf. 
 
 Du hast das ganze Blatt vollgeschrieben? Prima, dann hast Du nun jede Menge Arbeitsmaterial für die Work, die wir im nächsten Artikel Schritt für Schritt durchgehen. Das Prinzip dabei ist, sich jeden stressigen Gedanken genau anschzuschauen, ihn zu hinterfragen und herauszufinden, ob er wirklich der Realität entspricht. 
 
