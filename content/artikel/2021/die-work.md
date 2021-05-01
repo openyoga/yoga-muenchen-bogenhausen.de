@@ -2,8 +2,8 @@
 title: Mental Detox
 description: Stressige Gedanke mit der Work entkräften
 schlagwoerter: [The Work, Meditation, Achtsamkeit]
-publishdate: 2021-05-02
-lastmod: 2021-05-02 07:05:00
+publishdate: 2021-05-01
+lastmod: 2021-05-01 06:06:00
 ---
 
 {{< img src="/assets/images/gummistiefel.jpg" alt="gelber Gummistiefel im Schnee auf dem Kopf" class="right width50">}}
@@ -15,9 +15,9 @@ Ein Beispiel: Du bist müde und k.o. und Dein Nachbar auf der anderen Seite der 
 
 ## Annehmen, was ist
 
-Vielleicht denkst Du, Deine Stimmung kann sich erst wieder bessern, wenn Dein Nachbar mit dem Lärm aufhört. Sein Verhalten ändert. Sich bei Dir entschuldigt. Oder auszieht. Wie groß ist die Wahrscheinlichkeit, dass er das tut? Wie wäre es, ein Tool zu haben, das Dir dabei hilft, sofort Frieden zu schließen mit der Situation, in der Du jetzt steckst? Es geht dabei nicht darum, stressige Gedanken zu verdrängen, zu leugnen oder sich umzuprogrammieren. Vielmehr geht es darum, klar zu sehen was jetzt ist und es anzunehmen. 
+Vielleicht denkst Du, Deine Stimmung kann sich erst wieder bessern, wenn Dein Nachbar mit dem Lärm aufhört. Sein Verhalten ändert. Sich bei Dir entschuldigt. Oder auszieht. Wie groß ist die Wahrscheinlichkeit, dass er das tun wird? Wie wäre es, ein Tool zu haben, das Dir dabei hilft, sofort Frieden zu schließen mit der Situation, in der Du jetzt steckst? Es geht dabei nicht darum, stressige Gedanken zu verdrängen, zu leugnen oder sich umzuprogrammieren. Vielmehr geht es darum, klar zu sehen was jetzt ist und es anzunehmen. 
 
-Wenn ich eine Situation nicht ändern kann, könnte es mir definitiv helfen, sie zu akzeptieren und meine Einstellung dazu zu verändern. Und wenn ich eine Situation ändern kann, hilft es mir auch enorm, sie zunächst klar zu durchschauen und anzunehmen. Lösungsideen, die auf Akzeptanz basieren, sind oft wesentlich konstruktiver als emotionale Schnellschüsse. Und wir selbst fühlen uns in dem gesamten Prozess wesentlich entspannter und gelassener. Vielleicht können wir dann sogar über Dinge lachen, die uns früher den letzten Nerv geraubt haben. 
+Wenn ich eine Situation nicht ändern kann, hilft es mir definitiv, sie zu akzeptieren und meine Einstellung dazu zu verändern. Und wenn ich eine Situation ändern kann, hilft es mir auch, sie zunächst klar zu durchschauen und anzunehmen, bevor ich Veränderungen angehe. Lösungsideen, die auf Akzeptanz basieren, sind oft wesentlich konstruktiver als emotionale Schnellschüsse. Und wir selbst fühlen uns in dem gesamten Prozess viel entspannter und gelassener. Vielleicht können wir dann sogar über Dinge lachen, die uns früher den letzten Nerv geraubt haben. 
 
 ## The Work von Byron Katie
 
