@@ -4,7 +4,7 @@ description: Low Carb Mini-Guglhupfe
 rezeptarten: [Muffins, Kuchen]
 hauptzutaten: [Kakao, Mandeln, Mandelmehl]
 publishdate: 2020-08-16
-lastmod: 2020-08-16 06:45:00
+lastmod: 2021-05-01 10:33:00
 ---
 
 Diese kleinen glutenfreien Küchlein sind herrlich schokoladig und luftig. Kaum zu glauben, dass sie, ganz ohne Mehl und ohne Zucker, auch noch gesund sind. Im Orginalrezept backt die Konditormeisterin Anja Giersberg Mini-Marmorküchlein mit hellem und dunklem Teig. Wir haben die Mini-Guglhupfe noch schokoladiger gemacht. Unter [zuckerfreinaschen.de][1] findet Ihr Anjas Rezept sowie noch viele weitere gesunde und herrlich süße Rezepte von ihr.
@@ -19,7 +19,7 @@ Diese kleinen glutenfreien Küchlein sind herrlich schokoladig und luftig. Kaum 
 - 130g Erythrit
 - 40 g Kakaopulver schwach entölt (Backkakao ohne Zucker)
 - 60g Butter, zum Schmelzen kurz erwärmt
-- 1 Vanilleschote, ausgekratzt
+- 1 Vanilleschote, ausgekratzt (alternativ 1/2 Fläschchen Bittermandelaroma/-öl)
 - 1 Prise Salz
  
 
