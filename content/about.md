@@ -1,7 +1,7 @@
 ---
 title: About
 description: Eine Seite mit Hintergrundinformationen zu Open Yoga MUC
-lastmod: 2020-11-22 07:07:00
+lastmod: 2020-05-10 17:17:00
 menu:
   main:
     weight: 70
@@ -19,7 +19,7 @@ Yoga heißt Verbindung. Das Ziel von [Yoga][1] ist die Verbindung von Körper, G
 
 {{< img src="/assets/images/avatar-portrait.jpg" alt="Portraitfoto Ajita Alexandra Gobrecht" title="Ajita Alexandra Gobrecht" class="left avatar" >}}
 
-Ich selbst bin Computerlinguistin (MA), arbeite im IT-Bereich (Suchtechnologie, Data Management, Data Science, Natural Language Processing und Machine Learning) und liebe Open Source Software (z.B. [Elasticsearch][elasticsearch]). Zum Glück ist Yoga ja mittlerweile auch Open Source, d.h für jeden zugänglich, der Interesse daran hat (im alten Indien  war Yoga tatsächlich eine Geheimlehre, die nur vom Guru an geeignete Schüler weitergegeben wurde). Auf dieser Website findest Du neben unserem Beratungsangebot auch Infos rund um Yoga, leckere Rezepte und vieles mehr. Open Source Texte eben.
+Ich selbst bin Computerlinguistin (MA), arbeite im IT-Bereich (Suchtechnologie, Data Management, Data Engineering, Natural Language Processing und Machine Learning) und liebe Open Source Software. Zum Glück ist Yoga ja mittlerweile auch Open Source, d.h für jeden zugänglich, der Interesse daran hat (im alten Indien  war Yoga tatsächlich eine Geheimlehre, die nur vom Guru an geeignete Schüler weitergegeben wurde). Auf dieser Website findest Du neben unserem Beratungsangebot auch Infos rund um Yoga, leckere Rezepte und vieles mehr. Open Source Texte eben.
 
 2008 begann ich in einer beruflich stressigen Situation mit Hatha Yoga - es war Liebe auf den ersten Blick. Schon nach meiner ersten Stunde kaufte ich mir ein Yoga-Buch und begann auch zu Hause Asanas (Yogaübungen) und Sonnengrüße zu üben. Seitdem praktiziere ich fast täglich - Yoga tut mir einfach wahnsinnig gut. Natürlich mag ich auch andere Bewegungsformen - besonders Functional Training, Animal Athletics, Radfahren, Schwimmen, Nordic Walking und Bergwandern. Aber für eine kleine (oder größere ;-) Yoga-Session nehme ich mir immer Zeit.
 
@@ -48,7 +48,6 @@ Knappertsbuschstraße 19
 [ag]: mailto:{{< author "agobrecht" "email" >}}
 [btb]: {{< a_external "https://www.btb.info/" >}}
 [byv]: {{< a_external "https://www.yoga-vidya.de/netzwerk/berufsverbaende/byv/byv-infos/" >}}
-[elasticsearch]: {{< a_external "https://www.elastic.co/de/products/elasticsearch" >}}
 [github]: {{< a_external "https://github.com/openyoga/yoga-muenchen-bogenhausen.de" >}}
 [hatha]: /artikel/2017/was-ist-yoga
 [hugo]: {{< a_external "https://gohugo.io/" >}}

@@ -3,7 +3,7 @@ title: Mental Detox
 description: Stressige Gedanke mit der Work entkräften
 schlagwoerter: [The Work, Meditation, Achtsamkeit]
 publishdate: 2021-05-01
-lastmod: 2021-05-01 06:06:00
+lastmod: 2021-06-06 05:40:00
 ---
 
 {{< img src="/assets/images/gummistiefel.jpg" alt="gelber Gummistiefel im Schnee auf dem Kopf" class="right width50">}}
@@ -34,7 +34,7 @@ Um es mit den Worten von Byron Katie zu sagen:
 
 Die Grundidee der Work lautet: Das Schlimmste, was Dir passieren kann, sind Deine eigenen Gedanken. Du brauchst nur ein Blatt Papier und einen Stift. Schreib alle stressigen Gedanken, alle Urteile auf das Blatt Papier. Am einfachsten ist es, mit Urteilen über andere zu beginnen, die Dich wirklich nerven. Sei absolut ehrlich und ungeschmickt beim Sschreiben. Du schreibst es ja nur für Dich selbst auf. 
 
-Du hast das ganze Blatt vollgeschrieben? Prima, dann hast Du nun jede Menge Arbeitsmaterial für die Work, die wir im nächsten Artikel Schritt für Schritt durchgehen. Das Prinzip dabei ist, sich jeden stressigen Gedanken genau anschzuschauen, ihn zu hinterfragen und herauszufinden, ob er wirklich der Realität entspricht. 
+Du hast das ganze Blatt vollgeschrieben? Prima, dann hast Du nun jede Menge Arbeitsmaterial für die Work, die wir im [nächsten Artikel][1] Schritt für Schritt durchgehen. Das Prinzip dabei ist, sich jeden stressigen Gedanken genau anschzuschauen, ihn zu hinterfragen und herauszufinden, ob er wirklich der Realität entspricht. 
 
 Mit der Work baust Du eine neue Beziehung zu Deinem Denken auf und zu Dingen, die Du nicht ändern kannst. Die Work bringt Dich zurück in Deine eigene Angelegenheit. 
 
@@ -57,5 +57,5 @@ Und dann gibt es noch ein paar sehr unterhaltsame und leichtfüßige, liebenswer
 
 
 
-
+[1]: /artikel/2021/anwendung-der-work/
 

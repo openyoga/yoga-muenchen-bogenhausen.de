@@ -1,28 +1,34 @@
 ---
-title: Dinkelbrot
-description: bla TO DO
+title: Dinkelbrot mit Karotten
+description: Ein saftiges Sportlerbrot
 rezeptarten: [Brot]
-hauptzutaten: [Dinkelmehl, Kartoffeln, Hefe]
-publishdate: 2021-08-02
-lastmod: 2021-08-02 05:25:00
+hauptzutaten: [Dinkelmehl, Karotten, Kartoffeln, Kürbiskerne, Sonnenblumenkerne]
+publishdate: 2021-08-29
+lastmod: 2021-08-29 05:25:00
 ---
 
-TO DO.
+Ein guter Hefeteig braucht Zeit - er geht dann wunderbar auf und man wird mit einem sehr leckeren, saftigen und gesunden Brot belohnt. Seit wir dieses Brot machen, kaufen wir keines mehr beim Bäcker.
 
 ## Zutaten
 
-- 400 ml Wasser (plus 50 ml für den Backofen)
-- 630 g Dinkelvollkornmehl (Type 1050)
+- 380 ml Wasser (plus 50 ml für den Backofen)
+- 400 g Dinkelmehl Type 1050
+- 200 g Dinkelvollkornmehl
+- 150 g Karotten, geputzt und grob geraspelt
 - 100 g Kartoffeln, geschält
+- 60 g Kürbiskerne
+- 60 g Sonnenblumenkerne
 - 15g Salz
 - 7g Backhefe (Trockenhefe)
+- 1 Esslöffel Brotgewürz (wir nehmen Fenchel, Anis, Koriander und Kümmel)
+- optional: 2 Teelöffel Bockshornklee
 
 
 
 ## Zubereitung
 
 1. Die geschälten Kartoffeln kochen, abkühlen lassen und mit einer Gabel fein zerdrücken
-2. Die Kartoffeln mit dem Dinkelvollkornmehl, dem Salz und der Backhefe in einer Schüssel vermischen und den Teig zehn Minuten lang kneten
+2. Alle Zutaten in einer Schüssel vermischen und den Teig zehn Minuten lang kneten
 3. Die Schüssel mit einem Küchenhandtuch abdecken und den Hefeteig eine Stunde bei Raumtemperatur gehen lassen
 4. Den Teig noch einmal sehr kurz durchkneten
 5. Dann die Schüssel mit Frischhaltefolie abdecken und ab damit in den Kühlschrank für 12 Stunden
@@ -34,4 +40,4 @@ TO DO.
 11. Das Brot nach dem Backen sofort aus der Kastenform rausnehmen und auf einem Kuchengitter abkühlen lassen (so wird die Kruste von allen Seiten schön knusprig)
 
 
-BLA.
+Das Rezept ergibt ein klassisches Kastenbrot. Wir bewahren es im Brottopf auf - da bleibt es drei bis vier Tage saftig und frisch. Da uns für zwei Personen eine Brothälfte reicht, frieren wir die andere Hälfte in Brotseide gewickelt ein.

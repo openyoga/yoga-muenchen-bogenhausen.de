@@ -4,7 +4,7 @@ description: Kekse mit Sommerurlaubsaroma
 rezeptarten: [Kekse]
 hauptzutaten: [Mandeln, Dinkelmehl]
 publishdate: 2021-05-16
-lastmod: 2021-05-16 06:45:00
+lastmod: 2021-05-16 07:44:00
 ---
 
 Diese Cantuccini gibt es bei uns zum Hafermilchkaffee oder Kakao. Sie sind unglaublich lecker und schmecken nach Sommerurlaub in Italien. Mit viel Disziplin schafft man es vielleicht, nicht gleich die ganze Keksdose leer zu futtern.
