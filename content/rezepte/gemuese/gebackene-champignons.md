@@ -11,9 +11,9 @@ Die Champignons sind sehr schnell gemacht und schmecken nach Sommerurlaub in der
 
 ## Zutaten
 
-- 500g Champignons, geputzt, Stile entfernt
+- 500g Champignons, geputzt, Stiele entfernt
 - 180 g Schafskäse (Feta), fein gewürfelt
-- 1/2 Bund glatte Petersilie, fein gehackt
+- ½ Bund glatte Petersilie, fein gehackt
 - Olivenöl
 - optional: Pfeffer
 
@@ -24,7 +24,8 @@ Die Champignons sind sehr schnell gemacht und schmecken nach Sommerurlaub in der
 2. Eine Auflaufform oder ein Backblech mit Olivenöl einfetten
 3. Die Champignons mit den Öffnungen nach oben auf das Backblech setzen
 4. Schafskäse und gehackte Petersilie verrühren, optional mit Pfeffer abschmecken und die Champignons damit füllen
-5. Bei 200 Grad Umluft für 15 bis 20 Minuten backen
+5. Champignons mit Alufolie abdecken
+6. Bei 200 Grad Umluft für 15 bis 20 Minuten backen
 
 
 Das Rezept reicht für vier Personen als Beilage.

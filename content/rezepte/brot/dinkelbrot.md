@@ -7,7 +7,7 @@ publishdate: 2021-08-29
 lastmod: 2021-08-29 05:25:00
 ---
 
-Ein guter Hefeteig braucht Zeit - er geht dann wunderbar auf und man wird mit einem sehr leckeren, saftigen und gesunden Brot belohnt. Seit wir dieses Brot machen, kaufen wir keines mehr beim Bäcker.
+Ein guter Hefeteig braucht Zeit - er geht dann wunderbar auf und man wird mit einem sehr leckeren, saftigen und gesunden Brot belohnt. Seit wir dieses Brot backen, kaufen wir keines mehr beim Bäcker.
 
 ## Zutaten
 
