@@ -1,7 +1,7 @@
 ---
 title: About
 description: Eine Seite mit Hintergrundinformationen zu Open Yoga MUC
-lastmod: 2020-05-10 17:17:00
+lastmod: 2021-08-01 17:17:00
 menu:
   main:
     weight: 70
@@ -25,7 +25,7 @@ Ich selbst bin Computerlinguistin (MA), arbeite im IT-Bereich (Suchtechnologie, 
 
 Nach Jahren der eigenen Praxis wollte ich gerne mehr über Yoga erfahren und begann die zweijährige Yogalehrer Ausbildung bei Yoga Vidya (BYV) mit 723 Unterrichtseinheiten. Ich bin auch Mitglied im [Berufsverband der Yoga Vidya Lehrer (BYV)][byv], dem Rückenyoga Berufsverband (BYV) und dem Yin Yoga Berufsverband (BYV). Weiterbildungen in Anatomie und Korrekturen, Sportmedizin, Rückenyoga und Yin Yoga/Faszientraining folgten. 
 
-Ich verfüge über eine Fitnesstrainer B-Lizenz, die A-Lizenz für Medizinisches Fitnesstraining / Rehasport sowie einen Abschluss als Ernährungsberaterin (alle drei absolviert beim [BTB][btb]). Noch dazu bin ich Certified Functional Trainer  Level 1 & 2 und Certified Animal Athletics Trainer ([Perform Better Performance Institute][perfin]). Ich genieße es sehr, Yoga, Functional Training und Gesundheitsberatung an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Trainingseinheit in glückliche und entspannte Gesichter zu blicken.
+Ich verfüge über eine Fitnesstrainer B-Lizenz, die A-Lizenz für Medizinisches Fitnesstraining / Rehasport sowie einen Abschluss als Ernährungsberaterin (alle drei absolviert beim [BTB][btb]). Noch dazu bin ich Certified Functional Trainer  Level 1 & 2 und Certified Animal Athletics Trainer ([Perform Better Institute][perfin]). Seit Anfang 2020 bin ich Yogatherapeutin i. A. beim [Svastha][svastha] Yogatherapie Programm. Ich genieße es sehr, Yoga, Functional Training und Gesundheitsberatung an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Trainingseinheit in glückliche und entspannte Gesichter zu blicken.
 
 
 ## Website Technik
@@ -52,5 +52,6 @@ Knappertsbuschstraße 19
 [hatha]: /artikel/2017/was-ist-yoga
 [hugo]: {{< a_external "https://gohugo.io/" >}}
 [og]: {{< a_external "https://ogobrecht.github.io/" >}}
-[perfin]: {{< a_external "https://www.performance-institute.de" >}}
+[perfin]: {{< a_external "https://www.perform-better.de/" >}}
+[svastha]: {{< a_external "https://www.svastha.net/svastha-yoga-therapy-training/" >}}
 [workshops]: /workshops/
