@@ -2,8 +2,8 @@
 title: Selbstakzeptanz und Selbstliebe
 description: BLA
 schlagwoerter: [Meditation, Achtsamkeit]
-publishdate: 2021-11-01
-lastmod: 2021-11-01 05:40:00
+publishdate: 2021-12-01
+lastmod: 2021-12-01 05:40:00
 ---
 
 {{< img src="/assets/images/selbstliebe.jpg" alt="Smiley, Stern und Herz mit Löwenzahnblüten auf der grünen Wiese gelegt" class="right width50">}}
