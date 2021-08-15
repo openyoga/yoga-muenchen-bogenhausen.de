@@ -8,7 +8,8 @@ lastmod: 2021-10-01 05:40:00
 
 {{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="TO DO">}}
 
-Die Yogatherapie kombiniert uraltes traditionelles Heilwissen aus dem Yoga und Ayurveda mit modernen Erkenntnissen empirischer Forschungsgebiete wie Medizin, Psychologie und Trainingstherapie. Doch was verbirgt sich genau dahinter und ist es für Dich geeignet?
+TO DO: VERLINKUNGEN AUF DIESEN ARTIKEL!
+Die Yogatherapie kombiniert uraltes traditionelles Heilwissen aus dem Yoga und Ayurveda mit modernen Erkenntnissen empirischer Forschungsgebiete wie Medizin, Psychologie und Trainingstherapie. Doch was verbirgt sich genau dahinter und für wen ist sie geeignet?
 
 ## Definition
 
@@ -39,7 +40,7 @@ Yogatherapie kann präventiv, kurativ, zur Rehabilitation, begleitend und pallia
 
 ## Wirkungen
 
-Die Yogatherapie kann Deine natürlichen Selbstheilungskräfte aktivieren, Dich zurück ins innere Gleichgewicht bringen bzw. Dein inneres Gleichgewicht stärken. Sie kann Deine Lebensenergie, Lebensqualität und Lebensfreude steigern, geschwächte Funktionen regenerieren und kräftigen.  Mit Yogatechniken kann man sich Bewegungs- und auch Verhaltensmuster bewusst machen und verändern. Yogatherapie kann als erste Hilfe - Maßnahme bei Stress und Erschöpfung eingesetzt werden. Sie kann zur Rehabilitation, auch nach einer schweren Krankheit oder begleitend bei psychosomatischen Erkrankungen genutzt werden. Ihre Einsatzgebiete sind äußerst vielfältig - letztlich sollte aber immer ein Arzt zu Rate gezogen werden, bevor man sich in yogatherapeutische Behandlung begibt. Einige Beispiele, in denen die Yogatherapie ggf. begleitend eingesetzt werden kann, sind im folgenden aufgeführt:
+Die Yogatherapie kann Deine natürlichen Selbstheilungskräfte aktivieren, Dich zurück ins innere Gleichgewicht bringen bzw. Dein inneres Gleichgewicht stärken. Sie kann Deine Lebensenergie, Lebensqualität und Lebensfreude steigern, geschwächte Funktionen regenerieren und kräftigen.  Mit Yogatechniken kann man sich Bewegungs- und auch Verhaltensmuster bewusst machen und verändern. Yogatherapie kann als erste Hilfe - Maßnahme bei Stress und Erschöpfung eingesetzt werden. Sie kann zur Rehabilitation, auch nach einer schweren Krankheit oder begleitend bei psychosomatischen Erkrankungen genutzt werden. Ihre Einsatzgebiete sind äußerst vielfältig - letztlich sollte aber immer ein Arzt zu Rate gezogen werden, bevor man sich in yogatherapeutische Behandlung begibt. Einige Beispiele, in denen die Yogatherapie ggf. begleitend eingesetzt werden kann, sind im Folgenden aufgeführt:
 
 
 ## Mögliche Einsatzbereiche
@@ -59,7 +60,7 @@ Die Yogatherapie kann Deine natürlichen Selbstheilungskräfte aktivieren, Dich 
 - Schlafstörungen
 - Stress
 - Lebenskrisen
-- Zur Anpassung an besondere Umstände (Schwangerschaft, nach der Geburt, Wechseljahre usw.)
+- zur Anpassung an besondere Umstände (Schwangerschaft, nach der Geburt, Wechseljahre usw.)
 - Burn Out
 - Chronic Fatigue Syndrom
 - psychosomatische Erkrankungen wie Depressionen, Angstzustände
@@ -71,5 +72,5 @@ Die Yogatherapie kann Deine natürlichen Selbstheilungskräfte aktivieren, Dich 
 - Diabetes
 - Adipositas
 - Herz-Kreislauf-Erkrankungen, zu hoher/ zu niedriger Blutdruck
-- Neurologische Erkrankungen wie Multiple Sklerose, Muskelschwund, Epilepsie
-- Begleitend bei/ nach Krebserkrankungen
+- neurologische Erkrankungen wie Multiple Sklerose, Muskelschwund, Epilepsie
+- begleitend bei/ nach Krebserkrankungen
