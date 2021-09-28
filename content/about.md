@@ -1,7 +1,7 @@
 ---
 title: About
 description: Eine Seite mit Hintergrundinformationen zu Open Yoga MUC
-lastmod: 2021-08-01 17:17:00
+lastmod: 2021-10-03 07:17:00
 menu:
   main:
     weight: 70
@@ -12,7 +12,7 @@ menu:
 
 ## Über Open Yoga MUC
 
-Yoga heißt Verbindung. Das Ziel von [Yoga][1] ist die Verbindung von Körper, Geist und Seele. Zum Beispiel wollen wir mit den Körperübungen unseren Geist zur Ruhe bringen und unsere Emotionen harmonisieren, um uns besser konzentrieren oder entspannen zu können. Yoga ist ganzheitlich und soll Dich zu einem harmonischen, gesunden Leben zurückführen. Um dieses Ziel zu erreichen, bedienen wir uns bei Open Yoga MUC zahlreicher Werkzeuge: Yogaübungen und Bewegungsprogramme aus [Functional Training][2] und Rehasport, Yogatherapie, Atemübungen, Entspannungsübungen und Meditation, Mental Coaching, Ernährungsumstellung und Ayurveda Gesundheitsberatung. Open Yoga MUC ist offen, pragmatisch, ideologiefrei und unesoterisch. Komm einfach wie Du bist, ob als Einzelperson, mit Deiner Familie, Deinen Freunden oder in einer kleinen Gruppe gleichgesinnter Menschen beraten und trainieren wir Dich gerne. Schau einfach mal unter [Personal Training][3], ob etwas für Dich dabei ist.
+Yoga heißt Verbindung. Das Ziel von [Yoga][1] ist die Verbindung von Körper, Geist und Seele. Zum Beispiel wollen wir mit den Körperübungen unseren Geist zur Ruhe bringen und unsere Emotionen harmonisieren, um uns besser konzentrieren oder entspannen zu können. Yoga ist ganzheitlich und soll Dich zu einem harmonischen, gesunden Leben zurückführen. Um dieses Ziel zu erreichen, bedienen wir uns bei Open Yoga MUC zahlreicher Werkzeuge: Yogaübungen und Bewegungsprogramme aus [Functional Training][2] und Rehasport, [Yogatherapie][3], Atemübungen, Entspannungsübungen und Meditation, Mental Coaching, Ernährungsumstellung und Ayurveda Gesundheitsberatung. Open Yoga MUC ist offen, pragmatisch, ideologiefrei und unesoterisch. Komm einfach wie Du bist, ob als Einzelperson, mit Deiner Familie, Deinen Freunden oder in einer kleinen Gruppe gleichgesinnter Menschen beraten und trainieren wir Dich gerne. Schau einfach mal unter [Personal Training][4], ob etwas für Dich dabei ist.
 
 
 ## Über mich
@@ -43,8 +43,9 @@ Knappertsbuschstraße 19
 
 [1]: /artikel/2017/was-ist-yoga/
 [2]: /artikel/2019/functional-training/
-[3]: /personal-training/
-[4]: /beratung/
+[3]: /artikel/2021/yogatherapie
+[4]: /personal-training/
+[5]: /beratung/
 [ag]: mailto:{{< author "agobrecht" "email" >}}
 [btb]: {{< a_external "https://www.btb.info/" >}}
 [byv]: {{< a_external "https://www.yoga-vidya.de/netzwerk/berufsverbaende/byv/byv-infos/" >}}

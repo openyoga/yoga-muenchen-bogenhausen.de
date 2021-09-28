@@ -6,7 +6,7 @@ publishdate: 2021-12-01
 lastmod: 2021-12-01 05:40:00
 ---
 
-{{< img src="/assets/images/selbstliebe.jpg" alt="Smiley, Stern und Herz mit Löwenzahnblüten auf der grünen Wiese gelegt" class="right width50">}}
+{{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="Smiley, Stern und Herz mit Löwenzahnblüten auf der grünen Wiese gelegt" class="right width50">}}
 
 TO DO: LINK aus letztem Artikel auf diesen!
 Jeder, der schon einmal geflogen ist, kennt die Sicherheitsannweisung im Flugzeug: Im Falle eines Sauerstoffmangels an Bord soll man sich erst selbst die Sauerstoffmaske überziehen, bevor man seinem Sitznachbarn dabei hilft. Und so funktioniert das mit der Selbstakzeptanz und Selbstliebe auch. Details zur Theorie kannst Du im [letzten Beitrag][1] nachlesen. In diesem Artikel geht es um die Frage, wie wir Schritt für Schritt mehr Selbstakzeptanz und Selbstliebe entwickeln können.

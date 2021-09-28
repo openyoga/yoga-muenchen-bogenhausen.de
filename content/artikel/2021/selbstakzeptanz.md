@@ -6,7 +6,7 @@ publishdate: 2021-11-01
 lastmod: 2021-11-01 05:40:00
 ---
 
-{{< img src="/assets/images/selbstakzeptanz.jpg" alt="Smiley, Stern und Herz mit Löwenzahnblüten auf der grünen Wiese gelegt" class="right width50">}}
+{{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="TO DO" class="right width50">}}
 
 Bist Du zufrieden mit Dir, genau so wie Du bist? Oder hast Du das Gefühl, Du müsstest erst noch etwas an Dir verändern, damit Du Dich voll und ganz richtig gut finden kannst? Die meisten von uns glauben, sie müssten Mängel an sich beheben, bevor sie sich aus ganzem Herzen annehmen können. Das Problem mit den Optmierungsgedanken ist: Sie werden nicht enden. Selbst wenn ich fünf Kilo abnehme, noch mehr leiste, mir noch mehr Wissen und Fähigkeiten aneeigne, noch geduldiger und liebevoller mit meinen Kindern umgehe oder diese eine schlechte Angewohnheit endlich ablege, komme ich nicht zur Ruhe. Neue Mängel tauchen auf. Ich muss mich selbst immer weiter optimieren.
 

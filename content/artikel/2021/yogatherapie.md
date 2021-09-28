@@ -2,14 +2,13 @@
 title: Yogatherapie
 description: Was ist therapeutisches Yoga und für wen ist es geeignet?
 schlagwoerter: [Yogatherapie, Yoga]
-publishdate: 2021-10-01
-lastmod: 2021-10-01 05:40:00
+publishdate: 2021-10-03
+lastmod: 2021-10-03 07:04:00
 ---
 
-{{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="TO DO">}}
+{{< img src="/assets/images/landart.jpg" alt="Smiley, Stern und Herz mit Löwenzahnblüten auf der grünen Wiese gelegt">}}
 
-TO DO: VERLINKUNGEN AUF DIESEN ARTIKEL!
-Die Yogatherapie kombiniert uraltes traditionelles Heilwissen aus dem Yoga und Ayurveda mit modernen Erkenntnissen empirischer Forschungsgebiete wie Medizin, Psychologie und Trainingstherapie. Doch was verbirgt sich genau dahinter und für wen ist sie geeignet?
+Die Yogatherapie kombiniert uraltes traditionelles Heilwissen aus dem Yoga und Ayurveda mit modernen Erkenntnissen empirischer Forschungsgebiete wie Medizin, Psychologie und Trainingstherapie. Doch was verbirgt sich genau dahinter und für wen ist es geeignet?
 
 ## Definition
 
@@ -32,10 +31,10 @@ In der Yogatherapie bedienen wir uns unterschiedlichster Bausteine, z.B.:
 - Ernährung
 - Lebensstil
 - Stressreduktion
-- Aktivitäten im täglichen Leben
+- Aktivitäten im Alltag
 - nach Wunsch auch Mantras, Affirmationen etc.
 
-Yogatherapie kann präventiv, kurativ, zur Rehabilitation, begleitend und palliativ eingesetzt werden. Deine Achtsamkeit und bewusste Wahrnehmung werden gefördert, Du lernst Dich dadurch selbst besser kennen und es entsteht Raum für individuelles Wachstum und persönliche Veränderung. Du lernst nach und nach, Dein körperliches, emotionales, psychisches und seelisches Wohlbefinden selbst zu verbessern. 
+Yogatherapie kann präventiv, kurativ, zur Rehabilitation, begleitend oder palliativ eingesetzt werden. Deine Achtsamkeit und Deine bewusste Wahrnehmung werden gefördert, Du lernst Dich selbst besser kennen und es entsteht Raum für individuelles Wachstum und persönliche Veränderung. Du lernst nach und nach, Dein körperliches, emotionales, psychisches und seelisches Wohlbefinden selbst zu verbessern. 
 
 
 ## Wirkungen
@@ -53,14 +52,14 @@ Die Yogatherapie kann Deine natürlichen Selbstheilungskräfte aktivieren, Dich 
 - Gelenkerkrankungen
 - Erkrankungen des rheumatischen Formenkreises
 - Vorbeugung vor Osteoporose
-- hormononell bedingete Beschwerden wie Schilddrüsenprobleme, Wechseljahrsbeschwerden, Menstruationsbeschwerden, PMS, PCOS, Endometriose
+- hormononell bedingte Beschwerden wie Schilddrüsenprobleme, Wechseljahrsbeschwerden, Menstruationsbeschwerden, PMS, PCOS, Endometriose
 - gesundes Älterwerden, Prophylaxe und Therapie von Erkrankungen des Alterns
 - Migräne, Kopfschmerzen
 - Zähneknirschen
 - Schlafstörungen
 - Stress
 - Lebenskrisen
-- zur Anpassung an besondere Umstände (Schwangerschaft, nach der Geburt, Wechseljahre usw.)
+- zur Anpassung an besondere Umstände (z.B. in der Schwangerschaft, nach der Geburt, in den Wechseljahren usw.)
 - Burn Out
 - Chronic Fatigue Syndrom
 - psychosomatische Erkrankungen wie Depressionen, Angstzustände
