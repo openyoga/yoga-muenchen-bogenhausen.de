@@ -3,8 +3,8 @@ title: Gebackene Champignons
 description:  Champignons aus dem Backofen
 rezeptarten: [Gemuese]
 hauptzutaten: [Champignons, Petersilie, Schafskäse]
-publishdate: 2021-10-10
-lastmod: 2021-10-10 06:11:00
+publishdate: 2021-11-10
+lastmod: 2021-11-10 06:11:00
 ---
 
 Die Champignons sind sehr schnell gemacht und schmecken nach Sommerurlaub in der Türkei. Man kann sie als Gemüsebeilage oder als vegetarisches Hauptgericht mit Kartoffeln servieren.
