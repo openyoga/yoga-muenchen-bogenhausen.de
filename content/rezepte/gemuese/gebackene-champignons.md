@@ -11,7 +11,7 @@ Die Champignons sind sehr schnell gemacht und schmecken nach Sommerurlaub in der
 
 ## Zutaten
 
-- 500g Champignons, geputzt, Stiele entfernt
+- 500 g Champignons, geputzt, Stiele entfernt
 - 180 g Schafskäse (Feta), fein gewürfelt
 - ½ Bund glatte Petersilie, fein gehackt
 - Olivenöl

@@ -2,8 +2,8 @@
 title: Yogatherapie
 description: Was ist therapeutisches Yoga und für wen ist es geeignet?
 schlagwoerter: [Yogatherapie, Yoga]
-publishdate: 2021-10-03
-lastmod: 2021-10-03 07:04:00
+publishdate: 2021-10-02
+lastmod: 2021-10-02 07:51:00
 ---
 
 {{< img src="/assets/images/landart.jpg" alt="Smiley, Stern und Herz mit Löwenzahnblüten auf der grünen Wiese gelegt">}}
@@ -39,7 +39,7 @@ Yogatherapie kann präventiv, kurativ, zur Rehabilitation, begleitend oder palli
 
 ## Wirkungen
 
-Die Yogatherapie kann Deine natürlichen Selbstheilungskräfte aktivieren, Dich zurück ins innere Gleichgewicht bringen bzw. Dein inneres Gleichgewicht stärken. Sie kann Deine Lebensenergie, Lebensqualität und Lebensfreude steigern, geschwächte Funktionen regenerieren und kräftigen.  Mit Yogatechniken kann man sich Bewegungs- und auch Verhaltensmuster bewusst machen und verändern. Yogatherapie kann als erste Hilfe - Maßnahme bei Stress und Erschöpfung eingesetzt werden. Sie kann zur Rehabilitation, auch nach einer schweren Krankheit oder begleitend bei psychosomatischen Erkrankungen genutzt werden. Ihre Einsatzgebiete sind äußerst vielfältig - letztlich sollte aber immer ein Arzt zu Rate gezogen werden, bevor man sich in yogatherapeutische Behandlung begibt. Einige Beispiele, in denen die Yogatherapie ggf. begleitend eingesetzt werden kann, sind im Folgenden aufgeführt:
+Die Yogatherapie kann Deine natürlichen Selbstheilungskräfte aktivieren, Dich zurück ins innere Gleichgewicht bringen bzw. Dein inneres Gleichgewicht stärken. Sie kann Deine Lebensenergie, Lebensqualität und Lebensfreude steigern, geschwächte Funktionen regenerieren und kräftigen.  Mit Yogatechniken kann man sich Bewegungs- und auch Verhaltensmuster bewusst machen und verändern. Yogatherapie kann als erste Hilfe Maßnahme bei Stress und Erschöpfung eingesetzt werden. Sie kann zur Rehabilitation, auch nach einer schweren Krankheit oder begleitend bei psychosomatischen Erkrankungen genutzt werden. Ihre Einsatzgebiete sind äußerst vielfältig - letztlich sollte aber immer ein Arzt zu Rate gezogen werden, bevor man sich in yogatherapeutische Behandlung begibt. Einige Beispiele, in denen die Yogatherapie ggf. begleitend eingesetzt werden kann, sind im Folgenden aufgeführt:
 
 
 ## Mögliche Einsatzbereiche
