@@ -1,13 +1,13 @@
 ---
-title: Erdmandelkuchen mit Feigen
+title: Erdmandelkuchen mit Feigen und Zwetschgen
 description: Ein leckerer Herbstgenuss ohne Reue
 rezeptarten: [Kuchen]
-hauptzutaten: [Erdmandeln, Feigen, Walnüsse, Mandeln]
+hauptzutaten: [Erdmandeln, Feigen, Zwetschgen, Walnüsse, Mandeln]
 publishdate: 2021-10-10
-lastmod: 2021-10-10 17:59:00
+lastmod: 2021-10-10 7:20:00
 ---
 
-Diesen Kuchen darf man ohne schlechtes Gewissen genießen - er kommt ohne Weißmehl und Zucker aus. Im Herbst backen wir ihn mit Feigen, alternativ können auch Zwetschgen oder Äpfel verwendet werden. Die gemahlenen Erdmandeln verleihen dem Kuchen ein nussig-süßes Aroma.
+Diesen Kuchen dürft Ihr ohne schlechtes Gewissen genießen - er kommt ohne Weißmehl und Zucker aus. Im Herbst backen wir ihn mit Feigen und Zwetschgen; alternativ könnt Ihr auch Äpfel verwenden. Die gemahlenen Erdmandeln verleihen dem Kuchen ein nussig-süßes Aroma.
 
 ## Zutaten
 
@@ -20,10 +20,10 @@ Diesen Kuchen darf man ohne schlechtes Gewissen genießen - er kommt ohne Weißm
 - 120 g Dinkelmehl (Type 630)
 - 80 g gemahlene Erdmandeln (alternativ gemahlene Mandeln)
 - 50 g Eiweißpulver mit Vanillegeschmack
-- 25 g gehackte Mandeln
-- 25 g gehackte Walnüsse
+- 40 g gehackte Mandeln
+- 40 g gehackte Walnüsse
 - 1 Päckchen Backpulver
-- 4 Feigen (ca. 200 g)
+- 230 g Feigen und/oder Zwetschgen
 
 
 ## Zubereitung
@@ -31,7 +31,7 @@ Diesen Kuchen darf man ohne schlechtes Gewissen genießen - er kommt ohne Weißm
 1. Backofen auf 160 Grad Umluft vorheizen, eine kleine Springform (Durchmesser 19 cm) mit Butter einfetten
 2. Buttermilch, Erythrit, Butter, Eier, Vanillezucker und Salz schaumig schlagen
 3. Die trockenen Zutaten vermischen (Mehle, Eiweißpulver, Nüsse, Backpulver) und unter die feuchten rühren
-4. Drei Feigen klein schneiden und unter den Teig heben, den Teig in die Backform füllen, die vierte Feige in Scheiben schneiden und oben drauf verteilen
-5. Bei 160 Grad Umluft ca. 45 bis 50 Minuten lang backen (Nadelprobe!)
+4. Die Feigen und/oder Zwetschgen klein schneiden und unter den Teig heben, den Teig in die Backform füllen
+5. Bei 160 Grad Umluft ca. 45 bis 47 Minuten lang backen (Nadelprobe!)
 
 Wer keine kleine Springform hat, kann auch eine größere mit dem Gugelhupf-Einsatz in der Mitte verwenden. 

@@ -30,7 +30,7 @@ In Israel ist die Shakshuka ein Frühstück, das man schon fast als Nationalgeri
 
 ## Zubereitung
 
-1. Olivenöl in einem Topf erhitzen, alle getrockneten Kräuter und Gewürze darin rösten, dann die Zwiebeln im Gewürzöl andünsten
+1. Olivenöl in einem beschichteten Topf erhitzen, alle getrockneten Kräuter und Gewürze darin rösten, dann die Zwiebeln im Gewürzöl andünsten
 2. Die Paprikastücke dazugeben und zehn Minuten lang braten lassen, dabei viel umrühren
 3. Die Dosentomaten unterrühren, Deckel draufgeben und weitere zehn Minuten lang köcheln lassen
 4. Noch ein letztes Mal umrühren, die Eier aufschlagen und in den Eintopf gleiten lassen (jweils eine Kuhle mit dem Kochlöffel vorbereiten kann nicht schaden), Deckel drauf und bei niedriger Hitze zehn Minuten lang durchgaren

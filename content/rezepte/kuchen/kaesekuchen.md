@@ -19,8 +19,8 @@ Da Ottmar krümeligen Käsekuchen liebt, haben wir diese Version erfunden, die o
 - 75 g kalte Butter
 - 1 Ei
 - 1 Pä Vanillezucker (alternativ 15 g Vanille-Eiweißpulver)
-- 1/4 Pä Backpulver
-- 1 Prise Saltz
+- ¼ Pä Backpulver
+- 1 Prise Salz
 
 
 ### Käsemasse
@@ -29,7 +29,6 @@ Da Ottmar krümeligen Käsekuchen liebt, haben wir diese Version erfunden, die o
 - 85 g Butter (warm und weich)
 - 2 Eier
 - 30 g Eiweißpulver mit Vanille-Geschmack
-
 - 650 g Magerquark
 - 70 g Dinkelgrieß
 - 25 g Vanillepuddingpuler
