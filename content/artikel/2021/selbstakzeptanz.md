@@ -2,8 +2,8 @@
 title: Selbstakzeptanz und Selbstliebe
 description: Was ist das und wofür ist es gut?
 schlagwoerter: [Meditation, Achtsamkeit]
-publishdate: 2021-11-01
-lastmod: 2021-11-01 05:40:00
+publishdate: 2021-12-01
+lastmod: 2021-12-01 05:40:00
 ---
 
 {{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="TO DO" class="right width50">}}

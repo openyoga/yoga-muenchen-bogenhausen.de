@@ -1,5 +1,5 @@
 ---
-title: Erdmandelkuchen mit Feigen und Zwetschgen
+title: Erdmandelkuchen
 description: Ein leckerer Herbstgenuss ohne Reue
 rezeptarten: [Kuchen]
 hauptzutaten: [Erdmandeln, Feigen, Zwetschgen, Walnüsse, Mandeln]
