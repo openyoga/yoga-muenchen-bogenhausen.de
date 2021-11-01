@@ -4,7 +4,7 @@ description: Ohne Zucker und Weißmehl
 rezeptarten: [Kuchen]
 hauptzutaten: [Apfel, Nuesse, Zimt]
 publishdate: 2019-12-25
-lastmod: 2021-10-19 05:25:00
+lastmod: 2021-10-26 20:25:00
 ---
 
 Dieser glutenfreie Kuchen ist nicht nur gesund, sondern auch sehr lecker - man darf ihn ohne schlechtes Gewissen schon zum Frühstück essen oder ganz klassisch am  Nachmittag. Wir schlürfen gerne Milchkaffee oder Kakao ohne Zucker dazu.     
@@ -21,7 +21,7 @@ Das Rezept ist von der wundervollen Konditormeisterin Anja Giersberg.
 - 1 Teelöffel Zimt
 - ½ Teelöffel Backpulver
 - 1 Prise Salz
-- Optional: 1 Vanilleschote, Mark ausgekratzt
+- Optional: 1 Vanilleschote, Mark ausgekratzt (alternativ 1 Päckchen Vanillezucker)
 
 
 ## Zubereitung
