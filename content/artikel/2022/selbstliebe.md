@@ -2,8 +2,8 @@
 title: Selbstakzeptanz und Selbstliebe
 description: Konkrete Schritte zu einem besseren Umgang mit sich selbst
 schlagwoerter: [Meditation, Achtsamkeit]
-publishdate: 2021-01-01
-lastmod: 2021-01-01 05:40:00
+publishdate: 2022-12-01
+lastmod: 2022-12-01 05:40:00
 ---
 
 {{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="Smiley, Stern und Herz mit Löwenzahnblüten auf der grünen Wiese gelegt" class="right width50">}}
