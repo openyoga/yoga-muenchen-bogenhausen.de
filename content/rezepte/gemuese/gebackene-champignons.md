@@ -3,8 +3,8 @@ title: Gebackene Champignons
 description:  Champignons aus dem Backofen
 rezeptarten: [Gemuese]
 hauptzutaten: [Champignons, Petersilie, Schafskäse]
-publishdate: 2021-12-10
-lastmod: 2021-12-10 06:11:00
+publishdate: 2021-12-18
+lastmod: 2021-12-18 08:10:00
 ---
 
 Die Champignons sind sehr schnell gemacht und schmecken nach Sommerurlaub in der Türkei. Man kann sie als Gemüsebeilage oder als vegetarisches Hauptgericht mit Kartoffeln servieren.
@@ -28,4 +28,4 @@ Die Champignons sind sehr schnell gemacht und schmecken nach Sommerurlaub in der
 6. Bei 200 Grad Umluft für 15 bis 20 Minuten backen
 
 
-Das Rezept reicht für vier Personen als Beilage.
+Das Rezept reicht für drei bis vier Personen als Beilage.
