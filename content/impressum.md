@@ -15,7 +15,7 @@ Knappertsbuschstraße 19
 [1]: mailto:{{< author "agobrecht" "email" >}}
 
 
-Alle Fotos auf dieser Website wurden von Ottmar und Alexandra Gobrecht aufgenommen. Einzelne Bilder von anderen Fotografen wurden käuflich erworben.<br/>
+Alle Fotos auf dieser Website wurden von Ottmar und Alexandra Gobrecht aufgenommen. Einzelne Bilder von anderen Fotografen wurden käuflich erworben bzw. zur freien Verwendung heruntergeladen. Der Bildnachweis ist am jeweiligen Foto zu finden.<br/>
 
 Die [Datenschutzerklärung findet sich hier][2].  
 Die [AGB für die Yogakurse können hier eingesehen werden][3].  

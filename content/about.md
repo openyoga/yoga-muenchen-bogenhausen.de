@@ -1,7 +1,7 @@
 ---
 title: About
 description: Eine Seite mit Hintergrundinformationen zu Open Yoga MUC
-lastmod: 2021-10-02 07:58:00
+lastmod: 2022-01-01 18:28:00
 menu:
   main:
     weight: 70
@@ -19,13 +19,13 @@ Yoga heißt Verbindung. Das Ziel von [Yoga][1] ist die Verbindung von Körper, G
 
 {{< img src="/assets/images/avatar-portrait.jpg" alt="Portraitfoto Ajita Alexandra Gobrecht" title="Ajita Alexandra Gobrecht" class="left avatar" >}}
 
-Ich selbst bin Computerlinguistin (MA), arbeite im IT-Bereich einer großen privaten Hochschule (Data Engineering, Natural Language Processing und Machine Learning) und liebe Open Source Software. Zum Glück ist Yoga ja mittlerweile auch Open Source, d.h für jeden zugänglich, der Interesse daran hat (im alten Indien  war Yoga tatsächlich eine Geheimlehre, die nur vom Guru an geeignete Schüler weitergegeben wurde). Auf dieser Website findest Du neben unserem Beratungsangebot auch Infos rund um Yoga, leckere Rezepte und vieles mehr. Open Source Texte eben.
+Ich selbst bin Computerlinguistin (MA), arbeite im IT-Bereich einer großen privaten Hochschule (Natural Language Processing und Machine Learning) und liebe Open Source Software. Zum Glück ist Yoga ja mittlerweile auch Open Source, d.h für jeden zugänglich, der Interesse daran hat (im alten Indien  war Yoga tatsächlich eine Geheimlehre, die nur vom Guru an geeignete Schüler weitergegeben wurde). Auf dieser Website findest Du neben unserem Beratungsangebot auch Infos rund um Yoga, leckere Rezepte und vieles mehr. Open Source Texte eben.
 
 2008 begann ich in einer beruflich stressigen Situation mit Hatha Yoga - es war Liebe auf den ersten Blick. Schon nach meiner ersten Stunde kaufte ich mir ein Yoga-Buch und begann auch zu Hause Asanas (Yogaübungen) und Sonnengrüße zu üben. Seitdem praktiziere ich fast täglich - Yoga tut mir einfach wahnsinnig gut. Natürlich mag ich auch andere Bewegungsformen - besonders Functional Training, Animal Athletics, Radfahren, Schwimmen, Nordic Walking und Bergwandern. Aber für eine kleine (oder größere ;-) Yoga-Session nehme ich mir immer Zeit.
 
 Nach Jahren der eigenen Praxis wollte ich gerne mehr über Yoga erfahren und begann die zweijährige Yogalehrer Ausbildung bei Yoga Vidya (BYV) mit 723 Unterrichtseinheiten. Ich bin auch Mitglied im [Berufsverband der Yoga Vidya Lehrer (BYV)][byv], dem Rückenyoga Berufsverband (BYV) und dem Yin Yoga Berufsverband (BYV). Weiterbildungen in Anatomie und Korrekturen, Sportmedizin, Rückenyoga und Yin Yoga/Faszientraining folgten. 
 
-Ich verfüge über eine Fitnesstrainer B-Lizenz, die A-Lizenz für Medizinisches Fitnesstraining / Rehasport sowie einen Abschluss als Ernährungsberaterin (alle drei absolviert beim [BTB][btb]). Noch dazu bin ich Certified Functional Trainer  Level 1 & 2 und Certified Animal Athletics Trainer ([Perform Better Institute][perfin]). Seit Anfang 2020 bin ich Yogatherapeutin i. A. beim [Svastha][svastha] Yogatherapie Programm. Ich genieße es sehr, Yoga, Functional Training und Gesundheitsberatung an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Trainingseinheit in glückliche und entspannte Gesichter zu blicken.
+Ich verfüge über eine Fitnesstrainer B-Lizenz, die A-Lizenz für Medizinisches Fitnesstraining / Rehasport sowie einen Abschluss als Ernährungsberaterin (alle drei absolviert beim [BTB][btb]). Noch dazu bin ich Certified Functional Trainer  Level 1 & 2 und Certified Animal Athletics Trainer ([Perform Better Institute][perfin]). Seit Anfang 2020 bin ich Yogatherapeutin i. A. beim [Momentum Regeneration Yogatherapie Programm][momentum]. Ich genieße es sehr, Yoga, Functional Training und Gesundheitsberatung an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Trainingseinheit in glückliche und entspannte Gesichter zu blicken.
 
 
 ## Website Technik
@@ -54,5 +54,5 @@ Knappertsbuschstraße 19
 [hugo]: {{< a_external "https://gohugo.io/" >}}
 [og]: {{< a_external "https://ogobrecht.github.io/" >}}
 [perfin]: {{< a_external "https://www.perform-better.de/" >}}
-[svastha]: {{< a_external "https://www.svastha.net/svastha-yoga-therapy-training/" >}}
+[momentum]: {{< a_external "https://momentum-regeneration.com/300h-yogatherapie-ausbildung/" >}}
 [workshops]: /workshops/

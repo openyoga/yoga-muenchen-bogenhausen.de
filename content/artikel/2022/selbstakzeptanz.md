@@ -1,14 +1,14 @@
 ---
-title: Selbstakzeptanz und Selbstliebe
-description: Wie kann sie mein Leben verbessern?
+title: Wie verbessert sich mein Leben, wenn ich mich so annehme, wie ich bin?
+description: Selbstakzeptanz und Selbstliebe I
 schlagwoerter: [Meditation, Achtsamkeit]
-publishdate: 2022-11-01
-lastmod: 2022-11-01 05:40:00
+publishdate: 2022-01-02
+lastmod: 2022-01-02 17:53:00
 ---
 
-{{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="TO DO" class="right width50">}}
+{{< img src="/assets/images/self-acceptance.jpg" alt="Woman dancing in a summer field during sunset" caption="Foto von Jackson David auf unsplash.com" >}}
 
-Bist Du zufrieden mit Dir, genau so wie Du bist? Oder hast Du das Gefühl, Du müsstest erst noch etwas an Dir verändern, damit Du Dich voll und ganz richtig gut finden kannst? Die meisten von uns glauben, sie müssten Mängel an sich beheben, bevor sie sich aus ganzem Herzen annehmen können. Das Problem mit den Optmierungsgedanken ist: Sie werden nicht enden. Selbst wenn ich fünf Kilo abnehme, noch mehr leiste, mir noch mehr Wissen und Fähigkeiten aneeigne, noch geduldiger und liebevoller mit meinen Kindern umgehe oder diese eine schlechte Angewohnheit endlich ablege, komme ich nicht zur Ruhe. Neue Mängel tauchen auf. Ich muss mich selbst immer weiter optimieren.
+Bist Du zufrieden mit Dir, genau so wie Du bist? Oder hast Du das Gefühl, Du müsstest erst noch etwas an Dir verändern, damit Du Dich voll und ganz richtig gut finden kannst? Die meisten von uns glauben, sie müssten Mängel an sich beheben, bevor sie sich aus ganzem Herzen annehmen können. Das Problem mit den Optmierungsgedanken ist: Sie werden nicht enden. Selbst wenn ich fünf Kilo abnehme, noch mehr leiste, mir noch mehr Wissen und Fähigkeiten aneigne, noch geduldiger und liebevoller mit meinen Kindern umgehe oder diese eine schlechte Angewohnheit endlich ablege, komme ich nicht zur Ruhe. Neue Mängel tauchen auf. Ich muss mich selbst immer weiter optimieren.
 
 
 ## Selbstliebe ist keine Selbstbefriedigung
@@ -21,7 +21,7 @@ Um es mit den Worten von Christoph Germer zu sagen:
 
 > Selbstmitgefühl ist das Fundament der Freundlichkeit zu anderen. 
 >
-> Der achtsame Weg zum Selbstmitgefühl - Wie man sich von destruktiven Gedanken und Gefühlen befreit von Christoph Germer, Arbor Verlag, 3. Auflage 2019
+> Christoph Germer, Der achtsame Weg zum Selbstmitgefühl - Wie man sich von destruktiven Gedanken und Gefühlen befreit, Arbor Verlag, 3. Auflage 2019
 
 ## Selbstliebe ist keine Selbssucht
 
@@ -37,7 +37,7 @@ Aus dem Gefühl der Wertlosigkeit und des Mangels an meiner Person entsteht viel
 
 ## Die innere Stimme
 
-Je älter ich werde, desto besser lerne ich mich kennen. Ich betrachte mich heute mit mehr Wohlwollen als früher und übe mich darin, mir selbst ein guter Freund zu werden. Wenn meine innere Stimme mal wieder über mich herzieht oder mir nichts zutraut, dann erkenne ich das heute schneller und spreche im Geist wieder freundlicher mit mir. Eine gute Richtschnur in schlechten Zeiten ist: Was würdest Du jetzt zu Deinem besten Freund sagen? Wie würdest Du mit ihm sprechen? Und genauso rede mit Dir selbst! Anfangs kommt einem das vielleicht fremd vor, aber es lohnt sich, es sich nach und nach zur Gewohnheit zu machen. Wenn ich Trost brauche, tröste ich mich. Wenn mein Körper müde ist und Ruhe braucht, sorge ich gut für ihn. Und manchmal trete ich mich auch freundlich in den Hintern oder lache herzlich über meine eigene Dummheit.
+Je älter ich werde, desto besser lerne ich mich kennen. Ich betrachte mich heute mit mehr Wohlwollen als früher und übe mich darin, mir selbst ein guter Freund zu werden. Wenn meine innere Stimme mal wieder über mich herzieht oder mir nichts zutraut, dann erkenne ich das heute schneller und spreche im Geist wieder freundlicher mit mir. Eine gute Richtschnur in schlechten Zeiten ist: Was würdest Du jetzt zu Deinem besten Freund sagen? Wie würdest Du mit ihm sprechen? Und genauso rede mit Dir selbst! Anfangs kommt einem das vielleicht fremd vor, aber es lohnt sich, es sich nach und nach zur Gewohnheit zu machen. Wenn ich Trost brauche, tröste ich mich. Wenn mein Körper müde ist und Ruhe benötigt, sorge ich gut für ihn. Und manchmal trete ich mich auch freundlich in den Hintern oder lache herzlich über meine eigene Dummheit.
 
 ## Fazit
 

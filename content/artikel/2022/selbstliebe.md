@@ -1,12 +1,12 @@
 ---
-title: Selbstakzeptanz und Selbstliebe
-description: Einfache Schritte zu einem besseren Umgang mit sich selbst
+title: Einfache Schritte zu einem besseren Umgang mit sich selbst
+description: Selbstakzeptanz und Selbstliebe II
 schlagwoerter: [Meditation, Achtsamkeit]
-publishdate: 2022-12-01
-lastmod: 2022-12-01 05:40:00
+publishdate: 2022-03-06
+lastmod: 2022-03-06 05:40:00
 ---
 
-{{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="Smiley, Stern und Herz mit Löwenzahnblüten auf der grünen Wiese gelegt" class="right width50">}}
+{{< img src="/assets/images/self-love.jpg" alt="Woman making heart sign with her fingers during sunset" caption="Foto von Jackson David auf unsplash.com" >}}
 
 TO DO: LINK aus letztem Artikel auf diesen!
 Jeder, der schon einmal geflogen ist, kennt die Sicherheitsannweisung im Flugzeug: Im Falle eines Sauerstoffmangels an Bord soll man sich erst selbst die Sauerstoffmaske überziehen, bevor man seinem Sitznachbarn dabei hilft. Und so funktioniert das mit der Selbstakzeptanz und Selbstliebe auch. Details zur Theorie kannst Du im [letzten Beitrag][1] nachlesen. In diesem Artikel geht es um die Frage, wie wir Schritt für Schritt mehr Selbstakzeptanz und Selbstliebe entwickeln können.
@@ -18,10 +18,11 @@ Zunächst einmal muss ich mir Selbstakzeptanz und Selbstmitgefühl erlauben. Sel
 
 Meditation und Achtsamkeit helfen mir dabei, mich selbst zu beobachten und mir bewusst zu werden, wenn ich einmal nicht nett zu mir bin. Die Achtsamkeitspraxis führt auch dazu, dass ich nach und nach lerne, alles so zu akzeptieren, wie es jetzt gerade ist, mich selbst eingeschlossen. Durch Akzeptanz entwickeln sich Liebe und Mitgefühl. 
 
-Der erste Schritt kann allerdings durchaus schmerzhaft sein: Er besteht darin, klar zu sehen, was ist. Ich öffne mich allem, was sich jetzt zeigt, ich kämpfe nicht mehr dagegen an und verdränge es auch nicht mehr. Das kann mit unangenehmen Gefühlen wie Schmerz oder Angst verbunden sein. Auch diese lasse ich zu. Immer und immer wieder nehme ich die Rolle des Beobachters ein, der klar sieht, was passiert, es aber nicht bewertet und sich nicht davon vereinnahmen lässt. Immer wieder übe ich mich im Loslassen des Widerstandes dagegen, wie die Dinge gerade sind und wie ich gerade bin. Je öfter ich das in der Meditation praktizieren, desto besser kann ich es dann auch im Alltag in schwierigen Situationen anwenden. Aus der Achtsamkeitspraxis entstehen nach und nach Akzeptanz, Mitgefühl und Liebe. Für mich, für andere, für die gesamte Situation in der wir uns alle befinden. Die Welt ist immer noch so, wie sie vorher war und auch ich bin immer noch ich. Aber meine Sichtweise darauf verändert sich. Ich schließe Freundschaft mit der Welt, wie sie jetzt ist und mit mir selbst wie ich jetzt bin.
+Der erste Schritt kann allerdings durchaus schmerzhaft sein: Er besteht darin, klar zu sehen, was ist. Ich öffne mich allem, was sich jetzt zeigt, ich kämpfe nicht mehr dagegen an und verdränge es auch nicht mehr. Das kann mit unangenehmen Gefühlen wie Schmerz oder Angst verbunden sein. Auch diese lasse ich zu. Immer und immer wieder nehme ich die Rolle des Beobachters ein, der klar sieht, was passiert, es aber nicht bewertet und sich nicht davon vereinnahmen lässt. Immer wieder übe ich mich im Loslassen des Widerstandes dagegen, wie die Dinge gerade sind und wie ich gerade bin. Je öfter ich das in der Meditation praktiziere, desto besser kann ich es dann auch im Alltag in schwierigen Situationen anwenden. Aus der Achtsamkeitspraxis entstehen nach und nach Akzeptanz, Mitgefühl und Liebe. Für mich, für andere, für die gesamte Situation in der wir uns alle befinden. Die Welt ist immer noch so, wie sie vorher war und auch ich bin immer noch ich. Aber meine Sichtweise darauf verändert sich. Ich schließe Freundschaft mit der Welt, wie sie jetzt ist und mit mir selbst wie ich jetzt bin.
 
 Wem es sehr schwerfällt, Freundlichkeit gegenüber sich selbst zu praktizieren, kann auch damit anfangen, Wohlwollen gegenüber einem anderen Lebewesen zu üben. Das kann ein gelieber Mensch sein, ein Kind, ein Tier, eine Blume oder was auch immer liebevolle Gefühle in mir weckt, ohne unangenehme Ressentiments zu schüren. Nach und nach kann ich die wohlwollenden Gedanken und Gefühle dann ausdehen: Auf mich und auf andere. Ein schönes Buch für den Einstieg in die Metta-Meditation und in die Achtsamkeitsmeditation ist:
-> Meditation (mit Audio-CD): Mehr Klarheit und innere Ruhe, von Marie Mannschatz, GU Multimedia Körper, Geist & Seele, 4. März 2015 
+
+> Marie Mannschatz, Meditation (mit Audio-CD): Mehr Klarheit und innere Ruhe, GU Multimedia Körper, Geist & Seele, 4. März 2015 
 
 
 ## Was wir tun können 

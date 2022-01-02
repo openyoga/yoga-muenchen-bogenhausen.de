@@ -3,8 +3,8 @@ title: Käsekuchen
 description: Der Klassiker ohne Weißmehl und Zucker
 rezeptarten: [Kuchen]
 hauptzutaten: [Quark, Butter, Dinkel]
-publishdate: 2021-04-01
-lastmod: 2021-04-01 07:42:00
+publishdate: 2022-06-01
+lastmod: 2022-06-01 07:42:00
 ---
 
 Da Ottmar krümeligen Käsekuchen liebt, haben wir diese Version erfunden, die ohne Zucker und Weißmehl richtig lecker schmeckt und nah an das nordhessische Original herankommt.
