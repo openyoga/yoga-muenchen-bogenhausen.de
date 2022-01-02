@@ -32,7 +32,7 @@ Neben der Meditation und der Achtsamkeitspraxis gibt es viele kleine Tipps, die 
 - Ich lasse Dinge sein, die mir nicht gut tun.
 - Ich gebe positiven Gefühlen mehr Raum.
 - Ich genieße postive Erlebnisse und koste sie aus - ich habe sie mir verdient.
-- Ich mache mir bewusst, wie ich mit meinem Körper umgehe, wie ich für ihn sorge, besonders dann, wenn es ihm schlecht geht oder wie ich mit mir umgehe, wenn ich Stress habe.
+- Ich mache mir bewusst, wie ich mit meinem Körper umgehe, wie ich für ihn sorge, besonders dann, wenn es ihm schlecht geht oder wie ich mit mir umgehe, wenn ich Stress empfinde.
 - Ich schätze meinen Körper wert, so wie er jetzt gerade ist.
 - Ich höre auf, mich selbst zu verletzen und im Geist schlecht über mich zu reden.
 - Ich komme meinen täglichen Pflichten nach, erlaube mir aber, sie mir so angenehm wie möglich zu gestalten.
@@ -61,7 +61,7 @@ Neben der Meditation und der Achtsamkeitspraxis gibt es viele kleine Tipps, die 
 - Ich leiste keinen Widerstand mehr gegen Schmerz und unangenehme Gefühle.
 - Ich lasse unangenehme Gedanken und Gefühle zu, ohne mich zu stark mit ihnen zu identifizieren. Ich beobachte sie wohlwollend. Ich schließe Freundschaft mit ihnen.
 - Ich nähre positive Gedanken und Gefühle in mir. Je öfter ich sie willkommen heiße, desto stärker werden sie.
-- Ich praktiziere Dankbarkeit für die kleinen Freuden des Alltags, z.B. schreibe ich jeden Abend auf, welche drei Dinge an diesem Tag schön waren/ wofür ich heute dankbar bin.
+- Ich praktiziere Dankbarkeit für die kleinen Freuden des Alltags, z.B. schreibe ich jeden Abend auf, welche drei Dinge an diesem Tag schön waren / wofür ich heute dankbar bin.
 - Ich mache mir in guten Zeiten eine Liste mit Dingen, die mir gut tun. Ich schreibe möglichst konkrete und unkompliziert umsetzbare Ideen darauf. Wenn es mir schlecht geht, nehme ich einen Punkt von der Liste und setze ihn sofort um.
 - Ich mache mir die mentalen Muster bewusst, die mein Leiden verstärken (auch wenn sie mich oberflächlich betrachtet glücklich machen sollen). Ich gebe sie Schritt für Schritt auf bzw. ersetze sie durch positivere Angewohnheiten.
 
@@ -72,5 +72,5 @@ Seine Muster zu ändern erfordert Geduld und Beharrlichkeit - es geht nicht von 
 
 
 
-[1]: /artikel/2021/selbstakzeptanz/
+[1]: /artikel/2022/selbstakzeptanz/
 
