@@ -1,6 +1,6 @@
 ---
-title: Einfache Schritte zu einem besseren Umgang mit sich selbst
-description: Selbstakzeptanz und Selbstliebe II
+title: Selbstakzeptanz und Selbstliebe II
+description: Einfache Schritte zu einem besseren Umgang mit sich selbst
 schlagwoerter: [Meditation, Achtsamkeit]
 publishdate: 2022-03-06
 lastmod: 2022-03-06 05:40:00

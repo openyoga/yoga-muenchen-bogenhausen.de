@@ -1,9 +1,9 @@
 ---
-title: Wie verbessert sich mein Leben, wenn ich mich so annehme, wie ich bin?
-description: Selbstakzeptanz und Selbstliebe I
+title: Selbstakzeptanz und Selbstliebe I
+description: Wie verbessert sich mein Leben, wenn ich mich so annehme, wie ich bin?
 schlagwoerter: [Meditation, Achtsamkeit]
 publishdate: 2022-01-02
-lastmod: 2022-01-02 17:53:00
+lastmod: 2022-01-02 22:02:00
 ---
 
 {{< img src="/assets/images/self-acceptance.jpg" alt="Woman dancing in a summer field during sunset" caption="Foto von Jackson David auf unsplash.com" >}}
@@ -23,7 +23,7 @@ Um es mit den Worten von Christoph Germer zu sagen:
 >
 > Christoph Germer, Der achtsame Weg zum Selbstmitgefühl - Wie man sich von destruktiven Gedanken und Gefühlen befreit, Arbor Verlag, 3. Auflage 2019
 
-## Selbstliebe ist keine Selbssucht
+## Selbstliebe ist keine Selbstsucht
 
 Schauen wir uns die Begriffe doch einmal näher an: Mich selbst zu akzeptieren und zu lieben bedeutet, dass ich mich mit all meinen Stärken und Schwächen annehme. Liebe ist nicht an Bedingungen geknüpft. Selbstliebe ist bedingungslose Akzeptanz meiner selbst. Nicht mehr und nicht weniger. Mangelnde Selbstliebe führt zu Selbstsucht: Ein Narzist hält sich für minderwertig und kämpft immer wieder um Bestätigung und Bewunderung von außen.
 

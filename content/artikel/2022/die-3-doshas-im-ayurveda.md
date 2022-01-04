@@ -1,17 +1,17 @@
 ---
-title: Yoga und Ayurveda
-description: Gemeinsame Wurzeln, unterschiedliche Intentionen
-schlagwoerter: [Yoga, Ayurveda, Ernaehrung]
-publishdate: 2019-03-10
-lastmod: 2022-02-04 15:35:00
+title: Die drei Doshas im Ayurveda
+description: to do
+schlagwoerter: [Ayurveda]
+publishdate: 2022-12-03
+lastmod: 2022-12-03 08:35:00
 ---
 
-{{< img src="/assets/images/buddha-steine.jpg" alt="Buddha am Meer zwischen Steinen" >}}
+{{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="to do" >}}
 
-Yoga und Ayurveda wurzeln in derselben Philosophie und obwohl sie unterschiedliche Stoßrichtungen haben, ergänzen sie einander ganz wunderbar. Beide gehen auf die Samkya-Schule der vedischen Philosophie zurück, d.h. sie bauen auf den wesentlichen Ideen der Veden und Upanishaden auf. Mehr zum Thema Vedanta gibt es in [diesem Blogartikel][1]. 
+bla
 
 
-## Definition von Ayurveda und Yoga
+## Definition von Ayurveda
 
 Ayurveda ist die Wissenschaft vom (langen) Leben und beschäftigt sich mit Gesundheit, Wohlbefinden, Heilwissen und Selbstheilung, aber auch typgerechter Ernährung. Es geht im Ayurveda nicht nur darum, Krankheiten zu heilen, sondern auch darum, in Harmonie zu leben und sich entsprechend zu ernähren, sodass Krankheiten erst gar nicht entstehen.
 
@@ -34,12 +34,5 @@ Mit einer Beschreibung der drei Doshas könnte man ganze Bücher füllen. Kurz z
 
 Das verbindende Element zwischen Yoga und Ayurveda ist das Konzept von Prana, der Lebensenergie oder Lebenskraft. Ein Beispiel: Gesunde Nahrung ist die Nahrung, die das meiste Prana enthält: vegetarisch, vollwertig, biologisch angebaut, aus der Region, mit Liebe und in Ruhe zubereitet und typgerecht zusammengestellt. Wenn wir Prana harmonisieren bzw. Blockaden im Energiefluss beseitigen, dann geht es uns gut, dann fühlen wir uns vital und voller Energie. Dann strahlen wir von innen heraus.
 
->  Prana ist der ursprüngliche Lehrer der Yogastellungen. Ein echter Yogalehrer weckt also das Prana in seinem Schüler und erklärt ihm nicht nur, wie man die Gliedmaßen verrenkt.
->
-> Dr. David Frawley, Yoga und Ayurveda. Die uralte Kunst und Wissenschaft der spirituellen und psychosomatischen Integration, Windpferd Verlag Oberstdorf, 3. Auflage 2015
 
-
-
-
-[1]: /artikel/2019/vedanta
 

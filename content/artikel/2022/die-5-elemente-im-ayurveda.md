@@ -1,14 +1,14 @@
 ---
-title: Yoga und Ayurveda
-description: Gemeinsame Wurzeln, unterschiedliche Intentionen
-schlagwoerter: [Yoga, Ayurveda, Ernaehrung]
-publishdate: 2019-03-10
-lastmod: 2022-02-04 15:35:00
+title: Die fünf Elemente im Ayurveda
+description: Was sind die Mahabhutas?
+schlagwoerter: [Ayurveda]
+publishdate: 2022-12-02
+lastmod: 2022-12-02 08:35:00
 ---
 
-{{< img src="/assets/images/buddha-steine.jpg" alt="Buddha am Meer zwischen Steinen" >}}
+{{< img src="/assets/images/5-herbs.jpg" alt="Five herbs with different colours arranged on five spoons" caption="Foto von Calum Lewis auf unsplash.com" >}}
 
-Yoga und Ayurveda wurzeln in derselben Philosophie und obwohl sie unterschiedliche Stoßrichtungen haben, ergänzen sie einander ganz wunderbar. Beide gehen auf die Samkya-Schule der vedischen Philosophie zurück, d.h. sie bauen auf den wesentlichen Ideen der Veden und Upanishaden auf. Mehr zum Thema Vedanta gibt es in [diesem Blogartikel][1]. 
+bla.
 
 
 ## Definition von Ayurveda und Yoga
@@ -38,8 +38,4 @@ Das verbindende Element zwischen Yoga und Ayurveda ist das Konzept von Prana, de
 >
 > Dr. David Frawley, Yoga und Ayurveda. Die uralte Kunst und Wissenschaft der spirituellen und psychosomatischen Integration, Windpferd Verlag Oberstdorf, 3. Auflage 2015
 
-
-
-
-[1]: /artikel/2019/vedanta
 
