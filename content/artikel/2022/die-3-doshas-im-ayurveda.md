@@ -1,38 +1,44 @@
 ---
 title: Die drei Doshas im Ayurveda
-description: to do
+description: Was sind Kapha, Pitta und Vata?
 schlagwoerter: [Ayurveda]
 publishdate: 2022-12-03
 lastmod: 2022-12-03 08:35:00
 ---
 
-{{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="to do" >}}
+{{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="Bild malen mit Dreieck der drei Doshas" >}}
 
-bla
-
-
-## Definition von Ayurveda
-
-Ayurveda ist die Wissenschaft vom (langen) Leben und beschäftigt sich mit Gesundheit, Wohlbefinden, Heilwissen und Selbstheilung, aber auch typgerechter Ernährung. Es geht im Ayurveda nicht nur darum, Krankheiten zu heilen, sondern auch darum, in Harmonie zu leben und sich entsprechend zu ernähren, sodass Krankheiten erst gar nicht entstehen.
-
-Yoga beinhaltet nicht nur das bei uns im Westen so beliebte Körpertraining, sondern auch die Meditation und strebte ursprünglich einmal nach nichts Geringerem als der Erleuchtung. Man kann Ayurveda auch als Fundament von Yoga betrachten: Ayurveda reinigt Körper und Geist und Yoga dient der Selbstverwirklichung, der Transzendierung von Körper und Geist. 
+Ayurveda beschreibt mit den drei Doshas physiologische Grundprinzipien, die in der gesamten Natur wirken und auch unseren Körper und seine Funktionen regeln. Aus einer Verbindung von je zwei der fünf Elemente, die wir im [letzten Artikel][1] kennen gelernt haben, entsteht jeweils ein Dosha.
 
 
-## Ganzheitliche Sichtweise
+## Fünf Element und drei Doshas
 
-Beide haben sich zusammen aus der vedischen Kultur heraus entwickelt, der ältesten Hochkultur der Menschheit. Yoga und Ayurveda haben sich gegenseitig beeinflusst und wurden / werden noch heute zusammen angewendet. So können Yogaübungen Teil einer ayurvedischen Behandlung sein. Vereinfacht gesagt machen ungefähr fünfzig Prozent von Ayurveda das aus, was man in sich aufnimmt (Ernährung etc.) und fünfzig Prozent das, was man tut (insbesondere Bewegung, Asanas etc.). Yoga und Ayurveda sind beide ganzheitlich, d.h. sie fördern die körperliche, geistige und seelische Gesundheit.
-
-
-## Ernährung im Yoga und Ayurveda
-
-Beide bevorzugen eine vegetarische Ernährung. Die yogische Nahrung ist tendenziell eher asketisch, beinhaltet Fasten und mehr Rohkost, da es den Yogis im alten Indien ja darum ging, das Körperbewusstsein zu transzendieren und sich vom Körper zu lösen, um die Erleuchtung zu erlangen. Die ayurvedische Ernährung dagegen ist nahrhaft, bekömmlich und die Nahrungsmittel werden überwiegend gekocht. Die Mahlzeiten werden passend für den jeweiligen Konstitutionstyp zubereitet. Nach ayurvedischer Philosophie gibt es drei Doshas, d.h. grundlegende Funktionsprinzipien / biologische Qualitäten: Vata, Pitta und Kapha. Sie geben Aufschluss über die konstitutionellen Anlagen eines Menschen, seine derzeitige körperliche und psychische Verfassung und seine individuelle Natur. Vata (Wind) steht für alles trockene, leichte, kühle, Pitta (Feuer) für alles heiße, leichte, ölige und Kapha (Wasser) für alles schwere, ölige, kühle.
-
-Mit einer Beschreibung der drei Doshas könnte man ganze Bücher füllen. Kurz zusammengefasst: Gesundheit bedeutet im Ayurveda, dass sich die drei Doshas in einem harmonischen Gleichgewicht befinden. Sind sie nicht im Gleichgewicht, versucht man mit typgerechter Ernährung, aber auch vielen anderen Methoden die Balance wiederherzustellen. Heilkräuter und naturheilkundliche Verfahren etc. werden in beiden Traditionen angewandt.
+Aus Erde und Wasser entsteht Kapha. Kapha hat die Funktion von Zusammenhalt, Stabilisierung und Aufbau. Aus Feuer und Wasser entsteht Pitta, welches für Wärme steht und die Funktion der Umwandlung, der Transformation repräsentiert. Aus Raum/ Äther und Luft entsteht Vata. Ihm wird die Funktion der Bewegung und der Koordination aller Bewegungen zugeschrieben.
 
 
-## Prana
+## Kapha
 
-Das verbindende Element zwischen Yoga und Ayurveda ist das Konzept von Prana, der Lebensenergie oder Lebenskraft. Ein Beispiel: Gesunde Nahrung ist die Nahrung, die das meiste Prana enthält: vegetarisch, vollwertig, biologisch angebaut, aus der Region, mit Liebe und in Ruhe zubereitet und typgerecht zusammengestellt. Wenn wir Prana harmonisieren bzw. Blockaden im Energiefluss beseitigen, dann geht es uns gut, dann fühlen wir uns vital und voller Energie. Dann strahlen wir von innen heraus.
+Kahpha repräsentiert Zusammenhalt, Stabilität, Festigkeit, Ruhe, Fülle, Volumen, Ausgeglichenheit, Aufbau und Stärke. Es wirkt im Körper im zellulären Bereich, bei Wachstum und Regenration. Kapha steht für Anabolismus, d.h. Aufbau. Die Eigenschaften von Kapha sind kalt, schwer, stabil, unbeweglich, ölig, fettig, feucht, weich, langsam und klebrig. Der Hauptsitz von Kapha im menschlichen Körper ist im Kopf, in der Brust und im Magen. Kapha kräftigt und kühlt Herz und Sinnesorgane, sorgt für Heilung und auch für die Speicherung, z.B. von Wissen.
 
 
+## Pitta
 
+Pitta steht für Wärme, Temperatur, Temperament und Umwandlung. Im Körper wirkt es im Blut, in hormonellen Prozessen, in der Haut, der Verdauung, der Körpertemperatur und in den Abwehrkräften. Pitta steht für Metablolismus, d.h. Umwandlung und Stoffwechsel. Die Eigenschaften von Pitta sind heiß, scharf, leicht, ölig, weih, flüssig, klar, beweglich und durchdringend. Der Hauptsitz von Pitta ist in der Leber und im Zwölffingerdarm. Pitta steht auch für den Aufbau von Intelligenz und Selbstvertrauen.
+
+
+## Vata
+
+Vata steht für Aktivität, Bewegung, Spontanität, Kreativität, Wahrnehmung, Trockenheit und Abbau. Im Körper wirkt es in nervalen Prozessen, der Atmung, der Absorption von Nahrung im Darm und der Ausscheidung der unverdaulichen Überreste sowie in den Emotionen. Vata sensibilisiert, erzeugt Wahrnehmugen im Körper und ist für die Entstehung von Schmerzen verantwortlich. Vata steht für Katabolismus, d.h. Abbau. Die Eigenschaften von vata sind kalt, leicht, beweglich, rauh, locker und hart. Der Hauptsitz von Vata ist im Dickdarm und in den Beinen. 
+
+
+## Gleichgewicht der Doshas
+
+Gesundheit wird im Ayurveda als harmonisches Zusammenwirken der Doshas betrachtet. Wenn das Gleichgewicht der Doshas gestört ist, sind auch einzelne Körperfunktionen beeinträchtigt. Bringt man die Doshas nicht wieder zurück ins Gleichgewicht, können Krankheiten entstehen. Die drei Doshas beeinflussen sich wechselseitig über ihre Eigenschaften. Je zwei Doshas haben eine Eigenschaft gemeinsam und reduzieren mit dieser das dritte Dosha, zum Beispiel:
+- Kapha (schwer) reduziert Pitta und Vata (leicht)
+- Pitta (heiß) reduziert Vata und Kapha (kalt)
+- Vata (trocken) reduziert Kapha und Pitta (ölig)
+
+Die Doshas werden auch durch unsere Lebensumstände, unsere Nahrung, das Klima, die Jahreszeiten, unser persönliches Verhalten und unser Umfeld beeinflusst. Wenn wir unsere Konstitution kennen und Störungen im Gleichgewicht der Doshas rechtzeitig wahrnehmen, können wir durch eine bewusste Lebensführung und Ernährung, aber auch mit Hilfe von Heilkräutern und ayurvedischen Anwendungen das Gleichgewicht wiederherstellen.
+
+
+[1]: /artikel/2022/die-5-elemente-im-ayurveda/

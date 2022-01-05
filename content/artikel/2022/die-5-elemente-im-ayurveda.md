@@ -39,3 +39,4 @@ Luft ist trocken, leicht, kalt, klar und beweglich. Alle leichten, beweglichen S
 ## Raum/ Äther
 
 Äther/ Raum ist leer, hell, glatt, subtil, leicht, weich, durchdringend, zusammenziehend und ausdehnend zugleich. Raum ist ursprüngliche, nukleare Energie. In unserem Körper finden wir verschiedene Hohlräume im Mund, in der Nase und in den Atemorganen, im Brustkorb, im Bauch sowie im Magen-Darm-Trakt. Raum wird im Ayurveda mit Klang assoziiert. Raum schenkt uns Freiheit und Frieden, erweitert unser Bewusstsein, kann aber auch für ein Gefühl der Isolation, des Abgetrenntseins und der Leere sorgen.
+s
