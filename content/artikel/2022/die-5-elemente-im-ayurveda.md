@@ -8,34 +8,34 @@ lastmod: 2022-12-02 08:35:00
 
 {{< img src="/assets/images/5-herbs.jpg" alt="Five herbs with different colours arranged on five spoons" caption="Foto von Calum Lewis auf unsplash.com" >}}
 
-bla.
+Die fünf Elemente (Mahabhutas) sind eines der grundlegendsten Konzepte des Ayurveda. Auf ihnen bauen die drei Doshas auf, die wir im nächsten Artikel kennen lernen werden. Die fünf Elemente sind: Erde, Wasser, Feuer, Luft und Äther/ Raum. 
 
 
-## Definition von Ayurveda und Yoga
+## Begriffliches Konzept der Mahabhutas
 
-Ayurveda ist die Wissenschaft vom (langen) Leben und beschäftigt sich mit Gesundheit, Wohlbefinden, Heilwissen und Selbstheilung, aber auch typgerechter Ernährung. Es geht im Ayurveda nicht nur darum, Krankheiten zu heilen, sondern auch darum, in Harmonie zu leben und sich entsprechend zu ernähren, sodass Krankheiten erst gar nicht entstehen.
-
-Yoga beinhaltet nicht nur das bei uns im Westen so beliebte Körpertraining, sondern auch die Meditation und strebte ursprünglich einmal nach nichts Geringerem als der Erleuchtung. Man kann Ayurveda auch als Fundament von Yoga betrachten: Ayurveda reinigt Körper und Geist und Yoga dient der Selbstverwirklichung, der Transzendierung von Körper und Geist. 
+Die Mahabhutas (fünf Elemente) bezeichnen allgemein Zustände von Materie. Die gesamte Schöpfung, auch der menschliche Körper, besteht aus diesen fünf grobstofflichen Elementen sowie drei feinstofflichen (Geist, Intelligenz und Ego). Die fünf grobstofflichen Elemente sind nicht nur in der gesamten organischen und anorganischen Materie präsent, sondern lassen sich auch als Zustände beschreiben. Ayurveda betrachtet sie eher philosophisch im Gegensatz zum Begriff Element, wie ihn die heutigen Naturwissenschaften verwenden. Unsere fünf Sinne sowie unsere psychischen Tendenzen lassen sich mit den fünf Elementen beschreiben. Auch die verschiedenen Aspekte von Aktivität unseres Körpers sind mit den ihnen verbunden.
 
 
-## Ganzheitliche Sichtweise
+## Erde
 
-Beide haben sich zusammen aus der vedischen Kultur heraus entwickelt, der ältesten Hochkultur der Menschheit. Yoga und Ayurveda haben sich gegenseitig beeinflusst und wurden / werden noch heute zusammen angewendet. So können Yogaübungen Teil einer ayurvedischen Behandlung sein. Vereinfacht gesagt machen ungefähr fünfzig Prozent von Ayurveda das aus, was man in sich aufnimmt (Ernährung etc.) und fünfzig Prozent das, was man tut (insbesondere Bewegung, Asanas etc.). Yoga und Ayurveda sind beide ganzheitlich, d.h. sie fördern die körperliche, geistige und seelische Gesundheit.
-
-
-## Ernährung im Yoga und Ayurveda
-
-Beide bevorzugen eine vegetarische Ernährung. Die yogische Nahrung ist tendenziell eher asketisch, beinhaltet Fasten und mehr Rohkost, da es den Yogis im alten Indien ja darum ging, das Körperbewusstsein zu transzendieren und sich vom Körper zu lösen, um die Erleuchtung zu erlangen. Die ayurvedische Ernährung dagegen ist nahrhaft, bekömmlich und die Nahrungsmittel werden überwiegend gekocht. Die Mahlzeiten werden passend für den jeweiligen Konstitutionstyp zubereitet. Nach ayurvedischer Philosophie gibt es drei Doshas, d.h. grundlegende Funktionsprinzipien / biologische Qualitäten: Vata, Pitta und Kapha. Sie geben Aufschluss über die konstitutionellen Anlagen eines Menschen, seine derzeitige körperliche und psychische Verfassung und seine individuelle Natur. Vata (Wind) steht für alles trockene, leichte, kühle, Pitta (Feuer) für alles heiße, leichte, ölige und Kapha (Wasser) für alles schwere, ölige, kühle.
-
-Mit einer Beschreibung der drei Doshas könnte man ganze Bücher füllen. Kurz zusammengefasst: Gesundheit bedeutet im Ayurveda, dass sich die drei Doshas in einem harmonischen Gleichgewicht befinden. Sind sie nicht im Gleichgewicht, versucht man mit typgerechter Ernährung, aber auch vielen anderen Methoden die Balance wiederherzustellen. Heilkräuter und naturheilkundliche Verfahren etc. werden in beiden Traditionen angewandt.
+Erde ist das festeste der fünf Elemente. Erde ist stabil, schwer, hart, dicht, grob, fest, rauh, träge und bewegt sich nicht bzw. nur sehr langsam. Alle festen Substanzen werden mit dem Konzept des Erdelements beschrieben. Erde ist mechanische oder physikalische Energie. Sie gibt dem Körper Stärke, Struktur und Ausdauer. Die festen Bestandteil des Körpers (Knochen, Knorpel, Nägel, Zähne, Haare, Haut) werden dem Erdelement zugeschrieben. Ayurveda assoziiert Erde mit dem Geruchssinn. Erde fördert Unterstützung, Erdung und Wachstum, aber auch das Festhalten an Dingen und Menschen, Gier und Depression.
 
 
-## Prana
+## Wasser
 
-Das verbindende Element zwischen Yoga und Ayurveda ist das Konzept von Prana, der Lebensenergie oder Lebenskraft. Ein Beispiel: Gesunde Nahrung ist die Nahrung, die das meiste Prana enthält: vegetarisch, vollwertig, biologisch angebaut, aus der Region, mit Liebe und in Ruhe zubereitet und typgerecht zusammengestellt. Wenn wir Prana harmonisieren bzw. Blockaden im Energiefluss beseitigen, dann geht es uns gut, dann fühlen wir uns vital und voller Energie. Dann strahlen wir von innen heraus.
-
->  Prana ist der ursprüngliche Lehrer der Yogastellungen. Ein echter Yogalehrer weckt also das Prana in seinem Schüler und erklärt ihm nicht nur, wie man die Gliedmaßen verrenkt.
->
-> Dr. David Frawley, Yoga und Ayurveda. Die uralte Kunst und Wissenschaft der spirituellen und psychosomatischen Integration, Windpferd Verlag Oberstdorf, 3. Auflage 2015
+Wasser ist flüssig, fließend, kalt, träge, schwer, weich, ölig, schleimig, klebrig und zusammenhängend. Alle flüssigen Substanzen werden als Wasserelement bezeichnet. Wasser bindet Moleküle aneinander. Es ist chemische Energie und wirkt lösend.  Die Lehren des Ayurveda ordnen Blutplasma, Zellplasma, Serum, Urin und Schweiß dem Wasserelement zu. Wasser wird mit dem Geschmackssinn assoziiert, da die Zunge ohne Feuchtigkeit nichts schmecken kann. Wasser wird mit Zufriedenheit, Liebe und Mitgefühl in Verbindung gebracht.
 
 
+## Feuer
+
+Feuer ist heiß, leicht, scharf, durchdringend, trocken, klar und subtil. Alle leuchtenden, heißen und transformierenden Substanzen werden mit dem Feuerelement assoziiert. Feuer ist aktiv und wirkt verändernd. In unserem Körper werden die Regulation der Körpertemperatur und alle Funktionen des Stoffwechsels wie Verdauung, Nährstoffaufnahme und Assimilation als Feuer betrachtet. Ayurveda assoziiert Feuer mit Licht und Sehen. Feuer ist Intelligenz und notwendig für Transformation, Verstehen und Erkenntnis. Es ist auch für Wut, Hass, Neid, Ehrgeiz und Konkurrenzdenken verantwortlich. 
+
+
+## Luft
+
+Luft ist trocken, leicht, kalt, klar und beweglich. Alle leichten, beweglichen Substanzen werden dem Luftelement zugeordnet. Luft ist elektrische Energie. Als Prinzip der Bewegung sieht Ayurveda das Luftelement in den Bewegungen der Muskeln, dem rhythmischen Schlag unseres Herzens und im Ausdehnen und sich wieder Zusammenziehen der Lunge. Luft kann als Berührung wahrgenommen werden. Das Luftelement schenkt uns Glück, Frische, Freude und Erregung. Es wird auch mit Angst, Unsicherheit und Nervosität in Verbindung gebracht.
+
+
+## Raum/ Äther
+
+Äther/ Raum ist leer, hell, glatt, subtil, leicht, weich, durchdringend, zusammenziehend und ausdehnend zugleich. Raum ist ursprüngliche, nukleare Energie. In unserem Körper finden wir verschiedene Hohlräume im Mund, in der Nase und in den Atemorganen, im Brustkorb, im Bauch sowie im Magen-Darm-Trakt. Raum wird im Ayurveda mit Klang assoziiert. Raum schenkt uns Freiheit und Frieden, erweitert unser Bewusstsein, kann aber auch für ein Gefühl der Isolation, des Abgetrenntseins und der Leere sorgen.
