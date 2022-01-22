@@ -4,14 +4,14 @@ description: Ein saftiges Sportlerbrot
 rezeptarten: [Brot]
 hauptzutaten: [Dinkelmehl, Karotten, Kartoffeln, Kürbiskerne, Sonnenblumenkerne]
 publishdate: 2021-09-03
-lastmod: 2021-09-03 17:55:00
+lastmod: 2022-01-08 05:33:00
 ---
 
 Ein guter Hefeteig braucht Zeit - er geht dann wunderbar auf und man wird mit einem sehr leckeren, saftigen und gesunden Brot belohnt. Seit wir dieses Brot backen, kaufen wir keines mehr beim Bäcker.
 
 ## Zutaten
 
-- 380 ml Wasser (plus 50 ml für den Backofen)
+- 380 ml lauwarmes Wasser (plus 50 ml für den Backofen)
 - 400 g Dinkelmehl Type 1050
 - 200 g Dinkelvollkornmehl
 - 150 g Karotten, geputzt und grob geraspelt

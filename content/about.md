@@ -1,7 +1,7 @@
 ---
 title: About
 description: Eine Seite mit Hintergrundinformationen zu Open Yoga MUC
-lastmod: 2022-01-01 18:28:00
+lastmod: 2022-01-22 07:48:00
 menu:
   main:
     weight: 70
@@ -25,7 +25,7 @@ Ich selbst bin Computerlinguistin (MA), arbeite im IT-Bereich einer großen priv
 
 Nach Jahren der eigenen Praxis wollte ich gerne mehr über Yoga erfahren und begann die zweijährige Yogalehrer Ausbildung bei Yoga Vidya (BYV) mit 723 Unterrichtseinheiten. Ich bin auch Mitglied im [Berufsverband der Yoga Vidya Lehrer (BYV)][byv], dem Rückenyoga Berufsverband (BYV) und dem Yin Yoga Berufsverband (BYV). Weiterbildungen in Anatomie und Korrekturen, Sportmedizin, Rückenyoga und Yin Yoga/Faszientraining folgten. 
 
-Ich verfüge über eine Fitnesstrainer B-Lizenz, die A-Lizenz für Medizinisches Fitnesstraining / Rehasport sowie einen Abschluss als Ernährungsberaterin (alle drei absolviert beim [BTB][btb]). Noch dazu bin ich Certified Functional Trainer  Level 1 & 2 und Certified Animal Athletics Trainer ([Perform Better Institute][perfin]). Seit Anfang 2020 bin ich Yogatherapeutin i. A. beim [Momentum Regeneration Yogatherapie Programm][momentum]. Ich genieße es sehr, Yoga, Functional Training und Gesundheitsberatung an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Trainingseinheit in glückliche und entspannte Gesichter zu blicken.
+Ich verfüge über eine Fitnesstrainer B-Lizenz, die A-Lizenz für Medizinisches Fitnesstraining / Rehasport sowie einen Abschluss als Ernährungsberaterin (alle drei absolviert beim [BTB][btb]). Noch dazu bin ich Certified Functional Trainer  Level 1 & 2 und Certified Animal Athletics Trainer ([Perform Better Institute][perfin]). Seit Anfang 2020 mache ich eine Yogatherapie-Ausbildung beim [Momentum Regeneration Yogatherapie Programm][momentum]. Ich genieße es sehr, Yoga, Functional Training und Gesundheitsberatung an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Trainingseinheit in glückliche und entspannte Gesichter zu blicken.
 
 
 ## Website Technik
