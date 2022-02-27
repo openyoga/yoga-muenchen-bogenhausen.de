@@ -13,7 +13,7 @@ Die fünf Elemente (Mahabhutas) sind eines der grundlegendsten Konzepte des Ayur
 
 ## Begriffliches Konzept der Mahabhutas
 
-Die Mahabhutas (fünf Elemente) bezeichnen allgemein Zustände von Materie. Die gesamte Schöpfung, auch der menschliche Körper, besteht aus diesen fünf grobstofflichen Elementen sowie drei feinstofflichen (Geist, Intelligenz und Ego). Die fünf grobstofflichen Elemente sind nicht nur in der gesamten organischen und anorganischen Materie präsent, sondern lassen sich auch als Zustände beschreiben. Ayurveda betrachtet sie eher philosophisch im Gegensatz zum Begriff Element, wie ihn die heutigen Naturwissenschaften verwenden. Unsere fünf Sinne sowie unsere psychischen Tendenzen lassen sich mit den fünf Elementen beschreiben. Auch die verschiedenen Aspekte von Aktivität unseres Körpers sind mit den ihnen verbunden.
+Die Mahabhutas (fünf Elemente) bezeichnen allgemein Zustände von Materie. Die gesamte Schöpfung, auch der menschliche Körper, besteht aus diesen fünf grobstofflichen Elementen sowie drei feinstofflichen (Geist, Intelligenz und Ego). Die fünf grobstofflichen Elemente sind nicht nur in der gesamten organischen und anorganischen Materie präsent, sondern lassen sich auch als Zustände beschreiben. Ayurveda betrachtet sie eher philosophisch im Gegensatz zum Begriff Element, wie ihn die heutigen Naturwissenschaften verwenden. Unsere fünf Sinne sowie unsere psychischen Tendenzen lassen sich mit den fünf Elementen beschreiben. Auch die verschiedenen Aspekte von Aktivität unseres Körpers sind mit ihnen verbunden.
 
 
 ## Erde
@@ -39,4 +39,7 @@ Luft ist trocken, leicht, kalt, klar und beweglich. Alle leichten, beweglichen S
 ## Raum/ Äther
 
 Äther/ Raum ist leer, hell, glatt, subtil, leicht, weich, durchdringend, zusammenziehend und ausdehnend zugleich. Raum ist ursprüngliche, nukleare Energie. In unserem Körper finden wir verschiedene Hohlräume im Mund, in der Nase und in den Atemorganen, im Brustkorb, im Bauch sowie im Magen-Darm-Trakt. Raum wird im Ayurveda mit Klang assoziiert. Raum schenkt uns Freiheit und Frieden, erweitert unser Bewusstsein, kann aber auch für ein Gefühl der Isolation, des Abgetrenntseins und der Leere sorgen.
-s
+
+## Ausblick
+
+Im nächsten Artikel werden wir uns ansehen, wie aus jeweils zwei dieser fünf Elemente die Doshas (Konstitutionen) entstehen. Wer sein(e) Dosha(s) kennt, kann Gesundheit und Harmonie erlangen.

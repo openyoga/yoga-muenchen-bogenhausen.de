@@ -8,7 +8,7 @@ lastmod: 2022-12-04 08:35:00
 
 {{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="to do" >}}
 
-Im [letzten Artikel][1] haben wir die drei Doshas kennen gelernt. Wenn wir gesund bleiben möchten bzw. unsere Gesundheit wiederherstellen wollen, ist es wichtig, die Doshas ins Gleichgewicht zu bringen. Wie stark welches Dosha bei Dir vertreten ist, bestimmt Deine Konstitution. Dabei gilt es zwischen Prakriti, unser natürlichen Konstitution und Vikriti, vorübergehenden Störungen, zu unterscheiden.
+Im [letzten Artikel][1] haben wir die drei Doshas kennen gelernt. Wenn wir gesund bleiben möchten bzw. unsere Gesundheit wiederherstellen wollen, ist es wichtig, die Doshas ins Gleichgewicht zu bringen. Wie stark welches Dosha bei Dir vertreten ist, bestimmt Deine Konstitution. Dabei gilt es zwischen Prakriti, der natürlichen Konstitution und Vikriti, vorübergehenden Störungen, zu unterscheiden.
 
 
 ## Prakriti und Vikriti
@@ -18,15 +18,15 @@ Prakriti ist unsere natürliche, gesunde körperliche Konstitution. Sie ist von 
 
 ## Kapha
 
-Der Kapha-Typ hat einen großen und fülligen Körperbau mit harmonischen Proportionen und weichen Formen, er ist muskulös und hat einen kräftigen Knochenbau. Sehr oft hat er ölige, fettige Haut, große Augen und volles Haar. Der Kapha-Typ hat einen langsamen Stoffwechsel und ist auch geistig eher langsam, dafür aber sehr genau. Er hat einen ruhigen, ausgeglichenen Geist, ist geduldig und ausdauernd und sehr belastbar. Kapha-Typen neigen zu Übergewicht, Ödemen, Verschleimungen der Atemwege, Depressionen und Antriebslosigkeit.
+Der Kapha-Typ hat einen großen und fülligen Körperbau mit harmonischen Proportionen und weichen Formen, er ist muskulös und hat einen kräftigen Knochenbau. Sehr oft hat er ölige, fettige Haut, große Augen und volles Haar. Der Kapha-Typ hat einen langsamen Stoffwechsel und ist auch geistig eher langsam, dafür aber sehr genau. Er hat einen ruhigen, ausgeglichenen Geist, ist geduldig und ausdauernd und sehr belastbar. Kapha-Störungen äußern sich in Übergewicht, Ödemen, Verschleimungen der Atemwege, Depressionen und Antriebslosigkeit.
 
 ## Pitta
 
-Der Pitta-Typ hat einen mittleren Körperbau, der meist athletisch und muskulös ist. Im Vergleich zum Kapha-Typen hat der Pitta-Typ eher harte Formen. Er hat seidiges, welliges Haar, oft auch einen rötlichen Teint oder Sommersprossen, Pitta-Typen neigen zu Hautproblemen. Sie haben einen sehr schnellen Stoffwechsel und eine sehr gute Verdauung. Sie leiden oft unter starken Hungergefühlen und benötigen regelmäßige Mahlzeiten. Pitta-Menschen sind sehr dynamisch, leisten oft sehr viel und fühlen sich von ihrer Arbeit getrieben, haben oft auch einen Hang zum Perfektionismus. Typische Pitta-Störungen sind Entzündungen, Infektionen und fiebrige Erkrankungen.
+Der Pitta-Typ hat einen mittleren Körperbau, der meist athletisch und muskulös ist. Im Vergleich zur Kapha-Konstitution hat er eher harte Formen. Er hat seidiges, welliges Haar, oft auch einen rötlichen Teint oder Sommersprossen. Pitta-Typen neigen oft zu Hautproblemen. Sie haben einen sehr schnellen Stoffwechsel und eine sehr gute Verdauung. Sie leiden oft unter starken Hungergefühlen und benötigen regelmäßige Mahlzeiten. Pitta-Menschen sind sehr dynamisch, leisten sehr viel und fühlen sich von ihrer Arbeit getrieben, haben oft auch einen Hang zum Perfektionismus. Typische Pitta-Störungen sind Entzündungen, Infektionen und fiebrige Erkrankungen.
 
 ## Vata
 
-Der Vata-Typ ist sehr schlank bis hager mit einem knochigen oder sehnigen Körperbau. Er hat oft deutlich sichtbare Sehnen und Adern, eine trockene, raue Haut, brüchige Fingernägel und Haare. Vata-Typen neigen zum Frieren und haben sehr oft kalte Hände und Füße. Sie haben einen sehr unregelmäßigen Stoffwechsel und Appetit und leide desöfteren auch unter Blähungen oder Verstopfungen. Der Geist von Vata-Menschen ist unrunig und unstet, er lässt sich leicht ablenken, ist aber auch ausgesprochen kreativ. Wenn Vata gestört ist, entwickeln sich oft Spannungs- oder Schmerzzustände, Allergiene, Arthrosen oder Erkrankungen des Nervensystems.
+Der Vata-Typ ist sehr schlank bis hager mit einem knochigen oder sehnigen Körperbau. Er hat oft deutlich sichtbare Sehnen und Adern, eine trockene, raue Haut, brüchige Fingernägel und Haare. Vata-Typen neigen zum Frieren und haben sehr oft kalte Hände und Füße. Sie haben einen sehr unregelmäßigen Stoffwechsel und Appetit und leide desöfteren auch unter Blähungen oder Verstopfungen. Der Geist von Vata-Menschen ist unrunig und unstet, er lässt sich leicht ablenken, ist aber auch ausgesprochen kreativ. Wenn Vata gestört ist, entwickeln sich oft Spannungs- oder Schmerzzustände, Allergien, Arthrosen oder Erkrankungen des Nervensystems.
 
 
 ## Konstitutionsbestimmung

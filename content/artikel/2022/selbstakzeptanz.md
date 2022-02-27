@@ -3,7 +3,7 @@ title: Selbstakzeptanz und Selbstliebe I
 description: Wie verbessert sich mein Leben, wenn ich mich so annehme, wie ich bin?
 schlagwoerter: [Meditation, Achtsamkeit]
 publishdate: 2022-01-02
-lastmod: 2022-01-02 22:02:00
+lastmod: 2022-03-06 06:41:00
 ---
 
 {{< img src="/assets/images/self-acceptance.jpg" alt="Woman dancing in a summer field during sunset" caption="Foto von Jackson David auf unsplash.com" >}}
@@ -42,4 +42,6 @@ Je älter ich werde, desto besser lerne ich mich kennen. Ich betrachte mich heut
 ## Fazit
 
 Selbstakzeptanz kann man lernen. Keiner hat es geschafft, diesen Typen, mit dem er sein ganzes Leben verbringen muss, innerhalb von drei Tagen anzunehmen und zu lieben, aber kleine Schritte sind möglich. Und wenn ich diese immer wieder, jeden Tag, gehe, dann ändern sich meine Gewohnheiten nach und nach. Am Ende meines Lebens kann ich dann vielleicht sagen: Ich habe es geschafft, mir selbst ein guter Freund zu werden. 
-Falls Du Dich fragst, wie genau Du das machen kannst: Im nächsten Artikel schauen wir uns an, wie wir mehr Selbstakzeptanz und Selbstliebe in unserem Leben entwickeln können.
+Falls Du Dich fragst, wie genau Du das machen kannst: Im [nächsten Artikel][1] schauen wir uns an, wie wir mehr Selbstakzeptanz und Selbstliebe in unserem Leben entwickeln können.
+
+[1]: /artikel/2022/selbstliebe/

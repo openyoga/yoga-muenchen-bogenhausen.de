@@ -8,7 +8,7 @@ lastmod: 2022-12-03 08:35:00
 
 {{< img src="/assets/images/neues-bild-aussuchen.jpg" alt="Bild malen mit Dreieck der drei Doshas" >}}
 
-Ayurveda beschreibt mit den drei Doshas physiologische Grundprinzipien, die in der gesamten Natur wirken und auch unseren Körper und seine Funktionen regeln. Aus einer Verbindung von je zwei der fünf Elementen, die wir im [letzten Artikel][1] kennen gelernt haben, entsteht jeweils ein Dosha.
+Ayurveda beschreibt mit den drei Doshas physiologische Grundprinzipien, die in der gesamten Natur wirken und auch unseren Körper und seine Funktionen regeln. Aus einer Verbindung von je zwei der fünf Elemente, die wir im [letzten Artikel][1] kennen gelernt haben, entsteht jeweils ein Dosha.
 
 
 ## Fünf Element und drei Doshas
@@ -28,7 +28,7 @@ Pitta steht für Wärme, Temperatur, Temperament und Umwandlung. Im Körper wirk
 
 ## Vata
 
-Vata steht für Aktivität, Bewegung, Spontanität, Kreativität, Wahrnehmung, Trockenheit und Abbau. Im Körper wirkt es in nervalen Prozessen, der Atmung, der Absorption von Nahrung im Darm und der Ausscheidung der unverdaulichen Überreste sowie in den Emotionen. Vata sensibilisiert, erzeugt Wahrnehmugen im Körper und ist für die Entstehung von Schmerzen verantwortlich. Vata steht für Katabolismus, d.h. Abbau. Die Eigenschaften von Vata sind kalt, leicht, beweglich, rauh, locker und hart. Der Hauptsitz von Vata ist im Dickdarm und in den Beinen. 
+Vata steht für Aktivität, Bewegung, Spontanität, Kreativität, Wahrnehmung, Trockenheit und Abbau. Im Körper wirkt es in nervalen Prozessen, der Atmung, der Absorption von Nahrung im Darm und der Ausscheidung der unverdaulichen Überreste sowie den Emotionen. Vata sensibilisiert, erzeugt Wahrnehmugen im Körper und ist für die Entstehung von Schmerzen verantwortlich. Vata steht für Katabolismus, d.h. Abbau. Die Eigenschaften von Vata sind kalt, leicht, beweglich, rauh, locker und hart. Der Hauptsitz von Vata ist im Dickdarm und in den Beinen. 
 
 
 ## Gleichgewicht der Doshas

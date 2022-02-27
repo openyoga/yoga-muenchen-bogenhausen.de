@@ -11,7 +11,7 @@ In Israel ist die Shakshuka ein Frühstück, das man schon fast als Nationalgeri
 
 ## Zutaten
 
-- 4 grote und gelbe Paprika, geputzt und kleingeschnitten
+- 4 rote und gelbe Paprika, geputzt und kleingeschnitten
 - 1 Dose gehackte Tomaten
 - 2 Eier
 - 2 Zwiebeln, geschält und kleingeschnitten (alternativ Asafoitida)
