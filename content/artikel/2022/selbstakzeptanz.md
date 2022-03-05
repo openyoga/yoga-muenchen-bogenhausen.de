@@ -3,7 +3,7 @@ title: Selbstakzeptanz und Selbstliebe I
 description: Wie verbessert sich mein Leben, wenn ich mich so annehme, wie ich bin?
 schlagwoerter: [Meditation, Achtsamkeit]
 publishdate: 2022-01-02
-lastmod: 2022-03-06 06:41:00
+lastmod: 2022-03-05 06:41:00
 ---
 
 {{< img src="/assets/images/self-acceptance.jpg" alt="Woman dancing in a summer field during sunset" caption="Foto von Jackson David auf unsplash.com" >}}

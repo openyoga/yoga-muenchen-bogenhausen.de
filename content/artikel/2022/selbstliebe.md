@@ -2,8 +2,8 @@
 title: Selbstakzeptanz und Selbstliebe II
 description: Einfache Schritte zu einem besseren Umgang mit sich selbst
 schlagwoerter: [Meditation, Achtsamkeit]
-publishdate: 2022-03-06
-lastmod: 2022-03-06 06:40:00
+publishdate: 2022-03-05
+lastmod: 2022-03-05 06:42:00
 ---
 
 {{< img src="/assets/images/self-love.jpg" alt="Woman making heart sign with her fingers during sunset" caption="Foto von Jackson David auf unsplash.com" >}}

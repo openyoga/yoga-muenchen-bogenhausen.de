@@ -36,10 +36,10 @@ Feuer ist heiß, leicht, scharf, durchdringend, trocken, klar und subtil. Alle l
 Luft ist trocken, leicht, kalt, klar und beweglich. Alle leichten, beweglichen Substanzen werden dem Luftelement zugeordnet. Luft ist elektrische Energie. Als Prinzip der Bewegung sieht Ayurveda das Luftelement in den Bewegungen der Muskeln, dem rhythmischen Schlag unseres Herzens und im Ausdehnen und sich wieder Zusammenziehen der Lunge. Luft kann als Berührung wahrgenommen werden. Das Luftelement schenkt uns Glück, Frische, Freude und Erregung. Es wird auch mit Angst, Unsicherheit und Nervosität in Verbindung gebracht.
 
 
-## Raum/ Äther
+## Raum/Äther
 
-Äther/ Raum ist leer, hell, glatt, subtil, leicht, weich, durchdringend, zusammenziehend und ausdehnend zugleich. Raum ist ursprüngliche, nukleare Energie. In unserem Körper finden wir verschiedene Hohlräume im Mund, in der Nase und in den Atemorganen, im Brustkorb, im Bauch sowie im Magen-Darm-Trakt. Raum wird im Ayurveda mit Klang assoziiert. Raum schenkt uns Freiheit und Frieden, erweitert unser Bewusstsein, kann aber auch für ein Gefühl der Isolation, des Abgetrenntseins und der Leere sorgen.
+Äther/Raum ist leer, hell, glatt, subtil, leicht, weich, durchdringend, zusammenziehend und ausdehnend zugleich. Raum ist ursprüngliche, nukleare Energie. In unserem Körper finden wir verschiedene Hohlräume im Mund, in der Nase und in den Atemorganen, im Brustkorb, im Bauch sowie im Magen-Darm-Trakt. Raum wird im Ayurveda mit Klang assoziiert. Raum schenkt uns Freiheit und Frieden, erweitert unser Bewusstsein, kann aber auch für ein Gefühl der Isolation, des Abgetrenntseins und der Leere sorgen.
 
 ## Ausblick
 
-Im nächsten Artikel werden wir uns ansehen, wie aus jeweils zwei dieser fünf Elemente die Doshas (Konstitutionen) entstehen. Wer sein(e) Dosha(s) kennt, kann Gesundheit und Harmonie erlangen.
+Im nächsten Artikel werden wir uns ansehen, wie aus jeweils zwei dieser fünf Elementen die Doshas (Konstitutionen) entstehen. Wer sein(e) Dosha(s) kennt, kann Gesundheit und Harmonie erlangen.
