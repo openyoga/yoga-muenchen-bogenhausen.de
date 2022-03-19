@@ -3,8 +3,8 @@ title: Champignon-Spargelpfanne mit Quinoa
 description: Pflanzliche Protein-Power und Gemüse vereint
 rezeptarten: [Gemuese]
 hauptzutaten: [Champignons, Spargel, Tomaten, Quinoa]
-publishdate: 2022-04-01
-lastmod: 2022-04-01 07:43:00
+publishdate: 2022-04-02
+lastmod: 2022-04-02 07:43:00
 ---
 
 Dieses Rezept ist mehr oder weniger durch Zufall aus Resten entstanden. Wir haben es noch ein wenig verfeinert et voilà: Ein sowohl für Veganer als auch für Vegetarier sehr gesunder und schnell zubereiteter Genuss.

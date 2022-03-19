@@ -8,7 +8,7 @@ lastmod: 2022-12-03 08:35:00
 
 {{< img src="/assets/images/kapha-pitta-vata.jpg" alt="Graphik veranschaulicht, wie sich Kapha, Pitta und Vata über ihre Eigenschaften wechselseitig bedingen und beeinflussen" caption="Graphik in Anlehnung an: Das Ayurveda Lebensbuch: Praktischer Ratgeber für ganzheitliche Lebensführung, Vorsorge und Heilung von Reinhart und Monika Schacker (2013)" >}}
 
-Ayurveda beschreibt mit den drei Doshas physiologische Grundprinzipien, die in der gesamten Natur wirken und auch unseren Körper und seine Funktionen regeln. Aus einer Verbindung von je zwei der fünf Elementen, die wir im [letzten Artikel][1] kennen gelernt haben, entsteht jeweils ein Dosha.
+Ayurveda beschreibt mit den drei Doshas physiologische Grundprinzipien, die in der gesamten Natur wirken und auch unseren Körper und seine Funktionen regeln. Aus einer Verbindung von je zwei der fünf Elementen, die wir im [letzten Artikel][1] kennen gelernt haben, entsteht jeweils ein Dosha. Alle drei Doshas sind in jedem Menschen vorhanden - allerdings in unterschiedlich starken Ausprägungen.
 
 
 ## Fünf Elemente und drei Doshas

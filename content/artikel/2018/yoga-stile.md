@@ -3,7 +3,7 @@ title: Yoga Stile
 description: Ein kleines Was ist Was
 schlagwoerter: [Yoga, Yoga Stile]
 publishdate: 2018-03-03
-lastmod: 2018-03-03 20:01:00
+lastmod: 2022-03-19 08:21:00
 ---
 
 {{< img src="/assets/images/schulterstand.jpg" alt="Der Schulterstand" >}}
@@ -23,11 +23,9 @@ Vini Yoga wurde von T.K.V. Desikachar erfunden (geboren 1938, gestorben 2016 in 
 
 ## Yin Yoga / Faszienyoga
 
-Beim Yin Yoga werden die einzelnen Asanas (meist im Sitzen oder Liegen) länger gehalten (durchschnittlich fünf Minuten). So erreicht man eine Dehnung der Faszien, der tiefen Bindegewebsschichten. Yin Yoga ist ein wunderbarer Ausgleich zu einem sehr aktiven, stressigen Alltag und wirkt ähnlich regenerierend wie eine Meditation. Man verbessert damit auch seine Beweglichkeit, hält die Gelenke geschmeidig und kann Verspannungen und Blockaden lösen. Details im [Blog-Artikel][1] zum Yin Yoga/Faszienyoga. [Yin Yoga Workshops][2] bei Open Yoga MUC.
+Beim Yin Yoga werden die einzelnen Asanas (meist im Sitzen oder Liegen) länger gehalten (durchschnittlich fünf Minuten). So erreicht man eine Dehnung der Faszien, der tiefen Bindegewebsschichten. Yin Yoga ist ein wunderbarer Ausgleich zu einem sehr aktiven, stressigen Alltag und wirkt ähnlich regenerierend wie eine Meditation. Man verbessert damit auch seine Beweglichkeit, hält die Gelenke geschmeidig und kann Verspannungen und Blockaden lösen. Details im [Blogartikel][1] zum Yin Yoga/Faszienyoga.
 
 [1]: /artikel/2018/was-ist-yin-faszien-yoga/
-[2]: /workshops/#yinyogaworkshop
-
 
 ## Hatha Yoga
 
@@ -36,10 +34,7 @@ Hatha Yoga ist der Oberbegriff für klassisches, ganzheitliches Yoga, was es im 
 
 ## Rückenyoga
 
-Rückenyoga basiert auf dem Hatha Yoga, wobei der Fokus hier auf der Kräftigung von Bauch-, Rücken- und Schultermuskeln liegt und der ganze Körper gedehnt wird. Rückenyoga wird präventiv eingesetzt oder zur Behandlung schon bestehender Rückenbeschwerden. Asanas, die der Wirbelsäule schaden könnten werden nicht ausgeführt oder so abgewandelt, dass sie den Rücken gesund erhalten bzw. Rückenbeschwerden lindern. [Rückenyoga Workshops][3] bei Open Yoga MUC.
-
-[3]: /workshops/#rueckenyogaworkshop
-
+Rückenyoga basiert auf dem Hatha Yoga, wobei der Fokus hier auf der Kräftigung von Bauch-, Rücken- und Schultermuskeln liegt und der ganze Körper gedehnt wird. Rückenyoga wird präventiv eingesetzt oder zur Behandlung schon bestehender Rückenbeschwerden. Asanas, die der Wirbelsäule schaden könnten werden nicht ausgeführt oder so abgewandelt, dass sie den Rücken gesund erhalten bzw. Rückenbeschwerden lindern.
 
 ## Anusara Yoga
 
@@ -103,8 +98,4 @@ Luna Yoga wurde in den 1980er Jahren von der Deutschen Adelheid Ohlig (geboren 1
 
 ## Fazit
 
-Eines ist allen Stilen gemeinsam: Yoga führt Dich nach innen, bringt Dich näher zu Dir selbst, es harmonisiert Körper, Geist und Seele. Bei Open Yoga MUC bieten wir klassisches [Hatha Yoga][4], [Rückenyoga][5] und [Yin Yoga][6] an. Probier einfach unterschiedliche Angebote aus und spüre in Dich rein, was Dir persönlich gut tut.
-
-[4]: /workshops/#anfaengeryogaworkshop
-[5]: /workshops/#rueckenyogaworkshop
-[6]: /workshops/#yinyogaworkshop
+Eines ist allen Stilen gemeinsam: Yoga führt Dich nach innen, bringt Dich näher zu Dir selbst, es harmonisiert Körper, Geist und Seele. Probier einfach unterschiedliche Angebote aus und spüre in Dich rein, was Dir persönlich gut tut.
