@@ -8,7 +8,7 @@ lastmod: 2022-12-02 08:35:00
 
 {{< img src="/assets/images/5-herbs.jpg" alt="Five herbs with different colours arranged on five spoons" caption="Foto von Calum Lewis auf unsplash.com" >}}
 
-Die fünf Elemente (Mahabhutas) sind eines der grundlegendsten Konzepte des Ayurveda. Auf ihnen bauen die drei Doshas auf, die wir im nächsten Artikel kennen lernen werden. Die fünf Elemente sind: Erde, Wasser, Feuer, Luft und Äther/ Raum. 
+Die fünf Elemente (Mahabhutas) sind eines der grundlegendsten Konzepte des Ayurveda. Auf ihnen bauen die drei Doshas auf, die wir im nächsten Artikel kennen lernen werden. Die fünf Elemente sind: Erde, Wasser, Feuer, Luft und Äther/Raum. 
 
 
 ## Begriffliches Konzept der Mahabhutas

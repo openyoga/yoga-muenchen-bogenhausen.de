@@ -3,7 +3,7 @@ title: Selbstakzeptanz und Selbstliebe II
 description: Einfache Schritte zu einem besseren Umgang mit sich selbst
 schlagwoerter: [Meditation, Achtsamkeit]
 publishdate: 2022-03-05
-lastmod: 2022-03-05 06:42:00
+lastmod: 2022-03-06 07:53:00
 ---
 
 {{< img src="/assets/images/self-love.jpg" alt="Woman making heart sign with her fingers during sunset" caption="Foto von Jackson David auf unsplash.com" >}}
@@ -11,7 +11,7 @@ lastmod: 2022-03-05 06:42:00
 Jeder, der schon einmal geflogen ist, kennt die Sicherheitsannweisung im Flugzeug: Im Falle eines Sauerstoffmangels an Bord soll man sich erst selbst die Sauerstoffmaske überziehen, bevor man seinem Sitznachbarn dabei hilft. Und so funktioniert das mit der Selbstakzeptanz und Selbstliebe auch. Details zur Theorie kannst Du im [letzten Beitrag][1] nachlesen. In diesem Artikel geht es um die Frage, wie wir Schritt für Schritt mehr Selbstakzeptanz und Selbstliebe entwickeln können.
 
 
-## Mir Sebstliebe erlauben
+## Mir Selbstliebe erlauben
 
 Zunächst einmal muss ich mir Selbstakzeptanz und Selbstmitgefühl erlauben. Selbstliebe beginnt damit, dass ich es mir zugestehe, mein eigenes Leid zu lindern und gut für mich zu sorgen. Dieser erste Schritt erfordert Mut und viel Bewusstheit. Er bedeutet, dass ich mich jeden Tag daran erinnere, dass ich Liebe verdient habe. Und dass ich mir immer wieder bewusst mache, wenn ich einmal nicht liebevoll mit mir umgegangen bin und mein Verhalten und meine Art zu denken dann ändere. 
 
@@ -45,7 +45,7 @@ Neben der Meditation und der Achtsamkeitspraxis gibt es viele kleine Tipps, die 
 - Ich nehme Rücksicht auf meine eigenen Bedürfnisse, auf die Bedürfnisse meines Körpers und meiner Seele.
 - Ich nähre meinen Geist und meine Seele.
 - Ich mache mir meine Erfolge bewusst, schreibe sie auf und feiere sie.
-- Ich trete mit anderen in Beziehung, verbinde micht mit anderen, helfe anderen.
+- Ich trete mit anderen in Beziehung, verbinde mich mit anderen, helfe anderen.
 - Ich suche mir Gesprächspartner / eine Vertrauensperson, mit der ich in positiven Austausch treten kann.
 - Ich übe regelmäßig, mit mir selbst Verbindung aufzunehmen.
 - Ich verzichte auf Beziehungen zu Menschen, die mir schaden.

@@ -17,6 +17,7 @@ Dieses Rezept ist mehr oder weniger durch Zufall aus Resten entstanden. Wir habe
 - 4 Pellkartoffeln, gegart
 - 120 g Quinoa, gut abgespült
 - 150 ml Gemüsebrühe
+- 1 El Olivenöl
 - 1 Tl gemahlener Rosmarin
 - Pfeffer, frisch gemahlen
 - optional: Schmand oder Parmesan und Gruyère, frisch gerieben
@@ -24,14 +25,12 @@ Dieses Rezept ist mehr oder weniger durch Zufall aus Resten entstanden. Wir habe
 
 ## Zubereitung
 
-1. Die Gemüsebrühe mit dem Rosmarin und dem Quinoa in einen beschichteten Topf geben und für ca. 20 Minuten dünsten - den Deckel dabei leicht aufstehen lassen, damit die Flüssigkeit nach und nach verdunsten kann
+1. Gemüsebrühe, Olivenöl, Rosmarin und Quinoa in einen beschichteten Topf geben und für ca. 20 Minuten dünsten - den Deckel dabei leicht aufstehen lassen, damit die Flüssigkeit nach und nach verdunsten kann
 2. Für die letzten zehn Minuten die Tomatenstücke dazugeben 
 3. Für die letzten sechs Minuten die Champignons mitdünsten
 4. Kurz vor Ende der Garzeit (ein bis zwei Minuten) die Spargelstücke mit erwärmen
 5. Die Gemüsepfanne mit Pfeffer abschmecken und nach Wunsch noch mit Schmand oder geriebenem Käse dekorieren, Pellkartoffeln dazu servieren 
 
-
 Guten Appetit.
 
 Das Rezept reicht für zwei Personen als Hauptgericht. 
-
