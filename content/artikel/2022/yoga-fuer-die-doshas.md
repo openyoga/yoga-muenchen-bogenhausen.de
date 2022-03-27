@@ -35,7 +35,7 @@ Gute Übungen sind der Pflug, der Bogen, der Fisch, der Schulterstand und die Sc
 
 ## Vata
 
-Vata-Menschen sollten sich mit beruhigenden, erdenden Yogasessions etwas Gutes tun. Besonders zu empfehlen ist [Yin Yoga][3]: Das lange Halten der Asanas am Boden ist für sie zwar herausfordernd, dafür aber umso wohltuender. Sich entspannen und ganz der Asana hingeben, das ist das Ziel für Vata. Dabei liegt der Fokus auf das Zurruhebringen der Gedanken. Zwischenentspannungen lassen Zeit zum Nachspüren und auch die Endentspannung sollte nicht vernachlässigt werden.
+Vata-Menschen sollten sich mit beruhigenden, erdenden Yogasessions etwas Gutes tun. Besonders zu empfehlen ist [Yin Yoga][3]: Das lange Halten der Asanas am Boden ist für sie zwar herausfordernd, dafür aber umso wohltuender. Sich entspannen und ganz der Asana hingeben, das ist das Ziel für Vata. Dabei liegt der Fokus auf dem Zurruhebringen der Gedanken. Zwischenentspannungen lassen Zeit zum Nachspüren und auch die Endentspannung sollte nicht vernachlässigt werden.
 
 Besonders empfehlenswert sind folgende Asanas: Die Vorbeuge im Sitzen, der Pflug, die Heuschrecke, die Kobra, allgemein alle Rückbeugen, Shavasana und Meditation. Die Wechselatmung (Anuloma Viloma) wirkt beruhigend und harmonisierend. Sie kann auch vor dem Zubettgehen praktiziert werden, um besser einschlafen zu können.   
 
