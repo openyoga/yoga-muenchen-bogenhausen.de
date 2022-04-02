@@ -4,7 +4,7 @@ description: Pflanzliche Protein-Power und Gemüse vereint
 rezeptarten: [Gemuese]
 hauptzutaten: [Champignons, Spargel, Tomaten, Quinoa]
 publishdate: 2022-04-02
-lastmod: 2022-04-02 07:43:00
+lastmod: 2022-04-02 06:31:00
 ---
 
 Dieses Rezept ist mehr oder weniger durch Zufall aus Resten entstanden. Während der Spargelsaison schmeckt es noch besser mit frischem weißem Spargel, den wir putzen und in Wasser gar kochen, bevor wir ihn an das restliche Gemüse geben.
