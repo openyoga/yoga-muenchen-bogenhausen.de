@@ -1,6 +1,6 @@
 ---
-title: Hautpflege
-description: bla
+title: Kosmetik im Ayurveda
+description: Typgerechte Pflege für Haut und Haare
 schlagwoerter: [Ayurveda]
 publishdate: 2022-12-08
 lastmod: 2022-12-05 08:35:00
@@ -8,30 +8,46 @@ lastmod: 2022-12-05 08:35:00
 
 {{< img src="/assets/images/gesichtsmaske.jpg" alt="Face of woman with face mask holding avodcado half in her hand in front of one eye" caption="Foto von Kimia Zarifi auf unsplash.com">}} 
 
-Unser Geruchssinn ist eng mit unseren Emotionen verbunden: Das limbisches System verarbeitet sowohl olfaktorische als auch emotionale Reize. Aetherische Oele haben aber auch einen direkten Einfluss auf unsere Organe und unser zentrales Nervensystem. Anwenden kannst Du Duftoele z.B als Badezusatz, als Massageoel oder in der Duftlampe. Hier erfaehrst Du, welcher Duft fuer welches Dosha geeignet ist und welche Wirkung Du mit verschiedenen Dueften erzielen kannst.
+Du kannst Deine Haut mit natürlichen Substanzen gesund und schön halten - Ayurveda hat jede Menge einfache Tipps für die drei Doshas, die der folgende Blogpost beschreibt. 
+
+
+## Pflegesubstanzen aus der Natur
+
+Für alle Doshas wertvolle Wirkstoffe sind:
+
+- **Aloe Vera** hilft bei Verbrennungen, Ekzemen und Schuppenflechte
+- **Ringeblumensalbe** lindert Entzündungen
+- **Johanniskraut-, Sandelholz und Kokosöl** helfen bei Verbrennungen und Sonnenbrand; Sandelholz- und Kokosöl wirken kühlend
+- Gegen Akne und Hautunreinheiten hilft **Kamille**
+- Zur Belebung der Gesichtshaut kannst Du etwas **Honig, Rosenwasser und Amlapulver** mischen und 15 bis 20 Minuten einwirken lassen
+- **Gurkenschalen** erfrischen und straffen die Gesichtshaut
+
+## Gesichtsmasken
+
+Für die **Kapha-Haut** kannst Du eie Gesichtsmaske aus 200g Gurke, einem Teelöffel Kichererbsenmehl und einem Viertel Teelöffel Kurkuma-Pulver 20 bis 30 Minuten lang einwirken lassen, anschließend mit kaltem Wasser abspülen.
+
+Für die **Pitta- und die Vata-Haut** eignet sich eine Mischung aus zwei Esslöffeln Kichererbsenmehl, einem Esslöffel Ghee und etwas kalter Milch. Lasse die Maske 15 bis 20 Minuten einwirken und wasche sie danach mit kaltem Wasser ab.
+
+Für **alle Doshas** empfiehlt sich diese Gesichtsmaske, die wunderbar pflegt und reinigt: Vermische etwas Honig mit Kicherersenmehl und Wasser und trage es für 20 bis 30 Minuten auf die Haut auf. Spüle Dein Gesicht danach kalt ab.
+
+Im Folgenden noch einige Wirkstoffe aus der Natur speziell für die Doshas:
+
 
 ## Kapha
 
-Rosmarin wirkt anregend und aktivierend, der leichte Duft von Bergamotte hebt die Stimmung, Citronelle muntert Kapha-Menschen auf, wirkt kuehlend, hat eine ausgleichende Wirkung auf die Seele und ist gut geeignet, um Insekten abzuwehren. Lemongras wirkt erfrischend und stimmt optimistisch. Rosenholz foerdert die Aktivitaet, Ingwer wirkt erwaermend und schmerzlindern, auch Zimt erwaermt und steigert die Konzentration. Eine anregende Wirkung haben auch Wachholder und Kampfer.
+Da die Haut von Kapha-Menschen von Natur aus ölig ist, sind hier leichte Substanzen empfehlenswert: Honig, Gurke oder Quark.
 
 ## Pitta
 
-Kuehlend und ausgleichend wirken Minze, Zypresse, Orange und Geranium. Sandelholz duftet suesslich, beruhigt die Haut, waermt und wirkt heilend auf Lungen und Bronchien. Rose und Jasmin sind lieblich und ausgleichend.
+Wenn Du eine Pitta-Konstitution hast, benötigt Deine Haut kühlende Substanzen, z.B. Kokosöl, Rosenwasser, Ghee (indisches Butterschmalz) oder Milch. Auch Sandelholzpaste kühlt Deine Haut.
 
 ## Vata
 
-Lavendel beruhigt das Nervensystem, senkt den Blutdruck und kann stressbedingte Verspannungen loesen. Er wirkt auf depressive Menschen aktivierend. Auch Rosenduft loest Spannungen und beruhigt, foerdert Liebe und Zuneingung und wirkt zentrierend. Weihrauch beruhigt, foerdert Ruhe und Konzentration und eignet sich gut fuer die Meditation. Orange wirkt beruhigend und erfrischend zugleich. Basilikum und Nelke erwaermen, Muskatellersalbei wirkt krampfloesend und stimmungsaufhellend. 
+Die Vata-Haut benötigt nährende und fettende Substanzen, z.B. Sesamöl, Olivenöl, Mandelöl, Rahm oder Kichererbsenmehl.
 
-## Spezielle Wirkungen erzielen
 
-**Beruhigend** Viele Duefte haben eine beruhigend Wirkung, z.B Thymian, Salbei, Pinie, Muskatnuss, Oregano, Rose, Ylang-Ylang, Birke, Baldrian, Labendel, Kamille, Johanniskraut, Thymian, Schafgarbe, Angelika, Sandelholz, Weihrauch, Myrrhe, Basilikum, Anis, Ysop und Zeder.
+## Pflege für Kopfhaut und Haare
 
-**Belebend** Pfeffer, Patchouli, Minze, Rosmarin, Angelika, Zitrone, Eukalyptus, Jasmin, Myrte, Majoran, Wacholder, Kamper, Zypresse und Thymian wirken beruhigend.
+Mit Kokos- oder Sesamöl kannst Du Deine Kopfhaut massieren - lasse es über Nacht einwirken und wasche Deine Haare am nächsten Morgen mit einem milden Shampoo. Kokosöl eignet sich besonders für Pitta-Konstitutionen, Sesamöl für Vata-Konstitutionen. Kapha-Typen verwenden am besten ein leichtes Öl für die Kopfmassage, z.B. Sonnenblumenöl.
 
-**Gegen Depressionen** eignen sich besonders Basilikum, Bergamotte, Vanille, Neroli, Patchoulie, Lavendel, Sandelholz, Johanisskraut und Melisse. Majoran lindert Traurigkeit
-
-**Gegen Angst und Nervositate** sind Bergamotte, Vanille, Zypresse, Geranie, Lavendel, Melisse, Neroli, Rose, Sandelholz, Ylang-Ylang, Zeder zu empfehlen. 
-
-**Bei Erkaeltung** koennen Basilikum, Fenchel, Kamille, Minze, Pinie, Roasmarin, Thymian, Zitrone, Myrte, Ysop oder Oregano Linderung verschaffen. Eukalyptus wirkt krampfloesend und befreit von Schleim. Thymian hilft gegen Husten. 
-
-[1]: /artikel/2022/doshas-im-wandel-der-zeiten#Tageszeiten
+Als Haarspülung für alle Doshas empfiehlt sich eine Mischung aus zwei Teelöffeln Honig, einem Esslöffel Zitronensaft oder Essig und fünf Esslöffeln Wasser. Lasse die Spülung eine Minute in Deinen Haaren einwirken, bevor Du sie mit kaltem Wasser ausspülst.

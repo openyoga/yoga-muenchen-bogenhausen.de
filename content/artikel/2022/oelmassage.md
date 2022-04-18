@@ -1,7 +1,7 @@
 ---
 title: Ölmassage zu Hause
 description: Wellness und Gesundheit mit Abhyanga
-schlagwörter: [Ayurveda]
+schlagwoerter: [Ayurveda]
 publishdate: 2022-12-08
 lastmod: 2022-12-05 08:35:00
 ---
