@@ -1,9 +1,9 @@
 ---
-title: Was ist Ayurveda
+title: Was ist Ayurveda?
 description: Definition und Prinzipien der uralten indischen Heilkunst
 schlagwoerter: [Ayurveda]
-publishdate: 2022-12-01
-lastmod: 2022-12-01 08:35:00
+publishdate: 2022-05-01
+lastmod: 2022-05-01 08:35:00
 ---
 
 {{< img src="/assets/images/ayurveda.jpg" alt="Woman treating herself holistically by applying oil onto the skin of her wrist" caption="Foto von Chelsea Shapouri auf unsplash.com">}}
@@ -18,7 +18,7 @@ Aber was genau heißt es, in Harmonie mit den Naturgesetzen zu leben?
 
 ## Definition von Ayurveda
 
-Ayurveda ist das Wissen vom (langen) Leben. Der Begriff setzt sich aus veda = Wissen, Wissenschaft und ayus = Leben, Lebensspanne, Lebensdauer zusammen. Ayurveda ist ein ganzheitliches Medizinsystem, das alle Aspekte des Lebens vom Moment der Empfängnis bis zum Tod umfasst. Die drei Hauptziele des Ayurveda sind: Krankheiten heilen, die Gesundheit erhalten und die Lebensspanne verlängern. 
+Ayurveda ist das Wissen vom (langen) Leben. Der Begriff setzt sich aus *veda* (Wissen, Wissenschaft) und *ayus* (Leben, Lebensspanne, Lebensdauer) zusammen. Ayurveda ist ein ganzheitliches Medizinsystem, das alle Aspekte des Lebens vom Moment der Empfängnis bis zum Tod umfasst. Die drei Hauptziele des Ayurveda sind: Krankheiten heilen, die Gesundheit erhalten und die Lebensspanne verlängern. 
 
 Es geht dabei aber nicht nur um Prävention von Krankheiten oder deren Beseitigung, sondern auch um spirituelle Erfüllung. Unsere Seele bewohnt gerade diesen Körper und diese Psyche: Wir wollen beide rein, gesund und zufrieden halten. Dabei sollten wir aber nicht vergessen, dass unsere Seele nicht an diesen einen Körper mit seiner Psyche gebunden ist. 
 Körper, Geist und Bewusstsein werden im Ayurveda nicht getrennt betrachtet, sondern als Einheit behandelt. Durch die richtige Lebensweise fördern wir körperliche und psychische Gesundheit und Harmonie und leben in Verantwortung für uns selbst und für andere.
@@ -33,10 +33,10 @@ Während der buddhistischen Epoche (ca. 600 v. Chr. bis 1.000 n. Chr.) wurden zw
 
 ## Harmonie im Ayurveda
 
-Die drei Säulen der Gesundheit im Ayurveda sind: Eine gesunde Ernährung und damit einhergehend eine optimale Verdauung, richtiger und gesunder Schlaf bzw. genügend Erholungspausen sowie eine geregelte, liebevolle und achtsame Sexualität. Wenn diese nicht in Balance sind, werden wir krank: Wir sollten nicht allen Gelüsten nachgeben, sondern uns überwiegend gesund ernähren. Wir sollten zur richtigen Zeit und ausreichend lang, aber nicht zu lang schlafen und uns regelmäßig Ruhepausen nehmen. Mit unserem Partner sollten wir eine rücksichtsvolle und achtsame Sexualität pflegen. Was die richtige Ernährung, die richtigen Schlafenszeiten und das richtige Maß an Sexulität sind, hängt von der Konstituion des Einzelnen ab, auf die wir in späteren Artikeln noch näher eingehen werden. 
+Die drei Säulen der Gesundheit im Ayurveda sind: Eine gute Ernährung und damit einhergehend eine optimale Verdauung, richtiger und gesunder Schlaf bzw. genügend Erholungspausen sowie eine geregelte, liebevolle und achtsame Sexualität. Wenn diese nicht in Balance sind, werden wir krank: Wir sollten nicht allen Gelüsten nachgeben, sondern uns überwiegend gesund ernähren. Wir dürfen zur richtigen Zeit und ausreichend lang, aber nicht zu lang schlafen und uns regelmäßig Ruhepausen gönnen. Mit unserem Partner wollen wir eine rücksichtsvolle und achtsame Sexualität pflegen. Was die gesunde Ernährung, die richtigen Schlafenszeiten und das beste Maß an Sexulität sind, hängt von der Konstituion des Einzelnen ab, auf die wir in späteren Artikeln noch näher eingehen werden. 
 
-Die zentrale Idee im Ayurveda ist jedenfalls, in seinem Leben ein Gleichgewicht, einen Zustand von Harmonie zu erhalten bzw. immer wieder neu herzustellen. Körper, Geist und Seele in Einklang zu bringen ist das Ziel von Ayurveda. Dabei können uns eine gesunde Ernährung, eine gute Lebensgestaltung, Bewegung und Körpertraining, Ruhe und Entspannung, Meditation, Atemübungen, Heilkräuter, Reinigungs- und Verjüngungsmaßnahmen unterstützen.
+Die zentrale Idee von Ayurveda ist, ein Gleichgewicht, einen Zustand von Harmonie im Leben zu erhalten bzw. immer wieder neu herzustellen: Wir wollen Körper, Geist und Seele in Einklang bringen. Dabei können uns eine gesunde Ernährung, eine gute Lebensgestaltung, Bewegung und Sport, Ruhe und Entspannung, Meditation, Atemübungen, Heilkräuter, Reinigungs- und Verjüngungsmaßnahmen unterstützen.
 
-Wie man dieses Gleichgewicht in Abhängigkeit von seiner persönlichen Konstitution erreichen kann, darum wird es in den folgenden Artikeln gehen. Wer sich für die Unterschiede und die Gemeinsamkeiten von Yoga und Ayurveda interessiert, kann sich [den Blogartikel von 2019][1] ansehen.
+Wie Du dieses Gleichgewicht in Abhängigkeit von Deiner persönlichen Konstitution erreichen kannst, darum wird es in den folgenden Artikeln gehen. Wenn Du Dich für die Unterschiede und Gemeinsamkeiten von Yoga und Ayurveda interessierst, kannst Du Dir [unseren Blogartikel dazu][1] ansehen.
 
 [1]: /artikel/2019/yoga-ayurveda/
