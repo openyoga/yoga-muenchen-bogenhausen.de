@@ -3,7 +3,7 @@ title: Was ist Ayurveda?
 description: Definition und Prinzipien der uralten indischen Heilkunst
 schlagwoerter: [Ayurveda]
 publishdate: 2022-05-01
-lastmod: 2022-05-01 08:35:00
+lastmod: 2022-05-01 08:48:00
 ---
 
 {{< img src="/assets/images/ayurveda.jpg" alt="Woman treating herself holistically by applying oil onto the skin of her wrist" caption="Foto von Chelsea Shapouri auf unsplash.com">}}
@@ -21,6 +21,7 @@ Aber was genau heißt es, in Harmonie mit den Naturgesetzen zu leben?
 Ayurveda ist das Wissen vom (langen) Leben. Der Begriff setzt sich aus *veda* (Wissen, Wissenschaft) und *ayus* (Leben, Lebensspanne, Lebensdauer) zusammen. Ayurveda ist ein ganzheitliches Medizinsystem, das alle Aspekte des Lebens vom Moment der Empfängnis bis zum Tod umfasst. Die drei Hauptziele des Ayurveda sind: Krankheiten heilen, die Gesundheit erhalten und die Lebensspanne verlängern. 
 
 Es geht dabei aber nicht nur um Prävention von Krankheiten oder deren Beseitigung, sondern auch um spirituelle Erfüllung. Unsere Seele bewohnt gerade diesen Körper und diese Psyche: Wir wollen beide rein, gesund und zufrieden halten. Dabei sollten wir aber nicht vergessen, dass unsere Seele nicht an diesen einen Körper gebunden ist. 
+
 Körper, Geist und Bewusstsein werden im Ayurveda nicht getrennt betrachtet, sondern als Einheit behandelt. Durch die richtige Lebensweise fördern wir körperliche und psychische Gesundheit und Harmonie und leben in Verantwortung für uns selbst und für andere.
 
 
