@@ -9,6 +9,6 @@
     "grunt-notify": "^0.4.5",
     "grunt-sass": "^3.0.2",
     "grunt-sass-lint": "^0.2.4",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
