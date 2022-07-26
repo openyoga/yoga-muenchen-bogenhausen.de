@@ -2,8 +2,8 @@
 title: Die fünf Elemente im Ayurveda
 description: Was sind die Mahabhutas?
 schlagwoerter: [Ayurveda]
-publishdate: 2022-12-02
-lastmod: 2022-12-02 08:35:00
+publishdate: 2022-07-17
+lastmod: 2022-07-17 07:45:00
 ---
 
 {{< img src="/assets/images/5-herbs.jpg" alt="Five herbs with different colours arranged on five spoons" caption="Foto von Calum Lewis auf unsplash.com" >}}
