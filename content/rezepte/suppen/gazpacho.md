@@ -14,8 +14,8 @@ Im Hochsommer lieben wir leichte und erfrischende Gerichte. Diese Gazpacho mache
 
 - 300 g Salatgurke, gewaschen und fein gewürfelt
 - 1 grüne Paprika, geputzt und in feine Stücke geschnitten
-- 1 Dose Kichererbsen, abgespült und abgetropft
-- 1 Dose gehackte Tomaten
+- 1 Dose gehackte Tomaten (425 ml)
+- 250 g Kichererbsen (425 ml Dose), abgespült und abgetropft
 - 2 Eier, hartgekocht und fein gewürfelt
 - ½ Bund glatte Petersilie, fein gehackt
 - 2 Tl Olivenöl

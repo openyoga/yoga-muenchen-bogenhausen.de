@@ -13,7 +13,7 @@ Dieses Rezept ist ein tolles Beispiel dafür, dass auch ein Salat ohne Fleisch s
 ## Zutaten
 
 - 6 Bunte Paprika, kleingeschnitten
-- 425 ml Dose Kichererbsen, abgetropft
+- 250 g Kichererbsen (425 ml Dose), abgespült und abgetropft
 - 150 g Dinkel wie Reis
 - 20 Oliven, kleingeschnitten
 - 1 Bund glatte Petersilie, geputzt und kleingehackt

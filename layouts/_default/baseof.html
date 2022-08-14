@@ -8,7 +8,7 @@
   <title>{{ index $.Site.Data.labels .Title | default .Title | default .Site.Title | htmlEscape }}</title>
   {{ if .Description }}<meta name="description" content="{{ .Description | htmlEscape | chomp | truncate 160 }}">{{ else }}{{ "<!-- no description available -->" | safeHTML }}{{ end }}
   <meta name="author" content="{{ block "author-meta-content" . }}{{ partial "author-meta-content.html" . }}{{ end }}">
-  {{ .Hugo.Generator }}
+  {{ hugo.Generator }}
   <link rel="stylesheet" href="{{ "/assets/css/main.min.css" | relURL }}">
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="alternate" type="application/atom+xml" title="{{ .Site.Title | htmlEscape }} - Alle Inhalte" href="{{ .Site.BaseURL }}/index.xml">
