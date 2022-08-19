@@ -1,13 +1,13 @@
 ---
 title: Sommer-Auberginen
-description:  So schmeckt bei uns der Sommer
+description:  Erfrischend abgeschmeckt mit Limettensaft
 rezeptarten: [Gemuese]
 hauptzutaten: [Aubergine, Kichererbsen, Oliven, Pecorino]
 publishdate: 2022-08-14
-lastmod: 2022-08-14 17:05:02
+lastmod: 2022-08-16 18:11:02
 ---
 
-Ein leichtes und leckeres vegetarisches Gericht, das schnell zubereitet ist und wunderbar sommerlich schmeckt.
+Ein leichtes und leckeres vegetarisches Gericht, das schnell zubereitet ist und wunderbar sommerlich schmeckt. Der Limettensaft sorgt für eine Extraportion Erfrischung.
 
 
 ## Zutaten
