@@ -3,7 +3,7 @@ title: Die fünf Elemente im Ayurveda
 description: Was sind die Mahabhutas?
 schlagwoerter: [Ayurveda]
 publishdate: 2022-07-17
-lastmod: 2022-07-17 07:45:00
+lastmod: 2022-09-19 07:05:00
 ---
 
 {{< img src="/assets/images/5-herbs.jpg" alt="Five herbs with different colours arranged on five spoons" caption="Foto von Calum Lewis auf unsplash.com" >}}
@@ -42,4 +42,6 @@ Luft ist trocken, leicht, kalt, klar und beweglich. Alle leichten, beweglichen S
 
 ## Ausblick
 
-Im nächsten Artikel werden wir uns ansehen, wie aus jeweils zwei dieser fünf Elementen die Doshas (Konstitutionen) entstehen. Wer sein(e) Dosha(s) kennt, kann Gesundheit und Harmonie erlangen.
+Im [nächsten Artikel][1] werden wir uns ansehen, wie aus jeweils zwei dieser fünf Elementen die Doshas (Konstitutionen) entstehen. Wer sein(e) Dosha(s) kennt, kann Gesundheit und Harmonie erlangen.
+
+[1]: /artikel/2022/die-3-doshas-im-ayurveda/

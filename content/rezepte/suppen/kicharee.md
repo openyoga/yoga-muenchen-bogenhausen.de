@@ -3,8 +3,8 @@ title: Kicharee
 description: Ein leicht verdaulicher Eintopf 
 rezeptarten: [Suppe]
 hauptzutaten: [Mungdal, Basmatireis, Ingwer]
-publishdate: 2022-09-23
-lastmod: 2022-09-23 04:52:00
+publishdate: 2022-10-23
+lastmod: 2022-10-23 04:52:00
 ---
 
 Diesen nahrhaften ayurvedischen Eintopf essen wir, um die Verdauung zu entlasten und auch waehrend einer Fastenkur oder einer Erkaeltung einen gluecklichen Bauch zu haben.

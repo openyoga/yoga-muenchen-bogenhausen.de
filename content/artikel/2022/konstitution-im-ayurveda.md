@@ -26,7 +26,7 @@ Der Pitta-Typ hat einen mittleren Körperbau, ist meist athletisch und muskulös
 
 ## Vata
 
-Der Vata-Typ ist sehr schlank bis hager mit einem knochigen oder sehnigen Körperbau. Er hat oft deutlich sichtbare Sehnen und Adern, eine trockene, raue Haut, brüchige Fingernägel und Haare. Vata-Typen neigen zum Frieren und haben oft kalte Hände und Füße. Sie haben einen sehr unregelmäßigen Stoffwechsel und Appetit und leiden desöfteren unter Blähungen oder Verstopfungen. Der Geist von Vata-Menschen ist unrunig und unstet; sie lassen sich leicht ablenken, sind aber auch ausgesprochen kreativ. Wenn Vata gestört ist, entwickeln sich oft Spannungs- oder Schmerzzustände, Allergien, Arthrosen oder Erkrankungen des Nervensystems.
+Der Vata-Typ ist sehr schlank bis hager mit einem knochigen oder sehnigen Körperbau. Er hat oft deutlich sichtbare Sehnen und Adern, eine trockene, raue Haut, brüchige Fingernägel und Haare. Vata-Typen neigen zum Frieren und haben oft kalte Hände und Füße. Sie haben einen sehr unregelmäßigen Stoffwechsel und Appetit und leiden desöfteren unter Blähungen oder Verstopfungen. Der Geist von Vata-Menschen ist unruhig und unstet; sie lassen sich leicht ablenken, sind aber auch ausgesprochen kreativ. Wenn Vata gestört ist, entwickeln sich oft Spannungs- oder Schmerzzustände, Allergien, Arthrosen oder Erkrankungen des Nervensystems.
 
 
 ## Konstitutionsbestimmung

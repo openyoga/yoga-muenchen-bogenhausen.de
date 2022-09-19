@@ -3,8 +3,8 @@ title: Gebackener Kuerbis mit Karotten
 description:  Grillgemuese in orange
 rezeptarten: [Gemuese]
 hauptzutaten: [Kuerbis, Karotten]
-publishdate: 2022-09-23
-lastmod: 2022-09-23 04:52:00
+publishdate: 2022-10-23
+lastmod: 2022-10-23 04:52:00
 ---
 
 Wir garen unseren Kuerbis mit Karotten im Ofen auf einem Backblech. Dadurch wird das Gemuese leicht suess im Geschmack - lecker zu Kicharee (LINK) oder einfach so als Beilage zu Deinem Lieblingsessen.

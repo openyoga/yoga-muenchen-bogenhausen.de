@@ -2,8 +2,8 @@
 title: Die drei Doshas im Ayurveda
 description: Was sind Kapha, Pitta und Vata?
 schlagwoerter: [Ayurveda]
-publishdate: 2022-12-03
-lastmod: 2022-12-03 08:35:00
+publishdate: 2022-09-19
+lastmod: 2022-09-19 07:05:00
 ---
 
 {{< img src="/assets/images/kapha-pitta-vata.jpg" alt="Graphik veranschaulicht, wie sich Kapha, Pitta und Vata über ihre Eigenschaften wechselseitig bedingen und beeinflussen" caption="Graphik in Anlehnung an: Das Ayurveda Lebensbuch: Praktischer Ratgeber für ganzheitliche Lebensführung, Vorsorge und Heilung von Reinhart und Monika Schacker (2013)" >}}
@@ -23,7 +23,7 @@ Kahpha repräsentiert Zusammenhalt, Stabilität, Festigkeit, Ruhe, Fülle, Volum
 
 ## Pitta
 
-Pitta steht für Wärme, Temperatur, Temperament und Umwandlung. Im Körper wirkt es im Blut, in hormonellen Prozessen, in der Haut, der Verdauung, der Körpertemperatur und in den Abwehrkräften. Pitta steht für Metablolismus, d.h. Umwandlung und Stoffwechsel. Die Eigenschaften von Pitta sind heiß, scharf, leicht, ölig, weich, flüssig, klar, beweglich und durchdringend. Der Hauptsitz von Pitta ist in der Leber und im Zwölffingerdarm. Pitta steht auch für den Aufbau von Intelligenz und Selbstvertrauen.
+Pitta steht für Wärme, Temperatur, Temperament und Umwandlung. Im Körper wirkt es im Blut, in hormonellen Prozessen, in der Haut, der Verdauung, der Körpertemperatur und in den Abwehrkräften. Pitta steht für Metabolismus, d.h. Umwandlung und Stoffwechsel. Die Eigenschaften von Pitta sind heiß, scharf, leicht, ölig, weich, flüssig, klar, beweglich und durchdringend. Der Hauptsitz von Pitta ist in der Leber und im Zwölffingerdarm. Pitta steht auch für den Aufbau von Intelligenz und Selbstvertrauen.
 
 
 ## Vata
