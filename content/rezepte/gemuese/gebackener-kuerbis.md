@@ -7,7 +7,7 @@ publishdate: 2022-10-23
 lastmod: 2022-10-23 04:52:00
 ---
 
-Wir garen unseren Kuerbis mit Karotten im Ofen auf einem Backblech. Dadurch wird das Gemuese leicht suess im Geschmack - lecker zu Kicharee (LINK) oder einfach so als Beilage zu Deinem Lieblingsessen.
+Wir garen unseren Kuerbis mit Karotten im Ofen auf einem Backblech. Dadurch wird das Gemuese leicht suess im Geschmack - lecker zu [Kicharee][1] oder einfach so als Beilage zu Deinem Lieblingsessen.
 
 ## Zutaten
 
@@ -29,3 +29,5 @@ Wir garen unseren Kuerbis mit Karotten im Ofen auf einem Backblech. Dadurch wird
 Bon appétit.
 
 Das Rezept reicht für zwei bis drei Personen als Beilage. 
+
+[1]: /rezepte/kicharee/

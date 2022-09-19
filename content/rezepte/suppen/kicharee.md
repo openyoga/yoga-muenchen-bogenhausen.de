@@ -31,4 +31,6 @@ Diesen nahrhaften ayurvedischen Eintopf essen wir, um die Verdauung zu entlasten
 3. Dann den Basmatireis unterruehren und weitere 20 Minuten koecheln lassen bis Reis und Bohnen weich sind. Bei Bedarf zwischendurch etwas Wasser hinzufuegen. Mit Salz wuerzen.
 4. Wenn das Kicharee fertig gekocht ist, Kokosraspeln und Limettensaft unterruehren.
 
-Reicht für vier Personen. Dazu essen wir im Ofen gegartes Gemuese, z.B. Kuerbis mit Karotten (LINK).
+Reicht für vier Personen. Dazu essen wir im Ofen gegartes Gemuese, z.B. [Kuerbis mit Karotten][1].
+
+[1]: /rezepte/gebackener-kuerbis/

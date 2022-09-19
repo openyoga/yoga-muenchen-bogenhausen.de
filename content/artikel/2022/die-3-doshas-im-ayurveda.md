@@ -3,10 +3,10 @@ title: Die drei Doshas im Ayurveda
 description: Was sind Kapha, Pitta und Vata?
 schlagwoerter: [Ayurveda]
 publishdate: 2022-09-19
-lastmod: 2022-09-19 07:05:00
+lastmod: 2022-09-19 09:02:00
 ---
 
-{{< img src="/assets/images/kapha-pitta-vata.jpg" alt="Graphik veranschaulicht, wie sich Kapha, Pitta und Vata über ihre Eigenschaften wechselseitig bedingen und beeinflussen" caption="Graphik in Anlehnung an: Das Ayurveda Lebensbuch: Praktischer Ratgeber für ganzheitliche Lebensführung, Vorsorge und Heilung von Reinhart und Monika Schacker (2013)" >}}
+{{< img src="/assets/images/drei-doshas.jpg" alt="Graphik veranschaulicht, wie sich Kapha, Pitta und Vata über ihre Eigenschaften wechselseitig bedingen und beeinflussen" caption="Graphik in Anlehnung an: Das Ayurveda Lebensbuch: Praktischer Ratgeber für ganzheitliche Lebensführung, Vorsorge und Heilung von Reinhart und Monika Schacker (2013)" >}}
 
 Ayurveda beschreibt mit den drei Doshas physiologische Grundprinzipien, die in der gesamten Natur wirken und auch unseren Körper und seine Funktionen regeln. Aus einer Verbindung von je zwei der fünf Elementen, die wir im [letzten Artikel][1] kennen gelernt haben, entsteht jeweils ein Dosha. Alle drei Doshas sind in jedem Menschen vorhanden - allerdings in unterschiedlich starken Ausprägungen.
 
@@ -18,7 +18,7 @@ Aus Erde und Wasser entsteht Kapha. Kapha hat die Funktion von Zusammenhalt, Sta
 
 ## Kapha
 
-Kahpha repräsentiert Zusammenhalt, Stabilität, Festigkeit, Ruhe, Fülle, Volumen, Ausgeglichenheit, Aufbau und Stärke. Es wirkt im Körper im zellulären Bereich, bei Wachstum und Regeneration. Kapha steht für Anabolismus, d.h. Aufbau. Die Eigenschaften von Kapha sind kalt, schwer, stabil, unbeweglich, ölig, fettig, feucht, weich, langsam und klebrig. Der Hauptsitz von Kapha im menschlichen Körper ist im Kopf, in der Brust und im Magen. Kapha kräftigt und kühlt Herz und Sinnesorgane, sorgt für Heilung und auch für die Speicherung, z.B. von Wissen.
+Kapha repräsentiert Zusammenhalt, Stabilität, Festigkeit, Ruhe, Fülle, Volumen, Ausgeglichenheit, Aufbau und Stärke. Es wirkt im Körper im zellulären Bereich, bei Wachstum und Regeneration. Kapha steht für Anabolismus, d.h. Aufbau. Die Eigenschaften von Kapha sind kalt, schwer, stabil, unbeweglich, ölig, fettig, feucht, weich, langsam und klebrig. Der Hauptsitz von Kapha im menschlichen Körper ist im Kopf, in der Brust und im Magen. Kapha kräftigt und kühlt Herz und Sinnesorgane, sorgt für Heilung und auch für die Speicherung, z.B. von Wissen.
 
 
 ## Pitta
@@ -28,7 +28,7 @@ Pitta steht für Wärme, Temperatur, Temperament und Umwandlung. Im Körper wirk
 
 ## Vata
 
-Vata steht für Aktivität, Bewegung, Spontanität, Kreativität, Wahrnehmung, Trockenheit und Abbau. Im Körper wirkt es in nervalen Prozessen, in der Atmung, der Absorption von Nahrung im Darm und der Ausscheidung der unverdaulichen Überreste sowie in den Emotionen. Vata sensibilisiert, erzeugt Wahrnehmugen im Körper und ist für die Entstehung von Schmerzen verantwortlich. Vata steht für Katabolismus, d.h. Abbau. Die Eigenschaften von Vata sind kalt, leicht, beweglich, rauh, locker und hart. Der Hauptsitz von Vata ist im Dickdarm und in den Beinen. 
+Vata steht für Aktivität, Bewegung, Spontanität, Kreativität, Wahrnehmung, Trockenheit und Abbau. Im Körper wirkt es in nervalen Prozessen, in der Atmung, der Absorption von Nahrung im Darm und der Ausscheidung der unverdaulichen Überreste sowie in den Emotionen. Vata sensibilisiert, erzeugt Wahrnehmungen im Körper und ist für die Entstehung von Schmerzen verantwortlich. Vata steht für Katabolismus, d.h. Abbau. Die Eigenschaften von Vata sind kalt, leicht, beweglich, rauh, locker und hart. Der Hauptsitz von Vata ist im Dickdarm und in den Beinen. 
 
 
 ## Gleichgewicht der Doshas
