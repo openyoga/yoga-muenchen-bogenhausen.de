@@ -4,7 +4,7 @@ description: Der Klassiker in unserer Küche
 rezeptarten: [Suppe]
 hauptzutaten: [Kürbis, Milch]
 publishdate: 2018-12-13
-lastmod: 2018-12-15 20:00:00
+lastmod: 2022-10-01 18:00:00
 ---
 
 Im Herbst kaufen wir immer Vorräte von unserem Lieblingskürbis ein, der länglich geformten Butternuss - auch Muskatkürbis genannt. Der wird dann in Scheiben geschnitten, geschält und in Würfel zerteilt. Die Würfel frieren wir in Portionen a 350 Gramm ein und so können wir uns dieses cremige Süppchen jederzeit aus dem Vorrat zaubern.
@@ -12,11 +12,11 @@ Im Herbst kaufen wir immer Vorräte von unserem Lieblingskürbis ein, der längl
 
 ## Zutaten
 
-- 350 g Kürbis (Sorte Butternuss/Muskatkürbis), geschält und gewürfelt
+- 400 g Kürbis (Sorte Butternuss/Muskatkürbis), geschält und gewürfelt
 - 500 ml Gemüsebrühe
 - 300 ml Milch (Milch von glücklichen Kühen; alternativ Hafer- oder Mandelmilch)
 - 50 g Butter (oder Kokosöl)
-- 4 El Sonnenblumenkere, in einer beschichteten Pfanne geröstet
+- 4 El Sonnenblumenkerne, in einer beschichteten Pfanne geröstet
 - 4 El frisch geriebener Parmesan
 - 1 Tl Asafoetida (oder zwei sehr klein geschnittene Schalotten/kleine Zwiebeln)
 - 1 Prise Muskatnuss

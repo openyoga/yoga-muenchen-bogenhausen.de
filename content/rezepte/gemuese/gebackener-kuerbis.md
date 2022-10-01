@@ -1,18 +1,18 @@
 ---
-title: Gebackener Kuerbis mit Karotten
-description:  Grillgemuese in orange
+title: Gebackener Kürbis mit Karotten
+description:  Grillgemüse in orange
 rezeptarten: [Gemuese]
 hauptzutaten: [Kuerbis, Karotten]
 publishdate: 2022-10-23
 lastmod: 2022-10-23 04:52:00
 ---
 
-Wir garen unseren Kuerbis mit Karotten im Ofen auf einem Backblech. Dadurch wird das Gemuese leicht suess im Geschmack - lecker zu [Kicharee][1] oder einfach so als Beilage zu Deinem Lieblingsessen.
+Wir garen unseren Kürbis mit Karotten im Ofen auf einem Backblech. Dadurch wird das Gemüse leicht süss im Geschmack - lecker zu [Kicharee][1] oder einfach so als Beilage zu Deinem Lieblingsessen.
 
 ## Zutaten
 
-- 400 g Kuerbis, geschaelt und grob gewuerfelt
-- 300 g Karotten, geputzt und in Stuecke geschnitten
+- 400 g Kürbis, geschaelt und grob gewuerfelt
+- 300 g Karotten, geputzt und in Stücke geschnitten
 - 3 El Olivenöl
 - Pfeffer
 - Meersalz
@@ -21,9 +21,9 @@ Wir garen unseren Kuerbis mit Karotten im Ofen auf einem Backblech. Dadurch wird
 ## Zubereitung
 
 1. Den Backofen auf 180 Grad Umluft vorheizen
-2. Kuerbis und Karotten in einer Schüssel mit Olivenöl, Pfeffer und Meersalz verrühren und auf ein Backblech legen
+2. Kürbis und Karotten in einer Schüssel mit Olivenöl, Pfeffer und Meersalz verrühren und auf ein Backblech legen
 3. Für 20 bis 25 Minuten bei 180 Umluft Grad im Backofen garen
-4. Gegen Ende der Garzeit aufpassen, dass das Gemuese nicht zu weich wird
+4. Gegen Ende der Garzeit aufpassen, dass das Gemüse nicht zu weich wird
 
 
 Bon appétit.
