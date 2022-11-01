@@ -4,7 +4,7 @@ description:  Grillgemüse in orange
 rezeptarten: [Gemuese]
 hauptzutaten: [Kuerbis, Karotten]
 publishdate: 2022-11-01
-lastmod: 2022-11-01 04:52:00
+lastmod: 2022-11-01 07:31:00
 ---
 
 Wir garen unseren Kürbis mit Karotten im Ofen auf einem Backblech. Dadurch wird das Gemüse leicht süß im Geschmack - lecker zu [Kicharee][1] oder einfach so als Beilage zu Deinem Lieblingsessen.

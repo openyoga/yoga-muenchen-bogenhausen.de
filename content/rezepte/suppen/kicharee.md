@@ -4,7 +4,7 @@ description: Ein leicht verdaulicher Eintopf
 rezeptarten: [Suppe]
 hauptzutaten: [Mungdal, Basmatireis, Ingwer]
 publishdate: 2022-11-01
-lastmod: 2022-11-01 04:52:00
+lastmod: 2022-11-01 07:30:00
 ---
 
 Diesen nahrhaften ayurvedischen Eintopf essen wir, um die Verdauung zu entlasten und auch während einer ayurvedischen Fastenkur oder einer Erkältung einen glücklichen Bauch zu haben.

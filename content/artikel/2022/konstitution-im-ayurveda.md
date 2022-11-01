@@ -2,8 +2,8 @@
 title: Prakriti und Vikriti im Ayurveda
 description: Wie wir mit unserer Konstitution und eventuellen Störungen das Gleichgewicht wiederherstellen
 schlagwoerter: [Ayurveda]
-publishdate: 2022-12-04
-lastmod: 2022-12-04 08:35:00
+publishdate: 2022-11-01
+lastmod: 2022-11-01 07:25:00
 ---
 
 {{< img src="/assets/images/balance.jpg" alt="Man balancing on rock at the oceanside, sun is going down in the background" caption="Foto von Aziz Acharki auf unsplash.com">}}
