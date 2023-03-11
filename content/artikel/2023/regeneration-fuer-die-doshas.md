@@ -2,8 +2,8 @@
 title: Schlaf und Regeneration für die Doshas
 description: Wie wir unsere Batterien wieder aufladen
 schlagwoerter: [Ayurveda]
-publishdate: 2022-12-07
-lastmod: 2022-12-05 08:35:00
+publishdate: 2023-07-07
+lastmod: 2023-07-07 08:35:00
 ---
 
 {{< img src="/assets/images/sunset.jpg" alt="Sunset at a beach" caption="Foto von Joshua Woroniecki auf unsplash.com">}}

@@ -21,7 +21,7 @@ Yoga ist bei uns vor allem durch die Asanas (Yogaübungen) bekannt geworden. Es 
 [1]: /artikel/2017/yoga-und-ernaehrung/
 
 
-## Yoga bei Open Yoga MUC
+## Yoga bei Waldhausyoga
 
 In unseren Yogastunden liegt der Fokus natürlich auf den Asanas, eventuell bauen wir einzelne Atemübungen ein und jede Stunde klingt mit einer Tiefenentspannung aus.
 

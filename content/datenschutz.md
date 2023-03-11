@@ -11,7 +11,7 @@ Anmeldungen erfolgen per Email oder schriftlich - elektronisch speichern wir nur
 
 Das [Impressum findet sich hier][1].  
 Die [AGB für die Yogakurse können hier eingesehen werden][2].  
-Mehr [über mich und Open Yoga MUC][3].
+Mehr [über mich und Waldhausyoga][3].
 
 [0]: {{< a_external "https://www.strato.de/" >}}
 [1]: /impressum/

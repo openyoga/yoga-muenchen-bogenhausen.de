@@ -2,8 +2,8 @@
 title: Ölmassage zu Hause
 description: Wellness und Gesundheit mit Abhyanga
 schlagwoerter: [Ayurveda]
-publishdate: 2022-12-08
-lastmod: 2022-12-05 08:35:00
+publishdate: 2023-08-08
+lastmod: 2023-08-08 08:35:00
 ---
 
 {{< img src="/assets/images/abhyanga.jpg" alt="Two women enjoying oil massage treatment" caption="Foto von Alan Caishan auf unsplash.com">}}

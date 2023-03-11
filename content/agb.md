@@ -6,11 +6,11 @@ menu:
     weight: 100
 ---
 
-## Allgemeine Geschäftsbedingungen von Open Yoga MUC
+## Allgemeine Geschäftsbedingungen von Waldhausyoga
 
 ### 1. Allgemein
 
-Mit Anmeldung per E-Mail oder Brief an Open Yoga MUC gelten die nachfolgenden, allgemeinen Geschäftsbedingungen.
+Mit Anmeldung per E-Mail oder Brief an Waldhausyoga gelten die nachfolgenden, allgemeinen Geschäftsbedingungen.
 
 
 ### 2. Anmeldung
@@ -42,12 +42,12 @@ Bei Nichterscheinen ist die Gebühr ebenfalls in voller Höhe fällig. Dies i
 
 ### 6. Änderungen  
 
-Open Yoga MUC behält sich das Recht vor, Änderungen am Kursangebot, den Preisen sowie dem Yogalehrer in zumutbarer Weise vorzunehmen. Bei zu geringer Teilnehmerzahl (weniger als fünf) kann der Kurs ersatzlos gestrichen werden. Ansprüche aus Änderungen im Kursangebot sind ausgeschlossen, die Zahlungsbedingungen bleiben davon unberührt.
+Waldhausyoga behält sich das Recht vor, Änderungen am Kursangebot, den Preisen sowie dem Yogalehrer in zumutbarer Weise vorzunehmen. Bei zu geringer Teilnehmerzahl (weniger als fünf) kann der Kurs ersatzlos gestrichen werden. Ansprüche aus Änderungen im Kursangebot sind ausgeschlossen, die Zahlungsbedingungen bleiben davon unberührt.
 
 
 ### 7. Haftung / Eigenverantwortung
 
-Der Teilnehmer informiert den Personal Trainier / Open Yoga MUC über eventuell bestehende körperliche Gebrechen und gesundheitliche Störungen bzw. Einschränkungen, die seine Fähigkeit zur Teilnahme am Programm beeinträchtigen könnten, auch wenn er diese für geringfügig hält.
+Der Teilnehmer informiert den Personal Trainier / Waldhausyoga über eventuell bestehende körperliche Gebrechen und gesundheitliche Störungen bzw. Einschränkungen, die seine Fähigkeit zur Teilnahme am Programm beeinträchtigen könnten, auch wenn er diese für geringfügig hält.
 
 Die Teilnahme am Programm erfolgt auf eigene Verantwortung. Voraussetzung zur Teilnahme ist allgemeine Gesundheit. Jeder Teilnehmer entscheidet, wie weit er sich auf die angebotenen körperlichen und psychischen Prozesse einlässt. Es wird dringend empfohlen, mit einer ärztlichen Behandlung fortzufahren und medikamentöse Therapien weiterzuführen. Bei speziellen Problemen, wie körperlichen Gebrechen, vorangegangen Operationen, Problemen in der Schwangerschaft etc. ist eine Absprache mit dem Arzt vor der Teilnahme zu empfehlen. Wir schließen in jedem Fall eine Haftung für Personen-, Sach- und Vermögensschäden aus. Wir haften weder für Gesundheitsschäden noch für Unfälle, welche die Kursteilnehmer aufgrund der Teilnahme an den angebotenen Programmen erleiden könnten. Für mitgebrachte Sach- und Wertgegenstände schließen wir die Haftung aus.
 
@@ -69,4 +69,4 @@ Sind einzelne Bestandteile der Allgemeinen Geschäftsbedingungen unwirksam oder
 
 ### 12. Gerichtsstand
 
-Gerichtsstand ist München. Gültig ab 01.01.2018
+Gerichtsstand ist Waidhaus. Gültig ab 01.01.2023

@@ -1,6 +1,6 @@
-baseURL = "https://yoga-muenchen-bogenhausen.de"
+baseURL = "https://waldhausyoga.de"
 languageCode = "de"
-title = "Open Yoga MUC"
+title = "Waldhausyoga"
 
 paginate = 100
 pygmentsCodefences = true
@@ -11,7 +11,7 @@ metaDataFormat = "yaml"
 
 [params]
 rssLimit = 100
-description = "Yoga in München Bogenhausen"
+description = "Yoga in Waidhaus"
 authors = ["agobrecht"]
 
 [permalinks]

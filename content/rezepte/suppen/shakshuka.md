@@ -3,8 +3,8 @@ title: Shakshuka
 description: Ein leckerer Eintopf aus Israel
 rezeptarten: [Suppe]
 hauptzutaten: [Paprika, Tomaten, Ei]
-publishdate: 2022-12-01
-lastmod: 2022-12-01 20:00:00
+publishdate: 2023-12-01
+lastmod: 2023-12-01 20:00:00
 ---
 
 In Israel ist die Shakshuka ein Frühstück, das man schon fast als Nationalgericht bezeichnen kann. Wir essen sie am liebsten als kleines und leichtes Abendessen mit Schafskäse statt mit Lammbratwurst.

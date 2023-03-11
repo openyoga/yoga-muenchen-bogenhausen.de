@@ -2,8 +2,8 @@
 title: Ernährung für die Doshas
 description: Welche Geschmacksrichtung für wen?
 schlagwoerter: [Ayurveda, Ernaehrung]
-publishdate: 2022-12-05
-lastmod: 2022-12-05 08:35:00
+publishdate: 2023-04-06
+lastmod: 2023-04-06 08:35:00
 ---
 
 {{< img src="/assets/images/food-bowl.jpg" alt="Dish with healthy vegan meal containing chick peas, tomatoes, avocado, pumpkin, red cabbage, yellow pepper, salad and cress" caption="Foto von Anna Pelzer auf unsplash.com">}}

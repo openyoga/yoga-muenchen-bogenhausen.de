@@ -2,8 +2,8 @@
 title: Die Doshas im Wandel der Zeiten
 description: Wie die Doshas mit den Phasen in unserem Leben zusammenhängen
 schlagwoerter: [Ayurveda]
-publishdate: 2022-12-06
-lastmod: 2022-12-05 08:35:00
+publishdate: 2023-06-06
+lastmod: 2023-06-06 08:35:00
 ---
 
 {{< img src="/assets/images/leaves.jpg" alt="Leaves in different colours on a clothesline" caption="Foto von Chris Lawton  auf unsplash.com">}}

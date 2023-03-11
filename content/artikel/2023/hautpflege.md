@@ -2,8 +2,8 @@
 title: Kosmetik im Ayurveda
 description: Typgerechte Pflege für Haut und Haare
 schlagwoerter: [Ayurveda]
-publishdate: 2022-12-08
-lastmod: 2022-12-05 08:35:00
+publishdate: 2023-09-08
+lastmod: 2023-09-08 08:35:00
 ---
 
 {{< img src="/assets/images/gesichtsmaske.jpg" alt="Face of woman with face mask holding avodcado half in her hand in front of one eye" caption="Foto von Kimia Zarifi auf unsplash.com">}} 

@@ -2,8 +2,8 @@
 title: Yoga für die Doshas
 description: Welches Yoga ist am besten für mich geeignet?
 schlagwoerter: [Yoga, Ayurveda]
-publishdate: 2022-12-06
-lastmod: 2022-12-06 08:35:00
+publishdate: 2023-05-06
+lastmod: 2023-05-06 08:35:00
 ---
 
 {{< img src="/assets/images/yoga-in-mountains.jpg" alt="Woman on top of mountain practising the yoga asana the tree with view over the summits during sunset" caption="Foto von Eneko Uruñuela auf unsplash.com">}}

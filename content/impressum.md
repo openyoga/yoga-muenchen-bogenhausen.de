@@ -5,11 +5,11 @@ menu:
     weight: 80
 ---
 
-**yoga-muenchen-bogenhausen.de wird betrieben von:**
+**waldhausyoga.de wird betrieben von:**
 
-Alexandra Gobrecht  
-Knappertsbuschstraße 19  
-81927 München  
+Ajita Alexandra Gobrecht  
+Reichenau 13  
+92726 Waidhaus  
 [{{< author "agobrecht" "email" >}}][1]  
 
 [1]: mailto:{{< author "agobrecht" "email" >}}
@@ -19,7 +19,7 @@ Alle Fotos auf dieser Website wurden von Ottmar und Alexandra Gobrecht aufgenomm
 
 Die [Datenschutzerklärung findet sich hier][2].  
 Die [AGB für die Yogakurse können hier eingesehen werden][3].  
-Mehr [über mich und Open Yoga MUC][4].
+Mehr [über mich und Waldhausyoga][4].
 
 [2]: /datenschutz/
 [3]: /agb/

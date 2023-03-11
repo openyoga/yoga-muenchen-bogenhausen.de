@@ -1,5 +1,5 @@
 ---
-title: Open Yoga in München Bogenhausen
+title: Waldhausyoga - Yoga in Waidhaus
 description: Startseite mit allen wichtigen Informationen und Links
 lastmod: 2021-10-03 07:16:02
 menu:
@@ -10,7 +10,7 @@ menu:
 
 {{< img src="/assets/images/taube.jpg" alt="Die Taube" >}}
 
-Neben [Yoga][1], [Yogatherapie][2] und [Functional Training][3] bieten wir [Personal Training, Gesundheitsberatung und Ernährungsberatung][4] für Einzelpersonen und Kleingruppen an. Dazu gibt es auf dieser Seite viele interessante Blogartikel zu unseren Herzensthemen sowie jede Menge leckere und gesunde Rezepte.
+Wir bieten [Yoga][1] und [Yogatherapie][2] für Einzelpersonen und Kleingruppen an. Dazu gibt es auf dieser Seite viele interessante Blogartikel über Yoga und Ayurveda sowie jede Menge leckere und gesunde Rezepte.
 
 [1]: /artikel/2017/was-ist-yoga/
 [2]: /artikel/2021/yogatherapie
